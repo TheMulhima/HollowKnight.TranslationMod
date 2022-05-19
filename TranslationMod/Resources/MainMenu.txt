@@ -1,0 +1,125 @@
+CTRL_NO_ACTIVE : Nothing is active control
+VIDEO_SHADERS : Modern versions:
+VIDEO_OVERSCAN : Screen size
+NAV_RESET : Restore defaults
+BUTTON_INVENTORY : Papa
+OS_INSTRUCT : Set the slider until you reach the edge of the square screen
+CTRL_NO_ACTIVE_DESC : Press the button on the remote control or connect the controller to activate
+DESC_LANG : Change the language in the main menu
+BUTTON_ATTACK : Attack
+SCREEN_EXTRAS : and
+KEYBOARD_PRESSKEY : Press the new key
+GAME_NATIVE_INPUT : Presentation of local governors (beta)
+DESC_NATIVE_INPUT : The problem with the scanner is active. I need to restart the game.
+OPTIONS_VIDEO : Video
+SCREEN_GAMEPAD : Lead
+KEYBOARD_NONE : J
+LANG_FR : Français
+MODAL_CONNECT_CONTROLLER_PROMPT : Please join in to continue with the administrator.
+SCREEN_VIDEO : video
+GAME_NATIVE_ACHIEVEMENTS : Select Progress:
+OPTIONS_AUDIO : sound
+MOH_LOW : Cacao
+DESC_SHADERS : Reduce performance when you develop less powerful devices.
+AUDIO_SOUND_VOL : Low volume:
+CTRL_UNMAPPED : Do not go out
+MAIN_EXTRAS : Extras
+SCREEN_AUDIO : Words
+MAIN_QUIT : The game came
+BUTTON_PAUSE : Stop the menu
+NAV_YES : He has
+STEEL_MODE_TEXT : Could not load, he died
+MAIN_SWITCH_USER : Change user
+SCREEN_OPTIONS : Options
+NAV_APPLY_TRUE : pay
+MOH_ON : following
+MODAL_ENGAGE_CONTROLLER : Press any button to start
+NAV_NO : language
+DESC_PARTICLES : To reduce the ultimate in performance improvement.
+BUTTON_DASH : move
+PROFILE_LOADING : Loading ...
+NAV_BACK : your
+BUTTON_SUPER_DASH : Super Dash
+VIDEO_PARTICLES : Showing results
+BUTTON_JUMP : cut
+PAUSE_MAIN : stop menu
+DESC_FRAME_CAP : Unlocking is the only style of limitation.
+MODE_SELECT : Select
+LOADING : Loading ...
+MAIN_OPTIONS : Option
+PROFILE_CORRUPTED : Resistance
+MOH_NORMAL : general
+UI_MENU_ACHIEVEMENTS_XB1 : Success
+VIDEO_BRIGHTNESS : to sell
+PROFILE_CLEAR_BUTTON : In fact,
+BUTTON_DOWN : less than
+CTRL_REMAP : Delete or control
+BUTTON_QCAST : The actor is fast
+MOH_OFF : nails
+MODAL_QUIT_TO_MENU : Use the menu?
+OPTIONS_GAME : Sports
+BUTTON_MOVE : motion
+SCREEN_SAVE_PROFILES : Choose a profile
+LANG_IT : Italy
+TEXT_SKIP_PROMPT : Scan any key to go
+BRIGHT_SLIDER : Browser
+BUTTON_MAP : Fast Map
+BUTTON_EMPTY : -
+AUDIO_MUSIC_VOL : The volume of the music:
+GAME_LANGUAGE : language
+DESC_VSYNC : Pour a little more sense. heat heater for heat.
+OPTIONS_KEYBOARD : Some board
+PROFILE_CLEAR_PROMPT : Rescue and save?
+BUTTON_RIGHT : transportation
+BUTTON_LEFT : On the left
+MODE_STEEL : Dur Soul
+BUTTON_DREAM_NAIL : Children dreaming
+EXTRAS_CREDITS : Credit card
+NAV_DONE : What will happen
+BUTTON_UP : On top
+MOH_HIGH : high
+SCREEN_GAME : Spillalternativer
+CTRL_DETACHED : Any controller connected
+MAIN_ACHIEVEMENTS : Success
+MOH_MED : Contents
+BUTTON_CAST : Light / Light
+PAUSE_OPTIONS : Option
+VIDEO_DISPLAY : But he explained:
+OS_SLIDER : measure
+MAIN_START : Start the game
+MODAL_KEEP_RES : Maintenance and a new direction
+MODE_NORMAL : always
+OPTIONS_CONTROLLER : controller
+PAUSE_CONTINUE : To continue
+LANG_PT : United Kingdom (UK)
+GAME_CONTROLLER_RUMBLE : Click
+NORMAL_MODE_TEXT : Generalistesch Masters
+ACHIEVEMENTS_BASE_SET_TITLE : Eating at night
+PROFILE_NEW_GAME : Restart again
+DESC_NATIVE_ACHIEVEMENTS : If you find what you can get, it's a gameplay.
+KEYBOARD_UNMAPPED : Anoop
+OPTIONS_CREDITS : Credit
+MODAL_PROGRESS : The progress will be recorded.
+SCREEN_ACHIEVEMENTS : record
+SCREEN_GAMEPAD_REMAP : Map Manager
+LANG_DE : Germany
+VIDEO_FULLSCREEN : Full screen:
+ACHIEVEMENTS_BASE_SET_TEXT : Empty knight efficiency.
+VIDEO_RESOLUTION : Run:
+MODAL_QUIT_GAME : Do you want to end your memory?
+PROFILE_DEFEATED : Recovery
+OPEN_CONTROLLER : Advisor Recommended
+UI_MENU_ACHIEVEMENTS_PS4 : Tips
+SCREEN_KEYBOARD : For instance
+NAV_APPLY : Return
+AUDIO_MASTER_VOL : Basic amount:
+LANG_ES : Español
+CTRL_NONE : There are no related disciplines
+VIDEO_VSYNC : By CCS:
+BUTTON_LOOK : Ok / see below
+GAME_BACKER_NAMES : support:
+DESC_BACKER_NAMES : Name the Consumer Bank and share their share.
+VIDEO_FRAME_CAP : Timeline Scale:
+LANG_EN : English
+BRIGHT_INSTRUCT : Adjust the desired brightness level.
+CTRL_PRESSBUTTON : Button

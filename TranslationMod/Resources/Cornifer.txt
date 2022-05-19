@@ -1,0 +1,38 @@
+DEEPNEST_BOUGHT : V-v - Furious game. This will be a great attempt to get out of the dark ring. I think I'll hide a little more.
+OUTSKIRTS_BOUGHT : Looking at this wall, it seems that the People's City does not dare to move in these caves. I wonder what they should do on the track?
+CORNIFER_REFUSE : Isn't it fun? Yes it is clean. Find the way through the unknown lines in the plan ... The Spirit gives you a great food. <Page path> We will also meet on the trip.
+OUTSKIRTS_GREET : Is not that fun? Here I went to the desert and thought it was a terrible time. The whole country is relaxed in this part of town, even if the tenant is like a bush, as always.
+ABYSS_GREET : Do you not remember the importance of the ancient King? Something else. I think many people are trying. We are leaders and you can find a story story.
+ROYAL_GARDENS_BOUGHT : The parks are located at Space Station. There is nothing open to me.
+ROYAL_GARDENS_GREET : Do you know that the queen invites us? The park looks like it again. <Page> Currently, there are images of massive web hosting and planting plants. <Sidor> If I forget, I'm going there. See my job.
+FOG_CANYON_GREET : Ho ho! A foreign lounge can be a new, almost alien, about the cave. <T >> Looking for a big door under you? It's too late, when it's too close, I tried everything I could avoid.
+CLIFFS_GREET : Do you like cold air? We have reached the limits of Hallownest and surrounding areas. <page> In that case, I am not on a fast-paced project, but I have a good change in the most sharpened fronts. <p> I chose a small map for our region. One of the most complete. Without knowing the whole region, it can be frustrating.
+CORNIFER_AGAIN_DP : Do you want to buy a label?
+CLIFFS_BOUGHT : I saw a strange worm above. The house is not too far. There was a great example and no nasty victory over the nail. I think they can share more than you and me.
+CROSSROADS_BOUGHT : How do you find my plan? I tried to flourish, but the whole work is in the program. <Side> If you want to create a number of programs, you can buy some of my Dirtmouth wife. We made a small shop to help us.
+CITY_GREET : Does this not change the natural change? The rain spots were slightly, but the architecture is amazing. I also organized a personal tendency, but other incentives are a difficult task. <P> Can you buy a copy now?
+WATERWAYS_BOUGHT : I hit the pipes and rooms that were used to destroy the sacrifice. This is a smell. Fortunately, the water is clean.
+FUNGAL_WASTES_BOUGHT : There is a strong aroma of these caves, and worse still doubt. My body is very sensitive but it should not be heat. <P >> Can't Smell?
+FUNGAL_WASTES_GREET : A friend, you made me the right time. I was close to a dangerous plane on a map that was banned from this kind of type is normal. I suggest they stay away from their preferences in the 'bottom' bottom of the pocket and make me feel frightened. That seems so smart to help young people in their holes. But be afraid of the whole body, I can beat if it's violent.
+CORNIFER_MEET : O Hello Hello Excellent Websites? Do not worry me <Page> I like to study myself once again and the way to meet again is another game. We are very happy with both you and me; I am a commercial map and I work in this area. Do you want to buy one of your jobs?
+CORNIFER_MEET_DP : Hello, I'm Coloofilus. I am trading with M-Mapper. I tried to build solid houses under BB-B, but they were shown to be dangerous for insects like me. - Blazing flies everywhere, and the text is blurred. Even if you're done, would you like to leave me, even if you are limited to the ground, do you want to buy it?
+CORNIFER_ISELDA : Maps can be useful, but only shows you where you are. If you do not have a location for instructions, I suggest that my wife buy a compass from Illad. You can now open a new map store by selling all the benefits to pilgrims like you. From time to time, I sell some of my old folders from time to time. <Page> When I see this area on the map, I see it. He always wants to see me
+CORNIFER_INTRO_1 : Oh, by the way, I'm not talking to you. I want to apologize. When you spend a lot of time, the conversation will be forgotten.
+CORNIFER_INTRO_2 : My name is Corner and I always like to explore this world. When I first sprinkled, I lost my way, my brother's sister and dear mother left! This is why I live in Temmouth with my wife. A great and powerful empire that understands your door correctly. Who can resist? <Page> However, I will get back on track. Unfortunately, we will meet again. Safety and goodbye!
+DREAM : ... find the world What kind of happiness ... only if only Eastley can share ...
+DEEPNEST_GREET : This job will give me a chance. All the little creatures are thrown here and there and the way gets dark. If you do not go well, if you feel strong enough to get off and buy a ticket, we recommend you go.
+ABYSS_BOUGHT : It's far from being in the store. I'll rest my feet longer. <page> It is not durable anymore! You do not want old age to be about me.
+CROSSROADS_GREET : one more time! Are these beautiful ways still going on? Imagine how they look at roaming, roaming and living are very sad! I hope to see it. I think I need to ask... Do you want to buy a copy of my map?
+CORNIFER_REFUSE_DP : Maps N?
+CORNIFER_AGAIN : Are we? Change maps?
+CORNIFER_NOT_ENOUGH_DP : N-enough geography?
+MINES_GREET : Rocky Mountain? I heard about the meeting. It's far away for me, and I'm not so big.
+CORNIFER_PROMPT : Area map to buy?
+GREENPATH_BOUGHT : I went for another trip when I went down. I tried to call him because he ran, but he just looked in the direction. Seems like it's not a map like me and you, of course.
+WATERWAYS_GREET : No! Is the Spring Fountain? Check your company and website <p> Ask a place to use your doctor. Everything is extreme, so it does not match the cave size. Forgiveness, but incredibly, he told me that my report was very close and I wanted to go to demons. I hope to fill this map.
+CORNIFER_NOT_ENOUGH : It is not enough? Ah, I understand. I'll give you a card, but I do not think my wife will be so happy if I did it. They say that all our meals are made by Geo. "
+CARD : To forgive when you lose, why don't you know in Dirtmouth you bought this place? All is well! Site - Cornflakes
+CITY_BOUGHT : We have come to this great place. When talking about a building, you can combine two preferences.
+MINES_BOUGHT : I looked there in one of the crystals. They fear them and the whole place. You will have to take better care of yourself when you leave.
+GREENPATH_GREET : Does this not contradict the crossroads? It's wet that I live, and I'm instead. Second, and most of the roads on the roads, and the bridge was wonderful. /> <br /> I do not understand what I can do to be a frontal attack on the area, they still have to admit that some locals are rather uncomfortable.
+FOG_CANYON_BOUGHT : There is a large building down the lake. I tried to enter into "I" but it was a home for animals. They are like ... they all hit big when they hit.

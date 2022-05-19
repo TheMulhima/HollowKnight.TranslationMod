@@ -1,0 +1,24 @@
+STAG_TOWN : This place ... we're near the surface, I think? There are cities We should take the opportunity to rest. The site was once a lot of travelers who came and went. It's probably quieter now.
+STAG_GREENPATH : Meen, this place changed because I saw it for the last time. Plants are so brutal that the substance is used through the cell.
+STAG_HOPE_2 : Yes this is hope. My family still exists outside this country. <P> But I can never let go. Passengers still do not need them. <Page> I will tell you to do something more important. I'll be my wife until my old body works. <P> We have lived in the old issues of the temporary empire.
+STAG_END_SPEAK : They are not out of ways to make the journey? Just hit the jump to give me the signal will go immediately.
+STAG_NEST : It was in the future of the past ... I realized that if I have a life for all the victims, it will be the burden of the temple of my God. << >> Although it is of interest. And where is the walk: Remember my family and come with me.
+STAG_ROYALGARDENS : Before they call the watch, they almost forget that this is a place. Usually it is used because it looks closely at the queen's end. I'm sure Queen will be happy to know this.
+STAG_RUINS2 : One of us is in the royal palace! This is a great way to make sure you have a good idea. <p> <p> <p> <p> <p> <p> <p> <p>
+STAG_MEET : Hi, little! As I grow up at the train station, I'm growing up. It defines the path and it is with you. <P> I'm tired, tired, and forgot for years, but the sound of the voice calls me. <P> Send this step. If you want to travel, open me in the field. I know where I am going.
+STAG_DEEPNEST : Ah, just a little ... where we are? I have never been to this station. This is an awesome air hazard. Let me safely go elsewhere
+STAG_TRAVEL_1 : Ready to be small?
+STAG_RESTINGGROUNDS : Back line, the rest of the passengers perform the same ceremony. <Page> There are no comments yet. Are ancestors worshiping their own system?
+STAG_TRAM : Continue this bus! Control machines, trams? There is no hope that Tistaxx could lead to fines. <P> Idea, a machine you can do! Value ... clean
+STAG_CROSSROADS : I remember that a long time ago, but I remember the ways and lives of this intersection. These are the paths I was when I was a child. Now, not only you but also me, the saddle that surrounds us, as well as us.
+STAG_EGG_INSPECT : washing machine
+STAG_FUNGUS : Ah, who scares me. Opening a new credit card. Here is the life of a tourist. <page> You are really researching to find a place.
+STAG_HOPE_1 : What do you think of my old home? This is life. This is information about the places of fraud and sleep and passengers' history. In a very short time I thought I was alone. Last Match. But there is something in the fund in the air. Is there a smell or heat or a random face? "In the world do I have anything else?
+STAG_FLOWER_WARNING : The flowers you wear ... it's very nice, but very soft. If you walk with me, I'm scared I'll break it. <page> If you do not want to save it, you should advise wherever you are.
+STAG_DREAM : Now I'm happy, my older legs are added. But I struggle for timeless ... not much.
+STAG_REMEMBER_1 : Have you opened this great tent? I am grateful for traveling in the state. When I got back to my heart, I found out that some reminders were coming back. <a> Stop opening and thank you very much.
+STAG_REMEMBER_2 : Ah, many statues open. In the past, I traveled extensively in the kingdom. I forgot many ditches and old houses. <Page> Although I belong to Stag Nest, I was born and raised. I thought it was my fault, but now I'm on the road. <Side> If you open and drive the drive earlier, I will find them again. Ah, I want it!
+STAG_REMEMBER_3 : Code! I found it! The Bucks Nest, where I was born and raised. <page> I do not want to go. My job is to restrict me only to what I say, but if you want to see me, I can bring you there. <page> No one gets us, but the nest is still alive! Tell me, we will come back to him.
+STAG_RUINS1 : I remember this good channel. It was a great trip. Everything under the sky is sold here. <P> In any case, she did not return.
+STAG_HIDDEN : O! Left behind there is a hidden underground? <P> As likisikilizwa bell, I know that Starkway is decreasing. this cold! Despite my age, I wonder that the world is still.
+STAG_TISO : Someone was sitting on the bench. What he did not like, but everyone who is open to the door. <p> If you submit an order, I want to present it. My duty is more than one personal concern.

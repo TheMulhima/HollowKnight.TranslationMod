@@ -1,0 +1,134 @@
+COMPLETIONGG_TITLE : anesthesia
+GRIMM_TEXT : Chapter Lead won Grimm
+HIDDEN_ACHIEVEMENT : He brings success
+GREY_PRINCE_TEXT : He has the king's face
+FK_DEFEAT_TITLE : bosh
+COLOSSEUM_2_TEXT : All help with help
+COMPLETION_TITLE : perfect
+ATTUNEMENT_TEXT : Collect 600 articles
+ENDING_B_TEXT : With your Hornet Horse victory game
+PANTHEON4_TITLE : Soul & Shade
+STEELSOUL_TITLE : He stood there
+HIDDEN_ACHIEVEMENT_TITLE : Confidential
+NIGHTMARE_GRIMM_TITLE : Meetings
+BLESSED_TEXT : Take all the rivers and enjoy the blood from Salubra
+COLLECTOR_TITLE : I want
+ENDINGD_TEXT : Click on the Hallownest Pantheon and take a seat at the top
+ATTUNEMENT_TITLE : Improved
+NIGHTMARE_GRIMM_TEXT : Return to the King and finish it
+PROTECTED_TITLE : reserved
+DREAM_SOUL_MASTER_DEFEAT_TEXT : Feel the breath
+QUIRREL_EPILOGUE_TITLE : witnesses
+ASCENSION_TEXT : 2400 Oil Collection is essential to hear the last words.
+NAILSMITH_KILL_TITLE : cooking
+METAMORPHOSIS_TEXT : Keep all shields
+SPEEDRUN_1_TEXT : Stop the game for 10 hours
+BANISHMENT_TEXT : Get out of Halloween's Grimm body
+STEELSOUL_TEXT : Game biscuit iron
+COMPLETIONGG_TEXT : Complete and complete 112% of the game.
+WORLDSOUL_TITLE : Weltsee
+MOURNER_TITLE : Comfort
+MR_MUSHROOM_TITLE : Traffic time
+GRUBFRIEND_TITLE : Strong friend
+ENDING_B_TITLE : Children are registered
+PANTHEON1_TITLE : brother
+DREAM_BROKEN_VESSEL_TEXT : Accept discomfort
+MANTIS_LORDS_TEXT : Doroga a lourn mantis
+SPEEDRUN_1_TITLE : Fast 1
+STAG_STATION_HALF_TITLE : Connection
+QUIRREL_EPILOGUE_TEXT : Now it's the smallest Quirrel
+BEAST_TEXT : Destroy wild animals
+MR_MUSHROOM_TEXT : Please help us get into the leaders.
+TEACHER_TITLE : guru
+PANTHEON2_TITLE : ilham
+HORNET_1_TEXT : The victory of Hornet Greenpath
+BROKEN_VESSEL_TITLE : release
+HUNTER_2_TITLE : Real hunter
+ACH_TITLE_TEST : This is the name of the test activity
+WHITE_DEFENDER2_TITLE : vináttu
+COLLECTOR_TEXT : Beta collector
+ENCHANTED_TEXT : Take the properties half halnettestti
+GREY_PRINCE_TITLE : Evaluation
+WHITE_DEFENDER_TITLE : memory
+STAG_STATION_ALL_TEXT : Cancel all Hallowest stations and try the Stag Nest
+DREAM_BROKEN_VESSEL_TITLE : Piece
+AWAKENING_TITLE : Wake up
+SOUL_MASTER_DEFEAT_TEXT : Winning silk master
+ENDING_C_TEXT : Email loses and is easy to see
+MAP_TEXT : Get a map anywhere
+COMPLETION_TEXT : Earn 100% and full game
+STEELSOUL_COMPLETION_TEXT : 100% of the game is over and the spirit of the game and finished the operation of steel
+VOID_TEXT : Remember the past and stay in the valley.
+NEGLECT_TEXT : Release death
+DREAM_SOUL_MASTER_DEFEAT_TITLE : Dead
+DUNG_DEFENDER_TITLE : Khurshed
+METAMORPHOSIS_TITLE : Equality
+BANISHMENT_TITLE : Meur
+PROTECTED_TEXT : Get 4 images of the company
+SPEEDRUN_2_TITLE : Speedrun 2
+COLOSSEUM_3_TITLE : silly
+TEACHER_TEXT : Remove the Chief of Defense
+DREAM_FK_TEXT : Beat the Emperor
+SPEEDRUN_2_TEXT : Complete the game for 5 hours
+SPEED_COMPLETION_TITLE : terms
+MASKED_TEXT : Find the files in the bar
+HUNTER_1_TEXT : Write all the honored characters in the hunter magazine
+PANTHEON3_TITLE : Focus on
+WHITE_DEFENDER_TEXT : Fight against White Defender
+VOID_TITLE : OK
+SPEED_COMPLETION_TEXT : 100% reached the end of the game just 20 hours at the end of the game
+MASKED_TITLE : twenty
+MAP_TITLE : Animated movie
+COLOSSEUM_3_TEXT : Start the test
+COLOSSEUM_1_TITLE : You
+NAILSMITH_KILL_TEXT : Wash your nails
+NEGLECT_TITLE : neglected
+COLOSSEUM_2_TITLE : He won
+BROKEN_VESSEL_TEXT : A broken ship
+FK_DEFEAT_TEXT : Overcome a fake
+PANTHEON2_TEXT : Fill the painter Pantheon
+COLOSSEUM_1_TEXT : Self-Test Test
+PANTHEON3_TEXT : Complete the pigeon of knowledge.
+HORNET_2_TEXT : Angels in the Princess
+DREAM_FK_TITLE : needy
+ENDING_C_TITLE : No more dreams
+SOULFUL_TEXT : Find our boat
+STEELSOUL_COMPLETION_TITLE : Need Hard
+HUNTER_2_TEXT : Mark the Swords
+ZOTE_TEXT : To Win the Zote on the Colosseum Spider
+TRAITOR_LORD_TITLE : Death penalty
+HORNET_2_TITLE : Careful
+ZOTE_TITLE : Patients
+GREY_PRINCE2_TEXT : Complete the temple of grace.
+BEAST_TITLE : Afternoon
+STAG_STATION_ALL_TITLE : I hope
+DUNG_DEFENDER_TEXT : D Defender Default
+WATCHER_TITLE : See it
+ACH_TEXT_TEST : This is a description of the test successful
+WHITE_DEFENDER2_TEXT : Win a dream about her white uaydr
+PANTHEON1_TEXT : Master Dante Pantheon
+AWAKENING_TEXT : 1800 Sleep and flood
+GRIMM_TITLE : Good job
+ENDINGD_TITLE : take it
+MOURNER_TEXT : This variable world in mourning
+TRAITOR_LORD_TEXT : as long as an accident happened
+BLESSED_TITLE : It was good
+WATCHER_TEXT : Lorraine loses attention
+SOULFUL_TITLE : surprisingly
+STAG_STATION_HALF_TEXT : Stago stations will open half of Honnesacht
+CHARMED_TITLE : Magical
+ENDING_A_TEXT : Download construction ship of military force
+NAILSMITH_SPARE_TITLE : Happy couple
+WORLDSOUL_TEXT : You got all the agriculture
+PANTHEON4_TEXT : Full night Anthon
+HORNET_1_TITLE : Decisions
+ASCENSION_TITLE : Uphill
+NAILSMITH_SPARE_TEXT : Allow nails to get new calls
+ENCHANTED_TITLE : Friend
+GRUBFRIEND_TEXT : Half of prison
+CHARMED_TEXT : Take the Advice first
+MANTIS_LORDS_TITLE : MEAS
+GREY_PRINCE2_TITLE : Of course, beauty and hate
+ENDING_A_TITLE : Inside evening
+HUNTER_1_TITLE : Learn the fisherman
+SOUL_MASTER_DEFEAT_TITLE : Alone

@@ -1,0 +1,28 @@
+NAILSMITH_NOT_ENOUGH_GEO : Ah, are not you geo? Look at me when you do this.
+MODELLING : We have built a full range of Knights Kingdom. They took a little time, but remember, Shiu and turned on. Unlike the practice of nail raw materials. I love all the complex data.
+PAINTED : I do not mind if Shah works, Shao will be destroyed. I do not want to hate him. Although sharp, it is very good.
+NAILSMITH_DREAM_CLIFF : I've got a job ... What's the other?
+NAILSMITH_ACCEPT : If you will, I will return later.
+NAILSMITH_GREET : Hmm oh, it's you
+ART_MEET : Hmm? Slowly. Happily, we must come back to this world. <p> I want to thank you for not killing when I ask you. First I was embarrassed, but I found time to meet him, and I immediately became wise in your advice. The world is about metal and weapons. I was interviewing and I found the president immediately. Sheo is responsible for technology and a promise to teach me what she can do. I think I'll be happy here.
+ART_DREAM : ...... personal work ... is very good ...
+NAILSMITH_MEET_1 : Do you have another bed to kill? Back to the ground when you listen.
+NAILSMITH_MEET_2 : Hmm? <page> May. I thought you were a stranger.
+NAILSMITH_MEET_3 : Later Nile Millit? All right. I do not have a good speaker, but I have sinned if I have to change it. <Page> I apologize for your team. This is not me. Nevertheless, everything is smart and well thought out. It is a knife.
+NAILSMITH_KILL_REPEAT : I will not hesitate. Please. Drop the day I think I have a nice corner of the blade.
+NAILSMITH_OFFER_ORE : I say you have a dwarf. Give me some support and some geo for my support, and my husband is strong.
+NAILSMITH_REGREET : Hmm? Still here. Are you different?
+NAILSMITH_OFFER : If you want, you can restore my nails. This grip makes it more deadly.
+NAILSMITH_KILL : Nothing I did in this life with holy nail clippers. What do I do, really think about nail pins! <Page> I'm looking for you. I want to see the last breath of my life. After all, this difficult job ... are not I right?
+NAILSMITH_SIGN : It does not work
+MODELLING_REPEAT : This is good. I did not think it was so difficult to buy them.
+NAILSMITH_DECLINE : Do you want to be true? Use it.
+NAILSMITH_COMPLETE_1 : Here. Reconstruction. I mean. You are stronger than ever. <Page> Try to defeat your enemy and try his strength.
+NAILSMITH_COMPLETE_2 : Let's go. All fees are reimbursed. <page> I added a channel to your channel. This is more efficient. You're stronger than the sun. <page> Check your enemies and moles here.
+NAILSMITH_COMPLETE_3 : We are here. Updated <Page> I switched nails to spiral. This is a very difficult task. You're stronger than before. <Page> You are going now. Reduce the way ahead.
+NAILSMITH_COMPLETE_4 : It has been shown. Working life. <P> </ p> </ p> <p style = "text-decimal ="> These generations are as many as possible. <P> If I am in my own hands, we have the ability to see. Finally, your teeth. </p> <p> <p> <em> <em> </em>
+NAILSMITH_DREAM_INTERIOR : Natural Properties
+PAINTED_REPEAT : In the darkness of all the Hallownest who believe that I will face this wonderful spirit
+NAILSMITH_NEED_ORE1 : If you understand me, I can paste it in nose and strengthen it.
+NAILSMITH_NEED_ORE2 : If you have two separate parts of the ore, I can make it in the park and still make it stronger.
+NAILSMITH_NEED_ORE3 : If I have three coins in the forest, I see that the door can be seen and in particular.
