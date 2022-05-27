@@ -1,0 +1,52 @@
+GODSEEKER_WASTE : polmone
+GODS_GLORY : Omi Gesty
+BLUE_LAKE : Loch Gorm
+MONOMON_ARCHIVE : File principale
+LURIENS_TOWER : Custode dell'ago
+LOVE_TOWER : Torre dell'amore <br>
+KINGS_PASS : Re
+GLADE : Destinatario
+BONE_FOREST : Muqaddas yer
+KINGS_STATION : Stazione reale di Copenaghen
+CLIFFS : Con trai
+CRYSTAL_MOUND : acqua cristallina
+ABYSS : Al Bl
+CROSSROADS : Ho dimenticato la differenza
+TRAM_LOWER : sono scelti
+DISTANT_VILLAGE : La differenza è troppa.
+HIVE : Ma ora
+TEST_AREA : Sito di prova:
+TOWN : il potere delle parole
+WASTES : Smaltimento dei residui fungini
+CITY : città delle lacrime
+ROYAL_QUARTER : Set di guide
+NOEYES_TEMPLE : Stan Friedland
+PALACE_GROUNDS : tali
+RUINED_TRAMWAY : La paura è peccato
+ISMAS_GROVE : Tra queste foreste
+QUEENS_STATION : Stazione reale
+ACID_LAKE : Pacco
+MANTIS_VILLAGE : Mantide Cayley pwa
+SOUL_SOCIETY : Nella casa dell'anima
+COLOSSEUM : Elenco Colosseo
+WHITE_PALACE : Casa Branden
+WATERWAYS : Tengis, Rinne Alì
+ROYAL_GARDENS : il giardino della regina
+BEASTS_DEN : Consiglio dei ministri
+PEAK : Ghirlande di Halloween
+SHAMAN_TEMPLE : TOG
+DEEPNEST : Un
+TRAM_UPPER : Sii pronto
+MAGE_TOWER : tempio santo
+MINES : Cristalli forti <br>
+DREAM_WORLD : Da li
+FINAL_BOSS : Un ladro
+GREEN_PATH : pausa di un giorno
+OVERGROWN_MOUND : Questo territorio.
+OUTSKIRTS : Il Consiglio Reale
+JONI_GRAVE : Jonny <br> Patch gratuito-
+ABYSS_DEEP : Assolutamente
+RESTING_GROUNDS : ricorrere
+WYRMSKIN : Sbucciate una zucca, grattugiatela e spremetene il succo.
+FOG_CANYON : Nebbia
+NONE : 

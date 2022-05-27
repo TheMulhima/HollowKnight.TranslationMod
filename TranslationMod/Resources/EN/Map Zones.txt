@@ -1,0 +1,52 @@
+GODSEEKER_WASTE : Incompatible and does not work
+GODS_GLORY : House of God
+BLUE_LAKE : Blue Lake
+MONOMON_ARCHIVE : Archive too
+LURIENS_TOWER : Feeling safe
+LOVE_TOWER : The path of love
+KINGS_PASS : King of the world
+GLADE : The mind is happy.
+BONE_FOREST : sacred ground
+KINGS_STATION : At the train station
+CLIFFS : The card is played
+CRYSTAL_MOUND : Crystal room
+ABYSS : old pool
+CROSSROADS : Life is forgotten
+TRAM_LOWER : Tom Laure
+DISTANT_VILLAGE : Great distance
+HIVE : Revenge
+TEST_AREA : Test sheet
+TOWN : It's not beautiful.
+WASTES : fatranská ుబా
+CITY : city ​​bridge
+ROYAL_QUARTER : Government:
+NOEYES_TEMPLE : They leave their feet.
+PALACE_GROUNDS : Sauna be a court.
+RUINED_TRAMWAY : The train is closed
+ISMAS_GROVE : Assamese beauty
+QUEENS_STATION : Queen Plaza is over.
+ACID_LAKE : Autopsy this spring
+MANTIS_VILLAGE : Complete the warranty
+SOUL_SOCIETY : Spiritual temple
+COLOSSEUM : Hello to the Colosseum
+WHITE_PALACE : White House
+WATERWAYS : Highway
+ROYAL_GARDENS : Prinsessehaven
+BEASTS_DEN : Hunting bed
+PEAK : holy crown
+SHAMAN_TEMPLE : hundreds of stones
+DEEPNEST : I
+TRAM_UPPER : With pipes!
+MAGE_TOWER : Spiritual protection
+MINES : fur and suit
+DREAM_WORLD : Rowe
+FINAL_BOSS : it!
+GREEN_PATH : Intoxicated!
+OVERGROWN_MOUND : Very noisy.
+OUTSKIRTS : Rent-Kings
+JONI_GRAVE : Johnny Hutu
+ABYSS_DEEP : لپسي
+RESTING_GROUNDS : resting place
+WYRMSKIN : bring a sheep
+FOG_CANYON : stone road
+NONE : 

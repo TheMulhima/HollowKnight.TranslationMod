@@ -1,0 +1,19 @@
+SHAMAN_QUAKE : Ma qui! Ho sentito una nuova forza mentre mi tuffavo nella roccia. È facile per chi vuole averne uno.Non puoi nascondere quanto è forte mio fratello! Deja! Che meravigliosa combinazione.
+SHAMAN_OPEN_GATE : Per favore guarda! La porta è aperta tra noi. Ehi quiVoglio davvero passare da te. Ciao e fidati di me, ottieni quello che vuoi! Ha ha ha ha ha!
+SHAMAN_OPENED_GATE : Sei in ritardo, non aver paura.Ma ho bisogno della tua pazienza! lo faremo!
+SHAMAN_SUMMONED_1 : Non avere paura. aspettarsi! Sblocca la tua magia ora!Oh, ti prometto che non morirò senza di te
+SHAMAN_MEET : Telefono! Cosa esce dall'oscurità? Mio Dio, sembri nero! Viso meraviglioso, arma rotta e spietata!<page>Porta qualcosa di straordinario nel Santa Bou, ma non mi chiedo cosa sia. Mi stai chiedendo aiutoNon parlo più con gli amici. Ti faccio un brutto schizzo che ti ho dato. Ehi, questo è fantastico per te! Telefono!
+SHAMAN_DREAM : Un altro anno di sogni... Vuoi sapere come stai. sì!
+SHAMAN_RETURN : Questo è bellissimo! Sei in una piccola cerchia? NaloNon preoccuparti, non ti voglio da solo. Larga! Questo è bellissimo!
+SHAMAN_KILLED_BLOCKER_2 : rimaniamo in contatto! sei qui! Mi sono addormentato e probabilmente ti ho visto bene. Mi sono svegliato, non è successo! Sei grande, grande!<page>In sostanza, voglio dire alcune parole. Lo sapevi che c'è un animale sopra di noi, in mezzo a questa chiesa...<page>... grande? Bene, un altro miracolo! Uccidi gli animali prima che te lo chieda!Non avrò mai uno come te! sei meraviglioso! rimaniamo in contatto!
+SHAMAN_KILLED_BLOCKER_1 : manzo! Ti rilassi e uccidi l'animale!<page>Devi pensare di essere malato. La sua rabbia era lieve, ma l'aria della caverna era piena di antica amarezza.Se dovessi, lo farei! Grazie! Sì, neanche a me piace BT.
+SHAMAN_FUNG_DREAM : ... madre ...
+SHAMAN_QUAKE2 : Amico, hai abilità diverse. Hai visto la tua quarta zia?Stavo costruendo una casa a Crystal Hill e ho dimenticato se mi hanno portato qui. mi stavano cercando
+SHAMAN_SCREAM2 : Uh ... non un'esperienza.Ovunque guardi oggi, la marea del sentimento protezionista sta scorrendo.
+SHAMAN_CRYSTAL_DREAM : ... libero
+SHAMAN_SUMMONED_2 : Ciao, sei tornato! Non ti piace l'aspetto del mio regalo? Calmati!Probabilmente stai meglio di quanto pensi! Vai a vedere cosa succede!
+SHAMAN_FIREBALL2 : Grazie per avermi fatto questo regalo. Trasformi tutto in qualcosa.<page>Creatore! Lo so. Sei un ragazzo fantastico. La saggezza è magia.Devi identificare la fonte del grande cambiamento.
+SHAMAN_FUNG : La carne cresce dalle piante.
+SHAMAN_TRAPPED_1 : Purtroppo si è svegliato! Siamo spiacenti di avvertirti del potere di questa magia. Vedo nel mio spirito che sono caduto! Anche quello<page>Mi sono alzato e gli ho chiesto di aiutarmi. Ovviamente siamo amici che non lavorano con il mio ragazzo.<page>Come puoi vedere, il cuore di questa chiesa è una bestia enorme. Ama ama! Grazie per esserti iscritto e cancellato.Sono animali stabili, ma possono organizzare aria fresca! Amico buon compleanno! Ciao!
+SHAMAN_TRAPPED_2 : ci tieni? Ione! È strano, ma non accadrà finché non ucciderai le creature del tempio.No, penso che i pensieri dei nostri antenati abbiano seguito i tuoi.
+SHAMAN_SCREAM : Vedi, i cugini non sono contenti.Alle brave persone spesso non piace, ma è buono. Non sorprende che la sua ignoranza lo abbia portato ad ascoltare.

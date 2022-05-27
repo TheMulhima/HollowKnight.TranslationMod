@@ -1,0 +1,387 @@
+SHOP : Marketing
+PIN_NAME_TRAM : beji
+CHARM_NAME_40 : The children of Grim
+MAP_NAME_OUTSKIRTS : Province of Illyria
+INV_DESC_SOULORBS_NONE : 
+KEY_SHOP : So everything
+INV_DESC_LOVEKEY : Beauty is a symbol of love.
+CTRL_ZOOM_OUT : Too late
+CHARM_DESC_24_G : Ask the narrator to see a different geography when fighting enemies. <br> <br> This scene is amazing.
+PIN_DESC_STAG : This button marks each station you visit.
+CHARM_NAME_24_G : Greed has no value
+NOTIFICATION_FLOWER_BREAK : the flower is damaged
+INV_NAME_SUPERDASH : Karaihe Herida
+INV_DESC_WHITEKEY : Open the jar a few times to the white ^.
+INV_NAME_ART_CYCLONE : Almohadille Ulgan
+MAP_NAME_ROYAL_GARDENS : Online game Queen's Day Garden
+OPT_MENU_BACK_BUTTON : Look at it
+INV_DESC_FLOWER : You are a blue man on vacation. We lured him to bury his beloved Mentesnot in the king's garden.
+INV_NAME_SOULORBS_ALL : The bread of the Holy Spirit
+INV_NAME_NAIL2 : Sharp nails
+CHARM_DESC_23_G : This helps the health of the customers and helps them in treating other injuries. Rockers accessories for summer 2011 This stone is not damaged.
+CHARM_NAME_40_N : Nonsense music
+INV_NAME_SPELL_SCREAM2 : Pete cried
+CHARM_NAME_23_G : Lover
+CHARM_DESC_4 : Notice the difference. If you have a catastrophic accident, the insurance stays in the body for a long time. <br> <br> Accidents need to be prevented.
+ASCEND : no.
+INV_DESC_DREAMNAIL_A : Call the guard between sleeping and waking. Can be used to open secret dreams or to open doors. Stone Accessories Dream Nail Essence for summer 2011 collects the remnants of wishes and dreams.
+INV_NAME_NAIL3 : So I see Greater Somalia.
+MAP_NAME_RESTING_GROUNDS : place of love
+INV_DESC_SPELL_QUAKE2 : Conquer the world with spiritual power and shadow. This force can destroy enemies and destroy weak bases. <br> <br> <br> Writing is the courage to defeat enemies and capture their lives.
+CHARM_NAME_1 : Mimi Ray Rally
+SHOP_DESC_GLASS_GEO : Very special and very nice! Do you need more ducks? Let's find and hunt! Get back to where you found them!
+CHARM_DESC_1 : The bulls continue their work and gather in every open place.
+MARKER_W_NAME : Controversial brand
+CHARM_NAME_25_BRK : Destructive power
+CHARM_DESC_36_C : Hidden in the empty space with the help of a vacuum cleaner in the design layout.
+CHARM_DESC_36_B : Divine magic signifies the unity of the rich. The leader blows inside. <br /> Open the first grade door.
+CHARM_DESC_36_A : Part of the white beauty. Don't miss it.
+INV_NAME_WALLJUMP : elephant prayer
+CHARM_DESC_BROKEN : The interior is elegant and the sides are very quiet. No reason.
+INV_DESC_ORE : Cold soft metal
+INV_DESC_SPELL_SCREAM1 : Destroy the enemy with a knife. <br> <br>. Defeat your enemies and collect souls.
+OPT_MENU_MUSIC_VOL : listen to music:
+CHARM_NAME_12 : No cord
+INV_DESC_FLOWER_BROKEN_QG : Construction of the Queen's Garden. It's gone, it's gone
+INV_NAME_RANCIDEGG : The result is not good.
+INV_NAME_STOREKEY : Advice for clients
+INV_NAME_TRAM_PASS : Drum ticket
+CHARM_EQUIP_REMIND : good
+CTRL_SHOW_PINS_KEY : Needle / soul simvol
+MAP_DESC_FOG_CANYON : Make a green card with a narrow hole. It’s hard in the wind to find a way to curse. Now, that’s harder.
+MARKER_B_DESC : This is a new shopping tab. You can use it to draw points of interest on the map! <br> <br>
+UI_BLANK : 
+CHARM_DESC_6 : Anger and rage are among those who die.
+PANE_MAP : Bakang
+TRAVEL : Cause
+MAP_NAME_CLIFFS : That's enough
+MAP_NAME_ABYSS : old lake
+SHOP_SALUBRA_BLESSING_NE : This is especially true of people who love me as much as I do. I will be happy to sell you when I am 40 years old.
+MAP_UPDATED : Map update
+MAP_DESC_CLIFFS : Map of noisy stones controlling dirhams. Cornell said the wind was blowing and he didn't want to hear me. Question ... Why are you talking alone?
+SHOP_DESC_SOULORBS_1 : A spiritual body. Do you know these amazing things about football? <br> <br> I don't like Oran, but I rarely ask for a reasonable price.
+MAP_DESC_MINES : Map of Crystal Peak, the high mountains behind Dirmoth. I put it in the crystal basket. What makes you feel good?
+INV_NAME_HEARTPIECE_NONE : 
+MARKER_Y_DESC : This is a new business model. This allows you to draw interesting places on the map. Color not specified Reveal the precious things of the world.
+CHARM_ALERT_NONE : Without magic <br> Open an office with a wonderful banking song.
+CHARM_NAME_23_BRK : Respiratory Rate (CO)
+INV_DESC_HEARTPIECE_ALL : This is a great cover. The face of everyone who shone and showed this video really.
+CTRL_EXIT : For many years
+CTRL_UNEQUIP : Excluded
+INV_DESC_NAIL2 : Here are some Halloween tips to get you back on track.
+KEY_COCOON : Document:
+MARKER_Y_NAME : seal sign
+CHARM_ALERT_NONE_BENCH : The mantra is not very clear. <br> <br> To set and block prices, select the following placements:
+INV_NAME_MAPQUILL : Weak and hairy
+INV_DESC_HEARTPIECE_NONE : 
+INV_DESC_DREAMNAIL_B : It allows the user to unlock the lock between sleep and wakefulness. You can use it to unlock secret dreams and doors. The power of Neil Droima will be restored and the memories will be unforgettable.
+SHOP_DESC_NOTCH_4_NE : This is especially true for magicians like me. <br> <br> If you have 25 coins, I want to sell them <br> <br> You
+CHARM_DESC_40_N : Connection marks begin.
+SHOP_DESC_HEARTPIECE_1 : In the beginning? Most of the staff is on site. It can also be used.
+SHOP_DESC_LONGNAIL : The nails you touch are really valuable! But do you think it will take long? Square! Square! Climb the stairs and find this beautiful building. Your enemies will appear ...
+MAP_NAME_DIRTMOUTH : Dirty
+INV_NAME_WHITEKEY : Only good
+CHARM_DESC_40_F : Signs of completion of the process. It is a red light.
+INV_NAME_ORE : metallic smell
+CHARM_DESC_39 : Includes Christmas carol. Beetles left in the homes of sailors returning from Country Road.
+CHARM_DESC_38 : The dream is an opiate racist.
+SHOP_DESC_WHITEKEY : Researchers swim among us in the city's waters. I'm not clean.
+CHARM_DESC_35 : Thanks to teachers it can lead to the next level. He held the hand of the Lord. When the user is healthy, he draws heat energy from the nails.
+CTRL_HIDE_PINS : the ball falls
+CHARM_DESC_37 : It seems like the fault is named Sprintmaster. <br> <br> If cars go fast, they don't pound, they don't catch lizards.
+CHARM_DESC_31 : This camera is available in another camera mode called "Dash Master" for those who want to move faster.
+CHARM_DESC_30 : Temporary magic anyone can rub their toenails and smell. <br> <br> <br>
+CHARM_TXT_OVERCHARMED : Editor
+CHARM_DESC_32 : They grow with bad nails and go away from their joints. The wire is always long. <br> <br> Insect bites are allowed.
+SHOP_DESC_ENEMYRECOILUP : Want to beat enemies with your nails? With this magic shot, you can remove any bombs!
+MAP_DESC_GREENPATH : When it's green. A green box near the top of Halloween. Yes, Poisonous Water is in your hands.
+CHARM_DESC_11 : Fluke's mom sees magic. The nature of the punishment will be different in the group of children.
+MAP_DESC_WATERWAYS : Cornish family flow, tap and map the city in the room with tears. Enjoy exploring the area. However, when I returned it was green and shiny
+SHOP_DESC_GLASS_ATTACK_BRK : Newsletter, driving. This bothers me a lot! Oh fun.
+SHOP_DESC_NOTCH_3 : I really like the pendants. obviously! <br> <br> When buying this animal, you can wear multiple earrings at the same time.
+CTRL_HIDE_KEY : Noun
+CHARM_TXT_EQUIPPED : armed
+INV_NAME_JOURNAL : Orias I lovec.
+SHOP_DESC_TRINKET3 : It is the symbol of the Holy King who is considered to be God and King. It is made of white material, surprisingly durable and very expensive. If you agree with me, I will pay more.
+NAME_HUNTERMARK : Zuma is a hunter.
+INV_NAME_DREAMCORE : Light
+LISTEN : audience
+KEY_STAG : National Animal Station
+SHOP_DESC_GEOGATHERER : Do you remember how much land was left after going through the cave? <br> <br>
+INV_DESC_FLOWER_BROKEN : Gray color causes pain at rest. <br> <br> Destroyed and no longer used as a sensitive substance.
+PIN_DESC_TRAM : This tram is a dangerous car. These ancient beings can be intelligent. Farmers <br> This link should be ideal for storage and energy losses.
+SHOP_DESC_NOTCH_1_NE : A special gift for religious lovers like me.
+INV_NAME_SPELL_SCREAM1 : November March
+INV_DESC_HEARTPIECE_2 : Part of an old mask used to prevent infection. <br />
+INV_DESC_HEARTPIECE_3 : Use old hats to protect yourself from injury <br> <br> Find other ways to improve your appearance and protect yourself from injury.
+INV_DESC_HEARTPIECE_0 : Get Started Here are four ways to improve your condition and protect yourself from injury.
+INV_DESC_HEARTPIECE_1 : Demolish the old block used to prevent damage.
+CHARM_NAME_39 : a little:
+INV_NAME_DREAMNAIL_A : dream nails
+INV_DESC_FLOWER_QG : Take her to the Queen's Garden. A little light in the dark. Farmer <br> Flowers are very fragile and can break or shatter when climbing stairs.
+INV_DESC_NAIL3 : The essence of the course is pure. This place is beautiful.
+CHARM_NAME_9 : The main blood of life
+PIN_DESC_SPA : We designed these eyes to follow the warmth of the government <br> I never participated ... I want to know, will you accept me as a reformer? Until then, I can say that you can take advantage of this initiative.
+CTRL_CANCEL : Action
+CTRL_CONFIRM : I think
+CTRL_EQUIP : Codes
+CHARM_DESC_7 : Attractive crystal lens <br> increases SOUL focus and allows users to recover faster.
+INV_DESC_CITYKEY : Halloween stones have a suitable cage at the back of the cage.
+INV_DESC_NAIL4 : The purest weapon is the most powerful and the smartest.
+INV_DESC_QUILL : It is used to register your trip. <br> <br> Everyone needs a card.
+INV_DESC_SIMPLEKEY : In standard form, the value can be used to unlock standard key combinations. Disposable is not good.
+CHARM_DESC_3 : Thanks for Gibbs Pitch. <br> <br> Don't worry if you open it.
+SHOP_DESC_GLASS_HP : That's the price. Great, I did it for you! If you touch it, you will be healthy. If you are afraid of death, be afraid!
+INV_DESC_WALLJUMP : They were cut off from their legs. This allows you to attach the handle to the wall and jump.
+CHARM_NAME_38 : The gift of sleep
+INV_DESC_KINGSBRAND : The train is marked as king. An old Halloween statue will be unveiled soon.
+CHARM_NAME_31 : ten rulers
+CHARM_NAME_30 : Wilders Sun.
+INV_NAME_TRINKET2 : high
+MAP_DESC_OUTSKIRTS : From the end of the empire to the end of the world. woman. He travels far, and I live in the city.
+CHARM_NAME_36_C : Facts
+CHARM_NAME_36_B : He was lifted up into the air.
+CHARM_NAME_36_A : White roads
+INV_NAME_SOULORBS_2 : part of the boat
+INV_NAME_SOULORBS_1 : Payal goreng
+INV_NAME_SOULORBS_0 : Stage
+CHARM_DESC_5 : Look around and protect the middle section with a dry cloth. <br><br>
+INV_NAME_LANTERN : eternity plane
+PIN_NAME_SHOP : Corner Sale
+INV_NAME_NAIL4 : Pepe fever
+SHOP_DESC_STALWARTSHELL : Jim's life can be stressful. This will give the rabbit time to recover from the injury. This can be helpful when trying to get out of a difficult situation.
+CHARM_NAME_24_BRK : Management
+CHARM_NAME_4 : the best savior
+PIN_NAME_SPA : Heat source
+SHOP_NAME_SALUBRA : My prayer
+INV_DESC_GEO : <br> <br>
+PIN_NAME_STAG : It seemed
+PIN_NAME_COCOON : chocolate twist
+SHOP_DESC_GLASS_ATTACK : I felt like I was weak, I let myself live. Tell me and I'll tell you what to do. <br> <br> Be strong. Eventually, your enemies and others begin to trust you ...
+INV_NAME_SPELL_FOCUS : Stadium
+SHOP_DESC_GLASS_HP_BRK : Now he’s broken, the soldier is asleep, go, go.
+MARKER_W_DESC : This is a new addition to the bookmarks repository. You can use it to find your favorite places on the map! The material used in this photo is very small and very expensive.
+OPT_MENU_APPLY_BUTTON : to preach
+INV_NAME_NOTCH : Pull
+MAP_NAME_GREENPATH : green road
+INV_DESC_DOUBLEJUMP : The air pins turned upside down. It will return to the air.
+INV_NAME_KINGSBRAND : the influence of royalty
+INV_DESC_STOREKEY : Small copper keys in the shape of a bench.
+INV_DESC_RANCIDEGG : Blind is the bag and throat of an unknown creature. The air is nice and warm.
+CHARMS_REMAINING : Definitely collect!
+OPT_MENU_SOUND_VOL : Type:
+PIN_DESC_GHOST : Carnifer said he found a beautiful hole in the bottom. <br> <br> With these icons you can remember all the beautiful tombs on your map The.
+PIN_DESC_DREAMPLANT : The cone tells all the stories you see in the corner. <br> <br>
+INV_DESC_SHADOWDASH : The room is dirty. This allows users to dodge enemies without preventing attacks.
+INV_NAME_GEO : Geography
+SHOP_DESC_SIMPLEKEY : Simple buttons suitable for different keys. Ideal for placing in different locations.
+SHOP_DESC_LANTERN : What is important? Can candles help you or your new friend? Farmer <br> Why two? Love this great man and light your way.
+CHARM_NAME_8 : vyvsanko koro
+CHARM_DESC_8 : There is no hidden meaning in life. <br> <br> After inhalation, the user is frozen to avoid injury.
+CHARM_DESC_13 : The spider is free for those who respect it.
+MAP_NAME_DEEPNEST : so much
+INV_DESC_LANTERN : There is a lumaly crystal chandelier. Return to the Dark Cave and find your way through the sidewalk.
+INV_NAME_DOUBLEJUMP : Lord
+CHARM_NAME_33 : Play Spelling Storm online game
+CHARM_NAME_3 : A common song
+SHOP_SELL_CONFIRM : Are you selling this product?
+MAP_DESC_ABYSS : The old card is buried in the ground.
+CHARM_TXT_NOTCHES : little by little
+FLAME_COLLECTED : Light a fire in the rain
+INV_NAME_SPELL_FIREBALL2 : The shadow of the soul
+CHARM_NAME_29 : Collect blood
+CHARM_NAME_28 : Amon
+SHOP_DESC_NOTCH_3_NE : This is an important wizard like me.
+INV_NAME_DREAMGATE : The door of dreams
+PIN_NAME_GHOST : needle on the grave of a soldier
+CHARM_NAME_21 : Spiritual food
+CHARM_NAME_20 : Pier Lobobus
+CHARM_NAME_23 : Candidate wan
+CHARM_NAME_22 : Hits
+CHARM_NAME_25 : Dining room
+CHARM_NAME_24 : Young people are needed
+CHARM_NAME_27 : Greetings from John
+CHARM_NAME_26 : Gloria Neal Matthew
+INV_NAME_SHADOWDASH : Dell uniform.
+PANE_JOURNAL : Author:
+SHOP_DESC_WAYWARDCOMPASS : If you want to travel to places far from our surroundings. Try this beauty. <br> <br> Show your location on the map. I don't know how best to search.
+BANK_DEPOSIT_AMT : What is memory?
+MAP_NAME_MINES : Crystal T-shirt
+BANK_DEPOSIT : Oath
+SHOP_DESC_SPELLDMGUP : Are you a witch or a villain? Hey! Where the player is. <br /> <br /> If you have learned magic, buy it. I heard it so loud!
+CHARM_NAME_32 : a short break
+SHOP_PURCHASE_COMPLETE : One time
+SHOP_DESC_NOTCH_2_NE : This is training for those who love magic like me.
+INV_DESC_TRAM_PASS : Halloween is a train that connects parts of life. These tickets are very expensive and must be purchased.
+MAP_NAME_CROSSROADS : Forget obstacles along the way
+INV_NAME_SIMPLEKEY : The decision is very simple
+MAP_DESC_FUNGAL_WASTES : Map of Mushroom Garbage Under a Forgotten Branch Full Space Coral Someone collected and prepared the media from there. This is a stench!
+COMPLETED : Below
+PIN_NAME_DREAMPLANT : This is a rumor.
+INV_NAME_DREAMNAIL_B : I woke up to sleep
+MARKER_B_NAME : towel options
+SHOP_DESC_GLASS_GEO_BRK : Now he decided that he was tired and sleeping. it was great! Give me life From the word
+CHARM_TXT_COST : Insurance subscription: 
+INV_DESC_DASH : Customers can wear the red butterfly jacket on the ground or in the air.
+MAP_DESC_CITY : Map your country, Halloween Halloween. Who lives in the city? See ...
+INV_DESC_SOULORBS_ALL : Glassware for lifelong enjoyment.
+SHOP_DESC_SOULORBS_2 : I'm digging one. I have the whole team. If you don't want money, I'm here.
+CTRL_MARKER_REMOVE : Electric
+CTRL_MARKER_PLACE : or
+CTRL_MARKER_CHANGE : Change the icon
+SHOP_DESC_TRINKET2 : This emblem is the official emblem of kings and warriors. And most importantly, who uses it? Kill the king and his army. However, interest in movies has diminished. I will pay a lot of money.
+INV_NAME_QUILL : Unfortunately
+MAP_DESC_CROSSROADS : Forgotten road map, place under dirty water. Once Carniper shot his wife. It's free but fun.
+BANK_WITHDRAW_AMT : How much money do you have?
+SHOP_PURCHASE_CONFIRM : Yes
+INV_NAME_TRINKET1 : reismagazine
+INV_NAME_CITYKEY : Urban development
+SHOP_DESC_QUICKFOCUS : The main kitchen is cool, isn't it? Surprise again! If you're surprised, I've heard that crystals help you "see". You must know this house!
+SHOP_DESC_TRINKET4 : Oi! The blind seem to play a vital role in the destruction! Hardy <br> I Pay Please Buy This!
+COMPLETION_RATE_UNLOCKED : there; Sales
+BANK_YOURBALANCE : Equilibrium
+CHARM_NAME_19 : cemetery
+CHARM_NAME_18 : That is
+CHARM_TXT_COLLECTION : rante
+CHARM_NAME_35 : - Named Catapult
+INV_NAME_ART_UPPER : Babylonian
+KEY_BLACKEGG : Church
+INV_DESC_SPELL_FIREBALL2 : He moves from place to place in the dark and gives light to his enemies. <br /> <br /> Development of sunscreen. Fight enemies and collect stops.
+CHARM_NAME_10 : Security
+CHARM_NAME_13 : A lot
+CTRL_ZOOM_IN : each cow
+CHARM_NAME_15 : The energy explodes
+CHARM_NAME_14 : in sport
+CHARM_NAME_17 : Playground
+CHARM_NAME_16 : Light and shade
+KEY_BENCH : The bank
+CTRL_TRAVEL : date
+INV_NAME_MAP : image
+CHARM_NAME_7 : focus on sound
+KEY_DREAMER : yellow in one
+SHOP_SALUBRA_BLESSING : I am very happy to be with you. No one deserves it.
+INV_NAME_HEARTPIECE_ALL : old mask
+CHARM_DESC_29 : Beautiful river and dry gold and. <br> <br> In the long run, you can treat your teacher's injury and regain your health without worrying about your health.
+CHARM_DESC_28 : Inside the roof you can see the shape of the skin.
+BANK_EXIT : improve
+CHARM_DESC_25 : Strengthen people and destroy your enemies with your fingers
+CHARM_DESC_24 : This will allow journalists to get more information about the enemy that Geo is fighting. <br> <br> This is the deception of the world, the prince is dead.
+CHARM_DESC_27 : Johnny blessed him with good intentions. Removes vital fluids from blue blood vessels. Musk has a very strong gravitational potential, but long-term thinking does not cure it.
+CHARM_DESC_26 : Better care and knowledge of manicures.
+CHARM_DESC_21 : Forgotten magic is used to destroy the spirits of nature. <br> <br>
+CHARM_DESC_20 : Light is used to attract other souls to the world around them. Spikes attack enemies and increase the number of insects.
+CHARM_DESC_23 : It improves human health and causes more harm. This magic will disappear sooner or later when you are younger.
+CHARM_DESC_22 : He poured out his Spirit on them and used them to give birth.
+BANK_WITHDRAW : Fundraising
+PIN_DESC_SHOP : Use these IDs to identify customers or other problems that may occur along the way. I'm sure they will like it.
+INV_NAME_FLOWER_BROKEN : Flowers bloom
+PIN_DESC_COCOON : Have you ever seen those beautiful blue brains? These boxes are made for you. <br> <br> Coconuts are beautiful, but very tasty. Please be careful about the surrounding environment.
+CHARM_DESC_9 : Inside is precious leather.
+INV_DESC_NAIL5 : The most important Halloween weapon. Ready-made classic manicure represents the original style.
+MAIN_MENU_START_GAME : Start the game
+CHARM_DESC_24_BROKEN : He wants to live because the enemy has won. Sazunake
+SHOP_DESC_HEARTPIECE_4 : I think I have something left. It's like that! In the summer of 2011, rocker Chuck. I think it's hard to find the first part because you have to pay a lot of money.
+KEY_TRAM : Vibration
+INV_DESC_SOULORBS_2 : White clay plates <br> <br> Collect beautiful earthen baskets carried by different spirits.
+INV_DESC_SOULORBS_1 : White pumpkin is designed to absorb water. Combine the two to create the perfect shadow for your next animation.
+INV_DESC_SOULORBS_0 : Make a piece of white glass for the coffin. Combine these three elements and create a complete box that most people will use.
+MAP_DESC_DEEPNEST : Behavior in the darkest and scariest places in the world. Poor brother
+SHOP_DESC_SLYEGG : I looked under that wheel. Animals can live in the desert. Did you buy it? I will never forget this scent.
+INV_NAME_ART_DASH : marina
+KEY_DREAMPLANT : Toka
+SHOP_DESC_HEARTPIECE_3 : You do them. Fortunately, I found it in one of my wallets.
+MAP_NAME_FUNGAL_WASTES : Fungal infections
+SHOP_DESC_SOULORBS_3 : I have an obligation. Ceramic pieces are always visible. To my surprise, I forgot to see it.
+SHOP_SELL_COMPLETE : Discounted product
+CTRL_BUY : Son
+SHOP_DESC_TRINKET1 : These magazines examine the thoughts and hearts of those who lived before us.
+MARKER_R_NAME : complete
+CHARM_NAME_34 : power load
+INV_NAME_NAIL5 : The Nile closes
+CHARM_NAME_11 : Fluconast
+KEY_GRUB : Support Group
+INV_NAME_ACIDARMOUR : Mosquito asthma
+ENCOUNTERED : Meeting:
+INV_DESC_ART_CYCLONE : Nail Master Village Nail Art Attack the enemy from all sides.
+PIN_NAME_BENCH : Discard the battery.
+INV_DESC_ART_UPPER : Nail Artist is the best in nail art. Please return.
+CHARM_DESC_23_BROKEN : This will improve the health of the consumers and allow them to deal more damage. This beauty disappears and the inner strength appears. There is no need to be embellished.
+COMPLETION : To begin with
+INV_DESC_TRINKET4 : The Mysterious Stone Elephant Born Before Halloween <br/> Antiques This topic is no more important than modern history.
+CHARM_DESC_33 : He wanted refuge to save his life. This has improved the user's ability to use magic. Decreasing the magical value of life.
+INV_DESC_TRINKET1 : Newspapers are on a long and lost path. The words are written in an unforgettable and incomprehensible language. <br> <br>. The rest of the morning. This is more important than world history.
+INV_DESC_TRINKET2 : The official seal of the Holy Kingdom; It shows the power and will of the king. So the rest of the Holy Spirit has no value other than dealing with the history of dictatorship.
+INV_DESC_TRINKET3 : A white statue depicting King Halloween. Through this statue he worshiped the unconscious king. <br> <br> Archive of Sacred History. Now it has no value other than ethnic history.
+INV_NAME_TRINKET3 : The king of idols
+OPT_MENU_RESOLUTION : Measure:
+SHOP_DESC_NORECOIL : I love this simple design! look! Simple, Powerful and Modern <br> <br> When you touch your finger, click.
+CHARM_NAME_6 : the wrath of the fallen
+INV_NAME_DASH : dead cells
+CHARM_DESC_2 : When you open the map, it will show you where the user is and see where the guests are.
+MAP_DESC_RESTING_GROUNDS : Location map, not near Niwara Square. Carnifer told me that I thought it was a quiet and peaceful place, but it scared me. no thanks
+INV_NAME_LOVEKEY : Love is important
+CTRL_MARKERS : Productivity
+MARKER_R_DESC : These brands are a new addition to your business. You can use it to find interesting places on the map! These colors can be used to represent successful matches.
+MAP_DESC_ROYAL_GARDENS : Map of the Queen's garden in front of the royal temple, Greenpart. Sometimes the police call me a queen ... I don’t get mad.
+SHOP_DESC_SPRINTMASTER : I just added a link to my favorites. Yes, but it's over. Or someone to tell me.
+PIN_DESC_BENCH : Mark these banks and other locations on the map. If you are tired and want to be in a good place!
+INV_NAME_HEARTPIECE_2 : Autumn mask
+INV_NAME_HEARTPIECE_3 : cover
+INV_NAME_HEARTPIECE_0 : apartment owner
+INV_NAME_HEARTPIECE_1 : A little mask
+CHARM_DESC_25_BROKEN : Reinforce the chimney and damage the foundation. "The stone is broken," said the soldiers inside. He does not take up arms.
+CHARM_NAME_37 : Sprint owners
+CHARM_TXT_NOTCHCOST : Useful value
+KEY_SPA : Hot water
+PANE_CHARMS : Remain
+CHARM_DESC_34 : It no longer looks like a natural crystal. Air sucked around ARMA <br> <br>
+PANE_INVENTORY : to work
+MAIN_MENU_OPTIONS : dry
+INV_DESC_ART_DASH : Shio manicure is a special nail art. It clears the front line and further destroys the enemy.
+MAP_NAME_CITY : Because of tears
+SHOP_DESC_HEARTPIECE_2 : I saw another one of them. Look, there are beautiful sculptures. Curious.
+KEY_GHOST : Tomb of Heroes
+SHOP_DESC_SOULORBS_4 : You know, maybe it's too soon to sing. They have good qualities. Sorry I gave it to someone else ...
+INV_DESC_DREAMGATE : Users are free from dreams. Hold it when you use Dream Nail to fix Dreamgate. Wake up with Essence 1 while using Dream Nail and switch to Dream Gate. There may not be a dreamlike relationship other than using Dreamgate.
+INV_NAME_NAIL1 : Old screw
+INV_NAME_SPELL_QUAKE1 : This is the same
+INV_NAME_SPELL_QUAKE2 : it's black
+MAP_NAME_FOG_CANYON : Ola
+INV_NAME_FLOWER : Small flowers
+SHOP_DESC_BLUEHEALTHSMALL : Have you ever drank green "Blood of Life"? It's weird, but it's worth it, right? Pray for a better life, and you will be healed!
+NOTIFICATION_CHARM_BREAK : Rama
+OPT_MENU_TITLE : Selection
+INV_DESC_SPELL_FIREBALL1 : Defeat enemies along the way and capture burning souls. The soul is needed to attract the soul. Attack enemies to collect animals.
+INV_DESC_NAIL1 : Old guns are big. He is old.
+MAIN_MENU_QUIT_GAME : End game
+INV_DESC_SPELL_QUAKE1 : Hit the ground with the power of your thoughts. This force can destroy weak structures by destroying enemies, defeating enemies and collecting souls.
+SHOP_DESC_NOTCH_1 : You want to be happy, don't you? Sure yes <br> <br> Buy this beautiful sound, you can use a bass guitar at the same time.
+INV_DESC_SPELL_FOCUS : The purpose of the shot is to save souls and save the dead. Gather your souls against the enemy.
+SHOP_DESC_NOTCH_2 : You want more breasts, right? Also! You can select a location for this key and use multiple keys.
+INV_DESC_SUPERDASH : A powerful ancient mineral source is placed around the hard crystals. You can combine the power of crystals to create a fast moving stand.
+CHARM_NAME_2 : compass management
+MAP_NAME_WATERWAYS : Imperial canal
+INV_NAME_SOULORBS_NONE : 
+CHARM_DESC_19 : It is believed that he knew the ancient shaman. <br> <br> Increases magical power to deal great damage to enemies.
+CHARM_DESC_18 : Your builder increases the distance the enemy can reach.
+INV_DESC_ACIDARMOUR : The fruit is obtained through tears. The room’s sour pool protects you from Halloween when you drink.
+CHARM_DESC_15 : From the clutches of dead hunters. <br/>
+CHARM_DESC_14 : This will prevent the evacuation of civilians if the enemy takes them down. <br> <br> Allows a person to stand up and attack.
+CHARM_DESC_17 : It contains a new compound of fungal seeds obtained by contact with compost. The goal is for your soul to expose the dark clouds that gradually destroy your enemies.
+CHARM_DESC_16 : Do not let the darkness turn into deadly weapons. <br> <br> Use the shadow line, the body of the garment can stand against the enemies and injure them.
+CHARM_NAME_5 : The secret to happiness
+CHARM_DESC_10 : A special joy that Halloween brings to its faithful brave king. Get rid of it and get rid of the disease, but save it. Rockers tool for summer 2011
+INV_DESC_SPELL_SCREAM2 : Blonde against your enemies in the shadow of the Holy Spirit, in the shadow of death. Fight enemies to fill the line.
+CHARM_DESC_12 : He has endured and experienced the sufferings of the people inhabiting this world.
+SHOP_DESC_NOTCH_4 : Do you want to improve? Please accept! Buy this beautiful and attractive cotton dress today.
+INV_NAME_TRINKET4 : Ubud acne
+LANGUAGE_CONFIRM : Believe what you say
+CTRL_SELL : Good luck now
+CHARM_DESC_25_G : Use your anchor to increase enemy damage. Strengthen control. This request is undeniable.
+SHOP_DESC_QUILL : Every time you search for a map, you have to refresh it in a new area. .
+INV_NAME_SPELL_FIREBALL1 : Feelings of revenge
+CHARM_DESC_40 : Use with a separate tool. Farmers <br> Article Grimkin and in need of fire. Unwritten lights will appear on the map you have recorded.
+INV_DESC_MAPQUILL : The most popular recipe. If you place the card in a chair or anywhere else, you can use a pen to hold the card in a new position.
+CHARM_NAME_25_G : Separation of powers
+BANK_MAX_BALANCE : Main direction:
+INV_DESC_MAP : Carnival cards are full of wonderful holidays. You cannot edit without a pen.

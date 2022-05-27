@@ -1,0 +1,94 @@
+PERMA_UNLOCK_UNLOCK : Aprire
+CREDITS_PORTING_LEAD : Raccogli la tua pistola - rilascia il pesce.
+CREDITS_PORTING_LEAD_NAME : Matteo Ritaglia
+CREDITS_ENVIRONDRESSING : magia aggiuntiva
+MR_MUSH_CONTINUED : Lavoro
+PERMA_GAME_OVER : Fine del gioco
+CREDITS_INDIE_FUND : India
+CREDITS_THANKS_MUSIC : canzone di ringraziamento speciale
+CREDITS_VOCALS_NAME : Amelia Jones
+CREDITS_TESTERS_MAC_NAME : Davidkin-Marcus Harrick-Jonathan Penny-Waynesel
+CREDITS_ADDITIONAL_CODING_NAME : David Lancaster - Michael Jenkins
+CREDITS_LOCAL_LEAD : Amministratore della pagina
+CREDITS_TRANSLATE_CHINESE_NAME : یون وی <true>r Eunli <true> x virtù <true>ku sat <true> Wesley King <true> Stephen No.
+CREDITS_ADDIT_TRANSLATE_JAPANESE : Traduzioni aggiuntive - giapponese.
+CREDITS_ENVIRONDRESSING_NAME : Lavoro extra alla Nathan Elm Games
+CREDITS_TRANSLATE_CHINESE : Tradotto dal cinese
+CREDITS_CONGRATS_BODY_PERMA : Metti alla prova il tuo spirito di ferro giocando in modo intelligente. <br> Grazie per aver dedicato del tempo per realizzare e conquistare il mondo che abbiamo creato. Ci vediamo per il nuovo esame...
+TUTORIAL_CREDIT_SCORE : Suoni e fini
+CREDITS_EXTRA_THANKS : Asante.
+CREDITS_TESTERS_NAME_COL_02 : Ben Newhouse Pirates Robbie Unborn_Pho3nix Polvere bagnata Greg Smith Loki Ragazza bianca Ruvida Matt Zantezukins Benjamin Zerby
+CREDITS_TESTERS_NAME_COL_01 : Harry Dmitri ፣ Tyler Bartley ፣ Lily Carlisle ፣ Joshua Clark Ferro "Porondani" Richard Rohan Fraser e Nazim "Simo Sibriel" <br> ቶቢ „.
+PERMA_UNLOCK_TITLE : Mano di ferro
+CREDITS_TESTERS_MAC : Anali - Mac:
+CREDITS_SCORE : È anche una vecchia canzone
+CREDITS_ADDIT_TRANSLATE_RUSSIAN_NAME : Daniela Evste - Andre Durbin - Alexandra "Alvina" Kolupza
+CREDITS_ADDIT_TRANSLATE_RUSSIAN : Altri significati - russo
+CREDITS_ADDITIONAL_ENEMYCODE : Un ulteriore ottavo girone
+PERMA_GAME_OVER_BODY : Per avere successo, devi mostrare autostima.
+CREDITS_CHARVOICES : Segnale acustico extra
+CREDITS_ADDIT_TRANSLATE_KOREAN : Traduzioni coreane aggiuntive
+CREDITS_GUITAR : La chitarra
+GAME_COMPLETE_PERCENTAGE : Consigli:
+CREDITS_TECH_DIRECT : Manuale
+CREDITS_TRANSLATE_BPORTUGUESE : Traduttore - dal portoghese al portoghese
+CREDITS_VIOLA : tua decisione
+CREDITS_ADDITIONAL_CODING : Altre applicazioni per la privacy
+CREDITS_TRANSLATE_ITALIAN : Traduttore: italiano
+PERMA_GAME_OVER_CONTINUE : Fare clic su Continua.
+CREDITS_FIGSCULPTOR_NAME : Anche la festa di David
+CREDITS_TRANSLATE_BPORTUGUESE_NAME : Lucas "Lucas" Fernandes Vinicus "Garage Ave" Jose Jonas Breda "Pottega!" Luis Fernando SM Mia William Antonio Canonico Vesius Mediros Michael
+CREDITS_PORTING : Splatu di Leap Shark Studio Village Studio Leap Shark
+CREDITS_MARKET_JAPAN_NAME : Per il buco dei soldi
+CREDITS_THANKS : Grazie
+CREDITS_ADDIT_TRANSLATE_KOREAN_NAME : L'organizzazione ha vinto a giugno
+CREDITS_INDIE_FUND_NAME : Jeffrey Rosen presso John Graham R. Ben Newshouse - Kyle Plough - Ron Efinding
+TUTORIAL_CREDIT_NAME_01 : Tul è un villaggio a est
+TUTORIAL_CREDIT_NAME_02 : Berna
+CREDITS_TESTERS : Controller di gioco:
+TUTORIAL_CREDIT_NAME_04 : Matteo Griffin
+TUTORIAL_CREDIT_NAME_05 : Grifone superficiale assassino
+CREDITS_ADDITIONAL_ENEMYCODE_NAME : Verrà stampato
+CREDIT_PROGRAM : Software e strumenti di sistema
+CREDITS_TRANSLATE_RUSSIAN_NAME : Alessandro Pingus
+CREDITS_PORTING_NAME : Matt Lee Gretia James Paris Tom Lee Mode Manuk
+CREDITS_PROGRAM_ADDIT : programmi aggiuntivi
+TUTORIAL_CREDIT_GAME : Primario
+CREDITS_PORTING_TEST_NAME : Asmas, Nazki
+CREDITS_SCORE_NAME : Krzysztof Larkan
+CREDITS_CHARVOICES_NAME : Cosi McCotto <br> Tyler Bartley <br> Harry Dimitriou <br> Matthews Griffinas <br> Anna Murdoch <br> Bill Northcott <br> Sarah Pellen <br> Victoria Roberts <br> Cassandra "Frisk" Reena <br> <br> > > <br> <br>>>>> Ottimo hahahahahahahaha
+GAME_COMPLETE_TITLE : dividere il gruppo
+CREDITS_GAME_BY_NAME : Chiedere
+CREDITS_THANKS_NAME : Ludum Aud - Warren Fenn - Rohan Fraser - Ben Gibson - Makoto Kozhi - Trent Custers - Morgan Jaffith - Rod Jago - Tim McBurney - John Millard <br> Jason Pamento & Zara Perrin & Victoria Roberts & Lily Sim & Nikolaus Stark Sharyn Stone Steph Sun Teab Matt Trobian & Dan Treble & Peter Young <br>Jenny Vigod <br> UChris Wright
+CREDITS_PORTING_TEST_LEAD : Salto dello squalo leader del torneo.
+CREDITS_TRANSLATE_RUSSIAN : Traduzione: russo
+CREDITS_INTERNS_NAME : James Glom <br> James Ross Mick Nab
+CREDITS_PROGRAM_ADDIT_NAME : Jack Wayne
+CREDITS_VIOLA_NAME : Tim Chil
+CREDITS_CONGRATS_BODY : Questo è un lavoro importante da fare. Devi essere forte e felice. Godetevi l'Olocausto. A presto
+CREDITS_VOCALS : La città in lacrime di Lolin
+CREDITS_EXTRA_THANKS_TEXT : 2158 e fan di Kickstarter
+CREDITS_ADDIT_TRANSLATE_GERMAN : Traduzione aggiuntiva - tedesco
+CREDITS_ADDIT_TRANSLATE_GERMAN_NAME : Tobias Gutt, Alessandro Rafael Adamo, Daniel Spikerman, Mercedes
+GAME_COMPLETE_TIME : Il tempo
+CREDITS_MARKET_JAPAN : Sostegno alla letteratura giapponese
+CREDITS_TRANSLATE_FRENCH : Il traduttore è francese
+CREDITS_ADDIT_TRANSLATE_SPANISH : Altre traduzioni in spagnolo
+TUTORIAL_CREDIT_NAME_03 : David lavora
+CREDITS_TRANSLATE_JAPAN_NAME : Leyla
+CREDITS_INTERNS : Candidato
+CREDITS_SOUND_ASSIST : Aggiungi campo
+CREDITS_LETH : Vendite e relazioni con la comunità
+CREDITS_SOUND_ASSIST_NAME : Oh!
+CREDITS_GAME_BY : È come un gioco.
+CREDITS_CONGRATS : sale.
+CREDITS_ADDIT_TRANSLATE_SPANISH_NAME : Daniel Rose "Paradiso e Mosè"
+CREDITS_THANKS_MUSIC_NAME : Jeff Van Dykrassel Larkin Mitchell Larkin Fabian Marabello Andrea Andrea Tran Angelo Valdivia
+CREDITS_TRANSLATE_FRENCH_NAME : Stiamo tremando
+CREDITS_TRANSLATE_JAPAN : giapponese
+CREDITS_ADDIT_TRANSLATE_JAPANESE_NAME : L'ETL è problematico.
+CREDITS_TRANSLATION : tradurre
+CREDITS_TRANSLATE_ITALIAN_NAME : Marco Bortology terier Federica Guitare
+PERMA_UNLOCK_BODY : Non vivere nell'ombra adesso, la morte è morte, è molto difficile
+CREDITS_FIGSCULPTOR : ra
+CREDITS_TEST_LEAD : Tekreb

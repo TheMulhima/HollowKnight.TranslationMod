@@ -1,0 +1,21 @@
+SLY_GENERIC : Feeling discouraged If you need more life, wait and see. Be careful not to get into trouble. I'm not coming down to pick you up.
+SLY_GENERIC_NM : Because you are an obstacle, I hope you will be stronger. So come and buy something better.
+SLY_NAIL_HONED : Then you will see the new pin. I prefer polite weapons more than ever. hmm? Oh, it's the same key but full of sand. From a very kind person... Our nails are a continuation of the tool that shows the world around us. A sharp mind is pure compassion... ah. It doesn't have to work that way. Let's talk about Geo's apartment.
+SLY_MAPPER : I saw an ATM across the street. I think the competition is better. I still want to get my card ... okay? mojaro jio created everything in the beautiful world.
+SLY_DREAM_STORE : ... stay where you are ... what do you do now?
+SLY_BASEMENT_1 : … So someone joined our group.
+SLY_NOSTOCK_2 : in the first place? Did you know you have no money? You fired me. Want to see geography? This is my property. Fairtrade.
+SLY_RESCUE_REPEAT : Did you read that I would dare to say that many scholars have died of starvation in those ancient caves? He has a plate, but I know how to put it on.
+SLY_RESCUE_1 : ... ah, ah, ah .... you made it yourself ... a good tree ... <page> ... without a title ... we'll break away ...
+SLY_NAILART : Oh, you see something else. Your opinion has changed. How he developed it! Here's how to put one together for use with your nail art. I wonder if you want to study?
+SLY_DREAM_BASEMENT : ... the best tool ... xerographic complaints are deadly ...
+SLY_SHOP_INTRO : Hey, I know we'll be together again. Do you like my supermarket? I think it’s good to sell old gold to great people like you. If you want to fall, I have something that can increase your chances of survival.
+SLY_BASEMENT_2 : Soldier, I have a gift for you. As a salesperson I agree that parting is hard for nothing, but I have to take your problem as a pound. Test the skills of other students. You can now customize your character.
+SLY_RESCUE_3 : I am quiet and living the good life in Dortmouth. I walked out of the air with this mask. Then say you're mad at me. Thank you for your commitment and hospitality.
+SLY_RESCUE_2 : Surprise! Let's go! Chia seeds ?! who are you, I understand this is the old part. I have a wonderful dream here! I don't think I would wake up if he didn't know me.
+SLY_DREAM_RUINS : ... Geology. You live all over the world. No one can compete with power.
+SLY_KEY_2 : What you have, I do not want to lose. <page> Correct? Do you have it? Interestingly, I do not know how to get here. You brought me back, yes. I am now happy to open an old cupboard where you can buy your small powder collection. These things can go away, but so can the markets. Stay tuned! Kuckt w.e.g. ...
+SLY_KEY : This is my key to authenticity! I felt like I would be lost forever. Have you seen Prachin Khan? I fell in love. I don't know why. Sorry, you answered me so badly, thank you. I'm very happy. Now that you have opened an old store, you can sell unusual powders. This product can be used for a very short time while maintaining high market prices. This is a very important tool! I see ...
+SLY_BASEMENT_REPEAT : Come, Lord! I can't give you ... Nothing for free. I think Geo is going to sell the best stuff.
+SLY_NOSTOCK_1 : And what else are you looking for? I wonder about geography? Unfortunately, they did not get what they wanted. I thought there were old clothes in the room, but I lost my keys. I'm afraid we have nothing! At least here. Stay here and enjoy the geospatial information provided to you for some time.
+SLY_BASEMENT_3 : Eternal peace, Maharaja Cut nails. That way you can finally learn.

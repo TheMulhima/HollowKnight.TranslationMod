@@ -1,0 +1,94 @@
+PERMA_UNLOCK_UNLOCK : ko'p
+CREDITS_PORTING_LEAD : Haven - requin sauteur
+CREDITS_PORTING_LEAD_NAME : Matthew Le Crepe
+CREDITS_ENVIRONDRESSING : Soutien environnemental
+MR_MUSH_CONTINUED : Vie mensuelle
+PERMA_GAME_OVER : Récréation
+CREDITS_INDIE_FUND : Dana Allès
+CREDITS_THANKS_MUSIC : Remerciement spécial à
+CREDITS_VOCALS_NAME : Amélie Jones
+CREDITS_TESTERS_MAC_NAME : David Kane - Marcus Hick - Jonathan Penny <br> Wayne Silla
+CREDITS_ADDITIONAL_CODING_NAME : david lancaster dans le film michael jenkins
+CREDITS_LOCAL_LEAD : autorités locales
+CREDITS_TRANSLATE_CHINESE_NAME : St. Wesley Morena Stephen Son Ing ja JT Veer Yu Yuan
+CREDITS_ADDIT_TRANSLATE_JAPANESE : Traduction dans une autre langue : japonais
+CREDITS_ENVIRONDRESSING_NAME : Tyler Bartley <br> Nathan Elmer
+CREDITS_TRANSLATE_CHINESE : Traduction en chinois
+CREDITS_CONGRATS_BODY_PERMA : Il joue avec brio, montrant qu'il a un cœur d'acier. Merci d'avoir pris le temps de découvrir et de conquérir le monde que nous avons créé. Nous nous reverrons, nous nous défierons à nouveau...
+TUTORIAL_CREDIT_SCORE : Effets sonores
+CREDITS_EXTRA_THANKS : remerciement spécial
+CREDITS_TESTERS_NAME_COL_02 : Hibino Ayako Ben New House Pirates Lab Unborn_Pho3nix Kyle Powder Wolfe Smith Leko Pismo Matthew White Peaks Kenben Jamin Gelbo
+CREDITS_TESTERS_NAME_COL_01 : Harry Demetrio Tyler Bartley Lilly Carlyle Joshua Clark Andrew Cook Shannon Crosswood "Kokakidi" Richard Rohan Fraser Naseem "Simo" Gabriel >> Tobias Goth
+PERMA_UNLOCK_TITLE : En dehors de la zone de la porte
+CREDITS_TESTERS_MAC : Terrain de jeux Mac
+CREDITS_SCORE : Alors voix et chanson
+CREDITS_ADDIT_TRANSLATE_RUSSIAN_NAME : Daniela Obstipiev-Andr ou Dorfin-Alexander "Albina" Kolobev
+CREDITS_ADDIT_TRANSLATE_RUSSIAN : Autres articles en russe
+CREDITS_ADDITIONAL_ENEMYCODE : Autres pensées hostiles.
+PERMA_GAME_OVER_BODY : Un démarrage réussi est la mesure de vos compétences. <br> Vous finirez par perdre votre photo.
+CREDITS_CHARVOICES : Voix d'inconnus
+CREDITS_ADDIT_TRANSLATE_KOREAN : tradition koriano
+CREDITS_GUITAR : Parmi d'autres
+GAME_COMPLETE_PERCENTAGE : Dodaï
+CREDITS_TECH_DIRECT : Guide professionnel
+CREDITS_TRANSLATE_BPORTUGUESE : Traduction - Portugais - Brésil
+CREDITS_VIOLA : vidéo-
+CREDITS_ADDITIONAL_CODING : Autres applications de confidentialité
+CREDITS_TRANSLATE_ITALIAN : Traduction italienne :
+PERMA_GAME_OVER_CONTINUE : Cliquez ci-dessus pour continuer.
+CREDITS_FIGSCULPTOR_NAME : Le gérant est David Diaz
+CREDITS_TRANSLATE_BPORTUGUESE_NAME : Lucas "Vaka" Fernandez - Vinicius "Viniau" José <br> Jonas Breda "Dealbhan!" <br> Moega Luis Fernando S. Maya - Guillermo Antonio Canani - Vinicius no Maderi Miguel <br>
+CREDITS_PORTING : Comédie de studio de danse
+CREDITS_MARKET_JAPAN_NAME : Anna Koprok.
+CREDITS_THANKS : Merci
+CREDITS_ADDIT_TRANSLATE_KOREAN_NAME : Après le culte en juin
+CREDITS_INDIE_FUND_NAME : Jeffrey Rosen Menon John Raham Ben Tay Genea Hou Jean Kyle Ploor - Ron Tease
+TUTORIAL_CREDIT_NAME_01 : Technologie b Communauté
+TUTORIAL_CREDIT_NAME_02 : William Wormwood
+CREDITS_TESTERS : Test de chargement
+TUTORIAL_CREDIT_NAME_04 : mathew énol
+TUTORIAL_CREDIT_NAME_05 : Matthieu "Enum" Griffin
+CREDITS_ADDITIONAL_ENEMYCODE_NAME : marcher
+CREDIT_PROGRAM : programmes et outils informatiques
+CREDITS_TRANSLATE_RUSSIAN_NAME : Soumis par le secrétaire
+CREDITS_PORTING_NAME : Matt Lee Grace contre Simon Pierce contre Tom Lee contre Brad Wesson
+CREDITS_PROGRAM_ADDIT : Plus d'applications
+TUTORIAL_CREDIT_GAME : la fenêtre
+CREDITS_PORTING_TEST_NAME : Portefeuille James
+CREDITS_SCORE_NAME : Christophe Falcone
+CREDITS_CHARVOICES_NAME : Makoto Cody, Tyler Bartley, Harry Dimitri, Matthew Griffin, Hannah Murdoch, Phil Nordkott, Zara Blanc, Dektoria Roberts, Cassandra "Frisk" Doublure Versailles Hanobi Dabos
+GAME_COMPLETE_TITLE : dernière pensée
+CREDITS_GAME_BY_NAME : Groupe de consommateurs
+CREDITS_THANKS_NAME : Ludum de Leon Warren Fan <br> Rohan Fraser, Ben Gibson, Makoto Cody, Trent Custers, Morgan Jaffett, Rod Wake na John Millard Jason Payment-Jara Palen-Victoria Roberts-Lily Sim-Nicholas Stephen Stark-Saint Shar Stephen Sun-Mayotte trobiani-effrayant-Peter Hee-Cenni Viqo-Kris Wright
+CREDITS_PORTING_TEST_LEAD : Fjertest - Onglet Requin.
+CREDITS_TRANSLATE_RUSSIAN : Traduction russe
+CREDITS_INTERNS_NAME : James Gillum <br> James Russ McNabb
+CREDITS_PROGRAM_ADDIT_NAME : Jack Wayne
+CREDITS_VIOLA_NAME : temps froid
+CREDITS_CONGRATS_BODY : Merci pour une fin incroyable. Vous gagnez toujours. Tu vas gagner. Nous sommes impatients de profiter de la vie de Lord Halloween. Avant la collecte.
+CREDITS_VOCALS : Basatrine de Dinguan
+CREDITS_EXTRA_THANKS_TEXT : Kickstarter approuvé.
+CREDITS_ADDIT_TRANSLATE_GERMAN : Traductions dans d'autres langues - allemand
+CREDITS_ADDIT_TRANSLATE_GERMAN_NAME : Tobias Goethe, Alessandra Rafael Adam, Daniel Mangai, Mercedes
+GAME_COMPLETE_TIME : moins
+CREDITS_MARKET_JAPAN : Prise en charge de la radio japonaise
+CREDITS_TRANSLATE_FRENCH : Le traducteur est français
+CREDITS_ADDIT_TRANSLATE_SPANISH : Traduction du texte en espagnol.
+TUTORIAL_CREDIT_NAME_03 : David Casey
+CREDITS_TRANSLATE_JAPAN_NAME : Probablement
+CREDITS_INTERNS : pendant le spectacle
+CREDITS_SOUND_ASSIST : Plus de temps
+CREDITS_LETH : Commerce et communication
+CREDITS_SOUND_ASSIST_NAME : Tim Watt
+CREDITS_GAME_BY : Les chevaux:
+CREDITS_CONGRATS : Bonjour
+CREDITS_ADDIT_TRANSLATE_SPANISH_NAME : Daniel Ruiz "Libye"
+CREDITS_THANKS_MUSIC_NAME : Jeff Wan Sheikh <Frère> Russell Mutta <Bara> Mashal Boot <Bara> Fabian Malbil <Bara> Adriana Iran <Bara> Tuk Vallab :
+CREDITS_TRANSLATE_FRENCH_NAME : Sans écharpe
+CREDITS_TRANSLATE_JAPAN : Hawaii
+CREDITS_ADDIT_TRANSLATE_JAPANESE_NAME : La ville d'Aya est magnifique.
+CREDITS_TRANSLATION : Ram Ghajini
+CREDITS_TRANSLATE_ITALIAN_NAME : Verta Federica Geeta Marco Bertolucci lwn Vicente
+PERMA_UNLOCK_BODY : Puudub de Turvalisus. Tige d'expansion.永恒 死亡 死亡 <br> <br>
+CREDITS_FIGSCULPTOR : Expliquez l'image
+CREDITS_TEST_LEAD : Essayez-le

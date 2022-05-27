@@ -1,0 +1,49 @@
+DREAM_CITY : Purifica la tua mente... è meglio soffrire.
+QUIRREL_GREENPATH_1 : Multa! Prendiamoci cura l'uno dell'altro.<page>Non posso credere ai miei occhi, la strada sterrata rende il posto affollato e accogliente.Sebbene la statua sia stata a lungo dimenticata, la casa è ancora innamorata. Che divertimento però.
+QUIRREL_QUEENSTATION_02 : Pensi che questo sia il posto giusto? Deere ha detto che i bug sono andati all'intera comunità. La stazione era piena di ingorghi e rumore.<page>Ora sanno che non siamo solo noi.Penso che questo caso, per quanto grave, sia unico.
+QUIRREL_GREENPATH_3 : Lo strumento migliore per rimuovere crepe e fessure è lo smalto.E indosserò, e indosserò. Ma nel profondo del mio cuore, se il mondo non è d'accordo con te, sei in pericolo.
+DREAM_EGGTEMPLE : cosa significa... Un noto sviluppo di eventi, ma un ritornoE il numero della porta... mi tocca il cuore quando lo vedo.
+QUIRREL_TEACHER_2 : Non essere imbarazzato. Non sto parlando di te.Sa cosa sta facendo. Grazie
+DREAM_QUEENSTATION : Anche il grande cervo onora il re di Halloween. Ma la verità deve essere sincera.
+QUIRREL_TEMPLE_2 : Si prega di non utilizzare
+QUIRREL_TEMPLE_3 : Non viene utilizzato
+QUIRREL_TEMPLE_1 : Conosco molte storie spaventose. Non lo sopporto. voglio solo vedere<page>Poi ho deciso di partire! Questo è un mondo morto.Gli animali godono dell'accesso al mondo. Il vento è molto forte. Vuoi sapere dove sta andando tutto?
+QUIRREL_MANTIS_01 : Versione aggiornata! Dovrei unirmi a questa tribù urbana? Agli estranei, sembrano un po' diffidenti...<page>Non sono animali selvatici, possono confondere la mente con malattie trasmesse dall'aria. Conservano tradizioni di saggezza e onore, così come tradizioni.<page>Ho un piano, amici. Se hai intenzione di resistere a questo corridore, l'altezza non sarà sufficiente.La capitale più vicina è la città santa. L'ho fatto perché era un disinfettante per le mani. Sarà molto più facile per te cercare gli errori del passato e avere successo.
+QUIRREL_TEMPLE_5 : Stai attraversando questa città? Piccola distanza. Rispetta la privacy!Quindi penso che siano qui. Chi può opporsi a questa azione?
+QUIRREL_TEACHER_1A : La nostra organizzazione non è casuale.<page>Sebbene molti dei miei ricordi siano vuoti, li ricordo ancora.In questo dipartimento, il professore si sforza di concentrarsi sulla sua missione nello stato.
+DREAM_SLUGSHRINE : Questo traguardo...un grande sogno...Perché ha fatto questo Perché lo sto facendo?
+QUIRREL_GREENPATH_2 : Sono uno straniero lì. quel mareAbbiamo pensato che se non li avessimo visti, avrebbero iniziato a fare la modella. Ma mi sono addormentato
+DREAM_SPA : Dovrebbe trovare un piccolo villaggio nel mezzo dell'edificio. L'obiettivo è rendere pubblica la tua strada.
+DREAM_ARCHIVE_ENTRANCE : ...chi mi ha portato qui?
+QUIRREL_MEET_TEMPLE : Ciao, sono felice di incontrare altri passeggeri su queste rotte indimenticabili.Sei piccolo, ma i tuoi occhi sono forti.
+QUIRREL_SPA : Molto bene! È bello stare al caldo in giardino.Questo è un brutto posto. Si diceva che questo villaggio fosse in fondo alla guerra. La sua gente non ha mai festeggiato Halloween per il re.
+QUIRREL_QUEENSTATION_01 : Questo non è vero, molti cuori non hanno speranza per My Vim.<page>Uno dei problemi con Halonest è che molte persone costruiscono ancora grandi case con questi alberi.Apparentemente prima dell'arrivo di questi animali pericolosi. Questo è un ottimo posto per rilassarsi.
+QUIRREL_NODREAMNAIL : Ma il cervello è ancora connesso a te. La seconda difesa è forte.<page>Se vuoi catturare l'attenzione, trova prima un modo per aprirlo. Questi sono strumenti potenti. Anche se non ho mai visto tali dispositivi nei miei viaggi.Ho sentito palloncini reali sorvolare i "morti". Forse li vuoi?
+QUIRREL_GREENPATH_REPEAT : Per le persone intelligenti come noi, Halloween è così bello. È stato molto divertente ed eccitante. Resta qui o morirai
+QUIRREL_TEACHER_1C : Mi hanno chiamato qui e hanno incontrato l'opposizione. Tutto è con il tuo aiuto.
+QUIRREL_TEACHER_1B : Il patron ha intenzione di realizzare una bomba per salvare Halloween. Ma costruirà un'altra casaAnche se non ricordo cosa è successo. Ma guardo la serie
+QUIRREL_RUINS_4 : Perché questo non è un ottimo posto dove stare? Mi piacciono le docce e gli occhiali.
+QUIRREL_TEMPLE_6 : molto bello ...
+QUIRREL_RUINS_1 : Abbiamo soldi, amico mio. Questo posto è sbagliato, quindi la risposta è molto misteriosa.<page>E si è concentrato a terra, e ora guida, ma non si ferma.Pensi che la paura mi fermerà?
+QUIRREL_RUINS_2 : La capitale era costruita come una grotta e sembrava crollare rapidamente.<page>Ci deve essere acqua. Se la testa della caverna è lunga, dobbiamo affrontarla.Prima di lasciare questo mondo, voglio sapere da dove viene quest'acqua. Una scena reale.
+QUIRREL_RUINS_3 : Quando guardiamo l'acqua, vediamo che la squadra di tiro mobile ha la sua.Parlerò brevemente della loro relazione. La loro formazione non sarà dimenticata. La città è un grande nemico.
+QUIRREL_FOGCANYON_B : Come firmato... non posso entrare?
+QUIRREL_FOGCANYON_A : Sorprendi il governo nel lago acido.<page>almeno credo... lo so? Non so spiegare di cosa si tratta, ma mi preoccupa.<page>Forse la curiosità mi ha portato qui, ma ora è diverso.Questo edificio è fantastico.
+QUIRREL_TEMPLE_4 : I vecchi chiodi non sono sufficienti per questo danno. Ma nessun problema. Guarda<page>Soprattutto Molte persone vedono risultati negativi, confrontano te e noi e si uniscono a noi.Non credo che i tuoi ricercatori vogliano che questo gioco finisca. Ha un sapore così buono. Non dovrebbe essere un peso per i morti.
+QUIRREL_MINES_4 : Sembra troppo piccolo...
+QUIRREL_MANTIS_REPEAT : Il mio viaggio mi ha portato nella capitale. Una volta arrivati ​​in cima, attraverserete di nuovo la strada.
+QUIRREL_MINES_1 : Questa idea è inutile?<page>Non pensare di essere scappato da queste bellissime grotte.Deve essere forte, temo. Limitato alle piccole imprese.
+QUIRREL_MINES_2 : Posso ancora vedere i minatori al lavoro?<page>In modo che i tuoi obiettivi più forti e di maggior successo siano scritti sulla tua pelle.<page>Crystal è simboleggiato come un potente sito insta che non funziona localmente. ma meno rischioso... È bello conoscere la natura della vecchia verità, mi chiedo da dove provengano le persone da cui vengo.
+QUIRREL_MINES_3 : A questa altezza si vedono brillare le chiese della grande città.Cosa sanno la maggior parte delle persone nel mondo?
+DREAM_ARCHIVE_INTERIOR : Sorprendentemente, una creatura così piccola ha completato questo impero.
+QUIRREL_TEACHER_3 : Perse la vita e la sua religione fu distrutta.<page>Questo è difficile da dimostrare. Ma oggi vedo il tuo potenziale e penso che tu sia molto forte.Mentre viaggio, trovo un posto dove riposarmi, fare i compiti e crescere.
+QUIRREL_MEET_TEMPLE_C : Una grande roccia fu posta sopra l'ex corpo reale. E questo prodotto è... caldo. Fornisce davvero un ambiente esterno.<page>Posso aprirlo? Un'icona...amo i segreti...
+QUIRREL_MEET_TEMPLE_B : Wirahma .. ho cose che voglio scrivere e cose che non so.Ci sono molti segreti in questo antico regno. E la maggior parte sono proprio davanti ai nostri occhi.
+DREAM_MANTIS_VILLAGE : Chi insegnerà questa lezione? Non ricordo un uomo di colore che mi ha attaccato.
+QUIRREL_EPILOGUE_B : indo...
+DREAM_LAKE : Ricorda sempre le persone anziane... forse dovrei crederci?Tutto il male è sparito. ho visto un miracolo...
+DREAM_MINES : ... queste anime piangono l'una per l'altra. C'è più libertà.
+QUIRREL_SPA_REPEAT : Perché non farlo per ora? Questo olio è buono per i piedi stanchi.
+QUIRREL_TEACHER_HESITATE : Perciò vergognarsi della misericordia è bene, ma penso che dovrebbe esserlo. Sii una donna coraggiosa.
+QUIRREL_QUEENSTATION_REPEAT : Il campanello suonò.
+QUIRREL_EPILOGUE_A : Guarda di nuovo i miei amici. Sono sicuro ora<page>Ho visto questo mondo due volte, il mio ministero è la mia prima esperienza, ma sono stato felice di vederlo.<page>Halloween è bello e dolce, ma incredibilmente bello. Non ti ho mai visto così orgoglioso.<page>Il mio unico errore è stato tornare a una tranquilla depressione. Lo adoroLo adoro

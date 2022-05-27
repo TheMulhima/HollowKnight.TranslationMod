@@ -1,0 +1,24 @@
+STAG_CROSSROADS : lange nicht gesehen. Aber denken Sie daran, die Straße ist voller Leben. Das war mein erstes Mal als Ausländer.Viele Passagiere sahen ihn am Freitag nicht, sondern blieben dort. Jetzt sind Sie und ich Reisende.
+STAG_ROYALGARDENS : Vor dem Anruf kann ich mich nicht erinnern. Insekten sind keine Zuflucht für tote Könige.Obwohl gesund, ist der Garten schon lange schön. Ich weiß, dass meine Tochter gerne arbeitet.
+STAG_DEEPNEST : Canticle ... wo immer wir sind, wir sind nicht hier. Ich habe ihn jahrelang beobachtet. Ich bringe dich an einen sicheren Ort.
+STAG_DREAM : Ich bin jetzt sehr müde und meine alten Füße werden immer schlimmer. Aber als ich älter wurde, wurde ich glücklicher ... nicht wirklich.
+STAG_FLOWER_WARNING : Blumen drauf ... Sie sind schön, aber schön. Ich habe Angst, bei dir zu seinWenn Sie vorsichtig sein wollen, empfehle ich, Ihre Füße zu benutzen, wo immer Sie sind.
+STAG_TISO : Dann setzten sich die anderen Leute hin. Es stört mich, aber die Tür zum Boxen steht jedem offen.Bei Bestellung liefere ich gerne. Meine religiöse Pflicht ist kein persönlicher Protest.
+STAG_NEST : Geh nach Hause ... der Druck geht weiter.Aber ich bin stolz. Familien und Familien wurden auf dem Weg erwähnt.
+STAG_TOWN : Mir wurde hier gesagt ... wir standen uns nach außen sehr nahe. Sie müssen es verwenden, um sich zu entspannen.Dieser Ort ist voller Menschen. Fühle mich jetzt schlecht
+STAG_TRAM : Gibt es zu wenige Züge, um dorthin zu fahren? Ich hoffe, Sie können dieses Zeug leicht hinzufügen.Nur eine Maschine dieser Vorstellungskraft kann ihre Aufgabe erfüllen! Blöd ... wirf das Alte weg.
+STAG_HOPE_1 : Wie ist mein altes Haus, Schatz?<page>Er war in diesem Moment voller Leben. Der Ochse kam und ging und kam zurück und fand die Treiber und ihre Geschichten.<page>Ich fühlte mich lange einsam. Der letzte Schritt.<page>Aber jetzt ... vielleicht etwas. Geruch, Hitze oder Gesicht?Haben einige Hunde das Festland betreten?
+STAG_REMEMBER_3 : Sujata Seyya! Ich bin auf dem Markt geboren und aufgewachsen.<page>Meine Aufgabe ist es, Sie dorthin zu bringen, wo Sie eingeladen sind. Aber wenn Sie es selbst sehen wollen, gehen Sie dorthin.Niemand kann ihn begrüßen. Aber der Port ist immer noch sichtbar. Sag ihm, wir kommen wieder.
+STAG_REMEMBER_2 : Leider haben viele Geschäfte geöffnet. Aber ich kann viel im Land reisen. Das sind alte Straßen und Bürgersteige, die ich vergessen habe.<page>Unterwegs sah ich ein Hirschnest, in dem ich geboren und aufgewachsen bin. Ich habe das Gefühl, dass sein Charakter aus meinem Kopf gelöscht wurde, aber jetzt kann sich die Zeit kaum an die Zeit erinnern.Wer mich schon als Kind aufgemacht und eingeladen hat, findet diesen Ort wieder. Ach, ich liebe dich so sehr!
+STAG_HOPE_2 : Ich mache das Meine Familie ist in meinem Leben viel gereist.<page>Aber ich kam nicht aus der Tür. Ich mag keine Fahrer.<page>Ich möchte sagen, dass es etwas Wichtigeres gibt. Ich werde dein Freund sein, bis mein alter Körper geheilt ist.Wir freuen uns über die alte Form dieses Reiches.
+STAG_RUINS2 : Kurz gesagt, wir gehorchen dem König. Nach ihm wurde der Holocaust-König benannt, der die Grund- und Grundsteinlegung befahl.Der König hat mich nie verflucht, aber ich hatte immer deutlicher das Gefühl, dass das andere Tier Schmerzen hatte.
+STAG_TRAVEL_1 : Sind Sie bereit?
+STAG_END_SPEAK : Interagieren Sie gerne mit Hirschen? Gehen Sie zu dieser Basis, melden Sie sich an und wir werden Sie in Kürze kontaktieren.
+STAG_HIDDEN : Onkel! Wie konnte er sich vor dem Tag der Auferstehung verstecken?<page>Ich wusste nicht, wie tief meine Hose war, bis ich das Telefon hörte. Du hast einen tollen Jungen gesehen!Jahre später gibt es etwas Wunderbares auf dieser Welt ...
+STAG_MEET : Hallo ihr Lieben, der Bahnhof klingelt schon lange. Ich hörte ein Reh, das mich anbrüllte.<page>In den letzten Jahren fühlte ich mich müde, träge und vergesslich, aber es klingelte wieder.Rehe in die Tiefen des Berges. Aus meinem Forum, wenn Sie möchten. Ich werde dich überall hin mitnehmen.
+STAG_RESTINGGROUNDS : Zu Hause ... Pilger beten hier.Nicht immer. Sind die Toten aktiv?
+STAG_REMEMBER_1 : Hast du den Port geöffnet? Ich schätze die Möglichkeit, in mein Land zurückzukehren.<page>Ich ballte meine Fäuste, bis ich keine Luft mehr bekam und wieder aufwachte.Öffnen Sie die Tür und Sie werden geschätzt.
+STAG_EGG_INSPECT : Nährstoffe im Magen haben
+STAG_FUNGUS : Das freut mich leider. Das Queen's Center wird wiedereröffnet. Dieser Ort ist bei ausländischen Touristen beliebt und ein großartiger Ort zum Entspannen.Ich bin der beste Navigator, um diesen Ort zu entdecken.
+STAG_RUINS1 : Ich erinnere mich sehr gut an diesen Artikel. Es ist ein legaler Handel, ein nationaler Preis.Vor allem ist es gescheitert.
+STAG_GREENPATH : Diese Seite hat sich sehr verändert, seit ich sie das letzte Mal gesehen habe. Im Winter wächst die Pflanze als Nahrung.

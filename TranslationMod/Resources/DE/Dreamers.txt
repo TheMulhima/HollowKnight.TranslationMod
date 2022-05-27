@@ -1,0 +1,73 @@
+DREAMERS_INSPECT_MONOMON1 : In Ihrem Aquarium ist etwas Helles.
+DREAMERS_EC1_1 : Versuchen Sie, den Pfau zu brechen?
+FAKE_GREET_3 : Bitte lehnen Sie sich zurück und entspannen Sie sich.
+For diversity. For variance. For evolution. I become bond upon the Vessel. : 
+LURIEN_CONVO_4 : ... Dämmerung ..
+To sleep eternal, what difference from death? : 
+DREAMERS_INSPECT_RG6 : Die besten Plätze werden auf der Karte angezeigt
+DREAMERS_INSPECT_RG2 : Monoman, der Meister der Arktis, bedeckt sich mit Eis und Schnee.
+DREAMERS_EC1_3 : Es muss aufhören.
+DREAMERS_EC2_2 : Kommen Sie in den Schatten und schlafen Sie bequem.
+LURIEN_CONVO_6 : ... Regierung ...
+<br><br>Open your minds, brother and sister.<br>Our vow was to protect...but do we? The Vessel weakens. : 
+Unused Below : 
+DREAMERS_INSPECT_RG4 : Im Tempel des HERRN der Heerscharen, Er ist in den Wolken des Königreichs.
+DREAMERS_EC1_1A : Lass das Siegel brechen. Sie müssen verletzt worden seinIch habe eine Weile im Schatten geschlafen. Wir durchqueren die Sicherheitszone.
+Remember our promise, sister!<br>We three vowed to protect the seal with all of our devotion. : 
+Only one path I see. The Seals must break. Will it bring destruction? Of course. It will bring change, too. Let it.<page>To live forever in an unchanging world... Death, I would fear less. : 
+For my daughter and my kind, I become bond upon the Vessel. : 
+It matters not. Our Seals remain. This shadow seeks to defy us... It must be cast away. : 
+That plague, it calls to something within. But that union it offers is a lie, the cost, a mind regressed. : 
+DREAMERS_INSPECT_LURIEN : Die Form des Bettes ist heilig und hängt vom Steinmarmor ab.
+More detached than the other dreamers? Maybe ponders how the Hollow Knight (vessel) feels after all this time. Would he make the same choice again?First few dialogues are very taciturn : 
+HEGEMOL_CONVO_1 : ... rutscht ... Baby ... Baby ...
+LURIEN_CONVO_3 : ... Banye ...
+What compels you to claw your way out of the darkness? What compels your return to this sacred kingdom? : 
+Go no further, little shadow. : 
+Talks about her history: As part of the agreement for her alliance and her role as a dreamer, King gave her a child (Hornet). Was she allowed to keep this child or was she taken away? : 
+DREAMERS_EC2_1 : Er hat den Ring zerbrochen. Bilder können nicht gelöscht werden <br> müssen gelöscht werdenSchaffe leere Hoffnungen. <br> Angemessene und unabhängige Ausrüstung. Das Ende des Lichtschiffs. Also, was ist es? Es ist sehr schlecht. Befreie das Boot, zerstöre das Meer. ablehnen.
+<br><br>Do you truly wish to break it...?<br>Do you have the strength, or the will...? : 
+LURIEN_CONVO_1 : seine Großzügigkeit ...
+FAKE_GREET_4 : Es ist warm und sicher. ich
+How long has passed? How long have we slept? : 
+DREAMERS_EC1_4 : Lassen Sie sich nicht täuschen. Ich kehre in die Dunkelheit zurück. + Gib uns Frieden.
+LURIEN_CONVO_5 : ... Schutz  ...
+What calls it from beyond the Seal?<br>The Vessel, or that captive light? : 
+DREAMERS_INSPECT_RG3 : Lurian Ranger - Werde tropisch
+DREAMERS_EC1_2 : Leugne sie nicht.
+FAKE_GREET_2 : wir sind Freunde. Hey. Lehne Dich zurück und entspanne.
+Our King appears as bug, and I shall take him as so.But his are traits that transcend our kind. His is a mind beyond ours. Deity given form.In sleep, I shall not look upon his like again. : 
+Fade away, little shadow.<br><br>Fade away, and allow us sleep in peace. : 
+MONOMON_CONVO_1 : Um sich zu ändern, nicht ...
+MONOMON_CONVO_2 : Eine Welt, die sich nicht verändert
+DREAMERS_INSPECT_RG5 : Wegen ihrer Ehrlichkeit bleibt keine Zeit für Halloween.
+MONOMON_CONVO_4 : ... hana ...
+My mind is seal upon that tragic being. But who shall teach them now? Who shall open their minds, where I cannot? : 
+MONOMON_CONVO_6 : ... Ja, es ist vorbei ...
+DREAMERS_INSPECT_RG1 : Das Auto schlief ein, um das Flugzeug zu erreichen.
+It would break the Seals.<br>They cannot be undone.<br>They must be undone.<page>An empty vessel to bring hope.<br>A strong vessel to bring stagnation.<br>An enlightened vessel to bring an end. : 
+DREAMERS_EC2_1C : Die Bombe konnte nicht entfernt werden
+To live forever in an unchanging world... Death, I would fear less. : 
+<br><br>Remember our bond... our sacrifice. For the kingdom's sake... for the one we must protect. : 
+HEGEMOL_CONVO_6 : Kleider ...
+HEGEMOL_CONVO_4 : ... für jemanden ...
+HEGEMOL_CONVO_5 : Nur wenn ...
+HEGEMOL_CONVO_2 : .. .. .. Beige Mira. .. ..
+HEGEMOL_CONVO_3 : Ich werde mein Bestes geben ...
+DREAMERS_EC2_1A_2 : Was schützt dich vor der Dunkelheit? Wer ist der Nächste im Heiligen Königreich?
+MONOMON_CONVO_3 : Der Stempel muss beschädigt sein ...
+We sealed that plague, and thought we'd found an answer, but we were wrong.<page>Our sacrifices... what did they win us? A world sealed in stasis. : 
+<br>As you say... we made a promise. Let it be done. : 
+MONOMON_CONVO_5 : ... stets ...
+LURIEN_CONVO_2 : ... Marina. Treffen ...
+FAKE_GREET_1 : Ja. Ich bin müde vom Sitzen.
+DREAMERS_EC2_1G : Unsere Verantwortung wächst. Es muss passieren.
+DREAMERS_EC2_1F : Es muss abgelehnt werden.
+DREAMERS_EC2_1E : Aber unsere Robben sind sicher. Es ist unsere Aufgabe.
+DREAMERS_EC2_1D : Doch das Schiff drohte zu sinken. <br> Die Epidemie ist zurück. Sie müssen es löschen.
+FAKE_GREET_5 : Hallo Du willst frei sein. Überzeugung.
+DREAMERS_EC2_1B : Wird die Leine zur Leine oder zum Schiff gehen, weil das Feuer aus ist?
+DREAMERS_EC2_1A : Bewegen Sie den Schatten nicht
+DREAMERS_INSPECT_HEGEMOL : Diese Statue steht auf einem Felsen.
+This little shadow...<br><br>Must return to its darkness. : 
+DREAMERS_INSPECT_MONOMON2 : Er hat viel im Pool geschlafen.

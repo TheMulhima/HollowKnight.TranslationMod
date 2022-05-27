@@ -1,0 +1,38 @@
+FUNGAL_WASTES_GREET : Oh, mon ami, tu me connais au bon moment. À la fin, vous vous êtes mis en colère et vous vous êtes moqué de ces grottes.<page>Une telle ville est définitivement votre terre dans cette région. Si possible, je recommande de les éviter.<page>Ci-dessous se trouve une étrange créature. Ils sont comme un groupe intelligent.Quand j'étais petit, j'essayais de les laisser partir, mais j'avais peur que s'ils étaient lourds, les adultes ne les contrôlent pas.
+GREENPATH_GREET : Ne ressemble pas à une route ? Un tel endroit était bondé et bondé. Les routes deviennent incroyables.J'ai fait de mon mieux pour écrire une "carte" de la région, mais je dois admettre que certains habitants étaient très contrariés.
+CROSSROADS_BOUGHT : Comment avez-vous obtenu ma carte ? J'ai essayé d'aller aussi loin que possible, mais la carte fonctionnait toujours.Si vous voulez créer votre propre carte, vous pouvez acheter la boîte à cartes de mon mari chez Dirtmas. J'ai ouvert une petite boutique pour payer les factures.
+MINES_GREET : La pierre vient-elle ? J'ai entendu parler de montagnes là-bas, mais elles sont loin et je ne veux pas être grande.
+CORNIFER_AGAIN_DP : Quoi. Vous avez des questions sur l'achat d'une carte ?
+CROSSROADS_GREET : Il y a longtemps, es-tu encore sur la route ? Imaginez entrer dans un monde gouverné par Earl Karma.Oh, je dois demander... Voulez-vous acheter cette carte... ?
+FUNGAL_WASTES_BOUGHT : La grotte n'est pas mauvaise, ce qui la rend mauvaise. Mon corps est très sensible car il n'a pas d'odeur.Parce que vous n'avez rien entendu ?
+CLIFFS_GREET : Vous aimez le vent ?<page>Dans ce cas, vous pouvez le faire vous-même. Bien que ce soit un bon moyen de traverser la partie étroite de la grotte.J'ai fait une petite carte de la région, ce qui est très pratique et économique. Ne pas connaître la taille de l'univers peut être source de confusion.
+FOG_CANYON_GREET : Bonjour! Étrange, mais Holonest s'est de nouveau intéressé à cette bière.<page>Pouvez-vous voir une porte noire au sol ? Malgré tout le travail acharné, je ferai de mon mieux pour empêcher cela.Puis j'ai repris mon souffle, changé un peu, mais heureusement j'ai trouvé un autre moyen d'y arriver.
+MINES_BOUGHT : Je tiens la tasse. Il est allé partout. Au réveil, pensez à vous.
+WATERWAYS_BOUGHT : Je pense que ces tuyaux et raccords fonctionnent pour éliminer les ordures ménagères. Ça pue. Heureusement il a beaucoup plu.
+DREAM : Collection... Tu plaisantes... J'ai envie de partager ses sentiments dans Chevalet...
+ABYSS_GREET : Une grotte antique qui ne connaît pas le poids de l'état ? C'est un gros problème.Je ne pense pas que quelqu'un soit si profond. Nous sommes leaders avec vous. Tout doucement
+CORNIFER_ISELDA : Les cartes peuvent être un outil utile, mais elles ne vous montrent pas où vous vous trouvez. Si vous n'avez pas d'autre choix, je vous recommande d'acheter des oignons magnétiques à votre femme Izelda.<page>Lorsque nous avons ouvert un nouveau magasin de cartes à Dortmouth, il vendait tout aux touristes comme vous. Il vend aussi parfois mes anciennes peintures.Lorsque vous créez un site, vous le verrez encore et encore. Il était tellement content de me voir.
+DEEPNEST_GREET : C'est ma tranche de banane préférée en flacon d'écureuil P. devenue noire.J'espère que tu es prêt. Mais si vous êtes prêt à embarquer, pourquoi n'apporterais-je pas une lettre ?
+DEEPNEST_BOUGHT : Les créatures en colère doivent travailler dur pour sortir de ce trou noir. Je pense que je vais le garder ici un moment.
+FOG_CANYON_BOUGHT : Il y a une grande maison au milieu du lac, voyez-vous.<page>J'ai essayé d'y arriver, mais en fait ils se sont cachés à l'arrière c'était fin et rugueux.Voix. Ils apportent aussi la honte et le chagrin.
+CORNIFER_INTRO_1 : Oui, je ne me sens pas bien. Je pense qu'il y a BT. Oui désolé. Si vous êtes seul et que vous passez beaucoup de temps à réfléchir, vous oubliez la beauté.
+CORNIFER_NOT_ENOUGH_DP : N-Geo n'est pas bon ?
+CORNIFER_REFUSE_DP : Vous n'aimez pas les cartes?
+OUTSKIRTS_GREET : la grotte n'est pas belle ? Je me promenais dans le désert et j'ai trouvé un très bel endroit.Mais bien sûr, les citadins étaient en colère. Mais le village est calme dans cette partie du village.
+CITY_BOUGHT : Nous travaillons tous les deux dur pour atteindre cet endroit merveilleux. Quand je regarde ces maisons, je me souviens en avoir acheté une ou deux à Isilda.
+CORNIFER_REFUSE : Es tu intéressé? Oui, c'est facile à comprendre. Naviguez sans carte et trouvez votre chemin à travers un trou inconnu...A revoir en voyage.
+CORNIFER_INTRO_2 : Je m'appelle Karnwal et j'adore parcourir le monde. Oui, quand je suis né, j'ai quitté ma sœur et ma pauvre mère !<page>Alors mon mari et moi avons déménagé à Dermot. C'est un endroit magnifique et sans fin à explorer de vos propres mains. Qui peut s'opposer à lui ?Mais, je vous laisse revenir sur votre parcours. Si vous réussissez, vous me reverrez. Soyez prudent et tenez-vous la main!
+CORNIFER_MEET_DP : Je suis. Cornever. Je suis un artiste professionnel essayant de faire un nid épais à partir du bas. Mais c'est trop dangereux pour une erreur comme la mienne.<page>Les animaux tournent autour de la terre. La route était sombre et orageuse. Qui est un bon leader ?Si vous n'êtes pas prêt, gardez-le précieusement. Mais il vaut mieux rester à l'écart. Vous voulez acheter des billets avec My M-My ?
+CARD : Désolé, tu me manques ! Si vous manquez quelque chose, pourquoi ne pas acheter une carte Dartmouth dans notre magasin ? Disponible maintenant à un prix avantageux ! <br> - Viande
+ROYAL_GARDENS_GREET : Avez-vous entendu parler d'une princesse? Ces jardins sont sous votre responsabilité.<page>Maintenant sous l'emprise de la violence.Bien que je ne puisse pas vous saluer, merci de votre visite. tu veux voir mon travail
+CORNIFER_PROMPT : Vous voulez acheter un billet ?
+CLIFFS_BOUGHT : Je fais des blagues avec des cailloux. Sa maison est près de cet endroit.C'était un homme très courageux et sans aucun doute certaines personnes avaient un cerveau. Tu peux t'asseoir entre moi et lui.
+ROYAL_GARDENS_BOUGHT : Le centre des cerfs est situé au centre du parc. Si rien ne peut m'arrêter, je suis là.
+GREENPATH_BOUGHT : J'ai vu un autre vol atterrir. J'ai appelé mais je n'ai pas eu de réponse. Personne ne t'aime et j'apprécie la carte.
+CORNIFER_MEET : Qu'est-ce qui pourrait être mieux? Désolé, voulez-vous voir ces œuvres étonnantes ? Laisse-moi partir !<page>Je veux les voir. Perdre et trouver un moyen de revenir est une joie. Toi et moi sommes très heureuxJe suis un artiste, et maintenant je copie cet espace. Voulez-vous toujours acheter mon livre ?
+WATERWAYS_GREET : Oh! Cet appât est-il amusant ? Puzzle tuyaux et tunnels.<page>Je n'ai jamais espéré un meilleur endroit pour utiliser mes connaissances. Tout était parfait comme je le pensais, rien 7.Mais mon corps est horrible. Le reste des champignons est venu Je suis toujours mouillé Parfois j'aime bien lire cette carte.
+CORNIFER_AGAIN : c'est génial? Vous avez décidé d'acheter un billet ?
+ABYSS_BOUGHT : aller à la boutique. J'ai laissé respirer mes jambes.Mais bientôt! Iselda ne voulait pas suivre.
+CITY_GREET : Cela ressemble-t-il à une grotte ordinaire? La pluie est triste pour tout le monde et la maison est belle.<page>Bien que j'aime ça, il est difficile de peindre différents endroits.Peut-être souhaitez-vous déjà acheter un exemplaire de mon succès ?
+OUTSKIRTS_BOUGHT : Il semble que les agriculteurs n'aient pas pris la peine de reconstruire cette grotte. Je me demande quel est le problème.
+CORNIFER_NOT_ENOUGH : Pas assez de temps? Je comprends, mais mon mari voudrait que je lui dise. "Tout ce que nous mangeons", a-t-il dit.

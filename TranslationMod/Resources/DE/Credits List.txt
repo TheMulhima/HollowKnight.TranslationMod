@@ -1,0 +1,94 @@
+PERMA_UNLOCK_UNLOCK : öffnen
+CREDITS_PORTING_LEAD : Übertragung - Haisprung
+CREDITS_PORTING_LEAD_NAME : hier
+CREDITS_ENVIRONDRESSING : Ihre Produkte sind umweltfreundlich
+MR_MUSH_CONTINUED : Lass es da
+PERMA_GAME_OVER : Spiel ist aus
+CREDITS_INDIE_FUND : mieten
+CREDITS_THANKS_MUSIC : Danke für das Lied
+CREDITS_VOCALS_NAME : Aurelie Jones
+CREDITS_TESTERS_MAC_NAME : David Cain Marcus Herrick Jonathan Penny Wayne Forge
+CREDITS_ADDITIONAL_CODING_NAME : David Lancaster <br>Michael Jenkins
+CREDITS_LOCAL_LEAD : Hör auf Amit
+CREDITS_TRANSLATE_CHINESE_NAME : Y UN Wei <Kopie> Ru iyuanli <Kopie> X UanSU <Kopie> St. <em> Wesley King <Kopie> Stevenson.
+CREDITS_ADDIT_TRANSLATE_JAPANESE : Andere Übersetzungen: Japanisch
+CREDITS_ENVIRONDRESSING_NAME : Tyler Bartley <br> Nathan Elmer
+CREDITS_TRANSLATE_CHINESE : Übersetzung: China
+CREDITS_CONGRATS_BODY_PERMA : Er spielt gut und zeigt, dass er Eisen in sich hat <br> Vielen Dank, dass Sie sich die Zeit genommen haben, die Welt, die wir geschaffen haben, zu entdecken und zu erobern <br> Wir werden Sie beim nächsten Mal mit einer neuen Herausforderung treffen ...
+TUTORIAL_CREDIT_SCORE : Verhandlungen und Konsultationen b
+CREDITS_EXTRA_THANKS : Danke sehr
+CREDITS_TESTERS_NAME_COL_02 : Ayako Hibino – Ben Newhouse – Pirates-Rob – Born_Fo 3 Nicks – Kyle Palver – Greg Smith – Luke Soris – Matthew White – Ingen Gentzuken – Benjamin Zarib <br>
+CREDITS_TESTERS_NAME_COL_01 : Harry Dimitrios - Taylor Bartley - Lily Carlisle - Joshua Clark - Andrew Cook - Sean Cross - Eugene Kram Richard <br> Rohan Fraser <br> >> Tobias Gott
+PERMA_UNLOCK_TITLE : Gehirnmaschinenmodell
+CREDITS_TESTERS_MAC : Spieletester - Mac
+CREDITS_SCORE : Ton- und Musiksammlung
+CREDITS_ADDIT_TRANSLATE_RUSSIAN_NAME : Daniela Avistav - Andrei Turpin - Alexandra "Alvina" Kolobeva
+CREDITS_ADDIT_TRANSLATE_RUSSIAN : Andere Übersetzungen - Russisch
+CREDITS_ADDITIONAL_ENEMYCODE : Achter Versuch
+PERMA_GAME_OVER_BODY : Mut ist ein Zeichen von Mut. <br /> Endlich beruhigt sich dein Schatten.
+CREDITS_CHARVOICES : Es hat ein sehr einzigartiges Aussehen.
+CREDITS_ADDIT_TRANSLATE_KOREAN : Die Bibel ist zurück in Korea
+CREDITS_GUITAR : etc:
+GAME_COMPLETE_PERCENTAGE : Prozentsatz
+CREDITS_TECH_DIRECT : Systemanok.
+CREDITS_TRANSLATE_BPORTUGUESE : Hochwertige Übersetzungsdienste von Brasilien nach Portugal
+CREDITS_VIOLA : ᲑSeite
+CREDITS_ADDITIONAL_CODING : Andere Verschlüsselungstools
+CREDITS_TRANSLATE_ITALIAN : italienische Übersetzung
+PERMA_GAME_OVER_CONTINUE : Um fortzufahren, drücken Sie die Taste.
+CREDITS_FIGSCULPTOR_NAME : L-Avukat David Diazo
+CREDITS_TRANSLATE_BPORTUGUESE_NAME : Lucas "Luca" Fernandez - Venesia "Anggur" Jose - Jonas Brida "Patega!" <br> Luis Fernando SMS Maya - Guillermo Antonio Canani - Vincius de Miras Miguel <br>
+CREDITS_PORTING : Wir lernen mit einem Hai zu springen
+CREDITS_MARKET_JAPAN_NAME : Die Beine sind gut
+CREDITS_THANKS : Vielen Dank
+CREDITS_ADDIT_TRANSLATE_KOREAN_NAME : Joan Wassil
+CREDITS_INDIE_FUND_NAME : Jeffrey Rosen John Graham Ben Newhouse tötet Fulber-Pilot Ron
+TUTORIAL_CREDIT_NAME_01 : Ja, Technik ist weit verbreitet.
+TUTORIAL_CREDIT_NAME_02 : Wilhelm weiß es nicht
+CREDITS_TESTERS : Sportbericht
+TUTORIAL_CREDIT_NAME_04 : Matthäus Griffin
+TUTORIAL_CREDIT_NAME_05 : Matthew Griffin ၏ "Ancian" ။
+CREDITS_ADDITIONAL_ENEMYCODE_NAME : es hieß ursprünglich Sigli
+CREDIT_PROGRAM : Werkzeuge in der App
+CREDITS_TRANSLATE_RUSSIAN_NAME : Alexander der Große
+CREDITS_PORTING_NAME : Matt Le Krupa – Somas Pierce – Tom Lee – Brad Wesson
+CREDITS_PROGRAM_ADDIT : Neues Programm
+TUTORIAL_CREDIT_GAME : Sportjournalist
+CREDITS_PORTING_TEST_NAME : Jacques Paris
+CREDITS_SCORE_NAME : Christoph Larkin
+CREDITS_CHARVOICES_NAME : Makoto Cozy, Doris Bartley, Harry Demetrius, Matthew Curfew, Hannah Murdoch, Bill Nortcott, Sarah Blanc, Victoria Roberts, Cassandra „Frisk“ Warren, Nucleus Esrick.
+GAME_COMPLETE_TITLE : Alle Spiele.
+CREDITS_GAME_BY_NAME : Tim Kirsch
+CREDITS_THANKS_NAME : Ludum Dare - Warren Peyn - Rohan Freyzer - Ben Gibson - Tim McBurney - Trent Kosters - Morgan Japit - Rod Yago - Tim McBurney - Tim McBurney Jason Tolaid & Zara Flann & Victoria Roberts & Lily Sim & Nicola Stark & ​​Sherry Stone & Stephen Sun & Matt Truvian & Dan Treble & Peter Young <br> jyny fyjwd <br>
+CREDITS_PORTING_TEST_LEAD : Der Hai hat die Fahrprüfung bestanden
+CREDITS_TRANSLATE_RUSSIAN : Russische Übersetzung
+CREDITS_INTERNS_NAME : James Gilham <br> James Rose McNap
+CREDITS_PROGRAM_ADDIT_NAME : Jack the Weed ist roh
+CREDITS_VIOLA_NAME : Tim Shell
+CREDITS_CONGRATS_BODY : Okay, du hast gute Arbeit geleistet. Harte Arbeit bringt viel Geld. Genießen Sie die Welt bei Nacht. edel
+CREDITS_VOCALS : Der Schlüssel ist der Ort der Tränen.
+CREDITS_EXTRA_THANKS_TEXT : Unterstützen Sie 2158 in Kickstarter
+CREDITS_ADDIT_TRANSLATE_GERMAN : Andere Übersetzungen - Deutsch
+CREDITS_ADDIT_TRANSLATE_GERMAN_NAME : Tobias Gehrt, Alessandro Raphael Adams, Daniel Speckman, Mercedes
+GAME_COMPLETE_TIME : OGE
+CREDITS_MARKET_JAPAN : Japanische Schreibunterstützung
+CREDITS_TRANSLATE_FRENCH : Übersetzung: Französisch
+CREDITS_ADDIT_TRANSLATE_SPANISH : Wörter ins Spanische übersetzt
+TUTORIAL_CREDIT_NAME_03 : David Casey
+CREDITS_TRANSLATE_JAPAN_NAME : tat
+CREDITS_INTERNS : Großvater
+CREDITS_SOUND_ASSIST : j zusätzlich
+CREDITS_LETH : Public-Relations-Marketing
+CREDITS_SOUND_ASSIST_NAME : Tim Whit
+CREDITS_GAME_BY : da
+CREDITS_CONGRATS : Ausbildung
+CREDITS_ADDIT_TRANSLATE_SPANISH_NAME : Daniela Ruiz "Jazz"
+CREDITS_THANKS_MUSIC_NAME : UJeff Van Dyk-Russell Larkin-Michelle Larkin-Fabian Malabella-Andreana Turn-Angela Valdeva
+CREDITS_TRANSLATE_FRENCH_NAME : Gebildet.
+CREDITS_TRANSLATE_JAPAN : iPhone-Einstellungen
+CREDITS_ADDIT_TRANSLATE_JAPANESE_NAME : Ich mache es jeden Tag.
+CREDITS_TRANSLATION : Sprachübersetzung
+CREDITS_TRANSLATE_ITALIAN_NAME : Federico Guetta de Marco Bartolucci F. Vacna
+PERMA_UNLOCK_BODY : Kein Schaden, keine Auferstehungsszenen. Der Tod ist ewig <br> Toller Beweis.
+CREDITS_FIGSCULPTOR : Tischler
+CREDITS_TEST_LEAD : beruflich

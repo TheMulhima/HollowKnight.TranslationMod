@@ -1,0 +1,14 @@
+CITY_OF_TEARS_1 : abonado:
+DIRTMOUTH : Beber
+DEEPNEST : lejos de la ciudad
+KINGS_STATION : Estación Real de Ferrocarriles
+RESTING_GROUNDS : vacaciones generales
+HIDDEN_STATION : Las mentiras son un misterio
+STAG_NEST : venado de la casa
+ROYAL_GARDENS : El jardín del rey
+GREENPATH : verde
+STATIONS : Mesero
+BONE_FOREST : Botsuana
+CROSSROADS : Olvidé la habitación.
+FUNGAL_WASTES : Áreas montañosas
+PALACE_GROUNDS : hola casa

@@ -1,0 +1,10 @@
+ISELDA_MEET : ¿Compraste un boleto? Por supuesto que mi marido tiene que hacer esto por ti. ¡Pero es un milagro! buceo<page>De vez en cuando venía a la tienda y me compraba un billete nuevo. Pero supongo que estoy sentado aquí, no me gustan los anunciosAhora mira lo que estoy vendiendo aquí.
+ISELDA_REPEAT : Estás feliz con la temporada festiva, a veces Halloween sorprende a mi esposo, a veces creo que es un lugar peligroso.
+ISELDA_DREAM : Dejé caer mi arma y Connie me miró y sonrió feliz. Quiero enderezar mis piernas... por poco tiempo...
+ISELDA_NEW_MAP : Issel DA_NEW_MAP
+ISELDA_GREET1 : Elegimos una ciudad lejana. Por un tiempo pensé que estaba ahí pero mi esposo quedó embarazado por una vieja historia.Está sentado allí ahora. Dice que el arte es un buen negocio, pero si no, ¿quién lo compra?
+ISELDA_CORNIFER_HOME : La casa de Cornelio está aquí. Pero cada vez que es humilde y humilde, se enoja con el necio.<page>Creo que durmió mucho tiempo. Así que tuve que salir de casa.<page>Oh, pero me equivoco en que me gusta. Su error lo anima a volver a ver a su novia en el mapa.Corno me pidió que fuera a un concierto con él. Pero todavía me niego, ¿tal vez estás de acuerdo?
+ISELDA_NOSTOCK : ¿Tiene alguna otra sugerencia? Lo sentimos, lo compramos, no estamos en el mercado.Carniver está emocionado, pero piensa que su celda geográfica ha terminado.
+ISELDA_GHOSTPIN : Karen notó el estado especial del gobierno y el cementerio. Hice una nueva aguja para matar.Fue muy difícil de hacer y trabajé en el detalle. Es un buen precio, así que creo que es muy caro.
+ISELDA_TRAMPIN : ¿Se parece a un gran vagón de metal llamado tranvía de Halloween? Según Old Carney, no creo que me necesite.<page>Informé a la estación. Esto se puede utilizar siempre que desee recargar su tarjeta.No recibí un regalo porque fue fácil.
+ISELDA_DREAMTREE : El hombre me dijo lo que estaba pasando debajo del campo, oró por una indicación en la aguja.Matar encontró mi signo más fácil que una tribu. Pero no creo que eso sea algo malo. ¿Quién quiere comprar un bolso abierto?

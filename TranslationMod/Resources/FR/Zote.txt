@@ -1,0 +1,79 @@
+PRECEPT_29 : Charia 9 : "Joyeux anniversaire".L'accès à la grotte est facile. Vous avez une bonne carte magique dans votre tête. très utile
+PRECEPT_39 : "Mangez vite, buvez lentement", dans le réservoir 39.Votre corps a besoin d'une stimulation plus légère et plus forte. La nourriture doit arriver rapidement, mais l'eau doit être bue lentement.
+PRECEPT_19 : Règle 19 : "Respirez et vous réussirez."Si vous voulez faire quelque chose, vous pouvez le faire. Si vous échouez, vous échouez ! éviter de.
+PRECEPT_9 : Astuce 9 Gardez votre maison propreVotre maison est l'endroit où vos objets de valeur sont stockés, vous devez donc essayer de la garder aussi propre et rangée que possible.
+PRECEPT_57 : Réponse 57 : "Suivez toutes les règles."<page>Il est important de se rappeler et de suivre ces commandes. Et la lune !Ouais, tu parles vraiment de moi, n'est-ce pas ? Recommencez et répétez les 15 règles de la gelée.
+PRECEPT_7 : Règle 7 : "Ne pleure pas à mort."La mort est-elle bonne ou mauvaise ? Je ne peux pas dire pourquoi la douleur a été ignorée. c'est le week-end ?
+PRECEPT_4 : Règle 4 : Oubliez le passéLe passé est douloureux et y penser peut vous rendre triste. Réfléchissez plutôt régulièrement.
+PRECEPT_5 : Le Cinquième Commandement : La vertu vient par la force.L'ennemi est-il fort ? Nouveau! Tuez-les et mangez vite.
+PRECEPT_2 : Ils rient deux fois.<page>Tout le monde a ri, y compris le propriétaire. Il écoutait et riait joyeusement ! La gomme se propage comme une maladie et bientôt tout le monde vous regarde et rit.Une action urgente est nécessaire pour arrêter la propagation de cette source de joie satanique.
+PRECEPT_3 : Règle 3 : "Toujours se reposer".La guerre et les voyages peuvent être dangereux pour le corps. Au repos, le corps devient plus fort et plus souple. Très calme, bruyant.
+PRECEPT_43 : Article 30 "Désolé"Par exemple, lorsque vous vous excusez auprès de quelqu'un, votre famille ne parle peut-être pas toujours la même langue. Ce montant n'en vaut pas la peine.
+PRECEPT_53 : Règle 53 : "Voler les autres"Tous les animaux ont leurs besoins. Si vous en connaissez d'autres, ne le faites pas. Il vous rendra heureux.
+PRECEPT_23 : Action 23 "Voyez la faiblesse de votre ennemi."Chaque ennemi que vous rencontrez est aussi faible qu'une balle cassée ou un rêve. Vous devez toujours être prêt à vaincre vos ennemis et reconnaître votre faiblesse.
+PRECEPT_33 : Règle 3 : Ne détestez pas l'ennemi.C'est mal de croire en l'ennemi. Si quelqu'un vous rencontre, respectez-le. La grâce n'est pas l'amour.
+PRECEPT_13 : Règle 13 : "N'ayez pas peur."La peur n'est rien d'autre que le stress. Le contrôle des catastrophes est très difficile. Alors n'ayez pas encore peur.
+PRECEPT_37 : Règle 37 : "Ne prêtez pas, mais prêtez."La dette n'a pas été payée. Si vous empruntez mais que vous n'êtes pas payé, toutes vos peurs reviendront.
+PRECEPT_17 : Règle 17 : "Croyez s'il vous plait."Personne ne te cherche sauf la personne en qui tu peux avoir confiance. Vous ne serez pas déçu.
+PRECEPT_34 : Nombre de commandes. 34 : Ne mangez pas jusqu'à ce que vous pleuriez.Cela provoque du stress et de la constipation. Ces informations sont fournies à titre indicatif uniquement.
+ZOTE_COLOSSEUM_REPEAT : Faites cette erreur. Vous devez vous reposer avant le début du match. Ne manquez pas mon père...
+ZOTE_COLOSSEUM_MEET : Hmmm? Quelle voiture veux-tu? Donne-moi tes sourires<page>Stupide! Pensez-vous toujours que j'ai choisi?<page>Mais n'oubliez pas de m'inclure dans votre travail !Je l'ai fait! Et quand j'appuie sur « Live » sur mon doigt, vous riez tous !
+ZOTE_DREAM_COLOSSEUM : Malheureusement, je ne les ai pas vus vivre ici.Je suis venu dans ce pays pour jurer.
+ZOTE_TOWN_REPEAT : Hmph spam. Mauvais temps et la ville ressemble à un rat. Je reviendrai
+PRECEPT_8 : Règle 8 : « Voyager seul ».Personne ne peut faire confiance et personne n'écoute toujours. Donc, personne ne veut être amis pour toujours.
+ZOTE_DREAM_BUZZER : Des géants stupides ... ont envahi mon corps, plantant des arbres incontrôlables. Ne vous attendez pas à ce qu'il surmonte cette faiblesse.
+ZOTE_CITY_GREET : Ha ha ! Faites attention où que vous alliez. Voyage en toute sécurité. Vous ne voulez pas que je vous juge. Quand je suis triste, j'essaie de rester au sec.<page>Ils sont forts et puissants. grand chef. Décidé de sécher.La ville est maudite. De l'eau et des animaux en tomberont. L'explosion n'a pas surpris le gouvernement.
+ZOTE_BUZZER_1_B : Regarde le pouvoir que j'ai. Revoyez, vous comprenez pourquoi mes armes disent « la fin de la vie ».
+PRECEPT_56 : Cinquante-six commandements : "Ne mentez pas."Les rêves sont dangereux et des pensées étranges entrent dans l'esprit. Ce n'est pas à vous de décider, mais si vous faites face à ces pensées, la douleur dans votre corps disparaîtra. Ne sois pas comme moi
+PRECEPT_26 : Règle 26 : Faites confiance à votre instinct.Si vous avez l'air brillant, vous pouvez voir le visage. Votre toux suit vos mouvements et a l'air bien, mais je ne pense pas que ce soit satisfaisant.
+PRECEPT_36 : en aucun cas. 36. La coquille fœtale n'est pas solide.Ce groupe est également d'accord.
+PRECEPT_16 : Règle seize : N'ayez pas peur.Lorsque vous décidez de l'utiliser, ne regardez pas en arrière. Vous bénéficiez donc d'un bon rapport qualité/prix.
+PRECEPT_46 : Règle 40 : "Le monde est plus petit que vous ne le pensez"Quand tu étais petit, tu disais que le monde était de plus en plus grand. C'est naturel, mais un peu. Tout ce que je peux dire, c'est que je suis sorti dans le monde.
+ZOTE_TOWN_2 : Vieil homme fou ... va t'amuser. L'air dans le trou meurt de lui-même. Il sentait qu'il ne pouvait pas respirer.Elle parle aussi de rêves. N / A! Le rêve d'une vie très courte.
+ZOTE_TOWN_1 : Pourquoi te caches-tu dans un endroit secret ?<page>Oui, vos yeux ne mentent pas. Je suis Dieu Tout-Puissant. un grand héros. Mon corps tremblait devant moi.<page>Il se cache dans son village. Il nous a suivis dans une pièce sombre et a tué de nombreux animaux. La mâchoire est pointue et non irritante.Oui, j'aime toute ma beauté, mais je n'ai pas le temps de t'apprécier ! Faites une pause et préparez-vous pour votre prochain voyage.
+PRECEPT_44 : Quarante-quatre commandements : « Vous ne pouvez pas respirer l'eau.L'eau est claire et si vous essayez de respirer, ce sera très triste.
+PRECEPT_54 : Règle 54 : « Si vous verrouillez quelque chose, gardez la clé.Rien ne peut être verrouillé pour toujours, alors apportez vos clés. Vous êtes de retour : révélant tout ce que vous avez caché.
+PRECEPT_24 : Scénario 24 : vaincre des ennemis faibles.Si vous remarquez que votre ex-petit ami est faible, cliquez sur lui. Il les détruira.
+ZOTE_CITY_EXTRA : Je pense que la hauteur de cette tour va vous surprendre. Oh, j'ai vu une grande tour le long du chemin. Mazi.
+PRECEPT_14 : Étape 4 : Père.S'il y en a un qui est plus sage et plus puissant que vous, respectez-le. Partagez-le.
+PRECEPT_40 : Règle 40 : "Obéissez à vos lois, pas aux lois"Les règles écrites par d'autres peuvent être déroutantes ou compliquées. Faites-en la règle de votre choix.
+PRECEPT_50 : Chapitre 50 ፡ "Protection de la vie privée"Quelque chose dans ce monde nous semble mystérieux. Si le secret n'est pas clair, ne perdez pas de temps et ne vous inquiétez pas. Développement
+PRECEPT_20 : Article 20 - Dire la vérité.Valorisez vos relations avec les autres et soyez honnête. Sachez que si vous êtes gentil, vous serez un ennemi. Tout ce dont vous avez besoin.
+PRECEPT_30 : Règle 30 : "Qui tiendra ma parole ?"Doit être rejeté pour le plaisir car ce n'est pas réel. L'amour et l'amitié sont l'une des choses les plus importantes à éviter dans le mariage.
+PRECEPT_10 : Règle 10 : Porter une arme.Je suis sûr que le Terminator de ma vie est très puissant. Cela facilite la destruction des choses.
+PRECEPT_47 : Vanligen Forty-Seven : "Préparez vos armes."Vous seul, en tant que parent, pouvez connaître la vérité. Enfant, j'ai fait A Life and Bar. Je n'ai jamais été en colère. Moi aussi
+ZOTE_DEEPNEST_2 : Avez-vous traversé ces trous noirs ? Je ne crois pas.Non, je n'ai pas demandé. Je le sais, mais c'est fini.
+ZOTE_DEEPNEST_1 : Ajoutez votre nom ! Qu'est-ce que tu fais, idiot ! Ou le vent souffle-t-il dans le noir ?<page>Tu vas me manquer! Si oui, c'est tout. Il estToi, Seigneur, tu es le secret de sa gloire. Mon arme mortelle effraie des centaines d'ennemis. Allez!
+PRECEPT_48 : Livre 48: "Nous connaissons le feu"Le feu est un nouveau type d'âme qui danse toujours. Il vous garde au chaud et léger, mais si vous tirez beaucoup, il fait froid.
+PRECEPT_28 : Règle 21 : "Ne regardez pas dans le noir."Si vous regardez dans le noir pendant des jours et ne manquez rien, votre esprit se lassera des vieux souvenirs. Le quatrième commandement est d'éviter les zigzags.
+PRECEPT_38 : "Hey de l'armée secrète" de Trente.Nous recevons une puissance incroyable du ciel et tombons sur terre. Si vous restez assez longtemps au ciel, vous détruisez le pouvoir de la terre et vous le détruisez. Ponholo !
+PRECEPT_18 : Verset 18 - "Cherchez la vérité des ténèbres."Ce concept est également expliqué.
+PRECEPT_27 : Le vingt-septième commandement est : « Gardez la ville ici.Manger plus vous donne plus d'énergie et vous permet de manger plus.
+PRECEPT_42 : Quarante-deux : "Prenez le monde."D'autres sont tombés au sol et sont morts. Il vaut mieux en profiter au maximum. Vous pourrez alors profiter de tous les aspects de la vie.
+PRECEPT_52 : Règle 52 : "Méfiez-vous de la jalousie de votre père."Les parents croyaient que nous devions les adorer dès le début et les guider. Si tu veux y aller seul, bats ton père. Ou commander.
+PRECEPT_22 : La loi "pardonne".Je reconstruirai bientôt mon pays. je ne veux pas
+PRECEPT_32 : Règle 32 : "Pas d'autorisation".Les mots ont du pouvoir, alors les mots ont du pouvoir. J'appelle mes ongles "la fin de la vie". Ne vole pas mon nom ! Crée le tien!
+PRECEPT_12 : Épisode 12 : Laissez sécher les vêtements.Les vêtements doivent être lavés immédiatement s'ils sont mouillés. Les imperméables sont faciles à porter et peuvent devenir contagieux.
+PRECEPT_1_R : Méthode 1 : "Toujours gagner la bataille."La guerre ne fonctionne pas pour vous. Gagnez ou rejoignez la bataille !
+ZOTE_CITY_REPEAT : Avez-vous des gardes morts pour eux?L'Amiral n'a aucun problème à créer ses propres événements.
+PRECEPT_6 : Règle 6 : "Choisis ton destin."Nos parents disaient que notre destin était devant nous avant notre naissance. Je ne suis pas d'accord.
+DREAM_COL_CORPSE : Décomposons-le ! Détachez-vous des yeux de lui
+ZOTE_DREAM_FINAL : Je suis venu dans ce pays pour tenir ma promesse. Je suis maintenant<page>Je promets d'être rapide.Suivez les instructions. S'il vous plaît, surprenez-moi, bébé. Je n'avais jamais pensé à ça. Je n'oublierai jamais. Maintenant, j'ai tout ce dont j'ai besoin.
+ZOTE_DREAM_DEEPNEST : Le gouvernement cache alors le trou noir aux meurtriers et aux voleurs. Oui, mais BT n'est pas pour moi non plus.... Château!
+PRECEPT_21 : Commandement 20 : « Prenez soin de votre fondation.Ne vous contentez pas de regarder le monde ! Vous devriez toujours vérifier que vous n'êtes pas déçu.
+ZOTE_DREAM_CITY : Pourquoi l'esprit pleure-t-il ? Est-ce que je ris de ce gouvernement? J'ai versé mes dernières larmes...
+ZOTE_COLOSSEUM_GREET : J'ai lutté toute ma vie. Des centaines ou des milliers d'ennemis ont été tués.<page>Tu penses que ces idiots me combattent ? Le choix! Ils veulent perdre plus.renforcer vos envies
+ZOTE_BUZZER_1 : qu'est-ce que tu fais?! Voulez-vous être avec mon animal de compagnie? Êtes-vous toujours pressé et en colère?
+PRECEPT_45 : Poinçon de Chili : - Non.Bien sûr, mais j'ai essayé de battre d'autres personnes, donc il n'y avait rien, rien d'autre. Fais attention!
+PRECEPT_55 : 55 : Autorisation de quelqu'un.<page>Il y en a d'autres dans ce monde qui peuvent vous persuader de faire ce que vous voulez. Mangez votre terre Votre corps et votre esprit sont censés vous appartenir.Il ne gagne pas d'argent sur ces choses. N'approchez jamais ou n'écoutez jamais leurs instructions.
+PRECEPT_25 : Règle 25 : « Prenez soin de votre maladie.Vous devez vous protéger lorsque les autres essaient de comprendre vos faiblesses. Bonnes compétences en leadership ? Tout d'abord, sans blessure.
+PRECEPT_35 : Règle 35 - "Barres"Quand tu tombes dans les ténèbres, oublions les hauts lieux qui se perdent facilement. considérez cette bague
+PRECEPT_15 : Le cinquième commandement est le baptême.Tout ce que vous avez à faire est de vaincre l'ennemi. Solder. Vous pouvez vaincre votre ennemi en comptant les points de combat.
+PRECEPT_41 : Règle 41 : "Apprenez à connaître les mensonges."Certaines personnes trichent tout le temps. Attention à ne pas regarder sa supercherie et poser des questions cruelles.
+PRECEPT_51 : 51 Connaissances. "Rien de dangereux."Si vous êtes courageux, tout le monde dans ce monde souffrira. Amis, ennemis, monstres, mauvaises voies. Pensez à eux.
+PRECEPT_1 : Mais ce n'est pas le seul risque que je peux prendre pour améliorer ma réputation ! Vous avez remarqué ce prix ? Le souvenir de notre dernière bataille victorieuse est dans les profondeurs de la fosse.<page>Oui, la fin de vie est un autre sacrifice pour le spectateur. Le succès fut honorable et sincère.<page>Je me demande pourquoi je profite? Comme je l'ai dit, selon ma philosophie personnelle, c'est la Règle 55 du Pacte.La première règle est particulièrement valable : « La guerre est toujours vouée à la destruction ». Qu'en est-il des 56 autres règles ? Où ...
+PRECEPT_31 : Jugement 31 : "Maladie, maladie."Cela peut prendre beaucoup de temps pour tomber malade dans un environnement pollué. Vos gens sont très propres.
+PRECEPT_11 : Les mots du professeur: "Tes parents t'insultent toujours."Expliquez-vous ce conseil.
+ZOTE_DREAM_TOWN1 : C'était un endroit sombre... Je me suis perdu dans la maison. Donc...
+ZOTE_BUZZER_2 : Qu'est-ce qui m'inquiète le plus ? Je suis un soldat, je ne m'intéresse pas aux détails des enfants. Cela prendra plus de temps que cela.Ça démarre L'ancre n'est pas cassée...
+PRECEPT_49 : Règle 49 : « Dieu est inutile.ne t'en fais pas! Personne à ce jour n'a fait de vous ou de moi une idole. Pourquoi s'occuper d'eux ?

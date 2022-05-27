@@ -1,0 +1,28 @@
+NAILSMITH_MEET_1 : 你再给我一颗钉子好吗？如果您正在呼吸，请使用它，然后再回来。
+NAILSMITH_DECLINE : 或者谁在乎？ Შ 您的选择
+ART_DREAM : 它已经存在多年并且很棒。
+MODELLING : 我们是一群王国的骑士。当时我们很少听到他们的消息，但 Shio 都记得他们。支持。没有固定期限的雇佣合同。我喜欢所有不同的主题。
+NAILSMITH_OFFER : 随意定制你的指甲。这会损坏表面。
+NAILSMITH_COMPLETE_3 : 我们在写<page>这对我的卷发指甲来说是最难的事情。比以往更对了，正方形。
+NAILSMITH_GREET : 是冷的。你好，你回来了！
+NAILSMITH_COMPLETE_1 : 为什么。完美的准备。<page>我在你的指甲上写一个点。你会知道你比以往任何时候都更强大。去向你的敌人展示你的力量。
+PAINTED_REPEAT : 谁能想到这个鬼会在万圣节的黑暗中相遇？
+NAILSMITH_COMPLETE_4 : 基地又去了。<page>你的指甲比以往任何时候都更坚固。他比以往任何时候都更强大。<page>我刚刚看到你的军队发生了什么事。然后我看到一个指甲干净的女孩。<page>当这样的想法浮现在脑海......我想要时间...
+NAILSMITH_COMPLETE_2 : 在哪里更新<page>为你的指甲增加空间。在帮助他人时，您需要更有辨别力。你很强。去尝试杀死你的敌人。
+NAILSMITH_REGREET : 你告诉我他还在。需要更多？
+NAILSMITH_ACCEPT : 但你喜欢它。所以我工作
+NAILSMITH_KILL_REPEAT : 别担心，我需要你。买给我，你会找到这样的刀。
+ART_MEET : 在家里？你好外国人，我期待再次见到你。<page>当我说不要杀我的时候相信我。起初我很生气，但没过多久我就意识到我决定的严重性。<page>地球是由铁和钢制成的。我在这里开始我的研究并找到了一个快速的解决方案。Shiva 以她的能力和对学习策略的承诺而闻名。我希望你会快乐
+NAILSMITH_SIGN : 这没用。
+MODELLING_REPEAT : 不特别。我不认为我的指甲很结实。
+NAILSMITH_NEED_ORE1 : 当我咬住嘴唇我会用指甲松开它。
+NAILSMITH_NEED_ORE3 : 如果你给他 3 盎司的铅，你就会变得更强壮。
+NAILSMITH_NEED_ORE2 : 如果你给我两个黄色粘土，我可以拉我的指甲并把它们粘上。
+NAILSMITH_KILL : 任何撒谎的人都会停止我的世界就业。我只是想看看和感受我的指甲的效果！<page>在我生命的最后一刻没有停下来，我感到难以置信的监禁。经过这么多辛苦……我不是赚到钱了吗？
+NAILSMITH_NOT_ENOUGH_GEO : 你好，什么是地理？请到我这里来
+NAILSMITH_MEET_3 : 啊!你想要美甲吗？是的，这对我来说非常糟糕，但它不适合我。你的指甲状况不佳。它不是我的，即使使用锋利的剃须刀，你也可以用你所有的心情和技巧来清洁所有东西。
+NAILSMITH_OFFER_ORE : 我见过大象mahen，navo，好铁之类的。我尽可能长寿并加强我的指甲。
+PAINTED : 恐怕我不能说那么多。当我经常移动时，我不喜欢看到 SEO 油漆分布和削减。尽管害怕，但他是一个非常软弱的人。
+NAILSMITH_DREAM_CLIFF : 我热爱我的生活……但是……？
+NAILSMITH_MEET_2 : 阿洛萨？七。我觉得你不一样。
+NAILSMITH_DREAM_INTERIOR : 做你最好的指甲...

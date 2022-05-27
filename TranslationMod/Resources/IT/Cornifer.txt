@@ -1,0 +1,38 @@
+FUNGAL_WASTES_GREET : È stato preso da un amico in lutto. Design e grotta pericolosa.<page>Le prime case della zona furono costruite a terra. È meglio evitarlo se possibile.<page>La gentilezza degli altri mi ha fatto due doni meravigliosi. Segna come una squadra.Ero giovane quando sono andato alla grotta, ma ero preoccupato che se non avessi colpito la grotta, il mio corpo sarebbe cresciuto.
+GREENPATH_GREET : Ci sono effetti collaterali? Punto morbido La strada si spalanca.Lo ammetto, alcuni locali erano un po' preoccupati, ma ho cercato di perdonare.
+CROSSROADS_BOUGHT : Come ottengo la mia carta? Ho provato a farlo ma tutti i file sono spariti.Se vuoi compilare un'altra mappa, puoi acquistare l'app Mappe al piano Drummaus nella classe Mia moglie. Abbiamo creato un piccolo negozio per aiutarti.
+MINES_GREET : Hai scalato la montagna? L'ho sentito nella mia testa. Non troppo lungo o troppo costoso per me.
+CORNIFER_AGAIN_DP : Vuoi acquistare i biglietti?
+CROSSROADS_GREET : Benvenuto C'è ancora neve su questa bellissima montagna? Pensa a portarti in un mondo controllato dal karma. Voglio sapere.Aung Ma Lay. Pensavo di chiederti... vuoi acquistare la mia newsletter?
+FUNGAL_WASTES_BOUGHT : Puzzava di trombe, ma comunque non mi sorpresero. È molto intenso, ma non lo senti.Sorridi
+CLIFFS_GREET : Vuoi trascorrere un po' di tempo Eravamo molto vicini ai confini di Halloween - il deserto intorno.<page>Ero disposto a seguire questa strada, ma è stato divertente al di fuori della caccia ai serpenti.Ha disegnato una piccola mappa della zona. È il più semplice possibile. Non conoscere l'intera area può essere molto frustrante.
+FOG_CANYON_GREET : Come stai! Le dimensioni di Halloween possono sembrare strane, ma questa grotta ha un significato nuovo e strano.<page>Riesci a vedere la porta oscura sotto? Mi fa male qui. Ho cercato di evitarlo.Per fortuna ho trovato un'altra strada, ma quando ho attraversato la strada di montagna ho pianto un po'.
+MINES_BOUGHT : Colpisce il vetro. Sono molto intelligenti e sono ovunque. Piacere di conoscerti quando ti svegli.
+WATERWAYS_BOUGHT : Penso di portare tubi e spazzatura dal bagno alla grande città. Questo è un sogno. Per fortuna pioveva fagioli.
+DREAM : ... definisce il mondo. Divertente se Aselta condivide la sua gioia...
+ABYSS_GREET : Uno di questi è un'antica grotta. Non capisci le pene del regno dei cieli? È un peso sano.Non credo che la maggior parte di loro possa venire a patti con questo. Sei uno scrittore moderno.
+CORNIFER_ISELDA : Le carte sono utili, ma non solo le carte. Se non hai istruzioni, ti consiglio di portare la guida a mia moglie, Ascend.<page>Abbiamo aperto il nostro nuovo negozio di carte a Dartmouth, vendendo tutti i tipi di elementi essenziali per allenatori come Mara. A volte vendo le mie vecchie riviste.A volte ne salto alcuni e mi guardo indietro. felice di conoscerti.
+DEEPNEST_GREET : Questa pagina mi sta urlando. I ragazzi erano poveri e le città erano buie e deserte.Non sono pronto a pensare attentamente e a mangiare?
+DEEPNEST_BOUGHT : La bestia, lavorano sodo per uscire da questo buco nero. Un esempio è la fibra del sacco
+FOG_CANYON_BOUGHT : Questo bellissimo modello del futuro ha una splendida vista sulla piscina.<page>Mi sono spinto in avanti, ma luce e oscurità si sono mescolate.l'anima. Fortunatamente ... non gli piacciono la stupidità e la manipolazione.
+CORNIFER_INTRO_1 : non si è presentato? Sì, devo scusarmi. Se ci pensi a lungo, dimenticherai le funzionalità del tuo telefono.
+CORNIFER_NOT_ENOUGH_DP : Lo odio!
+CORNIFER_REFUSE_DP : Interessato ai biglietti?
+OUTSKIRTS_GREET : Non è vero? Penso che sia stata una vacanza fantastica qui.La città è tranquilla e affollata.
+CITY_BOUGHT : Tutti noi abbiamo passato molto tempo per raggiungere questo posto meraviglioso. Mentre camminavo per la casa, mi sono ricordato di aver portato dei bei gioielli.
+CORNIFER_REFUSE : Allora sei soddisfatto? Nessun rapporto di ricerca identifica dimensioni sconosciute.Ci vediamo per strada.
+CORNIFER_INTRO_2 : Mi chiamo Cornelio. Voglio spiegarlo al mondo. Perché nel primo rapporto mia sorella, mia sorella e mia madre erano rimaste senza.<page>Poi mi sono diretto a Darmouth con mio marito. Un grande regno eterno è arrivato alla nostra porta. Chi può impedirlo?Anch'io ti amo. Vedrai finché non sarà finita. Congratulazioni
+CORNIFER_MEET_DP : Sat Sri Akal. Sono Kanipar. Lavoro nel marketing di M-Mapper. Ho provato a sedermi qui sotto la PP, ma è molto pericoloso per gli insetti come me.<page>Le strade piene di animaletti sono un mistero. Metto la testa sulla sedia, ma non è maleSe non sei pronto ti consiglio di andare, ma se volessi scendere e comprare M-My Little Map?
+CARD : Mi manchi. Prezzo dato! <br>- Mangiare carne
+ROYAL_GARDENS_GREET : Hai sentito parlare della principessa infernale? Queste proprietà possono essere il loro rifugio.<page>Ora entra la mela, gli alberi nella foresta.Anche se non è in viaggio, ma ama venire. Vuoi vedere il mio lavoro?
+CORNIFER_PROMPT : Vuoi una mappa del tuo quartiere?
+CLIFFS_BOUGHT : Ho visto strani vermi su questa roccia. La tua casa non è lontana da qui.Era un artista famoso e fu ucciso. Dubito che tu possa condividere qualcosa come me.
+ROYAL_GARDENS_BOUGHT : Mordi nel mezzo di questa conservazione della natura. Se nessuno mi disturba, arrivo subito.
+GREENPATH_BOUGHT : Sono venuto qui e ho visto delle persone arrampicarsi. Mi ha visto provare a chiamare ma stava scappando. Sì, non sono d'accordo con piani come il tuo.
+CORNIFER_MEET : Casa? Grazie. Vedi le antiche rovine? Non mi interessa<page>Voglio fare la mia ricerca. Trovare e perdersi è più divertente di ogni altra cosa. Io e te siamo molto felici.Sono un fotografo e lo combino. Vuoi una copia del mio lavoro?
+WATERWAYS_GREET : Ciao! Perché questo canale è attraente? Tubi e tunnel.<page>Non potrei trovare un posto migliore per usare le mie capacità. Ricorda che la disuguaglianza della birra non funziona perché tutto è veloce.Sfortunatamente, ma sfortunatamente sento che la mia famiglia vuole entrare in acqua perché il fungo vuole distruggerla. Penso che questa carta sarà sufficiente.
+CORNIFER_AGAIN : Spirito? Hai deciso di acquistare un biglietto?
+ABYSS_BOUGHT : Fermati lì e vai in pasticceria. Lascia che i miei piedi scendano un po'.A dopo! Non importa se Iselda mi nota.
+CITY_GREET : Non è un processo normale? Piove ovunque, ma la casa è bellissima.<page>Alcuni posti sono difficili da espandere e non vedo l'ora.Vuoi acquistare la mia copia?
+OUTSKIRTS_BOUGHT : Quando videro questo muro, gli abitanti del villaggio non vollero ricostruire la grotta. Qual è secondo te la differenza?
+CORNIFER_NOT_ENOUGH : Davvero vivi a lungo? Mi conosco molto bene, ma non credo che mia moglie sia felice. "Mangiamo anatre", dicono.

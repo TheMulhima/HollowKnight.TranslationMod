@@ -1,0 +1,34 @@
+NO_EGGS_REPEAT : Mein Lieblingsduft ist Spaß ... Schönheit. Tatsächlich ist er der großzügigste Mensch der Welt.
+GREET : Und dann glauben Sie mir, was soll ich tun? Lass mich sehen
+MEET1 : Hallo, falsches Kind. Ich kann hier schlafenE. Was bedeutet das? Raus jetzt und wecke mich auf. Nein, ich denke nicht so. Vielleicht helfe ich dir auch.
+RITUAL_BEGIN : Hmmm ... das ist alles, was ich will. Jetzt startet der Dienst wie versprochen.
+WATERWAYS : Ja, es tut mir leid, dass du mir verzeihst. Der schwarze Raum ist von Rohren und fließendem Wasser umgeben. Aber du kannst nicht klar sein ...
+SHADE_OFFER : Wenn du mir zu essen gibst, werde ich deinen Schmerz lindern.
+RITUAL_REPEAT : Hallo, ich hoffe, Ihnen gefällt diese Methode.
+SHAMAN_TEMPLE : Ja, aber BT hat nichts mit mir zu tun. Dada Jis Kali Vein ... ist ein einzigartiger Ort der Anbetung.
+CLIFFS : Ja, B. T. Über uns ein dunkler Ort, umgeben von Wind.
+MEET2 : Ich bin in der Stadt und du brauchst Hilfe, wenn du in mein Zimmer kommen kannst.<page>Weißt du, in dieser Welt kommt unser Schmerz manchmal wie ein schwarzes Loch zu dir.<page>Keine Angst, das Licht der Hoffnung begann.Ist Ihr Sohn traurig? ஒகுரா ...
+DREAM : Wenn Sie einschlafen, wird die Welt dunkler und dunkler.Dark Wind - Bedeckt mich das Cover? Muss ich ins Bett gehen
+ABYSS : Also es tut mir leid. Obwohl wir schwach sind ... in einer dunklen Welt bleiben wir im Dunkeln. Fast ein Teil davon.
+CROSSROADS : Ja, nein BT. Sie hat die Stille schwarzer Straßen und öffentlicher Straßen verloren.
+SHADE_OFFER_INTRO : Ich kann ein Wort der Liebe als Geschenk senden. Möchten Sie es speichern?Hey, ich habe Hunger, würdest du Essen teilen? Jedes Mal, wenn ich bei dir sitze, tut mir der Bauch weh und ich schlafe ein.
+HIVE : Ja, ich sehe dein Leiden. Der dunkle Bereich war mit goldenem Licht bedeckt.
+DECLINE : Kopf? Nun, wenn Sie mir nicht zustimmen, kann ich Ihnen nicht helfen.
+RITUAL_COMPLETED : Oh, und Sie scheinen sich auf Ihr Schmerzbuch zu beziehen, ich würde sagen, es ist das erste Buch. Schau, wie glücklich er ist. jetzt sparen. Ich denke an dich, wenn ich mein Essen koste.
+WASTES : Nun, es ist unverständlich, BT. Dunkler Ort, umgeben von Pilzen und gekochten Körnern.
+NOSHADE : Ha! Du wirst ewiges Leid nicht sehen. Zum Glück möchte ich nicht wie andere arbeiten.
+CITY : Ja, es tut mir leid, dich zu verlassen. Der Black Club befindet sich im Herzen der Hauptstadt. Du kannst nicht sehen.
+SHADE_CHARM : Ihr Arbeitgeber könnte interessiert sein ...<page>Es scheint jedoch, dass er es oft nicht bereut hat.Welche Art von Dunkelheit brauchen die Menschen, um dies zu erreichen?
+QUEENS_STATION : Ja, BT sieht für mich sehr schlecht aus. Dunkle Flecken im Garten, wo die Königin sitzt.
+MINES : Es tut mir immer noch leid. Heller Saphir, dunkel.
+KINGS_PASS : Ja, ich sehe Ihre Beschwerde. Punkte für das Königstor
+COLOSSEUM : Ja, tut mir leid, aber ich glaube nicht. Ein dunkler Ort, umgeben von Dämonen und Narren.
+NOSHADE_REPEAT : Du siehst frivol aus. Du willst nicht für mich arbeiten. Hi
+NO_EGGS : Ups, aber du hast kein Essen. Ich suche definitiv nichts. Ich kann nicht hungern, wenn Sie also etwas Gutes gesehen haben, kommen Sie her ... mit einem echten Anwalt.
+LOST_SHADE : Es tut uns leid! Dunkelheit versteckt sich in der Dunkelheit in uns.
+DEEPNEST : Überhaupt nicht, aber nach der blauen Regel ist ihre Kleidung dunkel und glänzend.
+GREEN_PATH : Ja Entschuldigung. Legen Sie es in eine grüne Schüssel.
+OUTSKIRTS : Ja, ich bereue dunkle Orte am Ende der Welt.
+RESTING_GROUNDS : Ich denke, das ist ein Witz und IKT funktioniert bei mir nicht. Ein dunkler Ort zum Ausruhen an einem heiligen Ort.
+FOG_CANYON : Ja, sorry, der schwarze Fleck ist im Unbekannten verschwunden.
+ROYAL_GARDENS : Ja tut mir leid. Zerstöre den Garten mit schöner schwarzer Kunst.

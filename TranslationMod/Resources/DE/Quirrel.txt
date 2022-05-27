@@ -1,0 +1,49 @@
+DREAM_CITY : Das Herz von Halloween ... schön und verrückt.
+QUIRREL_GREENPATH_1 : Land Ich glaube, wir sind getrennt.<page>Überraschenderweise sammelt diese alte Straße Staub an heißen und feuchten Orten.Das Haus ist ein Ort der Anbetung. Die Statue ist wahrscheinlich längst vergessen. Tragen Sie es bequem.
+QUIRREL_QUEENSTATION_02 : Glaubst du, das ist der richtige Ort für heute? Windkraftanlagen im ganzen Land. Als Hirschstationen arbeiten und leben sie sicherlich.<page>Jetzt wissen sie, dass die Menschen genau wie wir sind.Übrigens finde ich es wichtig, diesen Artikel zu verstehen.
+QUIRREL_GREENPATH_3 : Ihre Nägel sehen vielleicht gut aus, zeigen aber Anzeichen der Heilung.Du bist gegangen, aber ich bezweifle, dass du bald erkennen wirst, wie gefährlich es ist, deine Heuchelei in dieser Welt zu verlieren.
+DREAM_EGGTEMPLE : Wie ... bist du sicher? Es wird dauern, aber nicht immer.Die Maistür ... hat mich offensichtlich verärgert.
+QUIRREL_TEACHER_2 : Zögere nicht, es ist Zeit aufzuhören und weiterzumachen.Weil er tat, was er tat, und weil er großzügig war.
+DREAM_QUEENSTATION : Elch liebt auch Halloween. Was tust du
+QUIRREL_TEMPLE_2 : nicht verwendet
+QUIRREL_TEMPLE_3 : Verwende nicht
+QUIRREL_TEMPLE_1 : Ich bin wahrscheinlich am Freitag angekommen. Es gibt viele Geschichten voller Geister. Ich kann nicht anders, als es sehen zu wollen<page>Wann immer Sie wählen. Es gibt kein Leben in dieser toten Welt.Die ganze Schöpfung zittert. Die Welt schreitet voran. Die Luft erwärmt sich. Spergo?
+QUIRREL_MANTIS_01 : Hallo! Ist es für deine Familie? Manche Ausländer glauben es nicht ... es ist einfach.<page>Aber das ist kein Unsinn. Dieses Tier hat die schwarze Luft darüber satt ... Treffen Sie ihn. Während Traditionen leblos sind, schätzen sie Weisheit und Respekt.<page>Ich empfehle meinen Kollegen. Je nach Stärke der Familie können schwarze Nägel abfallen.Es ist das älteste Halloween-Zentrum der Stadt. Ich habe gehört, du lebst noch. Finden Sie alte Fehler, die leicht zu korrigieren sind.
+QUIRREL_TEMPLE_5 : Willst du in die nördliche Stadt gehen? Es wird dunkler. Und dieser Ruhm ist unten verborgen!Ich denke, das haben wir alle. Wer wird jetzt leugnen?
+QUIRREL_TEACHER_1A : Hat er dich angerufen? Ich glaube nicht, dass er eine Party hatte.<page>Der meiste Speicher wird gespeichert, wenn ein Teil leer ist.In diesem Haus versucht der Meister, das Wissen des Landes zu bewahren. Und natürlich Geld
+DREAM_SLUGSHRINE : Die meisten Menschen schlafen auf dem Wasser.Das ist echt? Wie sehe ich sie?
+QUIRREL_GREENPATH_2 : Ich habe dort einen Fremden gesehen. Tatsächlich verbrachte er die meiste Zeit im Gefängnis.Ich gebe gerne die Hand, aber wenn es nicht stimmt, kontrolliere ich zuerst die Nägel.
+DREAM_SPA : Ich suche immer nach einer Community mitten in einer Show. Was für ein verborgenes Ziel, du bist mein Weg.
+DREAM_ARCHIVE_ENTRANCE : ... Wer bringt mich an diesen Ort?
+QUIRREL_MEET_TEMPLE : Was für eine Serie! Freut mich, Sie auf der vergessenen Straße zu treffen!Du siehst jung, aber mutig aus.
+QUIRREL_SPA : Wie heißt deine Mutter? Was für eine heiße Woche zwischen den beiden Tieren!Schrecklicher Ort, das kann man nicht leugnen. Der Legende nach befindet sich das Land mitten im Kalten Krieg. Die Leute akzeptieren den König von Halloween nicht.
+QUIRREL_QUEENSTATION_01 : Das ist nicht das Ende. Ich habe noch nie ein so großes Reh auf einer glatten Straße gesehen.<page>Sie lieben besonders Insekten und werden zum besten Zuhause des Landes.Dieses Tier ist nicht sehr gefährlich. Dies ist ein großartiger Ort für schnelle Rennen.
+QUIRREL_NODREAMNAIL : Ja, aber ihre Meinung liegt immer noch bei Ihnen. Doch die letzte starke Verteidigung.<page>Wenn du die Schwerkraft brechen willst, musst du zuerst einen Weg finden, dein Herz zu öffnen. Obwohl ich dieses Tool unterwegs nicht sehe, kann es verwendet werden, um die Arbeit zu erledigen.Ich sehe den König in den Tiefen des Säuglings und der Toten. Vielleicht hast du sie gesucht?
+QUIRREL_GREENPATH_REPEAT : Hallownest ist ideal für Wissenschaftler wie uns. Es war unglaublich und lecker. Dann stand er auf und starb.
+QUIRREL_TEACHER_1C : Er kam hierher, um mich zu finden und dieses Hindernis zu beseitigen. Jeder kann dir helfen.
+QUIRREL_TEACHER_1B : Der Sekretär wurde bald zum Symbol und brachte einen zweiten Schild, um den Völkermord zu stoppen.Ich weiß nicht mehr wann, aber ich hatte Recht.
+QUIRREL_RUINS_4 : Warum ist dieser Ort nicht zum Entspannen geeignet? liebe den Klang von Glas
+QUIRREL_TEMPLE_6 : Brunnen ...
+QUIRREL_RUINS_1 : Die Hauptstadt ist unser Freund. Sie erscheint dort im Dunkeln und es gibt viele Antworten auf ihre Geheimnisse.<page>Ich kann das Gewicht dieses Ortes spüren, aber jetzt will ich nicht vorne sitzen.Hast du Angst oder bist du untröstlich?
+QUIRREL_RUINS_2 : Die Stadt war wie eine riesige Höhle mit felsigen Klippen und Regen.<page>Es sollte genug Wasser vorhanden sein. Wenn die Höhlendecke zu hoch ist, denke ich, dass sie offen ist.Bevor wir aus dieser Situation herauskommen, müssen wir wissen, woher dieses Wasser kommt. Was für ein wunderbarer Anblick das ist!
+QUIRREL_RUINS_3 : Wenn Sie nach innen schauen, ob es nass ist, werden Sie feststellen, dass die Pads und die Hautabdeckung nass sind.Ich schenke es meiner besten Freundin. Der Unterricht wird nicht vergessen. Diese große Stadt hat viele große Feinde.
+QUIRREL_FOGCANYON_B : Ich dachte, du rufst mich an ... kann ich reinkommen?
+QUIRREL_FOGCANYON_A : War dieses Imperium voller seltsamer Dinge? Dieses Gebäude befindet sich am Anfang von Acid Lake.<page>Was soll ich sagen ... Mann? Ich weiß nicht, was ich gerade mache, aber ich erinnere mich an etwas.<page>Ich wollte jemanden finden, der mich hierher gebracht hat, aber jetzt fühle ich mich anders.Dieses Gebäude erinnert mich daran.
+QUIRREL_TEMPLE_4 : Schließen Sie den Verlust alter Nägel ein, die nicht erlaubt sind. Kein Problem! Lesen Sie bitte<page>Viele kamen auf mich zu. Liebe so viel Tika.Ich bin mir sicher, dass es anderen Forschern egal ist, ob ihnen das Tool gefällt. Sie sind sehr freundlich und voller Liebe. Die Toten denken nicht.
+QUIRREL_MINES_4 : Das ist perfekt ...
+QUIRREL_MANTIS_REPEAT : Ich gehe in die große Stadt. Wenn Sie nach einem Nagellackmuster suchen, wird es nicht lange dauern, unsere drei Methoden zu wiederholen.
+QUIRREL_MINES_1 : Oh, das klingt gut, nicht wahr?<page>Kein Wunder, dass Sie in die Höhlen gehen.Du hast Macht. Ich fühle mich schlecht, wenn es keine Sammlung gibt.
+QUIRREL_MINES_2 : Ist es schwer zu sehen, dass der Teich noch funktioniert?<page>Selbst wenn sie erfolgreich sind, muss Ihre Haut schwierige Entscheidungen treffen.<page>Die Kristallminen enthalten eine Energieform, die nicht so stark ist wie der von den Stadtbewohnern verwendete Geist, aber sehr tödlich ist.... Es ist wunderbar, die Fakten der Vergangenheit zu kennen. Ich fragte mich, woher die Nachricht kam.
+QUIRREL_MINES_3 : In diesem wunderbaren Fall kann nur eine kleine Stadt das Licht ausschalten.Die Menschen verstehen die enorme Größe der Welt um sie herum nicht.
+DREAM_ARCHIVE_INTERIOR : Ich möchte, dass diese kleinen Leute sich dem widersetzen, was in diesem Königreich vor sich geht.
+QUIRREL_TEACHER_3 : Mullers Leben wurde zerstört und das Abzeichen wurde gebrochen.<page>Ihr Job ist hart, aber je näher ich Ihren Fähigkeiten komme, desto mehr glauben Sie an sich selbst als intelligente Person.Machen Sie eine Pause. Wenn Sie trainieren, wissen Sie, wie alt Sie sind.
+QUIRREL_MEET_TEMPLE_C : Im Körper eines alten Königs wurde ein großes Ei gefunden. Mit Eiern ... wärmer? Tatsächlich schafft es eine einzigartige Atmosphäre.<page>Kannst du es öffnen? Fantasie über ...Ich liebe Schlaf ... jemand, der weiß, was es ist.
+QUIRREL_MEET_TEMPLE_B : Mein Name ist Quirrel. Ich mag ungewöhnliche Orte.Diese alte Welt verbirgt viele faszinierende Geheimnisse, die für uns noch faszinierender sind.
+DREAM_MANTIS_VILLAGE : ... Wer hat mir Nelspe beigebracht? Ich erinnere mich nicht, aber ich glaube, ein Friseur ...
+QUIRREL_EPILOGUE_B : ... inakzeptabel ...
+DREAM_LAKE : Sie lebt, aber sie erinnert sich ein wenig an ihn ... kann ich ihm danken?Die ganze Tragödie ist vorbei. Ich kann nur Wunder sehen ...
+DREAM_MINES : Sie weinen einfach in die Luft. Ein schlechtes Pferd ist besser als andere Pferde.
+QUIRREL_SPA_REPEAT : Warum begleitet es mich schon so lange, dieses Wasser tut müden Füßen gut.
+QUIRREL_TEACHER_HESITATE : Warum kommst du zu spät Freundlichkeit ist gut, aber ihr werdet alle zustimmen. Sei ein mutiger Freund.
+QUIRREL_QUEENSTATION_REPEAT : Wie ertönt der Alarm?
+QUIRREL_EPILOGUE_A : Als ich später Freunde sah, fand ich endlich Frieden.<page>Ich war zweimal auf dieser Welt, und mein Dienst war meine erste Erfahrung, aber danke, dass Sie ihre Schönheit überlebt haben.<page>Halloween ist wichtig und macht Spaß, aber egal wie lustig es ist, ich habe noch nie jemanden wie dich getroffen.<page>Sie. Das Publikum kehrte langsam zur Freude zurück. Es liegt an dir.Ich mag es sehr.

@@ -1,0 +1,21 @@
+SLY_GENERIC : Ti senti vuoto? Se vuoi più di geo, vai al nostro castello qui sotto e scoprilo. Fai attenzione a non farti abbattere dal vento. Non ti lascerò aiutare.
+SLY_GENERIC_NM : Mong. Noel, com'è andato il viaggio? Speriamo che col tempo diventi più forte.Se vedi di nuovo un artista delle unghie, dì che lo ricorderai per sempre. Quindi acquista oggetti dall'ex insegnante.
+SLY_NAIL_HONED : Ne hai acquistato uno nuovo? Sembra più morbido di prima.<page>va bene? Ah, la stessa faccia... ma più veloce! Per esperienza...<page>Le unghie sono la connessione e gli strumenti che creiamo nel mondo che ci circonda. Le unghie affilate sono un processo sacro.Ciao scusa Non c'è bisogno di muoversi. Parliamo di Geo.
+SLY_MAPPER : di scopo da riverniciare. Penso che la concorrenza sia maggiore.Magari iniziare a vendere carta... o forse un po' più difficile? gay Geo Il mondo si muove bene.
+SLY_DREAM_STORE : ... ovunque tu sia ... cosa stai facendo ora ... spero che tutti ne siano consapevoli ...
+SLY_BASEMENT_1 : ...quindi aggiungi un pulsante.
+SLY_NOSTOCK_2 : Sei felice che non ci sono sono irrazionale.Vuoi eseguire Geo? Dai, sono io! Commercio e mostre.
+SLY_RESCUE_REPEAT : Cosa stai leggendo Molte di queste idee non si trovano in questi vecchi libri.Ma ho le unghie e ti dirò come gestirle.
+SLY_RESCUE_1 : ... oh pro, così stupido ... trascina il mouse ... come un maiale ...... Esmi ... Come siamo dentro ...
+SLY_NAILART : Sì, sembri diverso. La tua situazione è cambiata?<page>Come dimenticare il tuo lavoro? Imparerai a dipingere le unghie...Pesche. Vuoi continuare a muoverti?
+SLY_DREAM_BASEMENT : L'arma più terrificante di Geovar...
+SLY_SHOP_INTRO : in! So che ci incontreremo di nuovo. Ti piace il mio negozio? È facile per me vendere oggetti d'antiquariato a turisti come te.Se stai programmando un viaggio verso il basso, ho qualcosa per allungarti la vita.
+SLY_BASEMENT_2 : Mio eroe, ho un regalo per te. Certo, come venditore, sono stato in grado di ottenerne uno gratuitamente.Ma il suo potenziale dovrebbe essere visto come un grande chiodo in una bara. Impara le abilità da altri studenti. L'allenamento ora mostra la capacità di mantenere un livello.
+SLY_RESCUE_3 : Vivo per mano a Dartmouth. Non ho paura degli infortuni, quindi resta sintonizzato.Quando tornerai in paradiso, mi vedrai. Forse rimarrà con me e ho bisogno di un buon amico che lo ringrazi così tanto.
+SLY_RESCUE_2 : Oh! Che cosa ?! Chi sei... Capisco. Questa è una città vecchia. Ha ispirato il mio sogno. Non credo.
+SLY_DREAM_RUINS : ... Contatto. Lago. La vita è ordinaria. Le unghie non capiscono il potere...
+SLY_KEY_2 : Perché hai portato la chiave della mia cucina! Ho pensato che fosse andato per sempre.<page>Famiglia? L'hai trovato in una vecchia miniera? È ridicolo, non so come sia finita.<page>A dire il vero, me l'hai data tu. Addestramento. Ora puoi aprire il tuo vecchio magazzino e venderlo a un buon depolveratore.Il prodotto potrebbe essere stato leggermente danneggiato, ma il suo valore di mercato è stato mantenuto intatto. Molto importante! Giusto ...
+SLY_KEY : Tutto quello che devi fare è inserire la mia chiave di archivio. Penso di aver perso per sempre.<page>Sì, l'hai trovato in una vecchia piscina. Divertimento. Non so come sia scappato.<page>Al tuo ritorno andrà tutto bene. Lui è qui. Ora posso aprire il mio vecchio negozio vendendo pelle che non sapevo esistesse.Potrebbero non durare a lungo, ma mantengono il loro valore. Perché! Nano...
+SLY_BASEMENT_REPEAT : Vai al sovrano del Nilo. non ho niente da offrire...Almeno non è gratuito. Spero di sostituirmi.
+SLY_NOSTOCK_1 : Ehi, stai comprando qualcos'altro? Infelice? Naturalmente, questo non è registrato. Più tempo!<page>Ho un vecchio cestino, ma non ho una chiave.Quindi immagino che non importa! Vieni qui fresco e goditi quello che mi dai.
+SLY_BASEMENT_3 : Lascia perdere e finalmente te ne innamorerai.

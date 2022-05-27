@@ -1,0 +1,129 @@
+GAME_BACKER_NAMES : Pago.
+UI_MENU_ACHIEVEMENTS_XB1 : éxito
+DESC_VSYNC : Que sea de fácil acceso. La ventana de valores está rota.
+VIDEO_SHADERS : Tipo rojo:
+PROFILE_CORRUPTED : Prevención de la contaminación
+ACHIEVEMENTS_BASE_SET_TITLE : el amanecer de hoy
+MOH_LOW : RETA
+DESC_SHADERS : Reduce los daños y mejora el rendimiento mecánico.
+DESC_BACKER_NAMES : Ver consejos y pedidos de Kickstarter.
+SCREEN_ACHIEVEMENTS : Construir una casa
+OS_SLIDER : سکارا
+CTRL_REMAP : Instrucciones para resetear la tarjeta
+SCREEN_SAVE_PROFILES : Seleccione un perfil
+BUTTON_DASH : Competir
+OPEN_CONTROLLER : dárselo al conductor
+DESC_NATIVE_ACHIEVEMENTS : Enviar boletín cuando esté listo.
+BUTTON_DOWN : de vida
+SCREEN_AUDIO : la gente escuchará
+BRIGHT_INSTRUCT : Ajuste el nivel de rendimiento al nivel deseado.
+PROFILE_CLEAR_PROMPT : ¿Solo por santidad?
+PROFILE_CLEAR_BUTTON : Memoria pura
+BUTTON_MAP : Deslizamiento rápido
+NAV_YES : Para
+MODAL_KEEP_RES : ¿Guardas cosas buenas?
+LANG_PT : Portugal (Brasil)
+LANG_DE : Alemán
+MAIN_ACHIEVEMENTS : y se volvieron a encontrar
+STEEL_MODE_TEXT : No hace falta decir que la muerte es constante.
+MODAL_QUIT_TO_MENU : ¿Quieres eliminarlo de la lista?
+MAIN_SWITCH_USER : Cambiar de usuario:
+BUTTON_RIGHT : Así es
+AUDIO_MASTER_VOL : Espacio para equipaje:
+SCREEN_GAMEPAD_REMAP : Ejercicios de gestión
+MOH_OFF : Uso básico
+PAUSE_CONTINUE : perseguir
+LOADING : Pequeña ...
+VIDEO_VSYNC : ᲕSincronización de lotes:
+BUTTON_LOOK : discriminación
+BUTTON_SUPER_DASH : línea principal
+BUTTON_JUMP : cerrar sesión
+LANG_JA : æ— ¥ æœ¬èªž
+MODAL_CONNECT_CONTROLLER_PROMPT : Póngase en contacto con el conductor y proceda.
+NAV_BACK : espalda
+NAV_RESET : Vuelva a la configuración predeterminada.
+OPTIONS_VIDEO : película -
+NAV_APPLY_TRUE : La luz.
+SCREEN_EXTRAS : Aplicaciones:
+KEYBOARD_NONE : reforma
+DESC_PARTICLES : Menos para mejorar la eficiencia del sistema.
+BUTTON_ATTACK : Huelga
+DESC_NATIVE_INPUT : Esto funciona si hay problemas con los controladores. El juego debe ser reiniciado.
+BUTTON_MOVE : trabaja:
+LANG_FR : FranÃ§ais
+OPTIONS_CREDITS : Husley
+OPTIONS_KEYBOARD : fol
+PROFILE_LOADING : aquí ...
+MODAL_QUIT_GAME : ¿Estás dejando el juego aquí?
+PROFILE_NEW_GAME : Nuevo juego
+VIDEO_PARTICLES : Efecto de partículas.
+CTRL_PRESSBUTTON : Haga clic en el botón Nuevo
+MAIN_EXTRAS : METRO
+CTRL_UNMAPPED : tarjeta de nada
+DESC_FRAME_CAP : Seleccione el marco más alto para la misma experiencia.
+VID_OPT_BORDERLESS : o agua
+GAME_NATIVE_ACHIEVEMENTS : Mostrar resultados:
+GAME_NATIVE_INPUT : Registrarse
+OPTIONS_CONTROLLER : Gerente de producto
+MOH_MED : Comportamiento
+AUDIO_MUSIC_VOL : Tamaño de la música:
+ACHIEVEMENTS_BASE_SET_TEXT : Gau en!
+MAIN_QUIT : Ganó el juego:
+SCREEN_OPTIONS : No es necesario
+MODAL_PROGRESS : El progreso es sostenible.
+NAV_NO : explicó el médico.
+CTRL_NO_ACTIVE : veo que soy sbs
+BUTTON_DREAM_NAIL : Muchas cosas para construir
+NORMAL_MODE_TEXT : jugar como de costumbre.
+BUTTON_LEFT : Kim Jong Un gobierna
+VIDEO_DISPLAY : tengo
+PAUSE_MAIN : Hacer una lista
+PROFILE_DEFEATED : ¡Victoria!
+CTRL_NONE : El presidente no tiene nada que decir.
+TEXT_SKIP_PROMPT : Haga clic en el botón deseado para activarlo.
+BRIGHT_SLIDER : Nuevo
+SCREEN_KEYBOARD : ejemplo:
+AUDIO_SOUND_VOL : Yo paro-
+MODE_STEEL : horno de hierro
+LANG_ZH : ç® € ä½ “ä¸ae–
+LANG_EN : inglés
+OPTIONS_AUDIO : Además:
+LANG_IT : Italia
+VIDEO_FRAME_CAP : elefante -
+LANG_ES : EspaÃ±ol
+CTRL_NO_ACTIVE_DESC : Pulse la tecla de desplazamiento para activar o reiniciar el control deslizante.
+BUTTON_QCAST : Lista brzina
+BUTTON_CAST : comedor / jardín
+CTRL_DETACHED : sin gestión de conexiones
+MODE_SELECT : Establecer los parámetros
+GAME_LANGUAGE : Apariencia:
+VIDEO_OVERSCAN : Cubrir
+GAME_CONTROLLER_RUMBLE : rublos
+MAIN_OPTIONS : Rueda
+BUTTON_UP : Si te gusta
+KEYBOARD_UNMAPPED : no será borrado
+MOH_ON : Soga
+UI_MENU_ACHIEVEMENTS_PS4 : kopjo
+DESC_LANG : Cambia el idioma en el menú principal.
+SCREEN_VIDEO : Foto
+MAIN_START : el juego ha comenzado
+KEYBOARD_PRESSKEY : Haga clic en el botón Nuevo
+SCREEN_GAMEPAD : Valle
+NAV_APPLY : ்
+BUTTON_INVENTORY : ۽:
+LANG_KO : í•œêµ­ì–´
+VIDEO_BRIGHTNESS : Verdadero
+MODAL_ENGAGE_CONTROLLER : Presiona cualquier tecla para comenzar.
+MOH_NORMAL : Compartido
+PAUSE_OPTIONS : Voluntario
+VIDEO_FULLSCREEN : Pantalla completa.
+VIDEO_RESOLUTION : alcance:
+OPTIONS_GAME : cuenta
+BUTTON_EMPTY : -
+EXTRAS_CREDITS : préstamo
+SCREEN_GAME : Reelección
+MOH_HIGH : Promedio
+MODE_NORMAL : Clásico
+OS_INSTRUCT : Ajuste el control deslizante hasta que el marco alcance el borde de la pantalla.
+NAV_DONE : permanecer
+BUTTON_PAUSE : El programa es uno.

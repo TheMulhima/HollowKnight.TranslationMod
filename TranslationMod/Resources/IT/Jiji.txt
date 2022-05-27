@@ -1,0 +1,34 @@
+NO_EGGS_REPEAT : Il mio cibo preferito... morbido e rotondo, si adatta bene al mio viso. L'odore arriva e pensi di essere felice. La verità più alta del mondo.
+GREET : Sì, grazie ancora. Riesci a vedere il mio dolore? Vedere ...
+MEET1 : Gli uomini famosi sono i benvenuti. Dormo molto adesso... mai?Oh! Oh si. Oh si. Mi sono svegliato e non ho sentito nessun problema. Forse puoi aiutarci di nuovo.
+RITUAL_BEGIN : Ana... Adoro questa canzone. Ora iniziamo a fare come promesso.
+WATERWAYS : In effetti, so che non sei contento di ciò che è rimasto. La città oscura è circondata da armi e fontane. Ma non si può lavare...
+SHADE_OFFER : Se condividi la tua esperienza con me, posso migliorare il mio comfort.
+RITUAL_REPEAT : Come stai? Quando provo il tuo cibo, penso a te.
+SHAMAN_TEMPLE : Vedrò la tua gentilezza. Il colore ancestrale del cimitero... una casa di viandanti.
+CLIFFS : Sì, Al che suona abbastanza schifo per me, sembra che anche BT non faccia per me. Il vento soffia fango nero sulle nostre teste.
+MEET2 : Sono GG. Ho bisogno del tuo aiuto così posso trovare la mia stanza.<page>Il nostro dolore a volte è come una pietra nera nel mondo.<page>Se ignoriamo queste domande, la speranza fluirà da noi.Vuoi essere umile davanti a tutti i peccati? Cerca di non guardare
+DREAM : Più a lungo dormi, più diventa buio ogni giorno ed è fonte di frustrazione.Vino scuro. Quando torno a dormire, il mondo è buio.
+ABYSS : Sì, vedo il tuo dolore. È un luogo oscuro sotto terra pieno di oscurità e luce. Ulteriori informazioni ...
+CROSSROADS : Sono andato a vedere il tuo dolore. Sotto di noi, c'è una distanza oscura e visibile tra la strada e le strade principali della statale.
+SHADE_OFFER_INTRO : Mi scuso per essere tornato con il tuo aiuto. Ti è piaciutoSì, ma ho molta fame. Ti piacerebbe fare colazione? Più dormi, più sarai vigile.
+HIVE : Sì, neanche a me piace BT. Anche BT non ha nulla a che fare con me. La notte era circondata da raggi dorati intorno alla casa.
+DECLINE : Sì? Se non vuoi aiuto, non aiuterà.
+RITUAL_COMPLETED : Sì. Resta da vedere quanto sarà gradito questo evento. Mi chiedo se mi piace così tanto il cibo.
+WASTES : Sì, BT è molto male per me. Ci sono macchie marroni tra il fungo e lo stagno.
+NOSHADE : "Non hai fatto niente." Tu sei felice e io no.
+CITY : Sì, vedo che il tuo posto libero è nel cuore del paese. Non può essere lavato con acqua.
+SHADE_CHARM : come può. I re lo volevano.<page>È difficile coinvolgere tutti nel tuo lavoro, ma ti senti come se ce l'avessi.Per quale tonalità ti stai preparando?
+QUEENS_STATION : Se mi dispiace, smettila. Una notte la regina era seduta da sola nel parcheggio.
+MINES : Sì, scusa, non è stato fatto per me. I colori scuri spesso oscurano i cristalli circostanti.
+KINGS_PASS : Puoi anche vedere la tristezza che c'è dietro. C'è un posto buio all'ingresso di questo castello.
+COLOSSEUM : Sì, ho visto la pietra nera colpire gli eroi ei misteri.
+NOSHADE_REPEAT : Non devi essere un servizio come le altre persone per cambiare. Benvenuto
+NO_EGGS : mangiare stasera. Beh, non sono sceso senza prima spiegarmi. Torno sempre perché non riesco a riempirmi lo stomaco.
+LOST_SHADE : Sì, lo so che tua madre non c'è. Nell'oscurità sottostante, abbiamo un luogo segreto dell'oscurità.
+DEEPNEST : Sì, vedo il tuo rimorso. Questo posto è abbastanza buio da essere trovato nelle profondità dello stato.
+GREEN_PATH : Sì, neanche a me piace. Il paesaggio è verde e nero.
+OUTSKIRTS : Sì. L'oscurità è lontana dalla fine del mondo.
+RESTING_GROUNDS : Sì, vedo il dolore. Luogo oscuro nel Tempio della Pace.
+FOG_CANYON : Buon lavoro! Non capisco. BT è come me. Lo sporco nero scomparirà nell'oscurità di un altro mondo.
+ROYAL_GARDENS : Sì, questo è il problema. Ma BT non lo usa. Un luogo oscuro che rovina la bellezza del giardino.

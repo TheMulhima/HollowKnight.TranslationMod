@@ -1,0 +1,88 @@
+DIVINE_NOTENOUGH : Nessuna geografia... perché? Perché Geo è inefficiente?
+GRIMMSYCOPHANT_INSPECT : Il verme è grande.
+ISELDA_GRIMM : Vedi turisti provenienti da fuori città?<page>Mi interessa il passato, ma non il passato. Ma hai una cattiva idea. l'odoreHo detto che non ho parlato con il Corner Manager. I loro pensieri e le loro idee a volte sono meno ovvi.
+PROMPT_FRAGILE_HEART : Pulirà il cuore comprensivo?
+IGOR_FINAL : ... Non sto dormendo.<page>Veramente buono. Il bambino è stato bruciato.Maestro... ti sto aspettando. non si illude.
+QUEEN_GRIMMCHILD : Questo è un animale. Siete entrambi amici? È una relazione a lungo termine e difficile da dire.<page>Ora sei con me... stai partecipando alla cerimonia rossa.È un peccato che sia caduto nelle nostre rovine. Se vuoi diventare ricco, aiutalo. Ma se ciò non accade, non disperare.
+DIVINE_OFFER_2 : Nuovo ...? Aspetto il tuo regalo! Dammi il tuo regalo e te lo darò.
+BRUMM_REMINDER : Vuoi vedere la stella? Ho visto il bambino tornare pieno di energia.
+GRIMM_BATTLE_3 : balla con me Le persone stanno aspettando che tu dimostri che meriti di essere un eroe!
+GRIMMSYCOPHANT_DREAM : Firma... cosa mia... se non... famiglia. Ho una buona sensazione
+GRIMM_DEFEAT_3 : Esci dal buio. Considera il numero più lungo di cerchi. Torna da me e balla con me.
+BRETTA_DIARY_LEAVE : Trovare una moglie<page>La donna sciocca non la vede e le sue amiche scappano. Ma dobbiamo trovarli, trovare il loro amore per eliminare la solitudine.<page>Poi reprime il suo desiderio di fare, si difende con l'amore che lo attende e inizia a trasferirsi in luoghi pericolosi.Ascoltò attentamente e venne alla riunione successiva.
+ELDERBUG_GRIMM_DREAM : Perché questo sconosciuto ha lasciato la nostra casa solitaria? A volte penso che il mondo intero voglia sconvolgerti.
+BRUMM_DEEPNEST_4 : Ma più ...<page>Sfortunatamente, questo non funziona in tutti i browser.<page>Un segreto. La canzone non si ferma...nessuna.<page>Non credo che tu abbia un insegnante, ma vieni alla cerimonia. Davvero? Forse possiamo spegnere il fuoco e distruggere i morti.<page>Se vuoi smettere di cantare per sempre... Ehm, dimmi l'inizio.Ma se torni dal maestro e finisci la cerimonia... non ti permetterò di odiarti finché non ti pentirai.
+PROMPT_DIVINE_GIFT : Paghi per ricevere un regalo?
+NYMM_REPEAT : Ragazzi vi piace la mia canzone, penso che sia una bella canzone, ma devo ammettere che è molto oscura.Voglio solo dirti che voglio divertirmi. In questa grande città, al di fuori di un'azienda come la mia, ero così sorpresa e felice.
+MIDWIFE_WEAVERSONG_DREAM : Solo perché sei ricco, il tuo migliore amico, non lo accetto nel mio cuore. Questo è buono. Questo è buono. Questo è buono.
+DIVINE_REFUSE : † Bene ?!Fa un po' male. Non essere cattivo Sarai spietato. Permettere! Questa bellezza mi fa piangere.
+BRUMM_LANTERN : Lo stai osservando dall'inizio della cerimonia. voglio leggere<page>I nostri ospiti sono malvagi, ma il nostro progresso... inquina lo stato di oscurità e silenzio. Questa volta vediamo davvero il fallimento.Poesia... Ehi! Rompi l'ancora ed elimina il mago. Non tornare mai più qui!
+DIVINE_GRIMM_DEPARTED : Ehi! Dopo l'insegnante... Vuoi continuare? Probabilmente no?Oh, ma questo è troppo importante per me. A proposito, posso farti dei regali! Mio Dio, capisci?
+GRIMM_DEFEAT_1 : Fai del bene perché la community ti ama così tanto! La discussione è durata a lungo.
+GRIMM_DREAM : Inteso! Le importazioni rimangono forti.Il grande aereo è un ottimo dispositivo per diffondere le belle idee di Kim!
+BRUMM_DREAM_DEEPNEST : Sì. C'è il fuoco, ma... perché perdere?
+ELDERBUG_BRETTA_LEAVE : Questa ragazza! Si alzò e scese dalla macchina. ti amo<page>Questo è il loro triste viaggio. Non so da dove venisse la sua forza.È stato difficile per me. Sono colpevole. Tutti tranne me amano le conversazioni affascinanti.
+DIVINE_HAS_CHARM : Marcio! Posso nascondermi meglio di come sono? Non può essere nascosto.Parla parlare Seguente!
+DIVINE_EATEN2 : Chi mi ha fatto un regalo, dove?Il miglior regalo Negozio per bambini!
+LEG_EATER_GOLD1 : Sette ?!<page>Ti voglio bene! Cosa hai fatto per lei?! Ha un odore... diverso. Strano ma bello. Esagerazione!Questo odore... mi rode. ... veramente buono.
+GRIMM_RITUAL_COMPLETE : In tutto il mondo i miei cari stanno chiamando... per condividere il sogno del mio paese.<page>Trova i miei parenti e rimandami al loro fuoco. Lavorano insieme miracolosamente.<page>Ma non farlo, non sei solo nel tuo viaggio. Figlio mio, ti brucia nel fuoco e ti dà fuoco.Se hai figli, dovresti svolgere un ruolo importante in questo processo. Solo il mio fuoco e i tuoi cari te lo mostreranno.
+UI_CHARM_LOST : hai perso la tua bellezza
+BRUMM_DEEPNEST_2 : Capire la canzone della vittima è come la canzone di tuo marito. Su appuntamento. Per gruppi. Per gli insegnantiAnche questo bambino è nato con un pizzo invisibile. Prima di tutto
+NYMM_DREAM : Esatto... perché ho scelto questo? E la mia differenza... mi sono completamente dimenticato di iniziare.
+IGOR_SPEAK : M.Contatta il tuo manager
+NYMM_MEET : Sono nuovo qui e sono molto felice di incontrare i miei amici nella città oscura.<page>Vecchio nido d'ape. luogo di conversazione<page>Ora hai una figura bellissima e meravigliosa. Perché la città brilla ancora.<page>Prima di iniziare a lavorare, ho ricevuto un piccolo regalo che mi ha ricordato una nuova e meravigliosa relazione. Non servirà, ma lo spero.Spero di vedere la città.
+DIVINE_GIFT_REFUSE : Quindi! Quindi lasciami!
+NYMM_BRUMM_CHARM : Sono molto buoni. Sono felice che ti piaccia il mio regalo.<page>Sinceramente non so dove l'ho trovato, ma quando ho visto la tua foto, sono rimasto scioccato e me ne sono dimenticato.<page>Nessuna parola, ma sentimenti rari, pentimento pauroso. Avevo il desiderio di qualcosa che non avevo mai visto prima.Non c'è ragione. Ecco perché mi è piaciuto.
+GRIMMSTEED_DREAM_1 : La città nuova è come la città vecchia. Quanto tempo ci vuole per vedere?
+ELDERBUG_NYMM : Soldi da Nista! Questa meravigliosa vacanza è finita e la città è tornata alla normalità.<page>E un nuovo paesaggio sul muro. L'uomo è stato trovato in città. Sembra una borsa chiusa con uno spago. La sua definizione è ambigua, ma il suo significato non è chiaro.È un musicista eccellente, quindi l'atmosfera in città è buona. Poi abbiamo un nuovo leader e una nuova squadra.
+SLY_GRIMM : Ho sentito di estranei che vengono in città. Quello che hanno detto non li ha sorpresi.<page>Cosa significa essere una capra? "Penso che tu sappia la risposta a questa domanda.Il mio debito non è piccolo, ma ho paura delle opportunità e delle promesse. Se mi prendi, crocifiggilo per mezz'ora.
+GRIMM_BATTLE_1 : Questo è fantastico. Sì! I miei fratelli sono arrivati ​​appena in tempo.
+IGOR_FLAME : Posto confortevole. Domanda:A te la decisione, per la nostra famiglia. Piramide:
+BRUMM_DEEPNEST_REPEAT : Vuoi finire questa canzone all'infinito, dimmi dove trovarla...Se vuoi continuare con il protocollo... mm. Se non ti penti, non ti odio.
+PROMPT_FRAGILE_STRENGTH : Per aumentare l'attrazione del potere artificiale?
+DIVINE_REOFFER : Ho bisogno di un regalo. Clic! Fai un regalo, hai un regalo...
+DIVINE_EATEN : La torta è buonissima... complimenti!Sono una brava moglie e un regalo meraviglioso da parte tua!
+LEG_EATER_GOLD3 : Sì, Al mi sembra sporco e BT sembra non essere me. Molto bene!<page>Articoli preferiti... Fuori! Sii paziente, sì!So che sei con me ora. Ma so dove sto andando. Verrò! Non cercare di nascondermelo.
+GRIMM_ACCEPT : Quando la luce è accesa, sei responsabile. La nostra unità è su una fiamma rossa.Vuoi ricominciare da capo, ma prima devi vederlo.
+QUEEN_GRIMMCHILD_FULL : Gli occhi del tuo amico brillano... Stuzzica con il cuore felice. Non uso i miei semi.Hai compilato il modulo e so che arriverà il momento. Ci sono uomini e famiglie nella loro comunità. Ma non ci sono alieni qui.
+DIVINE_EATEN4 : Regalo Sii orgoglioso di te stesso<page>Ma... se fai qualcosa per me, posso cantare per te. Lavori bene?Datemelo e vi farò un regalo.
+DIVINE_FINAL_REPEAT : abbastanza! Sono così felice oraOra puoi vedere il campione ...
+DIVINE_ALL_EATEN : Questo è un regalo meraviglioso. È fantastico<page>Sono pronto!Forse... aspetta un minuto?
+BRUMM_LANTERN_DREAM : Dannazione, sei ancora uno schiavo? Allora la nostra catena è rotta!
+ISELDA_NYMM : Il bel giovane entrò in città. Molti musicisti non credono nella bellezza e nella ricchezza.Sembra buono... non dovrebbe essere Gio. Lo spero.
+PLAQUE_WARN : I testimoni muniti di sigillo devono essere severamente puniti.
+BRETTA_MZOTE_02 : Principe io canto? È una piccola cosa per te? Hai mai tempo?
+BRETTA_MZOTE_01 : grande principe? Ripeti le parole?
+DIVINE_EAT : Ops! Molto bene! Adozione! E i miei diritti! Ops!
+BRUMM_DEEPNEST_1 : Ecco, allora<page>Dopo questa morte, ho avuto un'eruzione cutanea rossa. Chiedi al tuo capo di darti un nuovo lavoro.Questa cerimonia si tiene una sola volta. Semu cum'è Musek antiquariato. Sì amico
+JIJI_GRIMM : Anche questo è un vantaggio. L'hai contattato? Ha un odore... terribile.<page>Non so che odore abbia da lontano.<page>È strano, interessante e spaventoso. Puoi immaginare che stiano nascondendo la loro vera identità. Sì, vogliono coprirsi la testa e rivelare la verità.È meglio stare attenti. Ma chissà quanto fa male?
+DIVINE_CONVO_1 : Un forte profumo aleggia nel cuore della chitarra. Ma non il tuo, il tuo divertimento...
+GRIMM_DEFEAT_2 : marmellata! Mentre i nostri bambini crescono, crescono e crescono nel dolce calore del nostro gioco!<page>Siamo fiduciosi che condivideremo molte sfide e risultati.<page>Chi di noi ha completato il controllo della licenza? Spegni le luci anche se la strada è in pericolo?Nei nostri occhi rossi... bambini
+ELDERBUG_TROUPE_LEFT : Essere qui! E! C'è stato un grande terremoto, la bellezza della città e così via.A volte basta il rispetto da parte dei clienti. Bella casa, musica brillante, personaggi indesiderati sono già abbastanza in passato.
+IGOR_DREAM : Il ladro può sentire il suono della "terra e del tempo" come il fuoco.
+BRUMM_DEEPNEST_3 : Questa è la nostra religione... eccolaPrendi questo fuoco e vieni.
+MIDWIFE_WEAVERSONG : Mi dispiace... si. Vuoi un partner tessitore mondiale? Aveva una bellezza incredibile.<page>La particolarità di un motore secondario è l'interruttore. Storia, animazione, magia e stregoneria. La maggior parte della nostra storia è molto buona. Lì, i miei piccoli amici hanno parlato delle loro abilità... cioè.Pauku! Mi fa male lo stomaco. Sedella Va. Non andare ora...
+GRIMMSTEED_DREAM_2 : Il percorso tra loro è oscuro e lungo, ma la luce di Dio ci guida sempre.
+DIVINE_GIVE : Ha ha ha ha! Hahaha!Molto felice! Lanterna... lanterna! Oh!
+GRIMM_LEVELUP_1 : Scusi. Ottieni il calore dal fuoco.
+IGOR_MEET : Szemenko. Non ci hai chiamatoParla con l'insegnante.
+DIVINE_DREAM_LEGEATER : È stata la cosa migliore che abbia mai sentito. Madre!Non mi piacciono le pietre preziose, amano il gusto e l'odore.
+DIVINE_FINAL : Lasciaci vedere!<page>Lo so molto bene. ojo lali!Eeeourrrgggh!! Sì già! Ora posso andare con il mio insegnante.
+GRIMM_BATTLE_2 : Questo fuoco caldo... ha la parola legale.
+GRIMM_LEVELUP_3 : Bellezza, sì. Il ragazzo è diventato un cattivo amico di un giovane disoccupato. Ma certamente aiuterà questi paesi deboli.<page>Il nostro ballo è già iniziato, non mancate! Cerca i globuli rossi in proliferazione.Quando il ragazzo gridò di nuovo, si alzò di nuovo e cominciò a protestare.
+GRIMM_LEVELUP_2 : L'intera cerimonia di apertura è stata emozionante e tesa.Sei così bello. Spara!
+GRIMM_MEET1 : la differenza
+PROMPT_FRAGILE_GREED : È facile navigare?
+GRIMM_MEET2 : Piacere di conoscerti, tesoro. Ho questo gruppo, Graham.<page>La lampada si accenderà e il programma verrà salvato. Un bel posto da scegliere è un mondo di rettili e radici, un posto fantastico per noi.E tu, caro, non sei lontano dal promuovere il tuo personaggio.
+BRUMM_DEEPNEST_NF_1 : ke.<page>Le luci sono accese e il compito è fatto. Devi tornare dal re...<page>Quindi procedi come al solito. Ci piace la musica antica, la musica antica. Io e te. aggettivi.<page>Ma... nessuno può entrare qui, nelle tenebre, nelle profondità della terra, senza un occhio rosso nel mio regno.<page>bw Musica eterna ... niente musica.<page>Sei venuto alla tomba e non so che il Signore è con te. In effetti, forse saremo in grado di spegnere questo fuoco vivo e lasciare questo mondo morto.Se vuoi cancellare infinite canzoni... fammi sapere che vuoi iniziare...
+DIVINE_CHARM_EQUIPPED : OpsQuesta strega... è bellissima. Ne vale davvero la pena. Mia cara, mi vedi? Vuole insegnarci.
+ELDERBUG_GRIMM : Improvvisamente ho visto che era successo qualcosa di strano e di brutto.Ho paura. Penso che sia meglio cercare di ignorarlo.
+LEG_EATER_GOLD_REPEAT : Ora so dove sto andando Ci sono molte storie su di me. Ma so dove andare. Scusa, non nasconderti!
+DIVINE_DREAM : Penso che l'ombra e la danza del fuoco siano buone ...
+DIVINE_MEET : Aaaaaaaaaaa!<page>Ci ha chiamato. siamo qui. siamo qui!<page>Non aver paura, perché ci chiami?<page>cos'è questo. la rete. Niente pietreSotto: voglio qualcosa.
+NYMM_FINAL : Ciao a tutti, ho sentito un grido. E le mie canzoni non sono buone. Triste o arrabbiato? Sono più di questo.Non dimenticare di scaricarlo. Se perdo dalla parte giusta, sarò molto triste.
+DIVINE_CHARM_EQUIPPED_2 : E posso sentirne l'odore. Mi hanno fatto un altro regalo. yarimulka!
+DIVINE_EATEN3 : Sì! Tesoro, vuoi qualcosa a cui non vuoi tornare?URL! Pubblica come stampare! Non appena riceverai il regalo, sarà sparito per sempre!
+MOTHSTONE_DREAM : Combattenti, sei l'ultimo ...
+SLY_NYMM : Si sbagliava di nuovo. Hanno messo l'albero a terra. Sfortunatamente, questa non è una mappa! Ecco come esplode la pietra.Perché i poveri scelgono di vivere per sempre?
+DIVINE_RECEIVED_GIFT : Ti è piaciuto il tuo regalo? Porta con te questa spezia.Mao Ra

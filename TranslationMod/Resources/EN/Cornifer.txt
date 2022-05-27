@@ -1,0 +1,38 @@
+FUNGAL_WASTES_GREET : Little friend, catch me. I mapped these caves. There are many types of equipment in the area. I always recommend a ban. They were like "leafy" people, like a child I was fighting in his cave, but I was afraid my body would fall.
+GREENPATH_GREET : Is it different from the cross? The moisturizing and softening way is very steep.
+CROSSROADS_BOUGHT : How did you get my card? I tried to improve as much as I could, but I worked on every card. We are opening a small shop to help you.
+MINES_GREET : I've climbed a mountain and I've never heard of it. He is far from me and I am not far.
+CORNIFER_AGAIN_DP : Want to buy more books?
+CROSSROADS_GREET : Thanks again! Do you still follow these amazing strategies? Imagine for a second you were transposed into the karmic driven world of Earl Karma. I'm sorry I didn't see it. Ai! The question is do you want to see a map of my surroundings?
+FUNGAL_WASTES_BOUGHT : I suspect the smell of the cave. My body is very sensitive.
+CLIFFS_GREET : Do you like hot summers? We are close to Halloween and only in the surrounding area. <page> This site is far from my destination. When they reached the edge of the cave <page> I created a small group of sites. It's simple and complete. This can be very difficult if you do not know the size of the area.
+FOG_CANYON_GREET : Yes Yes! Surprisingly, the level of terrifying wonders in these caves is completely new. Do you see the door in the dark? It can be annoying. I tried to get everything. Luckily I was a little rich, but I found another way.
+MINES_BOUGHT : I broke the glass on my back. They run fast and are everywhere. Be careful when riding a bicycle.
+WATERWAYS_BOUGHT : I found out that the city uses the tube and the camera to filter. Latest. Fortunately, it always rains.
+DREAM : For a world map ... I would be happy ... if Iselda would share this idea ...
+ABYSS_GREET : It is an ancient cave. Do you feel overweight? This is hard work. Many do not think so. But you and I tell a new story.
+CORNIFER_ISELDA : Maps can be helpful, but they may not indicate where you are. If you do not know the way, I advise you to buy a compass from his wife Asilda. Sometimes sells old cards. It always makes me happy.
+DEEPNEST_GREET : This is where P appeared in my testing. for kids everywhere black and white curtains Do you want to buy tickets?
+DEEPNEST_BOUGHT : P-P-P-Warinus is angry at the beast. I worked to get out of this darkness. In other words, I'll be hiding here for a while.
+FOG_CANYON_BOUGHT : There’s a big building in the middle of the lake, I want to do something amazing, but it’s hidden in this beautiful white nature. Oh they are so many ... great they give a good chance to mount the tobacco.
+CORNIFER_INTRO_1 : Yes, you don't know, do you? Yes, we appreciate that. If you try to think, you will forget the importance of communication.
+CORNIFER_NOT_ENOUGH_DP : Geo Yes, right?
+CORNIFER_REFUSE_DP : Don't like the N symbol?
+OUTSKIRTS_GREET : bad buun? I think I was on vacation in the nearby desert.
+CITY_BOUGHT : We are close to this beautiful place. When I was at home, I forgot to buy two shields.
+CORNIFER_REFUSE : To feel something. Without looking on the map, look for a way to the unknown cave ... everything is good. Good morning
+CORNIFER_INTRO_2 : My name is Carnifer. I love exploring the world. Why did I beat my mother's cousin for the first time? So my wife and I immediately drove to Dortmund. It is not just the forces that are being tested at our doors. Who can be arrested? But I'll come back to you on my way. we are happy. Welcome to safety.
+CORNIFER_MEET_DP : Hi, my name is Sham and I am a commercial designer. I try to show a strong BB curve. But insects like me are very dangerous. Good head, but a good man.
+CARD : I'm sorry I was wrong! If you missed it, why not come to our Dortmund card shop? Available for sale at a cheaper price! <br> - a.
+ROYAL_GARDENS_GREET : Have you ever heard of the Queen on Halloween? These parks are under management and their habitat for wildlife everywhere. Wildlife or the homeless are on the rise. Traveling here is fun. Want to see my work?
+CORNIFER_PROMPT : Would you like to get a map of your area?
+CLIFFS_BOUGHT : I hit a rock. His house is nearby. <page> The picture is so good that I won't regret it. I thought he would talk more with me.
+ROYAL_GARDENS_BOUGHT : In the middle of the garden is a deer. I'll be there. No one will come to close the door.
+GREENPATH_BOUGHT : When I came here I went with another traveler. For a long time I wanted to call him without him, but he did not see me. Sharp photography is not as important as yours.
+CORNIFER_MEET : Why do you want to explore interesting archeology? No matter, I like it. Losing and finding your way is as much fun as anything. We love you <page> I am an illustrator, I tried to draw a map of this area. Do you want copies of my work now?
+WATERWAYS_GREET : Isn't the river Nilam attractive? There is a gap between the pipe and the tunnel. I couldn’t find a better place to use it for my energy. He was well-prepared, well-thought-out, and had nothing but uncertainty. I want to put a name on this sheet.
+CORNIFER_AGAIN : Have you changed your mind about buying a card?
+ABYSS_BOUGHT : Shopping is a long way off. I'm taking a break <page> Not long! Iselta has no right to bother me.
+CITY_GREET : Aren't Berkeley Caves normal? Water pity everyone, but spirits are good. I'd love to do it, but it's hard to create such a place. Are you still going
+OUTSKIRTS_BOUGHT : The citizens who were watching the walls just wanted to make this cave. I wonder what stops them.
+CORNIFER_NOT_ENOUGH : I can help you as much as possible. I would give a picture but I didn't think of it for my wife. As the saying goes, "we eat for a lifetime".

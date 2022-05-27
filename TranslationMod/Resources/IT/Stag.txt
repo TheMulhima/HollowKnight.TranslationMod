@@ -1,0 +1,24 @@
+STAG_CROSSROADS : Ritarda il futuro, ma la vita è occupata, ricordo. Questa è stata la mia prima visita da bambino.Questo sconosciuto ha vissuto così a lungo, sono ancora vivo. Come se io e te stiamo combattendo e distruggendo l'ambiente.
+STAG_ROYALGARDENS : Quella notte, quando suonò il campanello, quasi dimenticavo. La fondazione della regina defunta non ha usato il buon senso.Non importa quanto siano grandi, questi posti sono belli da molto tempo. Spero che la regina ne sia felice.
+STAG_DEEPNEST : E mia cara... dove siamo? Non sono mai andato su questo sito. Il tempo era terribile. Aprirò la cassaforte.
+STAG_DREAM : Ora sono stanco e ho dolore alle gambe. Ma all'inizio non riuscivo a spiegarmi.
+STAG_FLOWER_WARNING : Il fiore che porti... è bellissimo, ma anche molto potente. Temo che morirai se mi segui.Se vuoi essere forte, ti consiglio di usare i piedi ovunque tu sia.
+STAG_TISO : Ho visto un altro uomo sdraiato su una sedia. Niente dentro, ma le porte della stazione sono aperte a tutti.Se mi chiedi un'offerta, te la faccio. La mia responsabilità per i cervi è più grande del mio odio personale.
+STAG_NEST : Quando sono tornato a casa, il mio cuore è affondato.Ma ero felice per lui. Quando me ne vado, ricordo la mia famiglia e il mio carattere.
+STAG_TOWN : Guarda... così vicino a questo mondo, crema? Questa è una città. Il resto è importante.I turisti vengono sempre qui. Adesso è molto tranquilla.
+STAG_TRAM : Testimonianza da te! Non un'auto nera, non un orologio? Spero che tu non ti opponga a questo cambiamento.L'idea è che questo dispositivo possa testare le nostre prestazioni! stupido... molto stupido.
+STAG_HOPE_1 : Il mio bambino! Cosa ne pensi della mia casa?<page>Tutta la mia vita è stata meravigliosa. Descrivi la posizione dei sordi per strada.<page>Credo di si. Moo - Spento.<page>Ma se c'è qualcosa nell'aria nel nido. È caldo o inodore?Sì! Ci sono altre auto nel mondo?
+STAG_REMEMBER_3 : Carami! Caricato! La casa dove è nata e cresciuta Elena.<page>Devo ancora tornare indietro. Ti lascia andare ovunque, ma se vuoi esserci, puoi portarmi.Nessuno ti saluta, ma il palazzo è ancora aperto! Ti do un parere, tornerò.
+STAG_REMEMBER_2 : È così! I minuti sono facili. Tornerò in campagna. Le strade sono incredibili e non dimenticare il paesaggio antico.<page>Uno di questi è il nido di cervo in cui sono nato e cresciuto. Ho dimenticato la testa, ma ora voglio farlo.Se apri le scale per attraversare la strada, troverai questo nido. Dovrebbe davvero essere fatto.
+STAG_HOPE_2 : Quindi spero che tu possa trovare quella speranza. I miei amici e parenti sono ancora vivi, ma ce ne sono ancora molti.<page>Ma i miei problemi non potevano essere fermati. Finché il turista vuole.<page>Si potrebbe dire che è un sacco di lavoro. Ero un vecchio amico quando eri stanco.Ci sono momenti nelle nostre vite passate in cui non siamo in questo regno.
+STAG_RUINS2 : Eccoci alla stazione del Signore! In realtà prende il nome dal re Holonest, che ordinò la costruzione di fermate degli autobus e posti di blocco.Sebbene il re non cavalcasse lui stesso il cervo, era difficile da vedere perché era stranamente costoso e sembrava luminoso e lucente.
+STAG_TRAVEL_1 : Sei pronto per divertirti?
+STAG_END_SPEAK : Hai bisogno di una cyclette? Basta costruire una piattaforma e un'autostrada. Tornerò presto in azione.
+STAG_HIDDEN : Ma! Cosa c'è nelle profondità della terra?<page>Ho sentito il ticchettio dell'orologio e sapevo che erano scomparsi. Hai trovato qualcosa di straordinario.Sono cresciuto qualche anno fa, ma il mondo mi ha tenuto lontano da cose che mi spaventavano...
+STAG_MEET : insegnante! Alla fine ho preso l'orologio del treno. Benvenuto anche a me.<page>Ho dimenticato di essere stanco anche quest'anno, e l'orologio ticchetta tic tic tic tic tic tic tic.La profondità di pulizia è molto buona. Se vuoi unirti, contatta il porto. Ti porteremo dove vuoi.
+STAG_RESTINGGROUNDS : Resort ... Molti turisti vengono a rendere omaggio al defunto.Nessun altro. Forse i morti stanno facendo una festa in questo momento?
+STAG_REMEMBER_1 : Vuoi aprire subito un canale? Voglio visitare di nuovo<page>Ricordo come è cambiata la natura del mio respiro mentre camminavo.Grazie mille per continuare il tuo lavoro
+STAG_EGG_INSPECT : Il letto è vuoto.
+STAG_FUNGUS : Ti amo. La coda della regina è stata nuovamente slegata. Questa località turistica è un luogo importante per i turisti che visitano il luogo.Sei un uragano.
+STAG_RUINS1 : Ricordo bene quella pagina. Il viaggio ha dato frutti in tutti gli angoli del mondo.Oppure potrebbe volerci più tempo.
+STAG_GREENPATH : Questo posto è molto diverso da dove sono stato di recente. Asciugare le verdure di sicuro

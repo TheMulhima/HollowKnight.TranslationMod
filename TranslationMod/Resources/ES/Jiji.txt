@@ -1,0 +1,34 @@
+NO_EGGS_REPEAT : Mi comida favorita... suave, redonda, muy buena para la boca. Es un olor desagradable que no puedo quitar. Es la más hermosa del mundo.
+GREET : Hola de nuevo. ¿Por qué viniste a reclamarme? Realmente creo en eso
+MEET1 : Hola secuestradores, llevo mucho tiempo durmiendo aquí...Sí, todo eso me suena bastante mal. Parece que BT tampoco es para mí. No, creo que podría ayudar.
+RITUAL_BEGIN : Bueno, me gusta mucho esta canción. Ahora, como hemos dicho, comencemos a orar.
+WATERWAYS : Sí, sé que se comprometerá. Un lugar oscuro cerca de los aleros. Pero no puedes apagarlo...
+SHADE_OFFER : Si compartes tu pasión conmigo, por favor, perdóname.
+RITUAL_REPEAT : Mejoraré el sabor de la comida.
+SHAMAN_TEMPLE : Sí, conozco mi dolor. Un lugar oscuro en un antiguo cementerio... un lugar especial de culto.
+CLIFFS : Si es malo para mí, no lo es para mí. Sobre nosotros hay un lugar incierto rodeado de tormentas.
+MEET2 : Mi nombre es Jigi, y si encuentra mi habitación, necesita ayuda.<page>Verás, podemos enviar nuestras esperanzas hasta los confines de la tierra.<page>Si no cumplimos con nuestras expectativas, esas expectativas nos abrumarán.Si me amas, mírame
+DREAM : ¿Cuánto tiempo dormiré? La tierra está cubierta de ruinas oscuras y dolorosas.Se esta volviendo oscuro. ¿Por qué me oscurezco cuando duermo?
+ABYSS : Sí, ves el dolor que devolviste. Relájate... porque...
+CROSSROADS : Sí, es muy tonto, no BT. La sección negra entre Talmek y Royal Highway debajo de nosotros ha desaparecido.
+SHADE_OFFER_INTRO : Mi servicio puede decirle que lo siento. Quieres eso, ¿no?No, pero tengo hambre. ¿Quizás te gusta el desayuno? Siéntate y come.
+HIVE : Sí, entiendo tu queja. Anillo negro y dorado. Hazlo sucio.
+DECLINE : ¿cinco? En realidad, si no quieres hacer amigos, no puedo evitarlo.
+RITUAL_COMPLETED : Desafortunadamente, cuando abordas tu dolor de una manera nueva, dices que es cruel. Buena apariencia. conocerte. Quiero que pienses en lo satisfecho que estoy con mi dieta.
+WASTES : Sí, veo que te vas. Hay un punto negro entre Hao Hao y la Base Peihu.
+NOSHADE : Oh, parece que no te arrepentirás por mucho tiempo. te hace feliz, no quiero a nadie como yo
+CITY : Sí, estás preocupado. Estaba oscuro en medio de una gran ciudad. Y no lloverá.
+SHADE_CHARM : artículos. La mujer me recordó...<page>La gente no se rinde; Pero estás preocupado.¿Qué oscuridad se perderá?
+QUEENS_STATION : Pero solo la cola de la reina quedó en la oscuridad.
+MINES : Sí, lamento escuchar eso. Los puntos negros están casi ocultos en grupos de estrellas brillantes a su alrededor.
+KINGS_PASS : Lamentamos las circunstancias. Una noche estaba a las puertas de este país.
+COLOSSEUM : Lo siento por los inconvenientes ocasionados. Un área oscura está rodeada de soldados y gente ignorante.
+NOSHADE_REPEAT : No tienes permiso para publicar. No necesitas un trabajo así. Ver otra vez.
+NO_EGGS : Hmmm, pero no hay comida. Sin embargo, no puedo explicar. Si no quieres, vuelve si te parece bueno y saludable.
+LOST_SHADE : Sí, ves el dolor que sientes. Los tigres se esconden en la oscuridad del sur.
+DEEPNEST : No, conozco tu frustración. No había puntos negros visibles en la puerta superior.
+GREEN_PATH : Sí. No soy. Colores brillantes en azul claro.
+OUTSKIRTS : Sí, me suena mal, BT tampoco parece ser para mí. La línea gris conduce a la autopista.
+RESTING_GROUNDS : Admítelo, no sé si BT es adecuado para mí. El santuario es un lugar oscuro.
+FOG_CANYON : Sí, veo tu dolor. Las formas exteriores son áreas oscuras.
+ROYAL_GARDENS : Sí, veo tu mente. Los colores oscuros afectan la belleza del paraíso.

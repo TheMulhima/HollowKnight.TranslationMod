@@ -1,0 +1,73 @@
+DREAMERS_INSPECT_MONOMON1 : Algo está brillando en mí.
+DREAMERS_EC1_1 : ¿Se han reducido los costes?
+FAKE_GREET_3 : Con confianza
+For diversity. For variance. For evolution. I become bond upon the Vessel. : 
+LURIEN_CONVO_4 : ... Fany...
+To sleep eternal, what difference from death? : 
+DREAMERS_INSPECT_RG6 : La cama está en el mapa.
+DREAMERS_INSPECT_RG2 : Archivo y capítulo de libros de Monthly Times.
+DREAMERS_EC1_3 : Necesitamos cambiar.
+DREAMERS_EC2_2 : Ton luminoso è luminoso. <br> <br> Dormimu tranquillamente.
+LURIEN_CONVO_6 : ... oota
+<br><br>Open your minds, brother and sister.<br>Our vow was to protect...but do we? The Vessel weakens. : 
+Unused Below : 
+DREAMERS_INSPECT_RG4 : Dios es fuerte sobre los animales.
+DREAMERS_EC1_1A : ¿Se quitará la etiqueta? ¡Sí!dormir
+Remember our promise, sister!<br>We three vowed to protect the seal with all of our devotion. : 
+Only one path I see. The Seals must break. Will it bring destruction? Of course. It will bring change, too. Let it.<page>To live forever in an unchanging world... Death, I would fear less. : 
+For my daughter and my kind, I become bond upon the Vessel. : 
+It matters not. Our Seals remain. This shadow seeks to defy us... It must be cast away. : 
+That plague, it calls to something within. But that union it offers is a lie, the cost, a mind regressed. : 
+DREAMERS_INSPECT_LURIEN : Una estatua de pie sobre una roca
+More detached than the other dreamers? Maybe ponders how the Hollow Knight (vessel) feels after all this time. Would he make the same choice again?First few dialogues are very taciturn : 
+HEGEMOL_CONVO_1 : Aprende... para niños... para niños...
+LURIEN_CONVO_3 : La empresa está esperando...
+What compels you to claw your way out of the darkness? What compels your return to this sacred kingdom? : 
+Go no further, little shadow. : 
+Talks about her history: As part of the agreement for her alliance and her role as a dreamer, King gave her a child (Hornet). Was she allowed to keep this child or was she taken away? : 
+DREAMERS_EC2_1 : Se fue por su propio camino. No se puede cambiar. Debe ser eliminado.Un bote vacío de esperanza, un gran bote de paz, cerca de la luz. Estas son solo cosas malas. El barco puede estar dañado, está navegando. no funciona
+<br><br>Do you truly wish to break it...?<br>Do you have the strength, or the will...? : 
+LURIEN_CONVO_1 : en nombre del emperador...
+FAKE_GREET_4 : Relájese en una posición sentada cálida y segura
+How long has passed? How long have we slept? : 
+DREAMERS_EC1_4 : Dormíamos a la sombra. Volvamos a nuestra historia. Dame paz
+LURIEN_CONVO_5 : ... Sev ...
+What calls it from beyond the Seal?<br>The Vessel, or that captive light? : 
+DREAMERS_INSPECT_RG3 : Visita Lauren Tower y la ciudad.
+DREAMERS_EC1_2 : No puedes matarlos.
+FAKE_GREET_2 : Somos amigos. ᲓSatisfactorio. Sientate y relajate.
+Our King appears as bug, and I shall take him as so.But his are traits that transcend our kind. His is a mind beyond ours. Deity given form.In sleep, I shall not look upon his like again. : 
+Fade away, little shadow.<br><br>Fade away, and allow us sleep in peace. : 
+MONOMON_CONVO_1 : ... Note la diferencia ...
+MONOMON_CONVO_2 : Un mundo que no cambiará...
+DREAMERS_INSPECT_RG5 : Por siempre Nida Sacrosta, gracias por tu devoción.
+MONOMON_CONVO_4 : Hambadio...
+My mind is seal upon that tragic being. But who shall teach them now? Who shall open their minds, where I cannot? : 
+MONOMON_CONVO_6 : Y más ...
+DREAMERS_INSPECT_RG1 : Un mang delgado bromeó con el guardia.
+It would break the Seals.<br>They cannot be undone.<br>They must be undone.<page>An empty vessel to bring hope.<br>A strong vessel to bring stagnation.<br>An enlightened vessel to bring an end. : 
+DREAMERS_EC2_1C : ¿Está roto el sello? No se pueden negar.
+To live forever in an unchanging world... Death, I would fear less. : 
+<br><br>Remember our bond... our sacrifice. For the kingdom's sake... for the one we must protect. : 
+HEGEMOL_CONVO_6 : ...... De todas formas. . . . .
+HEGEMOL_CONVO_4 : ... Otra vez ...
+HEGEMOL_CONVO_5 : ... Nueva York ...
+HEGEMOL_CONVO_2 : ... Tiene un acuerdo válido ...
+HEGEMOL_CONVO_3 : semillas de cesped...
+DREAMERS_EC2_1A_2 : ¿Qué sale de la oscuridad? ¿Qué te trajo de vuelta a este reino sagrado?
+MONOMON_CONVO_3 : Debes romper el sello.
+We sealed that plague, and thought we'd found an answer, but we were wrong.<page>Our sacrifices... what did they win us? A world sealed in stasis. : 
+<br>As you say... we made a promise. Let it be done. : 
+MONOMON_CONVO_5 : ... siempre ...
+LURIEN_CONVO_2 : ... y yate. Dund...
+FAKE_GREET_1 : Bienvenido a sentarse y descansar muy cansado.
+DREAMERS_EC2_1G : Nuestra deuda es válida. Te lo mereces
+DREAMERS_EC2_1F : No es la primera vez.
+DREAMERS_EC2_1E : De todos modos el sello es nuestra responsabilidad.
+DREAMERS_EC2_1D : Sin embargo, el barco se hundió. La reinscripción en caso de enfermedad debe cancelarse.
+FAKE_GREET_5 : Por favor, vuelve feliz. Siéntate, relájate y exhala.
+DREAMERS_EC2_1B : ¿Estás llamando desde casa? <br> ¿Es por culpa del barco o se va la luz?
+DREAMERS_EC2_1A : Solo una sombra fresca.
+DREAMERS_INSPECT_HEGEMOL : Su imagen duerme sobre una roca.
+This little shadow...<br><br>Must return to its darkness. : 
+DREAMERS_INSPECT_MONOMON2 : Una imagen de una sala de estar con un baño.

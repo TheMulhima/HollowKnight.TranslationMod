@@ -1,0 +1,129 @@
+GAME_BACKER_NAMES : Bestätigen Sie
+UI_MENU_ACHIEVEMENTS_XB1 : Punkt
+DESC_VSYNC : Entwickelt für weiche Isolierung. Schützen Sie den Bildschirm vor Explosion.
+VIDEO_SHADERS : Schönen Besuch:
+PROFILE_CORRUPTED : Heile die Unglücklichen.
+ACHIEVEMENTS_BASE_SET_TITLE : romridderlast
+MOH_LOW : In
+DESC_SHADERS : Seien Sie glücklich, steigern Sie die Produktivität von Autos mit geringer Leistung.
+DESC_BACKER_NAMES : Sehen Sie sich den Namen und die Unterstützung des Kickstarter-Korrespondenten an.
+SCREEN_ACHIEVEMENTS : Um es noch einmal zu tun
+OS_SLIDER : er fragt
+CTRL_REMAP : Erstellen Sie eine Reisekarte
+SCREEN_SAVE_PROFILES : Profileinstellungen
+BUTTON_DASH : රපා
+OPEN_CONTROLLER : Der Autor stimmt zu.
+DESC_NATIVE_ACHIEVEMENTS : Wenn Sie Ihr Ziel erreicht haben, senden Sie eine Nachricht an das Spiel.
+BUTTON_DOWN : Kopfkissen
+SCREEN_AUDIO : Diskussion:
+BRIGHT_INSTRUCT : Schalten Sie bei Bedarf das Licht ein
+PROFILE_CLEAR_PROMPT : Geld
+PROFILE_CLEAR_BUTTON : PAL-Server
+BUTTON_MAP : Wie originell?
+NAV_YES : Allgemeines
+MODAL_KEEP_RES : Sie wollen sich auf neue Ideen konzentrieren?
+LANG_PT : Hafen von Shepstone (Brasilien)
+LANG_DE : Deutsch
+MAIN_ACHIEVEMENTS : Glücklich
+STEEL_MODE_TEXT : Es wird keinen Tod mehr geben
+MODAL_QUIT_TO_MENU : verlasse mich
+MAIN_SWITCH_USER : Benutzereditor
+BUTTON_RIGHT : Klein
+AUDIO_MASTER_VOL : Verwirrt:
+SCREEN_GAMEPAD_REMAP : Karthantering
+MOH_OFF : NASA Parang
+PAUSE_CONTINUE : Hunderte
+LOADING : Wird heruntergeladen ...
+VIDEO_VSYNC : Kontaktieren Sie uns direkt:
+BUTTON_LOOK : nach oben/unten schauen
+BUTTON_SUPER_DASH : Großer Wohlstand
+BUTTON_JUMP : Manoj
+LANG_JA : —
+MODAL_CONNECT_CONTROLLER_PROMPT : Um fortzufahren, habe ich Anweisungen beigefügt.
+NAV_BACK : Werden
+NAV_RESET : بوریینو
+OPTIONS_VIDEO : Video
+NAV_APPLY_TRUE : C. Yves
+SCREEN_EXTRAS : zu
+KEYBOARD_NONE : was tust du
+DESC_PARTICLES : Reduziert die Leistung eines schwachen Computers.
+BUTTON_ATTACK : Attacke
+DESC_NATIVE_INPUT : Wenn der Fahrer ein Problem hat, verschieben Sie den Fahrer. Sie müssen das Spiel neu starten.
+BUTTON_MOVE : Aller
+LANG_FR : Lafranca
+OPTIONS_CREDITS : ￼
+OPTIONS_KEYBOARD : überhaupt
+PROFILE_LOADING : Immer ... Töte den Spieler.
+MODAL_QUIT_GAME : Koala II
+PROFILE_NEW_GAME : Neues Spiel
+VIDEO_PARTICLES : Teilergebnis:
+CTRL_PRESSBUTTON : Klicken Sie auf die Schaltfläche „Neu“.
+MAIN_EXTRAS : اکانان
+CTRL_UNMAPPED : Nicht entworfen
+DESC_FRAME_CAP : Bestimmt den maximalen Wert von kontinuierlichen Informationen.
+VID_OPT_BORDERLESS : Es gibt keine Einschränkungen
+GAME_NATIVE_ACHIEVEMENTS : Zeigen Sie die Ergebnisse
+GAME_NATIVE_INPUT : Wir vertreten die Hausverwaltung
+OPTIONS_CONTROLLER : Fhrer
+MOH_MED : entsprechend der
+AUDIO_MUSIC_VOL : Musiklautstärke:
+ACHIEVEMENTS_BASE_SET_TEXT : Ein leeres Buch kommt.
+MAIN_QUIT : Hör auf zu spielen
+SCREEN_OPTIONS : in:
+MODAL_PROGRESS : es wäre toll
+NAV_NO : Es kin net
+CTRL_NO_ACTIVE : Kein Offizier.
+BUTTON_DREAM_NAIL : Ich träume von Nägeln
+NORMAL_MODE_TEXT : Ein klassisches Spiel.
+BUTTON_LEFT : jwtsẖy
+VIDEO_DISPLAY : Borg
+PAUSE_MAIN : Verlassen Sie das Menü.
+PROFILE_DEFEATED : Weihnachten
+CTRL_NONE : Treiber nicht enthalten
+TEXT_SKIP_PROMPT : Drücken Sie zum Starten eine beliebige Taste.
+BRIGHT_SLIDER : hinzufügen:
+SCREEN_KEYBOARD : Klaviatur
+AUDIO_SOUND_VOL : Du bist:
+MODE_STEEL : Eiserner Wind
+LANG_ZH : ç® € ä½ “—ae—
+LANG_EN : Die Ecke
+OPTIONS_AUDIO : Scheidung
+LANG_IT : Die Italiener beruhigten mich nicht
+VIDEO_FRAME_CAP : Die häufigste Art von Terrio
+LANG_ES : EspaÃ±ol
+CTRL_NO_ACTIVE_DESC : Drücken Sie dazu eine Taste auf der Fernbedienung oder schließen Sie einen neuen Treiber an
+BUTTON_QCAST : Schneller Download
+BUTTON_CAST : Gaxilla / Vertriebspartner:
+CTRL_DETACHED : Keine Verbindungsanzeige
+MODE_SELECT : Abstimmung
+GAME_LANGUAGE : die Sprache stirbt
+VIDEO_OVERSCAN : Fenstergröße
+GAME_CONTROLLER_RUMBLE : Auf meinem
+MAIN_OPTIONS : Wahrscheinlich nicht
+BUTTON_UP : Zwei
+KEYBOARD_UNMAPPED : Nicht gezählt.
+MOH_ON : Autos
+UI_MENU_ACHIEVEMENTS_PS4 : Verwechslung
+DESC_LANG : Ändern Sie die Sprache im Hauptmenü.
+SCREEN_VIDEO : vitiu
+MAIN_START : Starte das Spiel
+KEYBOARD_PRESSKEY : Klicken Sie auf die Schaltfläche Neu.
+SCREEN_GAMEPAD : Konto:
+NAV_APPLY : ich hasse es
+BUTTON_INVENTORY : EINHEITEN
+LANG_KO : í•œêµ­ì–´
+VIDEO_BRIGHTNESS : Hell
+MODAL_ENGAGE_CONTROLLER : Drücken Sie zum Starten die gewünschte Taste.
+MOH_NORMAL : Ბუნება
+PAUSE_OPTIONS : Wahl
+VIDEO_FULLSCREEN : Ähnliche Szenen:
+VIDEO_RESOLUTION : Aktualisieren
+OPTIONS_GAME : Kontakte
+BUTTON_EMPTY : -
+EXTRAS_CREDITS : Dach
+SCREEN_GAME : Option mit Rundgelenk
+MOH_HIGH : Sohn
+MODE_NORMAL : Vereinigte Staaten von Amerika
+OS_INSTRUCT : Bewegen Sie den Schieberegler, bis der Rahmen den Rand des Bildschirms erreicht.
+NAV_DONE : Erledigt
+BUTTON_PAUSE : Vergleich.

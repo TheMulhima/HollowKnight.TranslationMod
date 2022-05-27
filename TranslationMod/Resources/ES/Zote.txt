@@ -1,0 +1,79 @@
+PRECEPT_29 : Regla 29: "Crear un espíritu de liderazgo"Es fácil caminar descalzo en una cueva. Obtener una línea recta es como un mapa genial en tu cabeza. Esto es muy apropiado.
+PRECEPT_39 : Regla 39: "Come rápido y rápido".Su cuerpo está naturalmente equilibrado, por lo que necesita comer bien. Los alimentos deben tomarse inmediatamente, pero el agua debe tomarse a la ligera.
+PRECEPT_19 : Casalapan Casalapan Janep: "G Probas, Impatrer".Si intenta hacer algo, fallará, de lo contrario, ¡indicará que ha fallado! Evite todas las condiciones.
+PRECEPT_9 : Regla 9: "Mantén tu casa limpia".Tu hogar es tu activo más valioso: es tuyo. Así que deberías intentar limpiarlo con un transportador.
+PRECEPT_57 : Setenta y cinco reglas: "Sigue todas las reglas".<page>Lo importante es recordar y seguir las instrucciones cuidadosamente. ¡Así es!Oye, escuchemos, reiniciemos y configuremos los Zoats nuevamente.
+PRECEPT_7 : Verso 7: "No lloréis por los muertos".¿Qué muerte es buena o mala? No puedes decir que eres un barril de desesperación. O celebrar el evento.
+PRECEPT_4 : Cuarto Mandamiento: "Olvida el pasado".Cuando piensas en el pasado, solo piensas en el pasado. En su lugar, dirija su atención a las mejores cosas de la vida, como la comida.
+PRECEPT_5 : Golpe 5 "El poder es el poder de la trompeta".¿Tus competidores son fuertes? ¡Ver! Trabaja duro y consigue tu producto. Estás a punto de tener éxito.
+PRECEPT_2 : Paso 2: No te rías<page>Se burla de todo, incluso de las personas importantes. Pero recuerda, ¡las fotos no hacen nada! Las imágenes se extendieron como la pólvora, y pronto todo el mundo estaba a tu alrededor.Elimine esta colisión rápidamente para evitar la contaminación.
+PRECEPT_3 : Regla 3: "Comodidad"Las peleas y el ejercicio afectan el cuerpo. El descanso hace que su cuerpo sea más fuerte y saludable. Cuanto más tranquilo estás, más fuerte eres.
+PRECEPT_43 : Regla 43: "No te preocupes".Cuando el hermano se disculpa, es rechazado. hermano vale la pena?
+PRECEPT_53 : Artículo 53 "No queráis amaros los unos a los otros".Cada animal tiene su propia elección. Si quieres los beneficios de los demás, resiste la tentación de hacerlo tú mismo. no estás feliz.
+PRECEPT_23 : 23. "Busca al oponente más débil".Cada enemigo tiene un punto débil frente a ti, como una explosión o un sueño. Tienes que tener cuidado: comprueba las debilidades del oponente.
+PRECEPT_33 : Capítulo 30: "Derrota a tus enemigos".No es bueno derrotar al enemigo. No subestimes el valor de tu cargo. No lo subestimes.
+PRECEPT_13 : Regla 13 "No tengas miedo"Sólo el miedo puede detenerlo. El miedo puede ser peligroso. Así que no tengas miedo primero.
+PRECEPT_37 : Séptimo: "Sin deuda".Si devuelves el dinero, no obtendrás nada. Si pides dinero prestado, ganas
+PRECEPT_17 : Verso 17: "Cree en tu fuerza".Alguien puede culparte, pero hay alguien en quien puedes confiar. o Asegúrate de creer en ti mismo y no te dejes atrapar por ello.
+PRECEPT_34 : Guía 4: "Comer antes de dormir".Se cortará la comida. Esta es una idea.
+ZOTE_COLOSSEUM_REPEAT : Me quedé hasta la Segunda Guerra Mundial. Por favor, no muestres...
+ZOTE_COLOSSEUM_MEET : ¿Breve información? ¿Qué quieres que tu novio haga por mí?<page>Saktho Tanan! ¿No crees que estoy en la pared?<page>¡Sí, quiero registrarte!¡No puedo! Cuando divides las puntadas que llamas el "fin de la vida" en dos, ¡tu imagen se ve genial!
+ZOTE_DREAM_COLOSSEUM : Disculpe, quédese aquí y encuéntreme...Vine a Israel para cumplir mi promesa y...
+ZOTE_TOWN_REPEAT : MM es una ciudad vibrante. Mal tiempo. Volveré pronto.
+PRECEPT_8 : Consejo 8: Ve por ti mismo.No siempre son dignos de confianza y no todos honestos. Así que nadie puede venir contigo.
+ZOTE_DREAM_BUZZER : Loco... mi cuerpo se mueve en la memoria. Esta debilidad no te sorprende.
+ZOTE_CITY_GREET : ¡Pero! Mira a este tipo. No quieres que te toque. Muerden cuando intentan secarse.<page>El famoso Zote es un cerdo fuerte. Decide que está seco y déjalo.Esta ciudad es muy mala. Suelte el agua y el animal. No sorprende que un gobierno tan corrupto haya fracasado.
+ZOTE_BUZZER_1_B : Mira, arte. Mi nombre es Jot Power, un famoso soldado. En ese entonces, necesitaba entender por qué llamaba a las armas "fin de la vida".
+PRECEPT_56 : Regla 56: "Sueños".Una pesadilla. Se pueden considerar diferentes ideas, pero no son propias. Pero si no aceptas esta idea, el estrés puede dañar tu cuerpo. Es mejor no soñar.
+PRECEPT_26 : Regla 6: "No te rindas".Cuando miras algo claramente, puedes ver la forma de tu cara. Las diferencias anteriores también reflejan su posición, pero no estoy de acuerdo.
+PRECEPT_36 : Tema 36: "El producto es demasiado débil".Una vez más, el proyecto es simple.
+PRECEPT_16 : Consejo 16: No lo dudes.Una vez que haya tomado su decisión, no mire hacia atrás. Esto te hará más rentable.
+PRECEPT_46 : Cuarenta y seis sermones: "El mundo es más pequeño de lo que piensas".Cuando eras pequeño, pensabas que el mundo era grande, grande, grande. Esto es normal. Lo siento. Debo decir que he viajado mucho ahora.
+ZOTE_TOWN_2 : Abuela. Parece un saco que se cierra con un cordón. No puede respirar.También es una fantasía. Los sueños son realmente locos.
+ZOTE_TOWN_1 : estás ahí por qué estás detrás del volante<page>Sí, no dejes que tus ojos te engañen. Es un famoso héroe rata. ¡En frente de mí!<page>Escóndete en tu ciudad peligrosa; Entra en la cueva y mata al gran animal. Tiene buenos y malos hábitos.Sí estoy de acuerdo. Gracias a todos ustedes. ¡Pero no tengo tiempo para hablar por mí mismo! Relájese y prepárese para su próximo viaje.
+PRECEPT_44 : Marcos 44: "No puedes respirar agua".El agua está limpia, pero si intentas respirar, sufrirás.
+PRECEPT_54 : Capítulo Nueve: "Si matas algo, mátalo".No tienes que apagarlo todo el tiempo. Mantén la clave en secreto. Finalmente, regresa y muestra lo que has escondido.
+PRECEPT_24 : Gorra.Después de haber matado las debilidades del enemigo, les ordenaste que lo atacaran. Lo perderás inmediatamente.
+ZOTE_CITY_EXTRA : Espero que te impresione la altura de la torre. , Durante mis viajes, visité varios palacios. Esto es mucho mejor.
+PRECEPT_14 : Catorce: "Respeta a tu jefe".Si alguien es más inteligente que tú o que ambos, debes ser cortés. No los ignores, no te rías de ellos.
+PRECEPT_40 : Artículo 40. "No estás sujeto a la ley, sino a ti mismo".Pueden o no seguir otras reglas escritas. Su queja es contra la ley.
+PRECEPT_50 : Regla 50: "No dudes".Hay algo extraño en nosotros en este mundo. Presidente, señor, si no tiene ninguna idea sobre el asunto en este momento, no pierda el tiempo pensando. Vamos
+PRECEPT_20 : Conclusión 20: "Di la verdad".En el trato con los demás, sé gentil y amable. Tenga cuidado de no enojarse. Aquí hay algunas cosas a tener en cuenta:
+PRECEPT_30 : Treinta y tres mandamientos: “No prometas nada.A medida que avanza la historia, continúa incumpliendo sus obligaciones. Las promesas de amor deben ser consideradas o tenidas en cuenta.
+PRECEPT_10 : El sexto mandamiento. "Intercambio de armas".Por favor, sigue trabajando en mi vida y mis recursos. Así que es muy fácil destruirlo todo.
+PRECEPT_47 : Consejo 37: "Crea tu propio contenido".Ya sabes lo que tu dispositivo necesita. Cuando era más joven, estaba en Shelwood. Nunca me caí. Yo no.
+ZOTE_DEEPNEST_2 : ¿Mmm? Estás en la cueva hoy, no me importaHilo. Conozco el camino más fuerte de memoria, pero lo camino solo. ¡Sorpresa! tan bonita
+ZOTE_DEEPNEST_1 : ¿Cariño, como estas? ¿Puedes quemarte las uñas y las galletas en la oscuridad?<page>Lo golpearé. Si lo haces, está hecho. ¡Créelo!Él es el Todopoderoso. El rey aún era joven. Mi arma "muerta" mata a cientos de enemigos. Ven y observa.
+PRECEPT_48 : Regla 48: Evite el fuego.Agnes es un alma caliente que baila con crueldad. Pueden estar calientes y secos, pero se queman cuando la piel está tensa.
+PRECEPT_28 : Regla 28: No ves en la oscuridad.En la oscuridad, los viejos recuerdos comienzan a olvidarse en la mente. Debe evitarse el consenso en el cuarto método.
+PRECEPT_38 : Capítulo 38 Cuidado con el poder de los zombisCuando pasamos mucho tiempo en el aire, atraemos poderes mágicos hacia arriba y hacia abajo. La guerra te atacará y te destruirá. ten cuidado
+PRECEPT_18 : Capítulo 18. La búsqueda de la verdad en la oscuridadEl resultado es muy simple.
+PRECEPT_27 : Regla 27: "Con todo lo que puedas".Comer fuera si es posible. Te da mucha energía, lo que significa que puedes comer menos.
+PRECEPT_42 : Sugerencia 40: "Use el conocimiento ambiental según sea necesario".Algunos de ellos siguieron sus pasos y cayeron a la muerte. Es mejor usarlo si puedes disfrutar de la vida.
+PRECEPT_52 : Quinto: Cuidado con los pastores.Kalan creía que debido a que él nos creó, debemos adorar y no violar nuestra autoridad. Si quieres estar solo, tienes que golpear a Bob. O prueba con otro.
+PRECEPT_22 : Regla 22: "Sal de la jaula".Dejaré mi país y viajaré por el mundo lo antes posible. No caigas en la trampa. No tienes nada
+PRECEPT_32 : Hay treinta y dos principios "el poder tiene poder".Ellos son los responsables, así que tenemos que hacer sugerencias. Llamo a mis uñas "el final de mi vida". ¡Roba mi nombre! Sirilamunu!
+PRECEPT_12 : Condición decimotercera: "El abrigo debe estar seco".Si la imprimación está húmeda, déjela secar lo antes posible. Usar una camisa mojada puede ser difícil y puede enfermarlo.
+PRECEPT_1_R : Consejo 1: "Regístrese con su general".Pelear no te salvará y no te enseñará nada. ¡Gana o únete a la batalla!
+ZOTE_CITY_REPEAT : ¿Ves a los guardias mirando alrededor de la ciudad, aunque estén muertos?. Solo tienes que ser más exigente con la ayuda que das a los demás.
+PRECEPT_6 : Consejo 6: "Elige tu ubicación".Nuestros ancestros enseñaron que nacemos para elegir nuestro propio destino. No lo creo.
+DREAM_COL_CORPSE : ¡Arréglalo ahora! ¡Date prisa, no te enfades conmigo!
+ZOTE_DREAM_FINAL : Vine a este país para cumplir mi promesa... pero lo hice.<page>Hice esta promesa hace mucho tiempo... Prométemelo...La promesa de respeto. Gracias a todos los héroes. Nunca pensé que perdería, pero pude conseguir lo que quería.
+ZOTE_DREAM_DEEPNEST : El Estado esconde entonces un oscuro nido lleno de cadáveres. Sí, este es otro cazador.... ¡por supuesto amigo!
+PRECEPT_21 : Figura 2: “Protección comunitaria”.¡No vayas allí, mira el mundo! Cada vez que ves algo que te asusta, tienes que verlo.
+ZOTE_DREAM_CITY : ¿Por qué este gobierno está tratando de engañarme? Mi última casa con lágrimas...
+ZOTE_COLOSSEUM_GREET : Luché por la vida, matando a cientos o miles de enemigos.<page>Entonces los tontos dijeron: '' ¿Qué más?Satisface la necesidad de un altavoz potente...
+ZOTE_BUZZER_1 : Qué crees que estás haciendo ?! ¿Tazzarda se interpone entre el asesino y yo? ¿Alguna vez has competido, calculado y creado problemas?
+PRECEPT_45 : Comando 45 "Hay uno".Otros argumentan que esto no es cierto. No es de extrañar que otros digan eso. Felicidades
+PRECEPT_55 : Regla 55: "Ilegal".<page>Hay personas en este mundo que hacen lo que los demás quieren que hagan. ¡Aman tu comida, tu país, tu cuerpo y tu mente!Ellos no hacen nada. Nunca toques tu cabeza y no olvides romper las reglas.
+PRECEPT_25 : Artículo 25: "Protección de sus derechos"El enemigo intentará encontrar tu debilidad. Entonces necesitas protegerlo. ¿Mejor defensa? Primero, nadie debe ser débil.
+PRECEPT_35 : Acto 25: "De abajo hacia arriba".Cuando el clima está oscuro, es fácil llevarlo y olvidar a dónde vas. ¡Recuerda este principio!
+PRECEPT_15 : Hace quince años "punch".Debes usar la presión para derrotar al enemigo. Otros no tienen sentido. Pero cuando cuentas las batallas, sabes cuántos enemigos has derrotado.
+PRECEPT_41 : A los cuarenta y dos, dijo, aprende a mentir.Hay gente que miente. Obsérvelos cuidadosamente y haga preguntas hasta que su conversión sea clara.
+PRECEPT_51 : Cincuenta personas dijeron: "Sin dolor".Cuando surja la oportunidad, todo en este mundo sufrirá. Muchachos, enemigos, enemigos, mal comportamiento. Templo de la Hermandad.
+PRECEPT_1 : Pero esto no es una amenaza para la fama. ¿No ves la botella? En nuestro último libro, estábamos muy entusiasmados con esta pelea tan exitosa.<page>Sí, Ander vive con otras víctimas y el público pide respeto. La oración "muy alta" es muy profunda.<page>¿Por qué necesito un préstamo a largo plazo? Como dije, la parte más importante de la filosofía personal es el "séptimo mandamiento de Dios".La primera regla es muy interesante aquí. Siempre gana la batalla. 56 ی 56 داد خوبه
+PRECEPT_31 : El decimotercer mandamiento es "muerto en el polvo".Pasar demasiado tiempo en la trampa te hará daño. Si vive en la casa de otra persona, pídale al dueño que la limpie.
+PRECEPT_11 : Regla 11: "Mi madre siempre te vende"Esto parece una regla.
+ZOTE_DREAM_TOWN1 : Recuerdo ese lugar aterrador... en casa. Es muy triste ...
+ZOTE_BUZZER_2 : ¿Qué más me pregunto? No me importan los juguetes, quiero relajarme.¡Dónde está! Utilizando ...
+PRECEPT_49 : Regla 49: La imagen está en blanco.¡respetalo! ¿Por qué tú y yo no tenemos fotos?

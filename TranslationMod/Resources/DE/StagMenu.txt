@@ -1,0 +1,14 @@
+CITY_OF_TEARS_1 : In der Stadt
+DIRTMOUTH : Dartmouth
+DEEPNEST : Halten Sie sich von der Stadt fern
+KINGS_STATION : Thopo jaam
+RESTING_GROUNDS : das ist die Zeit
+HIDDEN_STATION : to'xtab tur
+STAG_NEST : Willilek Mun
+ROYAL_GARDENS : Gebet im Park
+GREENPATH : Kein Glas
+STATIONS : auf dem Fluss
+BONE_FOREST : Knochenwald
+CROSSROADS : Ich habe vergessen zu sagen
+FUNGAL_WASTES : Die Station der Königin
+PALACE_GROUNDS : Domänen

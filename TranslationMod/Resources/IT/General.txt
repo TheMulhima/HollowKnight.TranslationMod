@@ -1,0 +1,13 @@
+GAME_TITLE : Sprint
+PRE_MENU_QUOTE : Perdersi e trovare la propria strada è facile come qualsiasi altra cosa.
+GAME_DISPLAY_TITLE : 
+SAVE_WARNING : A volte memorizza informazioni sul gioco. Se viene visualizzata questa idea, non chiudere il programma.
+CONTROL_PROMPT : Consigliato dall'amministratore
+VERSION_NUMBER : - - -
+PROLOGUE_EXCERPT_AUTHOR : "Sleepy LH" di un professore assonnato
+PROLOGUE_EXCERPT_02 : Nessuno può addestrare i nostri eroi, quindi stai aspettando il lavoro.
+PROLOGUE_EXCERPT_03 : Ci è stato detto che avevamo cambiato la natura della decisione originale sotto stretto controllo.
+PRE_MENU_QUOTE_AUTHOR : Stereoskopue F US o pi
+PROLOGUE_EXCERPT_01 : Chiama il tuo nome nella giungla con onore e dignità.
+SNEAK_PEEK : Questo breve evento è una versione incompleta di Hollow Night IK a differenza dello spettacolo precedente.
+PROLOGUE_EXCERPT_04 : Il mondo che dai a insetti e animali è qualcosa che non avresti mai immaginato.

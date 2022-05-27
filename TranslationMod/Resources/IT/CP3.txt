@@ -1,0 +1,408 @@
+GG_LOCKED_DESC_GHOST_NOEYES : Ho raggiunto il tempio
+MEGA_MOSS_MAIN : Hamburger di alghe
+ATRIUM_ENTER_TEXT : renderlo incapace di usare! Livello trappola! contadino<page>Tu sei l'autista! Spero che tu sia! figlio del contadinoChi ha il diritto di attaccare la casa di Dio qui? Buona fortuna Kaio!
+NAME_MANTIS_LORD_V : Fratello Shabeel
+NIGHTMARE_GRIMM_GG_3 : Alcune persone... Sogni che le legano tutti insieme.
+GG_UNLOCK_INSPECT : Contatto Residenziale Temporaneo.
+NOTE_VOID_IDOL_1 : "Aumento o diminuzione"; Sono bambini brutti. Senza la benedizione di Dio, le tue capacità e abilità saranno coperte. -.
+INV_DESC_GODFINDER : Un dispositivo per parlare con animali forti. <br> <br> Quando vieni catturato dai nemici.
+GG_S_MEGABEAMMINER : Dio ti benedica
+ETERNAL_ORDEAL_SUPER : BHO
+UI_MENUSTYLE_VOIDHEART : Un cuore vuoto
+LOADING : Caricamento ...
+GG_UNLOCK_TALK : ... Il Signore è venuto. Vogliamo te
+GG_S_GHOST_NOEYES : Nel sogno Dio nasce con paura e conforto
+NAME_SOUL_TYRANT : Responsabilità spirituale
+UI_MENU_EXTRA_GG_DESC : Pacchetto informazioni gratuito 03 <br> <br> Prima edizione: agosto 2018 <br> Per saperne di più: Unisciti al gigante nel popolare gioco di Halloween con l'ultima serie di Knights. Dio venne con l'arca - un nuovo carattere e scopo. Fare clic sul collegamento e aiutare con il vecchio lavoro. Nuova guerra di Halloween. Intelligente: il livello di aspettativa. Unisciti all'organizzazione di Dio per iniziare un nuovo progetto. Nuova musica: tutte le nuove canzoni di canzoni e gruppi popolari.
+GODSEEKER_GGMODE_INTRO : Sono pulito, Dio! Assaggerà anche la debolezza e le grida dei suoi schiavi.Gioiamo come miele nella tua luce. Possiamo provare a mostrarti il ​​tuo incredibile potere.
+ATRIUM_NPC_DREAM_2 : Cerca Dio...
+GG_S_ZOTE : Halloween è un attacco a Dio
+GG_S_NOSK : Dio è eterno, senza volto
+GODSEEKER_ENGINE_DREAM : Mostra la tua forza, Santo Dio! Devi installare e andare avanti!
+HIVEQUEEN_EXTRA : Signore... finalmente sei libero.
+ETERNAL_ORDEAL : Combatti contro l'avidità
+ATRIUM_NPC_DREAM_5 : cerco corrente...
+PURE_VESSEL_4 : Una specie di ...
+NOTE_SAGE_SLY : Il saggio signore tirannico alzerà le unghie e mostrerà la sua pazienza in tempo reale, gran signore, signore degli dei, vogliamo saperne di più su di lui!
+UI_BINDINGS_TITLE : lui viaggia
+GODSEEKER_ENGINE_UNN_REPEAT : Anche nei momenti difficili va benissimo. Se sai come crescere...
+GG_S_MAGEKNIGHT : Cerca il Santo Dio
+GRIMM_GG_3 : Ciao, contattaci qui!
+GG_S_UMMU : Chiama per nome
+GG_LOCKED_DESC_GHOST_GORB : Sogni e sogni del cuore.
+GODSEEKER_ENGINE_REVISIT_GGMODE : Gloria, camminare su queste piccole cose è come miele morto. Sii la tua maledizione. Le nostre canzoni ti renderanno felice.
+GG_S_SOUL_TYRANT : Dio è uno sciocco della morte.
+NAME_PURE_VESSEL : Umar Preet U.
+GG_S_GHOST_HU : Dio nasce con un desiderio di saggezza e comprensione.
+GODSEEKER_WATERWAYS_WHITEFLOWER : città, villaggio? Poi l'inventore paga. I fiori sono sottili, piccoli e puliti. Ma non c'è dio. Non c'è Dio. Sebbene ...<page>Perché il browser sta cambiando? È interessante se la nostra pelle è liscia e luminosa? Vedi quel bel viso sotto il sipario? Questo è un bel programma!Non tutta l'ortografia! I browser hanno bisogno di attenzione. Il nostro regalo. Abbiamo, ma il nostro segreto rimarrà sempre segreto.
+UI_MENU_STYLE_HD : Un sogno misterioso
+ELDERBUG_FLOWER : Ho dato loro delle rose.
+GODSEEKER_WATERWAYS_AWAKE_REPEAT : La Terra Santa... pericolosa ma potente.New York! Dio non è morto qui!
+GODSEEKER_ENGINE_REPEAT : In breve tempo Dio vi distruggerà tutti!
+NAME_MEGA_BEAM_MINER_2 : sed pastore
+MARKER_W_NAME : segno chiaro
+INV_DESC_FLOWER_QG : Vai a Queen's Gardens Piccoli alberelli con scale o rampicanti in pendenza.
+GG_LOCKED_DESC_MANTISLORDS : Guarda Guerriero.
+GODSEEKER_MAIN : Detective
+PAINTMASTER_MAIN : Visa
+QUEEN_FLOWER : Ah purtroppo non sono d'accordo con il prezzo.<page>I fiori non sono suoi, non dello stato, e percorre lunghe distanze sul suo cavallo preferito.<page>Ci sono innumerevoli forze alla fine della cattiva scienza.Se vuoi avvicinarti, dovresti conoscere la natura...
+PANTHEON_ENTER_2 : Troppo piccolo! Intestino! Disprezzi ancora gli dei? Qual è la volontà di Dio per l'uomo?Che si tratti di guerra o conflitto, saremo molto arrabbiati per il tuo ingresso.
+FLUKE_HERMIT_DREAM : La mamma sembra... triste... triste...
+GG_LOCKED_DESC_GHOST_MARKOTH : Vado a letto e vedo la mia fine.
+GODSEEKER_COFFIN_NOKEY : Il dollaro è legato a una chiave comune.
+VENGEFLY_SUB : 
+HORNET_GG_1 : Stai seguendo il mio sogno... o stai seguendo il mio sogno?
+UI_CHALLENGE_TITLE_MAIN_4 : Fase
+UI_CHALLENGE_TITLE_MAIN_5 : e
+FLUKE_HERMIT_PRAY_REPEAT : Vibrazione... Signora... <br> Io... Ricordi...? Non dimenticare...
+NOTE_PALE_LURKER : Queste incredibili creature sono completamente innocue e non hanno malattie nella grotta. Ognuno ha i propri desideri.
+UI_CHALLENGE_TITLE_MAIN_1 : controllo
+UI_CHALLENGE_TITLE_MAIN_2 : ARTE
+UI_CHALLENGE_TITLE_MAIN_3 : intelligente
+KNIGHT_STATUE_2 : Padre in mpe.
+GG_S_PAINTMASTER : È il Dio dei falegnami e degli artigiani.
+KNIGHT_STATUE_1 : Niente insetti, niente animali, niente dei.
+SHEO_3 : E se Dio non fosse un attore?
+GG_LOCKED_DESC_FKNIGHT : Vedo la debolezza del cuore del ladro.
+MODAL_ENGAGE_CONTROLLER : Inizia premendo il pulsante
+ENDING_D_TITLE : Per avere informazioni
+GG_S_COLLECTOR : Dio è un grande dio
+UI_MENU_RUMBLE : freddo
+GG_LOCKED_DESC_WATCHERKNIGHTS : Andammo a letto e cercammo Arpel.
+GG_LOCKED_DESC_GHOST_XERO : Dormo di nascosto e sogno
+PURE_VESSEL_3 : La cause ...
+PURE_VESSEL_2 : Non dire ...
+GG_S_SOULMASTER : n / a
+GODSEEKER_ENGINE_PRIME_REVISIT : Vai in questo bar pulito e tagliati le unghie. Qualunque fosse lo scopo, ci abbiamo pensato.La lotta è su di te. Avrai anche solidarietà con gli dei. O stai ancora nascondendo qualcosa?
+CTRL_MARKER_PLACE : Municipio
+GODSEEKER_ENGINE_3 : Lavora duro, non lavorare! Perché hai lasciato questo pantheon? È vano cercare la gloria!<page>Dobbiamo testare le nostre idee. Nelle battaglie religiose sentiamo le voci degli dei.Egli ci condurrà alla gloria del cielo. tremerò! In un fortissimo rapporto con Dio, dal cuore del regno di Dio...
+TEMP_NM_SUB : 
+HIVE_KNIGHT_2 : atum
+HIVE_KNIGHT_3 : L'uccello... loro...
+HIVE_KNIGHT_1 : sei un'immagine
+PLATINUM_TITLE : il cuore della tenda
+GG_LOCKED_DESC_GHOST_MARMU : Ho dormito pazientemente in cortile
+ATRIUM_NPC_DREAM_1 : Il tuo cuore è mare
+DESC_PAINTMASTER : Un insegnante esperto e rispettato. C'è sempre stato il desiderio di imparare qualcosa di nuovo.
+NOTE_PAINTMASTER : "Dio è un artista. Guarda oltre il tuo cuore e trova santi." <br> - Prega per gli artisti.
+GET_GODFINDER_1 : Questo bene è protetto dalla legge statale.
+GET_GODFINDER_2 : Trova il dio di Halloween. Risparmiare energia. Aumenta il loro potere.
+LURKER_1 : Riduci i soldi! No!
+MARKER_B_DESC : Questi nuovi strumenti sono disponibili e non sono più disponibili. Usalo per disegnare i tuoi luoghi preferiti sulla mappa. bella?
+ATRIUM_NPC_DREAM_4 : ... l'unica malattia globale ...
+FLUKE_HERMIT_PRAY : personale! Burro!<page>Stia tranquillo! Stia tranquillo! Personale! Sorellina... cresci!Uno speciale... Anna... <br> Piccola... Mamma...? Personale...
+GG_S_BROKENVESSEL : Distruggi il guscio vuoto di Dio
+MAGE_KNIGHT_SUPER : Adesso
+GODSEEKER_ENGINE_UNN_DREAM : Centinaia di nobili, mandiamo i nostri cuori a te e alla terra, sogni e religione...
+GG_LOCKED_DESC_SOULMASTER : Regna per sempre nella santità.
+GG_LOCKED_DESC_HIVEKNIGHT : Proteggi il cuore della principessa.
+ORO_FLOWER : Perché pensi che questo sia il modo migliore per attirare gli studenti a scuola? Questi fiori sono il tuo regalo?Non mi piacciono le cose Raccogliere o buttare via gli insetti.
+OPTIONS_CONTROLLER_PS4 : Formaggio Desi
+SLY_BOSS_SUB : 
+FLUKE_HERMIT_SUB : 
+MODAL_CONNECT_CONTROLLER_PROMPT : Contatta il tuo manager per continuare.
+GAME_NATIVE_INPUT_PS4 : Installa il primo driver.
+GG_LOCKED_DESC_GRIM : Aspettando la luce
+GODSEEKER_WATERWAYS_AWAKE_NO_GODFINDER : Una colonna con una bandiera. Hai visto la luce? Hai un aspetto incredibile. Il programma.Tu ami la natura. Voglio più del necessario! Siamo fuori, quindi prendilo. Questa impostazione è facoltativa.
+GG_S_SLY : il vero dio è saggio
+NAME_VOID_IDOL_1 : immagini di lievito
+GG_S_FKNIGHT : mania dittatoriale
+FLUKE_HERMIT_MAIN : Gravità
+GG_UNLOCK_BODY : Dio benedica questo Halloween. Dai loro il loro posto.
+GODSEEKER_ENGINE_PRIME : Sinceramente dispiaciuto. Grande spettacolo! Vuoi un Dio grande e glorioso.<page>Il suo corpo terreno fu catturato e contaminato, ma i suoi idoli adorarono la sua gloria. La sua potenza infinita ci conduce al Dio Altissimo, il Dio di Dio!<page>Gente comune, potete paragonarvi a questo Dio? Pensi che non vedrai mai più un'altra persona? Sei nella stessa forma e si ripete ...Questo è! Cosa ne pensi? Hai messo noiosi fantasmi sulle nostre teste, oh! Giornale! Dio sia con te per sempre!
+ABSOLUTE_RADIANCE_MAIN : Quindi Nako
+FLUKE_HERMIT_IDLE_3 : Grecia... tesoro della mamma... collezione...
+GG1ACHIEVE_TEXT : Il progresso degli adoratori
+UI_BINDING_NAIL : cornelio
+UI_MENU_ACHIEVEMENTS_XB1 : Costruire
+GG_LOCKED_DESC_MIGHTYZOTE : Lavorerò per la regina dei sogni
+GG_S_LOST_KIN : non c'è Dio
+NAME_PAINTMASTER_JOURNAL : SEO:
+DESC_VOID_IDOL_3 : Ad Halloween trovano strani ragni nei loro laghi. Il buco nero era pieno d'acqua.
+GODSEEKER_ENGINE_T5 : così brutto! Dopo questo tempio non possiamo scappare dal cielo.<page>Sei stupido, sei stupido. È il messaggio di Dio o qualcosa di strano?Continueremo a lottare costantemente. Sentiamo...
+PROMPT_ASCEND_GG : mi piace il programma:
+NOTE_GODSEEKER_MASK : "Signor Rain, Maestro, perché hai lasciato il tuo servo? Solo suo figlio risponde? Cosa resta del Signore che può salvarci da questo triste silenzio? Zanzara?
+GG_S_NAILPAINT : Grandi poesie per disegnatori è illustratori
+VENGEFLY_MAIN : Telefono
+NAME_VOID_IDOL_3 : Conoscenza magnetica
+GG3ACHIEVE_TEXT : I pantaloni di papà
+GG_LOCKED_DESC_SLY : Battaglia con il Pandian
+VENGEFLY_SUPER : Vendetta
+NOTE_NAILMASTERS : "Dio è intrecciato". Prega per me "
+NOTE_VOID_IDOL_3 : Gli antichi Brembo adoravano gli dei, il potere e forse no, ma adoravano nell'oscurità.
+GG_LOCKED_DESC_BROKENVESSEL : È caduto in profondità nel sottosuolo
+SISTERS_SUPER : 
+GG_S_RADIANCE : Dio ha dimenticato la luce
+GG_LOCKED_DESC_MEGABEAMMINER : Sono rimasto bloccato tra il cristallo e l'auto straordinaria.
+VIDEO_SHADERS : Fu movimento
+INV_NAME_GODFINDER : dea
+GODSEEKER_WATERWAYS_DAZED : د ... اکوا ...
+GG_LOCKED_DESC_GRUZ : Dormo in una strada tranquilla.
+NAME_FAT_FLUKE : mal di stomaco
+GODSEEKER_COFFIN_KEY : Un semplice collegamento in serie. <br> Usi chiavi comuni?
+GG_UNLOCK_FINAL_TALK : decisione! È corretto! Non hai il diritto di inquinare le statue sacre. Lasciare! Lasciare!
+UI_MENU_STYLE_CLASSIC : Classico
+UI_MENU_STYLE_STEEL : due bambini
+SLY_2 : Cosa vuoi fare con le tue unghie?
+SCREEN_GAMEPAD_PS4 : Niente
+CONTROL_PROMPT_PS4 : Gli ispettori sono incoraggiati.
+GODSEEKER_ENGINE_PRIME_REPEAT : Tu non sei Dio! Ciao Sestetto! Calmati!
+GRIMM_REMINDER_1 : abbiamo
+UI_MENU_ACHIEVEMENTS_ALT : Flava
+GODSEEKER_ENGINE_ROOT_DREAM : Confuso... raramente dimenticato... ma forte! Puoi essere uno di loro?
+GG_S_TRAITORLORD : ha dato questi apostati
+STORMLAND_MAIN : autobus
+MARKER_R_DESC : Questo è un nuovo componente aggiuntivo per il negozio di personaggi. Puoi usarli per ottenere punti interessanti sulla mappa. Puoi usare questo colore per ricordare le feroci battaglie.
+NAME_NOSK_HORNET : corno tibiale
+GODSEEKER_RADIANCE_STATUE : non importa! Stai parlando! La vittoria, a differenza del simbolismo, è la dea più famosa. Lavori sodo, ti colpisce. <br>Ma quando sono nel sommo consiglio, come può il grande Dio aspettarsi che riescano nei loro desideri e pensieri? Non la penso così!
+GG_LOCKED_DESC_HORNET : Scopri le strade verdi e le lunghe tombe
+GG_S_HIVEKNIGHT : Diamo un'occhiata al lavoro di Dei.
+GG_S_HK : Un grande potere non ha importanza.
+GAME_CONTROLLER_RUMBLE_XB1 : modi
+GG_LOCKED_DESC_LOBSTERLANCER : Ho portato il mio fucile al Colosseo
+GG_S_GHOST_MARMU : Dio del giardino
+GODSEEKER_ENGINE_DREAM_GGMODE : Perdonami per tutto. Il suo lavoro. I nostri pensieri servono il Signore, gloria di Dio per te.
+NAME_PALE_LURKER : Giochi
+GODSEEKER_ENGINE_WYRM : Anche se siamo stati su questo trono per molto tempo, sentiamo ancora un granello della potente potenza di Dio... questa atmosfera è rotta.Per Halloween, l'energia costante è stata sufficiente per il nostro test. L'errore critico in questo può essere molto evidente.
+GODSEEKER_ENGINE_UNN : Lei dorme, signore, di rado si sente nell'erba. Quali parole e suoni hai memorizzato nel tempo?
+HORNET_GG_3 : ... Ci stanno combattendo?
+UI_BINDING_HEART : storia
+MEGA_MOSS_SUPER : Okay mamma
+GG_S_NIGHTMARE_KING : Parolaccia
+GAME_NATIVE_ACHIEVEMENTS_SWITCH : Cerca informazioni:
+GG4ACHIEVE_TEXT : Completa il Pantheon dei Cavalieri
+GG_S_DUNGDEF : Siate una bona persona, valente è forte.
+MATO_1 : I tuoi fratelli stanno combattendo!
+UI_CHALLENGE_TITLE_SUPER_4 : Cinque
+GODSEEKER_ENGINE : Cos'è questo piccolo spazio? Il suono del tuo anello sarà un vero grido e un ricordo di Dio.<page>È una cosa negativa? Sei geloso del tuo seno?Vogliamo punire e distruggere voi dei di questa terra!
+GG_LOCKED_DESC_MAWLEK : Non sono stato chiamato, mi sono nascosto per strada
+GG4ACHIEVE_TITLE : Spirito e pensiero
+STORMLAND_SUPER : M
+GODSEEKER_ENGINE_2 : Anna! Dio ci salverà da questo? Com'è utile per gli esseri umani condividere gli strumenti impuri di Dio!<page>Hai più successo di te stesso! Dio ti tenta quando non ci pensiamo.L'allenamento dato da Dio è infinito, crea te stesso! Costruisci te stesso!
+DESC_FAT_FLUKE : Central Mooney Beden, un vecchio portico ricco di petrolio.
+GODSEEKER_ENGINE_REVISIT : Dovremmo tornare in cima alla chiesa?È un altro modo per avvicinarsi al dio più vicino? ti piace ridere
+GG_S_GHOST_XERO : Fede in Dio e grande ribellione nei sogni
+MODE_GODSGLORY_DESC : Benvenuto ad Halloween.
+DESC_NATIVE_INPUT_PS4 : Funziona se c'è un problema con il controller. Il gioco deve essere ripetuto.
+GG_S_MANTISLORDS : Era popolare.
+UI_BEGIN : primo
+MARKER_W_DESC : Questo punto rosso si sta muovendo. Puoi usarlo per salvare le tue canzoni preferite in una foto!
+SLY_BOSS_SUPER : Unghie lunghe
+NAME_NAILMASTERS : O martello
+GG_UNLOCK_TALK_DREAM : Cosa può salvarci Dio dal pensare?
+UI_MENU_STYLE : fiore:
+UI_CHALLENGE_DESC_2 : Cerca la luce di Dio
+UI_MENU_EXTRA_LB_DESC : Ultimo aggiornamento pagina: marzo 2018 Data di rilascio: Scary Dashboard Version - New Boss Battle - Wild Heroes Challenge La ricchezza è migliore - Più è meglio. Alcune persone sono più probabili che no. <br> <br> Guida alla mappa: un altro strumento per la tabella di marcia. Questa è una cosa interessante. Posizionali sulla mappa per ricordarti nemici arrabbiati o persone facili da sconfiggere.
+UI_MENU_EXTRA_GT_TITLE : Squadra di trucco del disco II
+ENRAGED_GUARDIAN_MAIN : Custode
+GAME_CONTROLLER_RUMBLE_PS4 : Kahariwang
+NAME_MEGA_BEAM_MINER_1 : Proteggi la bottiglia.
+DESC_LANG : Cambia le lingue che non sono nel menu principale
+KNIGHT_STATUE_3 : Appunti
+DESC_GODSEEKER_MASK : Solo il velo dell'incredulità viene rimosso. Come puoi vedere nella foto, il tuo cervello sta correndo.
+PURE_VESSEL_5 : ...
+CTRL_NO_ACTIVE_DESC_PS4 : Premi il pulsante di accensione o chiedi al nuovo editor di ripristinarlo.
+TEMP_NM_MAIN : comunicativo:
+GG_LOCKED_DESC_MEGAMOSS : Pescare insieme sul sentiero verde.
+GODSEEKER_ENGINE_ROOT_REPEAT : Hai ad es. eraus Se non hai pensato che noi...
+DESC_HIVE_KNIGHT : Lealtà al Principe del Calcio. Non è un aereo, è una guerra terribile.
+NAME_VOID_IDOL_2 : Crea immagini fantastiche.
+GG_S_MIGHTYZOTE : Solo i bugiardi mentono
+INV_DESC_FLOWER_BROKEN_QG : Descarrega de Garden Queen Non è mai morta.
+UI_MENU_STYLE_INFECTED : vai avanti
+GG_LOCKED_DESC_NAILPAINT : Non vedo l'ora che tu raggiunga il Pantheon
+NAME_FAILED_CHAMPION : l'eroe ha fallito
+ENRAGED_GUARDIAN_SUB : 
+HORNET_GG_2 : Un po' felice, un sogno...
+UI_MENU_STYLE_GG : Prugne
+MODAL_CONNECT_CONTROLLER_PROMPT_PS4 : Aggiungi il controllo per continuare
+OBLOBBLES_MAIN : mucche
+NAME_GODSEEKER_MASK : manca l'occhio
+GG2ACHIEVE_TITLE : Ispirazione - Ispirazione
+GRIMM_GG_2 : Grande cultura... divertimento!
+CHALLENGE_UI_LEVEL1 : troverai
+GG_S_NOSK_HORNET : Frode, se sicura
+CHALLENGE_UI_LEVEL2 : roccia:
+SAVE_WARNING : Questo gioco salva i dati raramente. <br> سال; Se vedi questa immagine, il link sei tu.
+UI_MENU_RUMBLE_PS4 : Uno
+GG_S_MEGAMOSS : Lascia che ti parli del nuovo ippopotamo e del riscaldamento globale.
+GODSEEKER_WASTE_MAIN : Vittime
+UI_MENU_STYLE_ETERNAL : Religione eterna.
+UI_CHALLENGE_DESC_5 : Trova la luce in un modo dimenticato.
+UI_CHALLENGE_DESC_4 : Alla ricerca dell'Onnipotente
+UI_CHALLENGE_DESC_3 : Chiedi a Dio ricchezze e potere!
+PROFILE_LOADING : Caricamento ...
+UI_CHALLENGE_DESC_1 : Cerca gli dei in cerca di chiodi e medicine
+GODSEEKER_WATERWAYS_WORLD_TUNE_EXTRA : Il processo... arte, difficile. Non è mai stato perfetto. Queste sono le nostre forze in relazione all'universo. Fai quello che ti offriamo. Ascolta, Dio! impostazioni dell'eco.
+NAME_SAGE_SLY : Viti per cucire BH
+GG_LOCKED_DESC_NAILMASTER : Siamo insieme nel Pantheon.
+GG_S_MANTIS_LORD_V : dio della luce
+FLUKE_HERMIT_IDLE_2 : facendo rumore .. radersi .. bel pesce .. radersi qui ..
+FLUKE_HERMIT_IDLE_5 : Forte... collo... grande... madre...
+FLUKE_HERMIT_IDLE_4 : Scorpioni Palekan... fratelli... scorpioni...
+NAME_HORNET_2 : san boomeraz
+NAME_HORNET_1 : Karia Grant
+NOTE_PURE_VESSEL : Il "pazzo nelle cose sacre" dà chiodi ed evoca soldati, che sono legati con catene, frutti o magia. Ascolta le nostre preghiere affinché la tua luce risplenda. <br> - Accedi con il tuo dispositivo
+GG3ACHIEVE_TITLE : il tuo
+GG_LOCKED_DESC_NAILMASTERS : Abbiamo pernottato a Pandana.
+MATO_2 : Non lasciarmi
+UI_CHALLENGE_TITLE_SUPER_5 : Pantene bambino
+PANTHEON_ENTER_1 : Sei il più stanco! Dio Onnipotente ha promesso di salvare in vita il vero Pantheon, ma vuoi comunque metterti alla prova? <br> <br>Impara a prestare attenzione e mantieni alto il morale!
+GG_S_MAWLEK : Dio è a casa
+MAGE_KNIGHT_SUB : 
+GG_S_FAILED_CHAMPION : Dio è la campana del pentimento.
+ATRIUM_NPC_DREAM_3 : ... la sua ...
+GODSEEKER_WASTE_SUPER : 
+PAINTMASTER_SUPER : Fotografo
+SHEO_2 : Vuoi fare le cose in modo diverso?
+CTRL_NO_ACTIVE_PS4 : Non ci sono driver attivi
+DUNG_UNDERGROUND_1 : Quando ti svegli, riposati.<page>È spaventoso stare con te quando ti svegli. Ma se sei stanco, puoi riposarti qui.Non appena il re annunciò il suo governo per sostenere i poveri, si ritirò dal suo palazzo. Sì, resta qui in un luogo caldo e umido.
+DESC_PALE_LURKER : Il design del Colosseo mi ha colpito molto.
+SISTERS_MAIN : Joek
+PLATINUM_DESC : Prendi tutti gli altri medicinali.
+GG_S_GHOST_MARKOTH : Dio crea sogni attraverso il pensiero e la contemplazione
+CTRL_DETACHED_PS4 : L'amministratore non ha effettuato l'accesso.
+TEMP_NM_SUPER : ఉమున్నే
+NAILSMITH_CORPSE : ... Molto bene ...
+GODSEEKER_WATERWAYS_WHITEFLOWER_REPEAT : Per Dio, la penso diversamente. Quali fiori ci sono a Malamala? I tuoi contenuti sono buoni?Canta Sì, No Non ascoltiamo le sue canzoni.
+FLUKE_HERMIT_PEERING : Come stai! Come stai! Leggi tutto... Nascondi... Cosa stai aspettando? Smalto!Lavori per mia madre... hai ragione.
+CTRL_MARKER_REMOVE : Elettricità
+CTRL_MARKER_CHANGE : Cambia biglietto
+GG_LOCKED_DESC_HK : Guardano il cielo sopra il tempio
+ENRAGED_GUARDIAN_SUPER : Questo non va bene
+DESC_VOID_IDOL_1 : La frutta è rara prima di Halloween. Ci sono gocce d'acqua nel fiume.
+GODHOME_SUPER : 
+MEGA_MOSS_SUB : 
+HK_PRIME_MAIN : Gli steli sono puliti
+NOTE_HIVE_KNIGHT : Alcuni nascono con un senso di identità e un impegno per un'esperienza indimenticabile. Sono potenti ma ribelli.
+PS4_ACHIEVE_GRIMM_END_TEXT : La storia di Gramin finisce.
+GG_LOCKED_DESC_COLLECTOR : Stavo sempre fissando il palco
+UI_MENU_RUMBLE_XB1 : Capirai
+GODSEEKER_ENGINE_REPEAT_T5 : Gli stranieri amano la tua guerra. Amano la tua cultura. Ascolta attentamente...
+GG_SUMMARY_TITLE : Il tempio di Dio
+MOH_MED : Costruisci la tua baia
+GG_S_FLUKEMUM : Dio benedica tua madre
+CTRL_NONE_PS4 : Le istruzioni sono specifiche per il kernel
+ACHIEVEMENTS_BASE_SET_TEXT : Nairdin è un gentiluomo.
+DESC_NATIVE_ACHIEVEMENTS_SWITCH : Man mano che avanzi nella missione, crea una guida di gioco.
+GG_LOCKED_DESC_UMMU : Ho dormito nel seminterrato.
+GG_LOCKED_DESC_TRAITORLORD : Ho distrutto la chiesa.
+MOH_HIGH : .Collo
+UI_MENU_EXTRA_HD_TITLE : Un messaggio da sogno segreto
+UI_CHALLENGE_TITLE_SUPER_1 : Pantheon contro
+MARKER_Y_DESC : Sono i nuovi distributori del settore. Puoi salvare i tuoi luoghi preferiti sulla mappa. <br> <br> Questi colori ti fanno sentire come se fossi alla ricerca di gemme nascoste.
+MAIN_SWITCH_USER : Modifica utente
+GODSEEKER_WATERWAYS_AWAKE_3 : Burhold. Mio Dio, non so chi sei. È grande anche nella morte.<page>Stolti, dateci gloria nei secoli dei secoli. Il suo stato è sconosciuto.Nessuno Il vero Dio ha benedetto il mondo. Perché il corpo è chiamato Dio. molto incoraggiante! Non mi vergogno ...
+GODSEEKER_WATERWAYS_AWAKE_2 : Rettili Cosa mi ha attratto di questo? Credi nella festa? O guardi a Dio?<page>Lì per e. Centro continentale. Ho sentito questo. Ma alcuni dei sono lontani. Voglio dormire.<page>Ottieni GodTuner. Guarda Dio. Notizia! Scopri come. Concentrati sui tuoi pensieri. Aspetta a casa.Prezzo. Puoi restare qui per i tuoi servizi. Dai un'occhiata al mio bellissimo caso. La nostra straordinaria bellezza!
+GODSEEKER_WATERWAYS_AWAKE_1 : Stai arrampicando con noi?<page>Questa è la salvezza del mondo. Questi sono santi e santi. Penso che le opzioni di illuminazione siano buone, cos'è MAM?<page>... e? Il nostro corpo è gonfio o no? Sembra buono? Più sottile e più spessa? Anche se ho ingoiato la ruota per così tanto tempo, ho provato così tanto dolore che non riuscivo nemmeno a sentirlo.Sei bello. Dobbiamo pensare a Dio. È interessante. Veramente buono. Le tue mani sono belle, belle...
+GODSEEKER_SUB : 
+UI_MENU_STYLE_MODERN : porta questo a S.
+PANTHEON_ENTER_0 : Quello che hai detto alla fine è fantastico! br><page>Durante la guerra santa abbiamo trovato strane persone nel governo. Anche gli dei di questo regno entrano attraverso queste porte! br>Ti piace questo posto? Usalo come uno strumento stupido e stupido!
+GG_LOCKED_DESC_BIGBUZZ : Un campo verde attende
+OBLOBBLES_SUPER : 
+GODHOME_MAIN : tempio di dio
+NOTE_FAT_FLUKE : Se la persona colpita si sente bene, l'additivo diventa una morbida copertura che copre il corpo. Gli animali portano sempre molto peso.
+NAME_NAILMASTERS_JOURNAL : Fresco e motociclistico
+GG_S_NAILMASTER : Kelly è un fratello fedele
+DESC_NAILMASTERS : Combattono con grandi unghie e artigli.
+GG_LOCKED_DESC_GHOST_GALIEN : Circonda i ladri di sogni oscuri.
+UI_BINDING_SOUL : Lo stesso o lo stesso
+NIGHTMARE_GRIMM_GG_1 : Dio e la religione...
+HIVE_KNIGHT_SUB : Nwanda
+GG5ACHIEVE_TITLE : Fai i tuoi compiti
+UI_BINDING_CHARMS : Registrati
+MARKER_Y_NAME : dittatore
+DESC_SAGE_SLY : Un nuovo smalto per cappelli dal sapore amaro.
+GG_LOCKED_DESC_MAGEKNIGHT : Sto cercando un tempio
+GODSEEKER_ENGINE_REPEAT_GGMODE : Signore, prendi a calci quella barba. Per il tuo corpo debole e indifeso. Apprezziamo il tuo supporto. La domanda supera la domanda.
+DUNG_UNDERGROUND_2 : La mia grotta è lontana dalla fattoria principale, ma ho ancora il ricordo della nostra ragazza e buon re.La città è un posto bellissimo, pieno di grandi eroi dell'epoca. Cosa o cosa? Se l'avessi visto ora, l'avrei letto facilmente per essere in loro.
+NAME_PAINTMASTER : immagine reale del sale
+TROPHIES_BASE_SET_TITLE : Cavaliere Hule kup
+ENDING_D_TEXT : rock papantheon pahalloween
+GODSEEKER_ENGINE_WYRM_REPEAT : Dio è potente, ma sarà completamente distrutto. Come è successo?
+GG_S_HORNET : Possa Dio avere pietà di questa terra arida.
+AMELITIA_FLOWER : Il suo stile antico ed elegante non corrisponde alla gloria del nostro amato re.Prenditi cura delle tue piante infette, ne ho tante: certo ammetterai che sono molto malata.
+PS4_ACHIEVE_ENDING_TEXT : Bevi un drink serale gratuito dopo la corsa.
+GG_S_BIGBUZZ : Satana è il dio dei limiti.
+MODE_GODSGLORY : Alla ricerca di Dio.
+GG_LOCKED_DESC_FLUKEMUM : Dormo con i piedi alzati.
+LURKER_2 : È tutto! Tu sei il re!
+PAINTMASTER_SUB : 
+SLY_1 : Il monaco dorme...
+GG_S_GRUZ : che Dio vi benedica
+SLY_3 : Fratelli, non dimenticate...
+MARKER_R_NAME : Indicatore di dimensione:
+UI_MENU_EXTRA_HD_DESC : Contenuto Pacchetto 01 <br> <br> Prossima volta: agosto 2017 <br> Dettagli. I sogni di Halloween diventano realtà. <br> <br> Due nuovi boss affrontano potenti nemici. <br> <br> Due nuovi dispositivi di localizzazione mobile per tutti i principali giochi. <br> <br> Aggiornamenti di New DreamGate: scopri nuovi modi per festeggiare Halloween. <br> <br> Dai un'occhiata al nuovo santuario della fauna selvatica. Il centro è ora ricoperto di muri dimenticati, insetti e cervi.
+GRIMM_GG_1 : ottima piattaforma!
+SCREEN_GAMEPAD_REMAP_PS4 : Costruito dalla polizia.
+GODSEEKER_ENGINE_GGMODE : Grazie! Come potete vedere. Questo testicolo non nasconde il tuo straordinario lavoro e ammirazione!Vergognatevi! Non sappiamo la verità. Uccidici e nutrici! siate felici! Pioggia intensa. Che tu ci creda o no, vecchio vino!
+DESC_VOID_IDOL_2 : È un po' insolito per Halloween. C'è acqua per riempire il pozzo.
+GG_LOCKED_DESC_GHOST_HU : ho trovato
+GG_LOCKED_DESC_BIGBEES : Siamo tutti rinchiusi in un misterioso Colosseo
+GG5ACHIEVE_TEXT : Completa il 112% del gioco e finisci il gioco.
+UI_MENU_EXTRA_GT_DESC : Free Press 02 <br> <br> Nuove funzionalità - 4 nuove funzionalità con nuove funzionalità e caratteristiche speciali. <br> <br> <br> "Nuova canzone" di Terence Christopher Larkin. Guarda
+OBLOBBLES_SUB : 
+GG_LOCKED_DESC_PAINTMASTER : Ho capito il mio potenziale in prima linea.
+GG_LOCKED_DESC_DUNGDEF : Tubi di fissaggio
+NAME_SLY : piedi intelligenti
+GODSEEKER_WASTE_SUB : 
+GG_LOCKED_DESC_NOSK : Ero in una scatola nera con un cacciatore
+GODSEEKER_ENGINE_PRIME_DREAM : Aspetta, fermaci. Non solo ti abbiamo dato una mano forte. Dio è lì...
+GODSEEKER_SUPER : 
+GG1ACHIEVE_TITLE : Tedesco, tedesco, tedesco
+PS4_ACHIEVE_GRIMM_END_TITLE : Questo non è un sogno.
+NOTE_VOID_IDOL_2 : "Gli antichi insetti erano o ispirati o ingannati. Adoravano la propria oscurità, non Dio, il potere o l'autorità." <br> - Lime
+SLY_BOSS_MAIN : tsbiara
+CTRL_MARKERS : I sintomi della malattia
+SHEO_1 : È molto potente, vero?
+FLUKE_HERMIT_PEERING_DREAM : Puoi vedere
+GODSEEKER_ENGINE_WYRM_DREAM : Gli angeli gli tagliano la fronte... ma perché gli manca una maglia così bella?Sono più felice che urlare!
+ORO_2 : Il mio approccio è lo stesso...
+DESC_PURE_VESSEL : Il treno selezionato partirà e si sposterà nella sua posizione originale.
+ORO_1 : Come... Voglio provare.
+FLUKE_HERMIT_SUPER : Pubblicità
+GG_S_WATCHERKNIGHTS : Scavatrice grezza DIVA
+STORMLAND_SUB : 
+CHALLENGE_UI_LEVEL3 : messaggio bianco
+GODSEEKER_WATERWAYS_AWAKE_ALLGODS : Anche se hanno paura. Le grandi tette sono incredibili. Questo è il gioco che Dio voleva! I nostri cuori sono pieni del potere di questo regno. capo. E Dongbo.Adori molti dei in questo mondo. C'è abbastanza potenza? Abbiamo una bella partita...
+FLUKE_HERMIT_IDLE_1 : Gila Gila ... Mavula Pung'ono ..
+GODSEEKER_WATERWAYS_AWAKE_GODFINDER : Hai la musica. È uno strumento relativo alle informazioni sui motori di ricerca.<page>Queste arti sono buone ma anche intelligenti come parte di esso.<page>Questo strumento mostra il nostro grande intelletto. Prendi la nostra fiducia in te.Cerca nel paese. La luce è responsabile di questo miracolo.
+GG_S_BIGBEES : Nella fede e nella divinità di Dio
+UI_MENU_ACHIEVEMENTS_PS4 : Aspetto
+DIVINE_DUNG_CHARM : Così grande! Sono forte con mio marito, ma non mi piace l'odore.Ho bisogno di più di una voce. L'autore è il mio scrittore... lol! Prendilo e usalo!
+GODSEEKER_WATERWAYS_AWAKE_3_REPEAT : Sì, Signore, questo Re è glorificato dal Signore. Bene! Dio ha questo nome ovunque sul corpo. Vado a mangiare ciao...
+LURKER_3 : Scrivere! Gioielleria! Infezione!
+GG_UNLOCK_TITLE : Una specie di capitale sacro
+UI_MENU_EXTRA_GG_TITLE : Mamoste - Dettagli
+HIVE_KNIGHT_MAIN : Non sono interessato
+UI_MENU_STYLE_GRIMM : Decorazione dell'attrezzatura
+GG2ACHIEVE_TEXT : Riempi i pantaloni firmati
+GG_S_GHOST_GALIEN : Dio è nato in un sogno di coraggio.
+PURE_VESSEL_1 : non mi aspettavo...
+MODAL_NO_SAVE : Vuoi continuare a giocare senza l'utente? Il testo non è stato salvato
+ABSOLUTE_RADIANCE_SUPER : mettere fuori
+GODSEEKER_ENGINE_REPEAT_2 : Non puoi essere qui. La persona media perde il vantaggio delle penalità nette.
+GODSEEKER_ENGINE_REPEAT_3 : Capisci il nostro messaggio? Dio ti darà il diritto di morire? Ci permetterà di continuare la nostra santa unità?
+TROPHIES_BASE_SET_TEXT : Tose a Fampa di notte
+UI_CHALLENGE_TITLE_SUPER_2 : Pantheon tra loro
+NIGHTMARE_GRIMM_GG_2 : Profondamente... cuore...
+MAGE_KNIGHT_MAIN : l'eroe
+NAME_HIVE_KNIGHT : usando le arachidi
+UI_CHALLENGE_TITLE_SUPER_3 : Panteon v
+GG_UNLOCK_TALK_REPEAT : Guidaci verso un Dio che ama...
+OPEN_CONTROLLER_PS4 : I ricercatori hanno notato.
+SISTERS_SUB : Bellissima
+NAME_HK_PRIME : Personaggi bianchi
+PANTHEON_ENTER_3 : Tienimi giù Preparati per il Grande Pantheon. La tua voce sta arrivando, la tua voce sta diventando più forte.Ho pregato finché la luce non è uscita dalle tenebre.
+UI_MENU_EXTRA_LB_TITLE : sahim - danny
+MARKER_B_NAME : Il potere del legno
+ACHIEVEMENTS_BASE_SET_TITLE : questioni culturali
+UI_MENU_STYLE_SHADE : Revoca:
+GODSEEKER_ENGINE_ROOT : Stai rotolando! Questo Dio onnipotente può facilmente interrompere la nostra assemblea.Adoriamo Dio e lo amiamo. Ci stai nascondendo la faccia? Le tue opzioni sono limitate?
+GODHOME_SUB : 
+GG_S_GRIM : Dio cammina tra gli uomini.
+PROFILE_CORRUPTED : Salva il male
+GG_S_GHOST_GORB : Ma Dio è un sognatore
+GG_S_LOBSTERLANCER : Dio è buono nell'età
+NAME_LOST_KIN : Ribellione
+DUNG_UNDERGROUND_DREAM : Dov'è la fine del Palladio? riesco a farlo

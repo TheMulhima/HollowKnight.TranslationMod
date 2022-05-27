@@ -1,0 +1,52 @@
+GODSEEKER_WASTE : hua
+GODS_GLORY : maison de Dieu
+BLUE_LAKE : Lac bleu
+MONOMON_ARCHIVE : Corrigez-moi, professeur.
+LURIENS_TOWER : ہربیلہ
+LOVE_TOWER : Piliers d'amour
+KINGS_PASS : quelle?
+GLADE : Profitez de vos pensées
+BONE_FOREST : Faible liberté
+KINGS_STATION : Gare Royale
+CLIFFS : Pizza Alba
+CRYSTAL_MOUND : Un ensemble de verre
+ABYSS : Z iała Combien ça fait mal?
+CROSSROADS : Vous avez oublié de vous inscrire.
+TRAM_LOWER : une petite voiture électrique
+DISTANT_VILLAGE : ça n'a aucun sens
+HIVE : Pourquoi lui
+TEST_AREA : Période d'essai
+TOWN : Nopok ojij
+WASTES : Le reste des cheveux
+CITY : nous ce quartier
+ROYAL_QUARTER : L'état du roi
+NOEYES_TEMPLE : مروبہ
+PALACE_GROUNDS : immeuble
+RUINED_TRAMWAY : C'est très excitant
+ISMAS_GROVE : Créez votre nom complet
+QUEENS_STATION : Gare de Loni
+ACID_LAKE : Bon temps
+MANTIS_VILLAGE : dans ce monde et la prière
+SOUL_SOCIETY : Temple spirituel
+COLOSSEUM : Salom, Colisée
+WHITE_PALACE : Cellulite du ventre
+WATERWAYS : Pluie dans le jardin
+ROYAL_GARDENS : La reine du jardin
+BEASTS_DEN : Protection des animaux
+PEAK : Chaîne d'Halloween
+SHAMAN_TEMPLE : Montagnes simples.
+DEEPNEST : Foins
+TRAM_UPPER : Elle va pleurer
+MAGE_TOWER : sainteté du Saint-Esprit
+MINES : Points et ennemis
+DREAM_WORLD : cochon
+FINAL_BOSS : étagères noires et blanches
+GREEN_PATH : chemin vert
+OVERGROWN_MOUND : Une petite augmentation
+OUTSKIRTS : maison d'état
+JONI_GRAVE : Connie <br> chatte
+ABYSS_DEEP : Et
+RESTING_GROUNDS : fonctionnalités
+WYRMSKIN : Données de crustacés <br>
+FOG_CANYON : puzzle vache
+NONE : 

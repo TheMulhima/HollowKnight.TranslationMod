@@ -1,0 +1,19 @@
+SHAMAN_QUAKE : Que diez te bendiga. Vimos una nueva energía rompiendo la roca debajo nuestro. Apto para el buceo.Amin tiene la misma energía. ¡Tiene miedo! ¡Vaya! Ésta es una mala compañía.
+SHAMAN_OPEN_GATE : Li! La puerta se nos abrió. Estás bienPor supuesto que quieres mudarte. ¡La paz sea contigo y confía en mí! ¡Todo lo que necesitas hacer para ganar! Estás bien
+SHAMAN_OPENED_GATE : Tengo miedo de que me lleven, nada de mí.¡Gracias por su paciencia! ¡Profesor!
+SHAMAN_SUMMONED_1 : ¡Sin miedo! Esta magia es tuya, tienes que encontrarla ahora.Wow, no te vayas sin ellos, lo prometo.
+SHAMAN_MEET : ¡ESCOGER! ¿Quién está en la oscuridad? ¡Pareces molesto! ¡Aspecto inusual, gran espacio y equipamiento!<page>Algo importante que sucedió al comienzo del Holocausto, pero nunca pregunté qué era. Me has visto porque necesitas mi ayuda.Hablaremos pronto y mantén el buen trabajo. ¡Tiene sentido para niños como tú! ¡ESCOGER!
+SHAMAN_DREAM : Explotar los sueños de otra persona... más divertido de lo que parece. ¡Atmósfera!
+SHAMAN_RETURN : ¡Hola! ¿Estás de vuelta aquí, por la tarde? no conocíNo tengas miedo. No quiero mucho de ti. ¡Hola!
+SHAMAN_KILLED_BLOCKER_2 : Sadhu! ¡Ya estás aquí! Te vi en mi sueño y negué con la cabeza. Cuando me despierto, ¡no soy tú! Ay, maravillosa agua<page>Básicamente pido ayuda. Puede ver cómo nos escondemos de estas criaturas.<page>... ¿no lo son? ¡Otra sorpresa! ¡Has matado a este animal antes de que te lo pidiera!¡Me cuesta enamorarme de ti! ¡Eres el más fuerte! Aria
+SHAMAN_KILLED_BLOCKER_1 : ¡Permanecer allí! ¡Entonces mataste a la bestia!<page>Hola Él te consolará. Cuando está en calma, estas condiciones están llenas de vieja ira.¡Pero hiciste lo que pudiste! Gracias. Porque sabemos que no puedes hacerlo sin... ¡oye!
+SHAMAN_FUNG_DREAM : ... analmas.com.
+SHAMAN_QUAKE2 : mi amiga. mi amiga. ¿Tienes alguna otra cualidad además de no ver a la cuarta tía?Crystalbergate construyó una casa al lado del solicitante lesionado. Si no estás aquí, debes ir solo.
+SHAMAN_SCREAM2 : Grito Oh, digamos que me veo mejor... pero no.Si tiene este nuevo comandante, mi red no está aquí.
+SHAMAN_CRYSTAL_DREAM : ... si, todos ...
+SHAMAN_SUMMONED_2 : Oye, ¿no te gusta mi regalo cuando vuelves a ser increíble? ¡Creador de palabras!¡Puedes ser más valiente de lo que piensas! ¡Calidad de grabación!
+SHAMAN_FIREBALL2 : ¿Qué? Perdí mi regalo. Repito...<page>¡qué! Él lo sabe, ¡amigo mío! es una idea no es una varita mágicaNecesita encontrar una herramienta poderosa para transiciones suaves y sin problemas.
+SHAMAN_FUNG : Su cuerpo estaba envuelto en hierba.
+SHAMAN_TRAPPED_1 : Sat Sri Akal! ¡Por fin estás despierto! Desafortunadamente, no puedo decirte nada sobre esta magia. ¡Te vi en un sueño, pero sentí que te habías caído! ¡O no!<page>Ahora que estamos despiertos, creo que puedes ayudarme. Ahora que somos amigos, no siempre doy regalos.<page>La tarea es crear un monstruo terrible en medio del templo. ¡Qué lástima! Estaría muy agradecido si pudieras ir tras de mí y matarlo.Es un trabajo duro, ¡pero obtienes más con nuevas oportunidades! ¡Felicitaciones por este pequeño regalo, hombre! !!
+SHAMAN_TRAPPED_2 : ¿Qué tiene de diferente la puerta entre nosotros? ¡oh! Sorprendentemente, la puerta solo se abrió después de que mataron a los animales en el medio del templo.no cerrar. Estoy seguro de que tus padres te conocerán.
+SHAMAN_SCREAM : Escribió que mi hermano, él no juega.Por lo general, no es muy dulce, ciertamente no dulce, pero delicioso. ¡Con razón le escupen en los oídos!

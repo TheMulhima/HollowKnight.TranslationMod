@@ -1,0 +1,16 @@
+CHARMSLUG_TRUTH : Mi nombre es Dapper Godfly, ¿quieres saber de qué color es? No suelo hablar con los clientes sobre enfermedades. Pero, ¿qué piensa el sabio?<page>Es divertido en muchos sentidos, pero es, con mucho, el insecticida más deseado y poderoso de estas adiciones grandes y poderosas.<page>No te preocupes ahora. Hay diferencias, sí, pero funciona. Sí.¡Piensa en cualquier alma sacrificándose! Tu bolso, saco o... recibes muchas visitas.
+CHARMSLUG_DREAM : Amo a Dios y quiero estar contigo. Vacaciones, pero esto es solo un animal ...
+CHARMSLUG_MEET_3A : Hmmm, ¿qué puedo decir? ¡Mira, ya he empezado a coleccionar lo mejor! Déjame mostrarte mi negación. ¡Si quieres, puedes llevártelo a casa!
+CHARMSLUG_MEET_1 : ¡Oooooooooooooooh, me sorprendió! ¡Hola, esto es muy bueno! Sin embargo, hágalo usted mismo.
+CHARMSLUG_MEET_3B : Pero… ¿de qué estamos hablando? Hola Carol! Creo que los niños como tú pueden estar completamente desnudos.<page>Alphabet es uno de los lugares más hermosos y poderosos del mundo. Esta es una de las herramientas más interesantes y únicas. Usar a alguien cambiará tu vida. Haz cosas que no esperabas.Echa un vistazo a algunas de las ideas que he visto. Puedes comprar una casa si quieres.
+CHARMSLUG_OVERCHARM : ¿No es un pequeño pecado usar tacones altos? ¡A veces un poco! .Eso sí, no vayas a tus lugares favoritos. Los resultados pueden ser buenos.
+CHARMSLUG_COMBO : ¿Tocas muchas canciones al mismo tiempo? Para crear sabor, comparar?<page>No estoy seguro de si aparecerán, algunos hechizos tienen su propio patrón. ¡Perfecto! ¡Tararear! Si la variable está satisfecha, ¡la canción seleccionada está satisfecha!¡Hay tantas razones para probar esta combinación de diversión y belleza increíble! ¡Mmm mmm! Te muestra lo mejor, ¿verdad?
+CHARMSLUG_BLESSING_1 : Mi amor. creo que eres bueno Puedes aprender más sobre belleza y estilo.
+CHARMSLUG_NOSTOCK : Ahora tienes éxito. ¡Fui a comprar todas mis joyas! tengo muchos colores ¡Estupendo! Eres una hermosa vaca con un brillo maravilloso.No tienes que conducir nada, pero siempre debes visitar. Si estás interesado, puedes visitar nuestra tienda. Creo que toda la ciudad tiene envidia. ¡Estupendo!
+CHARMSLUG_MEET_2 : Soy Shropshire, es un gran héroe. Los residentes me pidieron que hablara con ellos. ¡Hmmm, muy bien! ¿Es hermoso el lugar? Cálido, fuerte y lleno de vida.
+CHARMSLUG_NOTCH_AVAIL_1 : ¿Creaste un equipo? Sabes muy poco. ¿Necesitas más esfuerzo? Vendo regalo և Creo que será genial. ¡nación!
+CHARMSLUG_NOTCH_AVAIL_2 : ¡tío! HANA HANA! ¿Actualizaste tu colección de langostas? Creo que es hora de comprar complementos para los calcetines... ¡maldita sea! ¡tío!
+CHARMSLUG_NOTCH_AVAIL_3 : ¡Sí! ¡Hermosa colección! ¡Estoy enojado! Creo que es hora de comprar rápido con joyas. Sí... ¡destruirte! Kali!
+CHARMSLUG_NOTCH_AVAIL_4 : ¡Mmmmmmmmm! Li! ¡Cada vez que te veo, agrego más películas! Ojalá haya llegado el momento y deje de comprar hasta que pierda muchas bendiciones enseguida. ¡Adelante... sana! ¡Mmm!
+CHARMSLUG_BLESSING_2 : Sí, suena tan loco para mí, ni siquiera soy yo.
+CHARMSLUG_REPEAT : Lo curioso es que hay gente que viene a la tienda y gana más dinero.Me alegra ver eso. Esta es un arma terrible. Tiempo extraño. eso es todo.

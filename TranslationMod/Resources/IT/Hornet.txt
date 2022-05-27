@@ -1,0 +1,18 @@
+HORNET_ABYSS_REPEAT : Segui questo arduo percorso. Ma alla fine, è una tua scelta.
+HORNET_PRE_FINAL_BATTLE_REPEAT : Fantasma di Halloween Puoi fare una scelta. Vivremo con il nostro povero fratello o lo riceveremo?
+HORNET_FINAL_BOSS : Lavoro! Seleziona il progetto lungo che haiDona pace al mondo o tocca il tuo cuore.
+HORNET_PRE_FINAL_BATTLE : La strada è aperta. Ma il risultato è arrivato.<page>Non starò con te. Questo sito è progettato per proteggere la tua privacy. La sua medicina mi mangerà quando me ne andrò.Non sorprenderti se non mi metto in pericolo, aiutami il più possibile.
+HORNET_PRE_FINAL_BATTLE_DREAM : ... potesne esse in tam tragica necessitate
+HORNET_GREENPATH : tra l'altro puoi<page>L'ho visto camminare con me in piazza.<page>Questo vecchio governo... è successo qualcosa di brutto. L'odore dell'aria...ti conosco so come provare non sono d'accordo
+HORNET_SPIDER_TOWN_REPEAT : Quest'anima è un rifugio temporaneo, un rifugio permanente.
+HORNET_OUTSKIRTS_1 : Quindi vuoi dati più accurati? I deboli non possono farlo.
+HORNET_DOOR_UNOPENED : Sono stato geloso per un po'. Scopri il futuro del Paese, sei forte.Distruggere un sogno può sembrare un compito impossibile, ma riconoscere il dolore in te ti dà un atteggiamento speciale.
+HORNET_SPIDER_TOWN_DREAM : ... Mamma ... scusa per quello ... ma forse di più ...
+HORNET_INSPECT_IK : Il viaggiatore morto da tempo è stato distrutto.
+HORNET_OUTSKIRTS_2 : Dimostra di essere pronto a combattere. No, è così brutto che tutto sia andato e le sue debolezze siano scomparse.Può accettare quello che è successo in questo paese e mostrare responsabilità per il suo futuro.
+HORNET_FOUNTAIN_1 : Vediamo altre giovani anime.<page>Voglio dire, lo so. Ti ho visto, anche se ora conosco la verità.<page>Hai visto il regno. La sopravvivenza eterna si basa su due obiettivi.Non c'è da stupirsi che arrivi al centro dell'isola. Quando lo farai, saprai chi ci sta provando.
+HORNET_FOUNTAIN_2 : Se ne hai sentito parlare o stai cercando di partecipare a una festa di Halloween, trova la Tomba della Speranza e una persona come te sarà ricompensata.
+HORNET_ABYSS_DREAM : ... una soluzione ad un problema con una prospettiva inaspettata ... come si manifesta questa grande oscurità? ..
+HORNET_ABYSS_ASCENT_01 : Bellissimo atteggiamento ti ho visto davanti al campo e nell'ombra.<page>Sebbene questa sia la nostra forza in Baker, non la condividerò con voi perché è inutile.<page>La risata è la mia attesa. Guarda questo video da qualche altra parte.C'è una strada difficile da percorrere, ma puoi giudicare. Questo è per combattere la longevità o le malattie cardiache.
+HORNET_SPIDER_TOWN_01 : Uccide la bestia ... Hoام È finita.<page>Ha ke batle ho tela pero sakit kay dili man.<page>...E? Pensi che io sia bravo, ma non sono bravo.<page>Non scegliamo nostra madre o l'ambiente in cui siamo nati. Ci sono così tante malattie nel mondo che sono così grato per quello che mi hai dato.Sono molto indebitato. In futuro potrò viaggiare o restituire un permesso di spedizione.
+HORNET_OUTSKIRTS_DEFEAT : ... Altro ▼ ...<page>Come puoi immaginare<page>Ma una volta compresa questa sfida, riesci a sollevare le unghie? Vi conoscete ...Di nuovo lo spirito di Halloween! il primo. Metti questo simbolo nella tua bocca e diventa re.

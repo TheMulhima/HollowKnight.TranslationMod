@@ -1,0 +1,134 @@
+MAP_TITLE : Charretier
+COLLECTOR_TITLE : Fais attention
+STEELSOUL_COMPLETION_TEXT : Terminez le jeu à 100 % et terminez le jeu en mode Grand City
+COLOSSEUM_1_TEXT : Compléter le test
+MR_MUSHROOM_TITLE : à la fin du siècle
+MR_MUSHROOM_TEXT : Aidez le prêtre à continuer
+WATCHER_TEXT : détruire le Ranger Lauren
+AWAKENING_TITLE : S'il te plaît
+GRUBFRIEND_TEXT : Économisez la moitié au centre de collecte.
+TRAITOR_LORD_TEXT : Vaincre les rebelles
+SOUL_MASTER_DEFEAT_TITLE : la mère de Mara
+ENDING_A_TEXT : Le berger est entré en collision et est monté à bord du navire.
+CHARMED_TITLE : La chemise était déchirée
+VOID_TITLE : Foi
+HUNTER_1_TITLE : Chasseur de Keane
+BEAST_TEXT : Larmes de larmes.
+ENDING_A_TITLE : Quelle magie
+DREAM_SOUL_MASTER_DEFEAT_TEXT : Vaincre le mal
+MANTIS_LORDS_TITLE : avec respect
+WHITE_DEFENDER2_TITLE : viens
+STEELSOUL_TEXT : Le jeu s'arrête lorsque vous vous arrêtez.
+PANTHEON1_TEXT : Imla Panthéon Ustod
+VOID_TEXT : Rappelez-vous le passé et ajoutez de l'espace
+SOULFUL_TEXT : Trouvez trois objets dans la boîte.
+WORLDSOUL_TEXT : Trouvez toutes les parties du bateau.
+GREY_PRINCE_TITLE : Amour rouge
+STAG_STATION_HALF_TEXT : A Halloween, la moitié des stations seront ouvertes.
+NIGHTMARE_GRIMM_TITLE : une fois
+HIDDEN_ACHIEVEMENT_TITLE : co:
+PANTHEON2_TEXT : Compléter la présentation de groupe.
+ACH_TITLE_TEST : Les tests nécessaires sont effectués
+COLOSSEUM_2_TEXT : Complétez votre plan gagnant
+PANTHEON4_TITLE : fantômes et différences
+METAMORPHOSIS_TEXT : Il a libéré tous les prisonniers.
+DREAM_SOUL_MASTER_DEFEAT_TITLE : mon Dieu
+NEGLECT_TITLE : ignoré
+BANISHMENT_TITLE : ਪਗਪਪਤਾਵਕ
+MANTIS_LORDS_TEXT : Il prend le mauvais sens.
+STAG_STATION_ALL_TEXT : Ouvrez toutes les fêtes d'âne d'Halloween et regardez le nid d'âne
+DREAM_FK_TITLE : Glogrise horizontale
+NAILSMITH_SPARE_TEXT : Les développeurs annoncent d'abord le nouveau
+DREAM_BROKEN_VESSEL_TITLE : évaluation
+SOULFUL_TITLE : Je ne peux pas dormir
+WHITE_DEFENDER_TEXT : Prilia. je fuis l'école
+NIGHTMARE_GRIMM_TEXT : Battez le roi chevalier et terminez le rituel.
+ASCENSION_TITLE : Va au paradis
+HIDDEN_ACHIEVEMENT : Ce succès est un mystère.
+NAILSMITH_KILL_TITLE : Coca Cola
+ATTUNEMENT_TEXT : Économisez 600 $
+GRIMM_TITLE : Heures froides
+WORLDSOUL_TITLE : L'âme du monde
+WATCHER_TITLE : Le garde
+HORNET_1_TITLE : jaune-stérile
+MOURNER_TITLE : lac de pain
+BROKEN_VESSEL_TITLE : Publié
+BLESSED_TEXT : Collectez tous les sorts et profitez des bénédictions de Slobar
+PROTECTED_TEXT : Mettre 4 masques
+FK_DEFEAT_TEXT : Vaincre les faux héros
+PANTHEON3_TITLE : Au milieu
+SPEED_COMPLETION_TEXT : Terminez le jeu à 100 %. Et finira dans 20 heures.
+HORNET_2_TITLE : Essayez la réponse.
+ZOTE_TEXT : Elle a remporté une médaille d'or au Whips Coliseum.
+HUNTER_2_TEXT : garder la porte ouverte
+ENDING_C_TITLE : ne rêve pas maintenant
+COMPLETION_TITLE : Créer
+ATTUNEMENT_TITLE : travail
+DUNG_DEFENDER_TITLE : Est un:
+PROTECTED_TITLE : Sécurité
+NAILSMITH_KILL_TEXT : Coudre les ongles avec un couteau blanc
+COLOSSEUM_2_TITLE : importer
+WHITE_DEFENDER_TITLE : La mémoire est épuisée.
+ENDING_B_TEXT : Vaincu le samedi soir de Harnet
+STAG_STATION_HALF_TITLE : A reçu
+MOURNER_TEXT : Soyez toujours calme
+ENDINGD_TITLE : Trouver un endroit
+HUNTER_2_TITLE : vrai chasseur
+FK_DEFEAT_TITLE : Mensonges
+TEACHER_TEXT : Le professeur est blessé
+HORNET_1_TEXT : Route verte Mundi Hornet
+ENCHANTED_TITLE : L'attraction
+MASKED_TEXT : Retirez tous les crochets du masque
+COMPLETIONGG_TEXT : Terminez le jeu jusqu'à 112 % et gagnez la partie.
+SPEEDRUN_1_TITLE : 1 n.n
+PANTHEON2_TITLE : Dépêche-toi!
+AWAKENING_TEXT : Collecter et injecter 1800 Huiles Essentielles
+COLOSSEUM_1_TITLE : Nikko
+BANISHMENT_TEXT : Crème et palette d'Halloween.
+SPEEDRUN_2_TEXT : Terminez le jeu en 5 heures.
+COLLECTOR_TEXT : Ajoutez de la complexité.
+PANTHEON3_TEXT : Terminez le rituel de la sagesse
+ASCENSION_TEXT : Ajoutez 2400 articles et consultez les dernières critiques d'audience
+ENCHANTED_TEXT : Découvrez la beauté aujourd'hui
+SOUL_MASTER_DEFEAT_TEXT : Prenez un grand esprit.
+HUNTER_1_TEXT : par exemple, voir la partie la plus propre du journal du chasseur.
+GRIMM_TEXT : Le capitaine Graham a été remis à Graham.
+QUIRREL_EPILOGUE_TITLE : Histoire
+SPEED_COMPLETION_TITLE : en pleine force
+SPEEDRUN_1_TEXT : Terminez le jeu en 10 heures.
+BROKEN_VESSEL_TEXT : Ramassez la boîte cassée.
+ZOTE_TITLE : Concours
+QUIRREL_EPILOGUE_TEXT : Passez la dernière minute avec Guerrero.
+GREY_PRINCE2_TEXT : Au bout du cimetière Prince Grey
+MASKED_TITLE : Frontière:
+PANTHEON4_TEXT : Le Panthéon a été capturé
+SPEEDRUN_2_TITLE : 2. sek
+PANTHEON1_TITLE : Frères et sœurs
+METAMORPHOSIS_TITLE : Phophonie
+TEACHER_TITLE : prof
+NEGLECT_TEXT : cheveux doux
+DREAM_BROKEN_VESSEL_TEXT : famille disparue
+DREAM_FK_TEXT : Vous gagnez et perdez la partie.
+NAILSMITH_SPARE_TITLE : Des hommes heureux
+GRUBFRIEND_TITLE : Avant d'être kidnappé
+GREY_PRINCE_TEXT : Vaincre le mensonge du prince gris
+ENDINGD_TEXT : Aller au parc du Panthéon et se promener
+STAG_STATION_ALL_TITLE : Il l'a fait
+GREY_PRINCE2_TITLE : Je déteste l'honnêteté et la beauté.
+COMPLETION_TEXT : Terminez le jeu à 100 % et la partie est terminée.
+ENDING_B_TITLE : Ses frères l'ont acheté
+BLESSED_TITLE : Dit Mme Sa
+COLOSSEUM_3_TEXT : Ia Nim fra Crazy Test
+BEAST_TITLE : bbdiia
+ENDING_C_TEXT : Allume la lumière, allume la lumière
+TRAITOR_LORD_TITLE : Hôtel
+HORNET_2_TEXT : Tiens le coin à la fin du royaume
+ACH_TEXT_TEST : C'est une réussite.
+CHARMED_TEXT : Trouvez le premier charme
+WHITE_DEFENDER2_TEXT : Les parents blancs dorment.
+DUNG_DEFENDER_TEXT : Baissez le bouclier
+MAP_TEXT : Obtenir une carte de chaque zone
+COMPLETIONGG_TITLE : hema zelal
+STEELSOUL_TITLE : La capacité de conduite est bonne
+COLOSSEUM_3_TITLE : Vénuste
+STEELSOUL_COMPLETION_TITLE : noyau de fer

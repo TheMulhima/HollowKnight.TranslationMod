@@ -1,0 +1,18 @@
+HORNET_ABYSS_REPEAT : Quiero que vayas por el camino difícil. Pero cruzaste esta línea.
+HORNET_PRE_FINAL_BATTLE_REPEAT : Espíritu real, tienes opciones. ¿Estás reemplazando o acercándote a nuestro odiado hermano?
+HORNET_FINAL_BOSS : Escoger. Publico mucho.Expande nuestro mundo o involúcrate en el corazón de una epidemia.
+HORNET_PRE_FINAL_BATTLE : El camino está abierto. Por alguna razón se mantiene así.<page>Por eso no estoy contigo. Esta habitación cumple con sus requisitos. Si renuncio, mis deberes me obligarán.No te sorprendas. No arriesgué mi vida, pero traté de ayudar.
+HORNET_PRE_FINAL_BATTLE_DREAM : ... ¿fallar? sencillo
+HORNET_GREENPATH : Vamos, hola.<page>Lo vi colgado en el bosque.<page>Es un rey veterano. olor a aireTe conozco, sé lo que estás haciendo. No puedo aceptarlo.
+HORNET_SPIDER_TOWN_REPEAT : Me voy ahora, cariño. Dale tiempo a esta habitación para que sea un templo eterno.
+HORNET_OUTSKIRTS_1 : Entonces, ¿estás buscando la verdad más profunda? Los débiles no pueden resistir.
+HORNET_DOOR_UNOPENED : Este pequeño espíritu me conmovió. Sientes la carga del mundo venidero, pero aún eres fuerte.No será difícil de sellar, pero conocer su ubicación lo hace especial.
+HORNET_SPIDER_TOWN_DREAM : Chica... lo siento... pero hay otra manera...
+HORNET_INSPECT_IK : Lugar de la muerte
+HORNET_OUTSKIRTS_2 : Muestre que está listo para trabajar con ellos. No es demasiado tarde. Mis agujas están muertas, no hay carga para los débiles.Acepta a los maestros del futuro y demuestra que eres responsable de su futuro.
+HORNET_FOUNTAIN_1 : El viento sopla.<page>Muchísimas gracias. amo la verdad<page>Se ha excedido el límite. Su paciencia en ambos valles.No creas que estás en la mitad del mundo. Notarás cambios en el proceso.
+HORNET_FOUNTAIN_2 : Si sabes la verdad y estás tratando de celebrar Halloween, busca un desastre con un símbolo similar al tuyo.
+HORNET_ABYSS_DREAM : ... sin guardias ... ¿realmente te puede molestar la oscuridad? ,
+HORNET_ABYSS_ASCENT_01 : Escucha, te veo destruyendo tu tierra.<page>Nuestra energía proviene de la misma fuente, pero ahora, debido a sus posibilidades, no estamos de acuerdo en la diferencia de principio.<page>Esta oscuridad me hizo reír con confianza. Veo que el cambio es posible.Es difícil de manejar, pero es una oportunidad. Puede aumentar su presencia en el mundo o puede tener un ataque al corazón.
+HORNET_SPIDER_TOWN_01 : Matas monstruos... vas a un lugar peligroso.<page>No tuve un accidente, pero pude mantener la calma.<page>... ¿o que? Puedes pensar que soy una voz que llora, pero no estoy callada.<page>No elegimos a nuestras madres o sus circunstancias. A pesar de todas las enfermedades del mundo, te agradezco por darme la vida.le agradezco Si lo pierdo, puedo pagar y mantendré mi lugar en el futuro.
+HORNET_OUTSKIRTS_DEFEAT : Que tan fuerte ...<page>Puedo si quiero.<page>Pero si escuchamos esta historia negra, ¿por qué podemos levantar clavos? Te conoces a ti mismo ...¡Además del espíritu de Halloween! Dejan cicatrices en tu piel y dicen ser rey.

@@ -1,0 +1,19 @@
+SHAMAN_QUAKE : Honte sur moi! J'espère que vous avez un nouveau pouvoir pour briser la pierre sous nous. Convient à ceux qui veulent aller en profondeur.C'est mon troisième oncle. Et à quel point c'est mauvais. Prof! C'est bien de faire de la musique
+SHAMAN_OPEN_GATE : Regarder! L'espace entre nous est ouvert. très excitant!Vous voulez vraiment passer à autre chose. Bonjour, au revoir, faites-moi confiance ! Vous avez trouvé ce que vous cherchiez ! très excitant!
+SHAMAN_OPENED_GATE : Avez-vous des questions? J'ai peur que tu n'obtiennes pas grand-chose de moi.Je vous remercie pour votre travail acharné! c'est incroyable!
+SHAMAN_SUMMONED_1 : N'ayez pas peur de croire ! Cette prophétie est pour vous maintenant, découvrez-la !Ouais, Al me semble vraiment moche, on dirait que BT n'est pas pour moi non plus.
+SHAMAN_MEET : Ah ! Qui sort des ténèbres ? Cher, tentations! Très beau visage, bras vides !<page>Plus important encore, vous vous inquiétez du salon de beauté d'Halloween, mais vous ne savez pas ce que c'est. Peut-être êtes-vous venu me voir parce que vous avez besoin de mon aide ?Les amis, ne parlez pas trop de mon cadeau, je vais vous faire un petit dessin. Félicitations garçon, félicitations oh!
+SHAMAN_DREAM : Effrayé par les rêves des autres... plus amusant que vos yeux ! Ouah!
+SHAMAN_RETURN : Oh! Alors qu'est-ce qui vous a amené ici ? beaucoupNe t'inquiète pas pour moi, tu n'as besoin de rien d'autre que de toi Oh !
+SHAMAN_KILLED_BLOCKER_2 : Oh! C'est ici! Je vois qu'il dort, je dois passer à autre chose. Je me réveille et vois que tu es parti ! D'accord, désolé!<page>Bien sûr, je dois poser quelques questions. Vous voyez des animaux au milieu du temple...<page>... Tu? Incroyable à nouveau ! Ne pensez pas que j'ai chassé cet animal !Ce n'est pas facile pour moi ! Vous êtes merveilleux! Oh!
+SHAMAN_KILLED_BLOCKER_1 : à présent! Oui, j'ai tué ces animaux !<page>Normale, normale, normale ! Cela devrait vous effrayer. Il n'avait pas été avec quelqu'un depuis un moment, mais il était en colère contre l'air sale dans la grotte.Oui, j'ai fait ce qu'il fallait ! Merci! Eh bien, je n'ai pas de BT.
+SHAMAN_FUNG_DREAM : je demande
+SHAMAN_QUAKE2 : Mon ami, mon ami, tu es dans une autre classe. Vous ne voyez pas ma quatrième tante ?Il a construit sa maison près de Crystal Mountain. Il a fait une impression inoubliable sur les moteurs de recherche. Si vous ne l'appelez pas ici, vous la verrez en direct.
+SHAMAN_SCREAM2 : Ils ont dit : Ah ! Ce n'est pas notre chance.Je ne peux pas imaginer où se trouve ce nouveau pouvoir.
+SHAMAN_CRYSTAL_DREAM : ... les forces ...
+SHAMAN_SUMMONED_2 : Oui, je suis de retour! Vous n'aimez pas les cadeaux ? Je suis un imbécileà votre avis Vous avez réussi ! Bienvenue et faites tout en même temps !
+SHAMAN_FIREBALL2 : Qui se vengera de vous ? Certains manquent... certains.<page>Oui! J'ai rencontré mes amis! Vous êtes une personne spéciale. Vos émotions sont comme les morts.Vous devez être plus discriminant dans l'aide que vous apportez aux autres.
+SHAMAN_FUNG : L'arbre est plein de chair.
+SHAMAN_TRAPPED_1 : Wow, je me suis enfin réveillé aussi. Malheureusement, je dois vous rappeler ce pouvoir magique. Je vois que tu dors, mais c'est dur pour toi, oh !<page>Soyons honnêtes, je pense que vous pouvez m'aider. Certainement pas un cadeau. Parce que nous sommes amis maintenant<page>Un animal commença à habiter au milieu du palais. Ce genre d'abus, si je le déteste, je vous en suis très reconnaissant.C'est une créature difficile. Mais vous pouvez faire face à de nouvelles forces. Félicitations les amis, les amis, sept sept sept sept sept !
+SHAMAN_TRAPPED_2 : Je lui ai demandé s'il était avec nous et tu as dit x ! Étonnamment, la porte ne s'ouvre que lorsque l'animal est tué.Ne t'inquiète pas, j'espère que l'esprit de tes parents te verra.
+SHAMAN_SCREAM : Très gentille soeurCe n'est pas important; Pas comme moi, mais ta voix est merveilleuse. Pas étonnant qu'il ait crié à l'aide !

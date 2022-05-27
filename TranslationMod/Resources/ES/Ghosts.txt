@@ -1,0 +1,83 @@
+HU_INSPECT : Recuerda a tus padres.
+CHAGAX_TALK : No ayudé a nadie. Me estoy muriendo... cual es la diferencia? ...La victoria sobre la muerte no durará mucho.
+HU_DEFEAT : Mi mente está clara. ¿Dormí mucho, Priya?<page>Y... todavía lo sé. Este gigante orgulloso... ¿un monstruo tan enorme? Ahora que pienso en tus ojos... claros y brillantes. Entonces, ¿por qué les tengo miedo?<page>Si estás enojado en la ciudad, lo aceptaré. tienes que seguirme<page>Tienen derecho a atacar...<page>Él murió ...<page>¿Qué pasa si pierdo...?... un.
+MOLTEN_TALK : No es una enfermedad. Mi base era la misma que mi cuerpo debilitado y cambiado.
+KCIN_REPEAT : El sistema eléctrico es una cosa vacía. Mejor busca otro.
+HEX_REPEAT : Nadie te está esperando.
+XERO_REPEAT : ¿Todavía tienes esperanza? ¿Quién sale contigo? ¿Dónde podemos reparar armas?
+GROHAC_TALK : Siempre nos recuerdan nuestros pecados. No dejes que tus pecados te molesten, guíalos.
+GALIEN_REPEAT : ¿Podemos pelear? ¡Luchamos por la felicidad!
+KARINA_TALK : ¿Gracias por mi gran papel? Aunque no he visto nada como esto en mucho tiempo, tengo una opinión diferente.
+THISTLEWIND_TALK : ¿Quiénes son los turistas?<page>Hago mucho, hago mucho, pero quiero que me deje.<page>Pasa un poco de tiempo en Halloween, creo que mi viaje va a empeorar, sé que hasta el viento te hace bien.¡Buena suerte! buen mundo
+WAYNER_TALK : ¡Debes escuchar! ¿Quieres entrar en este mundo? Quiero ir, pero por la mañana tengo miedo de que se me derrita el corazón.
+ALADAR_INSPECT : El estómago es el cerebro principal.
+MUMCAT_TALK : ¡Guau! rina! ¡La reina ha llegado! Estoy esperando a que venga! ¡Siento que estoy volando!<page>¡Espero con ansias este jardín sagrado! ¡Siempre lo esperaré en este momento, y pronto el rey me enseñará a volar!¿Tenemos que esperar a que lleguen los invitados? ¿Por qué lo estás jugando?
+PERPETOS_TALK : ¿Quieres pasar un tiempo en la recreación? Incluso si conoces nuestro mundo y sus defectos, te animo.
+GARRO_REPEAT : Se destaca como un valiente cazador.
+GRASSHOPPER_TALK : ¿No es este un buen lugar? Muchas novedades te esperan. Teníamos que ir, pero no sabíamos cómo hacerlo.Esto llevó a un acalorado debate entre nosotros. Este detalle debería, por supuesto, poner fin a la discusión.
+100NAIL_TALK : ¿Te gusta ir en tus uñas? Han pasado tres años.¡Silencio! Cada uno más afilado que el anterior, solo hazlo.
+MILLY_REPEAT : Compre mi libro de cocina. Llegué a casa con mi maleta.
+MAGNUS_TALK : Cada problema de la vida puede ser resuelto por el poder destructivo. Nunca he sido un evento tan simple.Si no está cansado, entonces es recomendable hacer un seguimiento.
+ATRA_REPEAT : El cañón alteró mi apariencia. son muy buenos aqui
+GALIEN_DEFEAT : No puedo creer... ¡Por fin gané! fue una pelea...<page>Pero soy fuerte. ¿Respetas a tu hermano cuando ves a nuestro rey...?<page>Sí, me hace muy feliz. Sabía que no había olvidado al valiente héroe.<page>Estoy listo para ir contigo ahora. Hermano, tú y yo. Ofrecemos este lugar...... con ...
+GALIEN_INSPECT : El cadáver de un soldado muerto.
+NOEYES_REPEAT : Queridos hijos, los monstruos se les acercan en la oscuridad... ¿quieren cantarme?
+HU_REPEAT : Sueño de amigos Vuelve, no vuelvas.
+PERPETOS_REPEAT : Me gustan estas cositas, también probé esto, pero no tenía suficiente metal para tratar de levantarme las uñas.
+GRAVEDIGGER_REPEAT : Joven conductor, haz lo que quieras. Esfuérzate por lograr tus objetivos.No hay necesidad de preocuparse. Están en la misma empresa que yo.
+MARKOTH_TALK : Tienes un largo camino por recorrer. Moriremos en los últimos días.<page>no puedo decir He escuchado miles de reseñas gratuitas de personas como tú. Orgullo, deseo o dolor... Si te perdono, lo aceptaré.Luego levanta el rifle y muere como antes.
+MARISSA_REPEAT : Incluso cuando estoy solo, todavía estoy feliz de conocer a la audiencia.
+NOEYES_INSPECT : Las personas cetogénicas nacen con la lluvia.
+HIVEQUEEN_TALK : Eso es todo lo que sé sobre tus preferencias.<page>Si quieres realizar tu futuro, debes saber que no soy el príncipe que estás buscando.<page>Son animales sensibles que se encargan de tus instintos.Aunque este lugar tiene lugar durante Halloween, estábamos comprometidos con sus incansables esfuerzos.
+XERO_DEFEAT : Aquí está... creo. El enemigo del rey murió.<page>No me llames estúpido, solo estúpidoSé que no estás corriendo para ahorrar donde quiera que vayas.
+MUMCAT_DEFEAT : Oh, eres fuerte, creo que es muy...<page>He estado esperando invitados, he estado diciendo esto durante mucho tiempo.<page>¡Estoy cansado! La mujer llega casi por la mañana, así que me encanta dormir.<page>Cree hasta que la reina sea recordada por el invitado. ¡Quizás la Reina nos enseñe cómo usarlo, perfectamente!Esto es... divertido... no...?
+BOSS_TALK : He estado aquí mucho tiempo. Tengo pechos grandes, pero no tengo ninguno.
+MAGNUS_REPEAT : Recuerda, tus miedos se han ido. menos para resolver tu problema
+REVEK_TALK : Los errores en este filtro están bajo mi control. Puedes verlos te pedí que te quitaras las uñas
+ATRA_TALK : No tengas miedo de los animales pequeños. Lo siento, pero la naturaleza pacífica aquí no hace ninguna diferencia para mí.
+MUMCAT_REPEAT : ¿Estás esperando nuevos participantes? Vamos a jugar
+XERO_TALK : ¡Volcar! Maldecirá a los que traten de abandonar el reino. Este es un gran lugar para relajarse antes de ir a la cama.<page>Esperanza y libertad. Creo que esto es poderoso. En el sueño corté mis heridas con clavos y extendí mi mano al rey.<page>Lo encontré cuando me desperté de estas mujeres. Sobre todo esperando.¿Todavía estás esperando? ¿Alguna vez has disparado mientras peleas?
+WYATT_TALK : ¡TT!No quiero pudrirme. Sistema inmunitario deshabilitado. Pero es difícil conocer a otros.
+HIVEQUEEN_EXTRA : Oh hombre... por fin soy libre.
+MAGE_LORD : Lo vi en mi sueño. Salvar al gobierno es la cura para la peste... la respuesta está en nuestros cuerpos y mentes.<page>Pero rey… ¡¿por qué?! Lo que hice fue contra...<page>Lo cambié... Se volvió loco... Me atacó, me robó la inmortalidad.El rey y su reino están muertos, pero yo estoy vivo para siempre.
+MARKOTH_INSPECT : Forja, beche, clavo.
+HIVEQUEEN_REPEAT : La ignorancia es un castigo natural. Todo se hizo a tiempo.
+REVEK_TALK_DEFEAT_REPEAT : ¿Sano y salvo? ¿Es eso lo que hago? Si es así, ¿a quién puedes ayudar? Tu y yo
+MARISSA_TALK : Bienvenido a mi podio. Soy una cantante conocida como Marisa. Pero esta tragedia es difícil de creer.<page>Mucha gente se reunió para escuchar mi canción y todo cambió. Entonces la multitud emocionada corrió. Seguí cantando, pero el sonido se detuvo.¿Quieres escuchar mi música? Tú entiendes primero.
+GRASSHOPPER_REPEAT : es real ¿Cuál es la mejor manera? Debe ser simple, pero siempre debe ser diferente.
+XERO_INSPECT : ¡Maldito el que matare al rey!
+WALDIE_REPEAT : No tienes poder para luchar contra mí.
+GROHAC_REPEAT : ¿El cuello de bala? Es mi amado, habla aquí más que nadie.
+MOLTEN_REPEAT : Mi cuerpo ha cambiado, pero el principio no ha cambiado.
+CHAGAX_REPEAT : La derrota de la muerte fue pasajera... triste de recordar.
+MARKOTH_REPEAT : Luego me estrechó la mano y se olvidó de mí, y murió en el acto.
+NOEYES_TALK : Mi bebé ... ¿estás mirando de nuevo? Ejemplo. No vistas<page>No puedo dormir con estos ojos. No me acuerdo... sigo bebiendo miel.<page>Querida... maldita en un sueño... te romperé las uñas...Hijo, la bestia viene hacia nosotros en la oscuridad... ¿Quieres llamarme?
+JONI_TALK : Bueno, veo que me has bendecido. No recuerdo, pero recuerdo el final.
+ALADAR_DEFEAT : ¡Y volveré!<page>divertido ... enfermo! ¡Permitió! ¡Permitió!seno ...
+GRAVEDIGGER_TALK : Ah... y otras armas. ¿Crees que morirá mucha gente?Si no piensas en los muertos, ves en mi trabajo que hacen más.
+MILLY_TALK : ¡Echa un vistazo a mis galletas! no tan bien
+NOEYES_DEFEAT : Uno por uno... finalmente cerré los ojos. Tengo fiebre y no descanso.<page>Lo siento por el problema. Esperamos verte.Ven a un lugar donde no hay luz, ni sueños...
+100NAIL_REPEAT : ¿Mis uñas no son hermosas? Sus espadas brillantes son afiladas y mortales.
+THISTLEWIND_REPEAT : ¿Te sorprende que las ratas tengan armas? No solo peleamos, no nos importa.<page>Algunos se atreven a ir al fin del mundo con la esperanza de encontrar la verdad olvidada.¿No sabes lo que estás pensando?
+MUMCAT_INSPECT : Para proteger las raíces y las hojas, se entienden los jarrones.
+KARINA_REPEAT : Incluso si no tienes una pequeña impresión, es posible que no tengas una impresión.¿De qué estás hablando, eres un animal grande o una araña?
+CASPIAN_TALK : Cuida tu cerebro. Me duele mucho el corazón.Creo que el final está cerca, pero veo el mundo y su paz.
+WAYNER_REPEAT : Te amo en este mundo sin miedo. Puedo aprender de tus pensamientos.
+GALIEN_TALK : ¿Hola amigos? Siento que fue el único que tuvo el coraje y la fuerza para permanecer en esa hermosa e inolvidable cueva.<page>¡Soy un chef fuerte, Halloween! Vine aquí para dar lo mejor de mí. ¿Quieres poner a prueba tus habilidades?<page>Sí, tú y yo somos muy diferentes de los pobres que nos precedieron. Temo que este mundo traerá consuelo a los débiles.¿Estamos peleando ahora? ¡Demuestra tu fuerza en la lucha por la felicidad!
+POGGY_REPEAT : Esperé mucho tiempo. O una grieta al mediodía
+REVEK_TALK_DEFEAT : Yo estaba en silencio. Pero dudo que sea un fracaso. Trabajo aquí, pero ¿cómo? ¿Es difícil de recordar? ¿Qué debo olvidar?
+POGGY_TALK : Transforma una piel hermosa. Esta es mi opinión, muchacho muy joven.Mírenme insectos grandes, locos, gruesos, gruesos, graciosos... no me extraña que aquí me amen.
+ALADAR_TALK : S Garbomasom!<page>¡No te preocupes!<page>¡Métete en la política! ¡Yo tambien lo espero!¡Superior! ¡Superior! ¡Guarda la mejor parte!
+REVEK_REPEAT : Las uñas son afiladas e irregulares.
+ALADAR_REPEAT : ¡Mismo! ¡Mismo!
+JONI_REPEAT : ¿Tienes un buen lugar para relajarte aquí?
+HEX_TALK : "Hasta luego", dijo por un momento. ¿Adónde crees que va?
+HU_TALK : Recuerda al chico. ¿Por qué estás aquí? ¿Viniste a conquistar estos remanentes en el desierto?<page>Muchos vinieron a limpiar el lugar pero al final todos murieron.<page>Sí, tenemos insectos salvajes arrastrándose debajo de nosotros. Estoy orgulloso de mi mismo; Ahora eres un demonio.hijo orgulloso no vuelvas
+GARRO_TALK : ¿Son verdaderos los objetos int?
+MARKOTH_DEFEAT : Nunca hemos ganado una guerra.<page>Aquí, todavía estoy dormido. ¿Cuánto tiempo he estado aquí?<page>No, pero estás al otro lado del mundo.<page>El ejército soviético es un zar al mismo tiempo ... No tengo poder. solamenteEs el amanecer... vamos.
+KCIN_TALK : La limpieza fue inútil para mí, pero hice lo mejor que pude.No todo lo que tiene sentido tiene sentido.
+FALSE_KNIGHT : Quiero salvar la vida de otras personas.<page>Lo vi dormir toda la noche... con un arma grande...<page>Estás loco... tienes que...¿Pero sobretodo? Si la Bondad no puede retenerte...
+WALDIE_TALK : No me juzgues por cómo me veo. Aunque mis sentimientos son muy pequeños, estoy muy triste y afectado.
+WYATT_REPEAT : Sí, no quiero cometer errores.
+CASPIAN_REPEAT : ¿Crees que ser un niño es una buena idea? Si los ojos están cerrados después de una aparición permanente, es difícil cantar.
+BOSS_REPEAT : Tú también eres un soldado. Puedo ver tus uñas, pero tu cabello no se ve bien. En el mundo de hoy es fácil perderse en una situación peligrosa.

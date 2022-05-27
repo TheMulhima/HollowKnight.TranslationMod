@@ -1,0 +1,24 @@
+STAG_CROSSROADS : Ha pasado mucho tiempo, pero recuerdo la grandeza y la soledad de mi vida. Este viaje comenzó por primera vez desde la infancia.Estos turistas han existido durante mucho tiempo, pero me quedaré. Ahora te robamos a ti y a mí.
+STAG_ROYALGARDENS : Olvidé que hay una página delante del complemento. Un insecto raro es el refugio de nuestra reina muerta.Estos jardines son grandes, pero conservan su belleza durante mucho tiempo. Las chicas deben estar felices de saberlo.
+STAG_DEEPNEST : Oye, estamos... ¿dónde estás? No llegué a esta publicación. Suceden hechos trágicos. Te lo enviaré pronto
+STAG_DREAM : Ahora estoy cansada, pero también tengo piernas. Pero me alegro de no ser demasiado grande... no muchos otros.
+STAG_FLOWER_WARNING : Las flores que trajiste... hermosas, pero muy lindas. Me temo que si vienes conmigo, te enfermarás.De hecho, recomiendo usar los pies para ir a donde quieras ir.
+STAG_TISO : Miré al hombre sentado en la silla. No hay nada mejor, pero la puerta a los cigarros está abierta para cualquiera.Muy recomendable si quieres continuar. Me vino a la mente mi posición.
+STAG_NEST : He vuelto... mi vida ha terminado.Pero estoy orgulloso. Piense en la familia y la familia en todas partes.
+STAG_TOWN : Mira... ¿vamos a despertar? es donde encontrar tiempo para relajarse.Hay muchos viajeros. Él está tranquilo ahora.
+STAG_TRAM : Tu ficha ¿Es este coche sucio un vehículo eléctrico? Cuando estás realmente enojado, no pasa nada.La idea es que la máquina pueda controlar lo que hacen los demás. Ero... loco loco.
+STAG_HOPE_1 : ¿Qué os parece mi antigua casa?<page>Ciervos, todo el tiempo, gente yendo y viniendo. Se discutirán los lugares de reunión.<page>Sentimos en la mente "gas". La última serpiente.<page>¿Pero hay algo en la jaula de aire? Huele mal. ¿Están calientes? ¿o no?¡Sí! ¿Pueden otros sistemas de imágenes viajar globalmente?
+STAG_REMEMBER_3 : ¡Pequeño! Voy a ! Nací y crecí.<page>Tengo que volver, mi trabajo es viajar solo después de llamar, pero si quiero verte con vida, puedo llevarte.Nadie nos saludó, ¡pero el lago era hermoso! dame tu palabra y vete
+STAG_REMEMBER_2 : Desafortunadamente, muchas lecciones bíblicas acaban de comenzar. Todavía puedo ir al estado. No recuerdo muchas formas antiguas.<page>Nací y crecí como uno. Creo que este lugar está en mi cabeza, pero ahora me olvido del tren.Siempre di, cuando abres el bar para ciervos, veo este nido. ¡Oh, me encanta!
+STAG_HOPE_2 : Por eso yo. Mis hermanos son del campo.<page>Pero no me rendiré. Qué importante para los viajeros.<page>Se puede decir que aún queda mucho por hacer. Seré tu amigo hasta que mi viejo cuerpo desaparezca.Disfrute de la parte antigua del país.
+STAG_RUINS2 : Chico, ¿estamos en Kings Station? Es correcto. Fue llamado Rey Holonest, quien fue responsable de construir caminos y tierras.La garantía en sí no desapareció, y en cuanto la vi me dijeron que tenía la cara bonita y las líneas que estaba esperando.
+STAG_TRAVEL_1 : Estas lista bebe
+STAG_END_SPEAK : Si quieres visitarnos, háznoslo saber iniciando sesión en la plataforma y lo haremos pronto.
+STAG_HIDDEN : ¡Pero! ¿Es esta una página mundial secreta?<page>No supe la profundidad del miedo hasta que escuché gritos. ¡Maravilloso, hijos míos!Incluso en mi vejez, el mundo está lleno de cosas maravillosas.
+STAG_MEET : ¡Hola niños! Era demasiado tarde cuando escuché por última vez la llamada de la estación. Lloré en el escenario y llamaste.<page>Llevo años aburrido y muchos lo han olvidado, pero siempre me pega el sonido del reloj.Estas partes profundizan en el Holocausto. Si desea conocerlos, contáctenos a través del foro. Te llevaré a donde sea.
+STAG_RESTINGGROUNDS : Tranquilidad... Los invitados vienen aquí a recordar quién fue.Pero no más. ¿Quizás los muertos están haciendo sus rituales en este momento?
+STAG_REMEMBER_1 : Solo algunas estaciones abiertas. No, gracias por la oportunidad de volver.<page>Cuando vas a otro lugar, tus recuerdos parecen perseguirte de nuevo.Ponlo en la radio y recibe muchos elogios.
+STAG_EGG_INSPECT : Concha Zedjo
+STAG_FUNGUS : Esto es ridículo. Se abre el Restaurante Real. Es un destino turístico y un gran lugar para visitar.Encuentra este hermoso lugar.
+STAG_RUINS1 : Recuerdo muy bien esta estación. Es un viaje ordinario. Extendido en todas partes de Myanmar.Ahora no hay necesidad de hacer a un lado.
+STAG_GREENPATH : Este lugar ha cambiado dramáticamente desde la última vez que los vi. La fábrica colapsó porque estaba muy llena.

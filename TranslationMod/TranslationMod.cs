@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
+using System.Linq;
 using System.Reflection;
 using Language;
 using Modding;
@@ -9,8 +11,9 @@ namespace TranslationMod
 {
 	public class TranslationMod : Mod, ITogglableMod
 	{
-		public Dictionary<string, Dictionary<string, string>> translationDict;
-		public override string GetVersion() => "1.0.1";
+		//lang, sheetTitle, key, text
+		public Dictionary<string, Dictionary<string, Dictionary<string, string>>> translationDict;
+		public override string GetVersion() => "1.1.0";
 
 		public TranslationMod()
 		{
@@ -30,31 +33,57 @@ namespace TranslationMod
 
 		private string LanguageGetHook(string key, string sheettitle, string orig)
 		{
-			if (translationDict.ContainsKey(sheettitle))
+			string lang = Language.Language.CurrentLanguage().ToString();
+			if (translationDict.ContainsKey(lang))
 			{
-				if (translationDict[sheettitle].TryGetValue(key, out var newText))
+				if (translationDict[lang].ContainsKey(sheettitle))
 				{
-					return newText;
-				}
-				else
-				{
-					LogWarn($"Not Found {key}:{orig}");
+					if (translationDict[lang][sheettitle].TryGetValue(key, out var newText))
+					{
+						return newText;
+					}
+					else
+					{
+						LogWarn($"Not Found {lang} {key}:{orig}");
+					}
 				}
 			}
+
 			return orig;
 		}
 
 		private void InitializeDictionaries()
 		{
-			translationDict = new Dictionary<string, Dictionary<string, string>>();
+			translationDict = new Dictionary<string,Dictionary<string, Dictionary<string, string>>>();
 			Assembly executingAssembly = Assembly.GetExecutingAssembly();
+			Dictionary<string, List<string>> LangsAndSheets = new Dictionary<string, List<string>>();
 			foreach (string text in executingAssembly.GetManifestResourceNames())
 			{
 				LogDebug(text);
 				if (text.EndsWith("txt"))
 				{
+					var structure = Path.GetFileNameWithoutExtension(text).Split('.');
+					var Lang = structure[2];
+					var Sheet = structure[3];
+					if (!LangsAndSheets.ContainsKey(Lang))
+					{
+						LangsAndSheets.Add(Lang, new List<string>{Sheet});
+					}
+					else
+					{
+						LangsAndSheets[Lang].Add(Sheet);
+					}
+				}
+			}
+
+			foreach (var (lang, sheetList) in LangsAndSheets)
+			{
+				Dictionary<string, Dictionary<string, string>> langDict = new();
+				foreach (var sheet in sheetList )
+				{
 					Dictionary<string, string> dictionary = new Dictionary<string, string>();
-					StreamReader streamReader = new StreamReader(executingAssembly.GetManifestResourceStream(text));
+					StreamReader streamReader = new StreamReader(executingAssembly.GetManifestResourceStream(
+						$"TranslationMod.Resources.{lang}.{sheet}.txt")!);
 					string text2;
 					while ((text2 = streamReader.ReadLine()) != null)
 					{
@@ -67,8 +96,9 @@ namespace TranslationMod
 						})[1].Trim());
 					}
 					streamReader.Close();
-					translationDict.Add(Path.GetFileNameWithoutExtension(text).Remove(0, 25), dictionary);
+					langDict.Add(sheet, dictionary);
 				}
+				translationDict.Add(lang, langDict);
 			}
 		}
 	}

@@ -1,0 +1,387 @@
+SHOP : ்க
+PIN_NAME_TRAM : 指导
+CHARM_NAME_40 : 加梅尔达斯
+MAP_NAME_OUTSKIRTS : 国家和海军
+INV_DESC_SOULORBS_NONE : 
+KEY_SHOP : 顾客
+INV_DESC_LOVEKEY : 射击是爱的象征。
+CTRL_ZOOM_OUT : 机器人
+CHARM_DESC_24_G : 鼓励用户搜索多个地理区域以击败敌人。这是非常了不起的。
+PIN_DESC_STAG : 在亚洲成为目标、文件和滑行 <br> <br> 这是鹿的最佳去处。
+CHARM_NAME_24_G : 没有嫉妒的感觉。
+NOTIFICATION_FLOWER_BREAK : 碎花
+INV_NAME_SUPERDASH : 真正的资本
+INV_DESC_WHITEKEY : Moveronse dihias kunci 霹雳州。
+INV_NAME_ART_CYCLONE : 炮速
+MAP_NAME_ROYAL_GARDENS : 现在的女王
+OPT_MENU_BACK_BUTTON : 返回
+INV_DESC_FLOWER : 灰头给田野带来欢乐。他告诉你为了国王的爱去天堂。这种花非常娇嫩，当你撞到马或鹿时会杀死它。
+INV_NAME_SOULORBS_ALL : 肉瘤
+INV_NAME_NAIL2 : 快速修指甲
+CHARM_DESC_23_G : 改善消费者健康，是的。 <br> <br> 将不予退款。
+CHARM_NAME_40_N : 这首歌是黑暗的
+INV_NAME_SPELL_SCREAM2 : 恶魔的尖叫
+CHARM_NAME_23_G : 心不能碎
+CHARM_DESC_4 : 增加灵活性 如果修复损坏，产品将延迟很长时间。 <br>：
+ASCEND : 安装
+INV_DESC_DREAMNAIL_A : 这允许客户在睡觉和醒来之间拉帐篷。可用于揭示秘密梦想或开放路径。沉睡的指甲可以收集物品、欲望和梦的残余
+INV_NAME_NAIL3 : 胡萝卜丁香
+MAP_NAME_RESTING_GROUNDS : 隐藏
+INV_DESC_SPELL_QUAKE2 : 用噩梦和邻居的力量征服世界。这些力量可以摧毁或削弱敌人。我们有强大的精神。死去的敌人被杀死。
+CHARM_NAME_1 : 拉朱说的对
+SHOP_DESC_GLASS_GEO : 非常有价值和有趣！想了解更多关于 Geo 的信息吗？解锁这个结界去钓鱼吧！ <br> <br> 加入约翰，你会找到我。
+CHARM_DESC_1 : 照顾好自行车工作人员，为那些什么都不留下的人腾出空间，无论多小。 <br> <br>
+MARKER_W_NAME : 闪亮的符号
+CHARM_NAME_25_BRK : 错误的应用程序（更新）
+CHARM_DESC_36_C : 该中心现已开放。可根据用户要求提供。
+CHARM_DESC_36_B : 代表完美和谐的纯粹魔法。这个项目会慢慢带来无穷无尽的ALMA。
+CHARM_DESC_36_A : 部分纯美装饰不需要
+INV_NAME_WALLJUMP : 是的，请
+CHARM_DESC_BROKEN : 当这种能量停止时，内部能量就会减弱。注册错误。
+INV_DESC_ORE : 金属窗是不寻常的。 <br> <br> 由刺客协助。
+INV_DESC_SPELL_SCREAM1 : 杀死敌人的恶魔。他们疯狂地统治。点击收集敌人。
+OPT_MENU_MUSIC_VOL : 音乐：
+CHARM_NAME_12 : 纸上的痛
+INV_DESC_FLOWER_BROKEN_QG : 皇后花园的功绩坏了，也没用。
+INV_NAME_RANCIDEGG : 存储索引
+INV_NAME_STOREKEY : 使用协议
+INV_NAME_TRAM_PASS : 伊特罗利
+CHARM_EQUIP_REMIND : 创造吸引力。
+CTRL_SHOW_PINS_KEY : 出现尖峰
+MAP_DESC_FOG_CANYON : 雾图将绿色和平组织与蘑菇联系起来。强风使得很难找到比赛。是的，这比以往任何时候都难。
+MARKER_B_DESC : 您还可以使用新商店在地图上记录有趣的点。 <br> <br>
+UI_BLANK : 
+CHARM_DESC_6 : 想象一下他们和那些试图死去的人的挫败感 <br> <br> 当他接近死亡时，他的力量会增加。
+PANE_MAP : 原因
+TRAVEL : 多兰
+MAP_NAME_CLIFFS : 洛克喊道。
+MAP_NAME_ABYSS : 麦芽汁
+SHOP_SALUBRA_BLESSING_NE : 对于像我这样的魔术爱好者来说，这是一个特别的项目。如果你有 40 颗珍珠，我就卖给你。就这样。
+MAP_UPDATED : 地图变了
+MAP_DESC_CLIFFS : 德特茅斯水晶地图。柯尼法说，风在吹，我没听见。问……你说什么？
+SHOP_DESC_SOULORBS_1 : 你对这种精神崩溃了解多少？
+MAP_DESC_MINES : 水晶峰地图，达特茅斯后面一个闪闪发光的地方。人们喜欢水晶和地图。它们之间有什么区别？
+INV_NAME_HEARTPIECE_NONE : 
+MARKER_Y_DESC : 这在市场上是新的。您可以使用它在地图上标记感兴趣的区域。 <br> <br> 这种黑色让人想起狩猎
+CHARM_ALERT_NONE : <br> Tılsım yok <br> 在柜台打开睡眠菜单收集护身符。
+CHARM_NAME_23_BRK : 心脏病（矫正）
+INV_DESC_HEARTPIECE_ALL : 惊人的面膜。当面罩准备好时，客户在地面上保护并使空间舒适。
+CTRL_EXIT : 新产品
+CTRL_UNEQUIP : 没有
+INV_DESC_NAIL2 : 地狱之巢是一种常见的死而复生的武器。
+KEY_COCOON : L.
+MARKER_Y_NAME : 象征：
+CHARM_ALERT_NONE_BENCH : 没有住宿。要订购肿瘤，请选择以下选项并请求其效果。
+INV_NAME_MAPQUILL : 卡片和笔
+INV_DESC_HEARTPIECE_NONE : 
+INV_DESC_DREAMNAIL_B : 它允许雇主纠正梦想和重生之间的区别。隐藏的梦想可以在敞开的门后显露出来。
+SHOP_DESC_NOTCH_4_NE : 像我这样的咒语爱好者的独家产品。如果你有25个字，我想卖。我只需要一个。
+CHARM_DESC_40_N : 早期友谊 <br> <br> 有些父母可以保护处于危险中的人。
+SHOP_DESC_HEARTPIECE_1 : 见面仅限于大面积。但是，您可以使用其中之一。
+SHOP_DESC_LONGNAIL : 你的指甲很漂亮！但是有点……你以后会花一些时间吗？所以！是的，给我这个礼物。即使你看着敌人...
+MAP_NAME_DIRTMOUTH : 坏杯子
+INV_NAME_WHITEKEY : 美丽的宫殿
+CHARM_DESC_40_F : 它是伟大文化的象征。有一个明亮的火。
+INV_NAME_ORE : 矿物洗涤
+CHARM_DESC_39 : 他遇到了他老房子的“忠诚”主人。
+CHARM_DESC_38 : 头部隐藏形状的梦想家。 <br> <br> 打开盾牌并跟随用户并尝试拯救他。
+SHOP_DESC_WHITEKEY : 这座装饰城堡很干净，但它漂浮在水面上。
+CHARM_DESC_35 : 谢谢你带我进入你人生的下一个阶段。 <br> <br> <br> <br>
+CTRL_HIDE_PINS : 动物园的PIN码
+CHARM_DESC_37 : 这个问题似乎被称为“Sprintmaster”，因为现在玩家的速度越来越大。您可以避免问题或消除竞争对手
+CHARM_DESC_31 : Dashmaster <br> <br> Nobuki 是一种危险的昆虫，非常适合那些想要走路的人。
+CHARM_DESC_30 : Temporary Nail Magic 适用于 Dream Nile 用户和精华收藏家。 <br> <br> Nail Dream 可以让工匠们更快地准备并通过粉碎对手来收集更多的灵魂。
+CHARM_TXT_OVERCHARMED : 吸引人的
+CHARM_DESC_32 : 他带着坏指甲来了。长蜡烛。
+SHOP_DESC_ENEMYRECOILUP : 你打算用盘子杀死敌人吗？装备你的武器，你可以飞到任何地方！
+MAP_DESC_GREENPATH : 在地面附近种植树木，万圣节绿地。与水接触可致死！
+CHARM_DESC_11 : 生命之美诞生在玛玛的膝上 <br> <br> <br> 复仇的精神让诗句不安。
+MAP_DESC_WATERWAYS : 帝王街地图，位于泪水之城、喷泉和土地的下方。尽管下雨和岩石，康沃尔国家还是很有趣的。
+SHOP_DESC_GLASS_ATTACK_BRK : 他现在走了，没有精力了。只有上帝！我破产了
+SHOP_DESC_NOTCH_3 : 你想变漂亮，不是吗？
+CTRL_HIDE_KEY : 隐藏代码
+CHARM_TXT_EQUIPPED : 包含：
+INV_NAME_JOURNAL : 写受害者
+SHOP_DESC_TRINKET3 : 据说持有“上帝”标志的人是万圣节之王。由纯白色材料制成，非常耐用。 <br> <br>
+NAME_HUNTERMARK : 停止标记
+INV_NAME_DREAMCORE : 你是：
+LISTEN : 采用
+KEY_STAG : 赫希公司
+SHOP_DESC_GEOGATHERER : 如果你去过这个洞穴，你对这些地方了解多少？ <br> <br> 这种美丽保证所有负面的变化都会回到你身上。
+INV_DESC_FLOWER_BROKEN : 交给指挥官。
+PIN_DESC_TRAM : 这列火车是一辆非常聪明的汽车。应该指出这些过去的错误。 <br> <br> 这根针是专为看火车站而设计的。
+SHOP_DESC_NOTCH_1_NE : 对于任何想看到他获胜的人来说，这都是一次很棒的经历。 <br /> <br /> 如果你有五个好的，我想卖掉它们。这就是你所需要的
+INV_NAME_SPELL_SCREAM1 : 水流
+INV_DESC_HEARTPIECE_2 : 古代毛毛虫使用添加剂来防止损坏。收集两只绵羊以保护它们并保护它们免受伤害。
+INV_DESC_HEARTPIECE_3 : 拯救自己的旧情人 <br> <br> 帮助人们提高技术并保护自己免受危险。
+INV_DESC_HEARTPIECE_0 : 戴上老式口罩以保护自己免受伤害。 <br> <br> 登录以强化您的皮肤并防止受损。
+INV_DESC_HEARTPIECE_1 : 一个保护你免受伤害的旧面具。抓住箭头并收集 3 个以上以避免受伤。
+CHARM_NAME_39 : 新闻和
+INV_NAME_DREAMNAIL_A : 我不喜欢戏剧
+INV_DESC_FLOWER_QG : 他们带他进了王宫。光 <br> <br> 这朵花很小，折断时会折断或粘在角落里。
+INV_DESC_NAIL3 : 屏幕非常耐用，以优质家具结束。
+CHARM_NAME_9 : 生活的基础
+PIN_DESC_SPA : 我们设计了这些支柱来控制该国的温泉。现在，我希望你正确使用这头发。
+CTRL_CANCEL : 取消，取消：
+CTRL_CONFIRM : 丹妮拉
+CTRL_EQUIP : 广告
+CHARM_DESC_7 : 眼镜的吸引力在于它们可以加速用户的注意力，从而使用户快速恢复。
+INV_DESC_CITYKEY : 我们在万圣节的土壤上玩万圣节。
+INV_DESC_NAIL4 : 圣徒们，努力吧。
+INV_DESC_QUILL : 已申请注册。每匹马必须使用一张牌。
+INV_DESC_SIMPLEKEY : 采用典型设计，大多数小钥匙使用后即可打开。
+CHARM_DESC_3 : 这是对不道德蠕虫的信仰。休息时深吸一口气。
+SHOP_DESC_GLASS_HP : 这个产品很贵。美丽而优雅。我为你做的！这样做可以帮助您保持健康。 <br> <br> 如果您害怕死亡，请阅读这节经文！
+INV_DESC_WALLJUMP : 烧一磅骨头。将媒体贴在墙上。
+CHARM_NAME_38 : 听翻译
+INV_DESC_KINGSBRAND : 了解皇家保险公司。旧房间很快就会在万圣节开放。
+CHARM_NAME_31 : 你是领导者
+CHARM_NAME_30 : 新鸿基
+INV_NAME_TRINKET2 : 最神圣的体验
+MAP_DESC_OUTSKIRTS : 世界末日 世界末日是我的妻子……当她住在这里的时候。这座城市已经走过了漫长的道路。
+CHARM_NAME_36_C : 再见
+CHARM_NAME_36_B : 如果烧烤
+CHARM_NAME_36_A : 很白
+INV_NAME_SOULORBS_2 : 事故
+INV_NAME_SOULORBS_1 : 纸
+INV_NAME_SOULORBS_0 : 盘对盘
+CHARM_DESC_5 : 当注意力集中时，坚固的手柄可保护框架免受硬皮的伤害。
+INV_NAME_LANTERN : 女士
+PIN_NAME_SHOP : 针出售
+INV_NAME_NAIL4 : 装满水
+SHOP_DESC_STALWARTSHELL : 圣洁的生活可能很困难，总是很困难。这些美女让您有更多时间修复损坏。当您想避免狭窄的空间时，这很有用。
+CHARM_NAME_24_BRK : 黑暗的;
+CHARM_NAME_4 : 坚固的房子
+PIN_NAME_SPA : 远距离热源
+SHOP_NAME_SALUBRA : 上帝祝福你
+INV_DESC_GEO : 在不同颜色的帮助下，您可以获得良好的效果。
+PIN_NAME_STAG : 短糖果的发型
+PIN_NAME_COCOON : 足球
+SHOP_DESC_GLASS_ATTACK : 厌倦了Domusion？如果是这样，我会给你我自己的镜子。 <br> <br> 你给狮子。你的敌人 և 其他威胁你的人...
+INV_NAME_SPELL_FOCUS : 用于身份验证
+SHOP_DESC_GLASS_HP_BRK : 现在它被分裂和丢失了。真的很无聊！给我生命，我会改正
+MARKER_W_DESC : 一个新的已添加到此标记。您可以使用它在地图上找到有趣的地方！ <br/> 这个颜色我用的材料不多，所以很贵。
+OPT_MENU_APPLY_BUTTON : 绝对地
+INV_NAME_NOTCH : 这是美丽的标志
+MAP_NAME_GREENPATH : 绿锅
+INV_DESC_DOUBLEJUMP : 以太之翼在黑暗中闪耀。让某人触摸空气
+INV_NAME_KINGSBRAND : 国王的名字
+INV_DESC_STOREKEY : 笔记本电脑看起来像一个小黄铜外壳。
+INV_DESC_RANCIDEGG : 未知生物的臭鸡蛋。它很臭。 <br> <br> 通常不考虑食物。
+CHARMS_REMAINING : 伺服加
+OPT_MENU_SOUND_VOL : 在：
+PIN_DESC_GHOST : Carnifer 说她在地平线上发现了一个美丽的坟墓。您可以将其用作地图上最美丽的信息之一。有尊严地走。
+PIN_DESC_DREAMPLANT : 如果你看的不多，Carnifer可以理解。
+INV_DESC_SHADOWDASH : 工匠可以在不伤害敌人的情况下发送传单进行攻击。
+INV_NAME_GEO : 不是马尼拉
+SHOP_DESC_SIMPLEKEY : 简而言之，这是一个简单的键。有几张照片很好，适合开箱拍照。
+SHOP_DESC_LANTERN : 什么是重要的？你身边有朋友吗？ <br> <br> txais 兼而有之 no 这个智者接受了他为朋友，在黑暗中离开了。
+CHARM_NAME_8 : 在生活的中间
+CHARM_DESC_8 : 有大血管携带一些血管。当客户满意时，他承担了一生中最大的负担，避免了最轻微的不便。
+CHARM_DESC_13 : 给予尊重。
+MAP_NAME_DEEPNEST : 近味
+INV_DESC_LANTERN : 水晶灯和灯笼。让他照亮他的黑暗，让他找到通往游客的路。
+INV_NAME_DOUBLEJUMP : 国王之手
+CHARM_NAME_33 : 信息
+CHARM_NAME_3 : 加班
+SHOP_SELL_CONFIRM : 出售
+MAP_DESC_ABYSS : 世界上最深的国家，古老家族的地图。
+CHARM_TXT_NOTCHES : 为了娱乐
+FLAME_COLLECTED : 工作灯
+INV_NAME_SPELL_FIREBALL2 : 不同类型的电子产品
+CHARM_NAME_29 : 高血压。
+CHARM_NAME_28 : 外壳
+SHOP_DESC_NOTCH_3_NE : 特别是如果有人像我爱你一样爱我。 18岁的他又生气又开心 <br><br>
+INV_NAME_DREAMGATE : 梦想之门
+PIN_NAME_GHOST : 墓地里的军用针
+CHARM_NAME_21 : 昆虫食品
+CHARM_NAME_20 : 拯救你的生命！
+CHARM_NAME_23 : 健康的心脏
+CHARM_NAME_22 : 来自内部的帮助
+CHARM_NAME_25 : 批判性思考的能力
+CHARM_NAME_24 : 的确，我们爱钱。
+CHARM_NAME_27 : 强尼文胸
+CHARM_NAME_26 : 尊重电梯主人
+INV_NAME_SHADOWDASH : 我饿了
+PANE_JOURNAL : 古兰经
+SHOP_DESC_WAYWARDCOMPASS : 如果你发现很难留在我们下一个危险的地方，试试这个食谱。 <br> <br> 在地图上显示您的位置。在未知的地方导航是件好事。
+BANK_DEPOSIT_AMT : 我需要付多少钱？
+MAP_NAME_MINES : 水晶镜
+BANK_DEPOSIT : 交货
+SHOP_DESC_SPELLDMGUP : 你是魔术师还是小战士？不要转身！看！这是个笑话。 <br> <br> 如果你知道魔法的种类，你应该买魔法。听说魔法更强！
+CHARM_NAME_32 : 直接赢家
+SHOP_PURCHASE_COMPLETE : 哪儿是。
+SHOP_DESC_NOTCH_2_NE : 该产品专为像我这样的人设计。如果你有面包，我会卖掉它。 <br> <br> 这就是你需要的
+INV_DESC_TRAM_PASS : 火车连接洪水的不同部分，生活在继续。这些国家对于申请皇家许可居住和购买的一切都很重要。
+MAP_NAME_CROSSROADS : 站在你的膝盖上
+INV_NAME_SIMPLEKEY : 简单的钥匙
+MAP_DESC_FUNGAL_WASTES : 忘记模具的所需运动和路径的划分。她的丈夫打招呼并尝试做饭。这里是！
+COMPLETED : 离开
+PIN_NAME_DREAMPLANT : 深厚的知识
+INV_NAME_DREAMNAIL_B : 梦想盒子里的某个人
+MARKER_B_NAME : 卢克·马里卡
+SHOP_DESC_GLASS_GEO_BRK : 现在它正在崩溃并获得力量。非常吵闹！给我锡安我稍后会解决这个问题。
+CHARM_TXT_COST : 介绍
+INV_DESC_DASH : 雷纳：可以增加风速。
+MAP_DESC_CITY : 眼泪之城最受欢迎的地图。城市里有干净的水吗？她没事……
+INV_DESC_SOULORBS_ALL : 一个完美的方法来获得上帝的力量。
+SHOP_DESC_SOULORBS_2 : 一挖。我有全套。如果他们不激怒我，我同意。
+CTRL_MARKER_REMOVE : 估计费用
+CTRL_MARKER_PLACE : 另一方面
+CTRL_MARKER_CHANGE : 更改徽标
+SHOP_DESC_TRINKET2 : 这个徽章是国王和他的战士的官方徽章，由囚犯佩戴。 <br> <br> 国王和他的战士走了，他们的印章像核桃一样稀有。我们会给你全价。
+INV_NAME_QUILL : 星期
+MAP_DESC_CROSSROADS : 忘记达特茅斯路口地图。当康沃尔把他带到那里时。这是一个安静但美丽的地方。
+BANK_WITHDRAW_AMT : 是的！我会得到多少？
+SHOP_PURCHASE_CONFIRM : 你想买这个产品吗？
+INV_NAME_TRINKET1 : 问题
+INV_NAME_CITYKEY : 靠近城市之手
+SHOP_DESC_QUICKFOCUS : 中心班很好，不是吗？喜欢它！听说玻璃有助于修炼，喜欢就把这个美女带回家吧！
+SHOP_DESC_TRINKET4 : 她总是喜欢它，但万圣节是一个很大的吸引力。请求夏季摇滚 2011。所以我付出了代价。给我买！
+COMPLETION_RATE_UNLOCKED : 经济表现下降。
+BANK_YOURBALANCE : 你的尺码
+CHARM_NAME_19 : 沙曼塔纳
+CHARM_NAME_18 : 长指甲
+CHARM_TXT_COLLECTION : 我补充说：
+CHARM_NAME_35 : 格鲁伯过敏
+INV_NAME_ART_UPPER : 阿格拉阿格拉
+KEY_BLACKEGG : 黑码头模板
+INV_DESC_SPELL_FIREBALL2 : 想象一下被转移到荣誉的业力世界。头脑必须有头脑。与敌人战斗以击败你。
+CHARM_NAME_10 : 在安全
+CHARM_NAME_13 : 骄傲的症状
+CTRL_ZOOM_IN : 单
+CHARM_NAME_15 : 勒巴特
+CHARM_NAME_14 : 丢弃钱包
+CHARM_NAME_17 : 他热爱运动
+CHARM_NAME_16 : 房间nee，哎呀
+KEY_BENCH : 作者：奥戈尔
+CTRL_TRAVEL : 航程
+INV_NAME_MAP : 小学
+CHARM_NAME_7 : 快速浏览
+KEY_DREAMER : 困
+SHOP_SALUBRA_BLESSING : 信息。你不值得！
+INV_NAME_HEARTPIECE_ALL : 旧面具
+CHARM_DESC_29 : 金蜂蜜是蜂蜜中价格最高的。有时 ROH 可以得到治疗而不必担心。
+CHARM_DESC_28 : Unn 卡将出现在容器中。 <br> <br> 对灵魂感兴趣的用户可以使用新地图来躲避敌人。
+BANK_EXIT : 他写
+CHARM_DESC_25 : 这增加了用户的力量并进一步损坏了敌人的指甲。 <br/>
+CHARM_DESC_24 : 这使客户可以更深入地了解对手何时获胜。
+CHARM_DESC_27 : 穆巴拉克持怀疑态度。蓝水的重大变化 <br> <br> 原告有健康症状并造成很大伤害，但精神上的关注并不能治愈它们。
+CHARM_DESC_26 : 它包含了美甲大师们的爱、智慧和忏悔。 <br> <br>
+CHARM_DESC_21 : 被遗忘的东西被用来赋予生命以生命。
+CHARM_DESC_20 : 萨满使用它来吸引他们周围世界的许多灵魂。当你用针击中敌人时增加你得到的东西。
+CHARM_DESC_23 : 改善员工健康和伤害 这个名字很弱，如果员工死亡，可能会丢失。
+CHARM_DESC_22 : 他伤了她的心，做了一只小狗。
+BANK_WITHDRAW : 翻译;得到它
+PIN_DESC_SHOP : 使用此标志可以找到沿途会遇到的一些商店和娱乐场所。 <br> <br> 我很高兴看到他们在做什么。我喜欢它
+INV_NAME_FLOWER_BROKEN : 对花的伤害。
+PIN_DESC_COCOON : 你见过美丽的蓝羊吗？我在找这条裤子。 <br> <br>，小心接近他们。
+CHARM_DESC_9 : 生命中心是血液到达重要器官的地方。
+INV_DESC_NAIL5 : 万圣节的最佳武器。这些老式的指甲装饰精美，赋予它们原始的外观。
+MAIN_MENU_START_GAME : 运行 Datzak 游戏
+CHARM_DESC_24_BROKEN : 这使得船比敌人的攻击占据更多的土地。不可能没有武器。
+SHOP_DESC_HEARTPIECE_4 : 当然，左侧还有其他字段。很好！我喜欢付出更多，特别是如果我欠的更多。
+KEY_TRAM : 生活
+INV_DESC_SOULORBS_2 : 葫芦的白色部分是用来携带空气的。
+INV_DESC_SOULORBS_1 : 白船的毁灭唤醒了灵魂。
+INV_DESC_SOULORBS_0 : 白色连衣裙的灵感。建造具有三种传统的船可以拯救你。
+MAP_DESC_DEEPNEST : 带有世界地图的黑暗危险的地方 <br> <br> 当那个人带着一张新填满的地图回来时，我很震惊地看到我是多么害怕。不快乐的生物。
+SHOP_DESC_SLYEGG : 我在盒子下面找到了它。一些在尸体中捕获的动物被释放。 <br> <br> 你想去Akanena吗？痛苦不容忽视。
+INV_NAME_ART_DASH : 非常好
+KEY_DREAMPLANT : 身份
+SHOP_DESC_HEARTPIECE_3 : 它对你有帮助，不是吗？是的，甚至是BT。 <br> <br> 这是第二次了，所以价格不错。
+MAP_NAME_FUNGAL_WASTES : 蘑菇油炸食品
+SHOP_DESC_SOULORBS_3 : 赢得这些产品为他们服务。你忘记了你的梦想，我并不奇怪。
+SHOP_SELL_COMPLETE : 主条目
+CTRL_BUY : 知道
+SHOP_DESC_TRINKET1 : 这篇文章帮助我们了解我们祖先的思想和感受。它结束了，因为我不能说太多。
+MARKER_R_NAME : 玛丽卡贝壳
+CHARM_NAME_34 : 浓厚的兴趣
+INV_NAME_NAIL5 : 淘气
+CHARM_NAME_11 : 氟虫腈
+KEY_GRUB : 保持
+INV_NAME_ACIDARMOUR : 茉莉花
+ENCOUNTERED : 图片
+INV_DESC_ART_CYCLONE : 马修写了指甲。不断的攻击从四面八方杀死敌人。
+PIN_NAME_BENCH : 资本层
+INV_DESC_ART_UPPER : Gold Nail Master 的美甲设计。欺骗后立即行动。
+CHARM_DESC_23_BROKEN : 这将改善消费者的健康，并对他们造成更大的伤害。 2011 年夏季的罗杰装置。这个景点打破了沉默的内在力量。装饰是不可能的。
+COMPLETION : 当然不是
+INV_DESC_TRINKET4 : 除了历史问题外，情况很复杂。
+CHARM_DESC_33 : 这张图片显示了圣诞老人想要控制自己的精神并发展他的魔法能力。
+INV_DESC_TRINKET1 : 其余的旅游杂志早已不复存在。这些话是用一种被遗忘的难懂的语言写成的。最后一个万圣节的遗迹。这些宝藏在它们的真实历史中没有任何意义。
+INV_DESC_TRINKET2 : 英雄之巢是描绘国王和他的军队的皇家石头。 <br> <br> 颜色单元格资源。他只需要做政府工作。
+INV_DESC_TRINKET3 : 白色万圣节绘画。偶像崇拜不洁之王。无论该国的历史如何，今天的这些物品都没有价值。
+INV_NAME_TRINKET3 : 皇家形象
+OPT_MENU_RESOLUTION : 矛盾：
+SHOP_DESC_NORECOIL : 我喜欢这个简单的设计朋友！不需要！它也是由重、长、硬的材料制成的。密封钉子以阻止它。
+CHARM_NAME_6 : 年度之声
+INV_NAME_DASH : 被细菌覆盖
+CHARM_DESC_2 : 每次开卡时，车主都可以查看卡的情况并通知乘客。
+MAP_DESC_RESTING_GROUNDS : 圣路附近的车站地图。 Carnifer 告诉我她找到了一个安静祥和的地方，但她很害怕。不，谢谢。
+INV_NAME_LOVEKEY : 亲爱的建议！
+CTRL_MARKERS : 品牌
+MARKER_R_DESC : 这个品牌是新进店的。您可以使用它来引起对地图的注意。它让我想起了一场简单的斗争。
+MAP_DESC_ROYAL_GARDENS : 皇家住所靠近绿色和平组织的皇家花园。康沃尔有时称我为女王……通常是在我不高兴的时候。
+SHOP_DESC_SPRINTMASTER : 你喜欢我的收藏吗？是的，对吧？如果您不觉得自己年轻，请小心谨慎。她没有告诉我。
+PIN_DESC_BENCH : 以下字段指示地图上的位置和位置。从疲劳中放松，需要一个地方！
+INV_NAME_HEARTPIECE_2 : 突破它
+INV_NAME_HEARTPIECE_3 : 关于面具
+INV_NAME_HEARTPIECE_0 : 眼睑的一侧
+INV_NAME_HEARTPIECE_1 : 美丽的面具
+CHARM_DESC_25_BROKEN : 用手指确认增援并增加对敌人造成的伤害。 <br> <br> 这些吉祥物不起作用，火熄灭了。监控失败。
+CHARM_NAME_37 : 速度射手
+CHARM_TXT_NOTCHCOST : κακαρικωστας
+KEY_SPA : 夏天是开花的季节
+PANE_CHARMS : 煮沸
+CHARM_DESC_34 : 它们是自然延长结晶的结果。 <br> <br>
+PANE_INVENTORY : 猎人
+MAIN_MENU_OPTIONS : 而且没关系
+INV_DESC_ART_DASH : Mark Nell Shio 大师在你面前剪了一个大发型，这让其他敌人变得更糟。
+MAP_NAME_CITY : 城市的衰落
+SHOP_DESC_HEARTPIECE_2 : 我看到了一个。如果你仔细看，你会看到一张漂亮的地图。它会回来的！
+KEY_GHOST : Varri I-Bellator
+SHOP_DESC_SOULORBS_4 : 你知道，这可能很快就会解决。他们是如此美丽。
+INV_DESC_DREAMGATE : 用户可以快速改变颜色。 <br> <br> 如果您使用 DreamNail，请安装 DreamGate。 1 如果它已关闭，请将其打开并立即前往 Dreamgate。 <br> <br> 有些人梦想或不想使用卧室。
+INV_NAME_NAIL1 : 为什么是尼尔？
+INV_NAME_SPELL_QUAKE1 : 所以
+INV_NAME_SPELL_QUAKE2 : 蛋网
+MAP_NAME_FOG_CANYON : 甚至谷歌
+INV_NAME_FLOWER : 积极的诗歌
+SHOP_DESC_BLUEHEALTHSMALL : Għaliex tixrob dan l-ilma blu "demm tal-ħajja"? Limitat ftit, imma tajjeb, hux? <br> <br> 这个 法术 吸取 生命 生命 之 血 ， 祝福 丠 的!
+NOTIFICATION_CHARM_BREAK : 缺乏诚实
+OPT_MENU_TITLE : 你不会倒下的。
+INV_DESC_SPELL_FIREBALL1 : 鼓励风吹到你的敌人面前，让水流动。 <br> <br> 灵魂需要灵魂。敌人攻击以聚集灵魂。
+INV_DESC_NAIL1 : 菜，好老干叶。
+MAIN_MENU_QUIT_GAME : 离开游戏
+INV_DESC_SPELL_QUAKE1 : 他一个人倒在地上。这股力量可以摧毁敌人并摧毁脆弱的家园。你必须称自己为这种力量。与敌人战斗并收集昆虫。
+SHOP_DESC_NOTCH_1 : 需要更多的化妆品？是的！通过购买这款有趣的产品，您可以同时使用大部分工具。
+INV_DESC_SPELL_FOCUS : 观看精神修复错误并修复故障。 <br> <br> 为叛乱聚集你的灵魂。
+SHOP_DESC_NOTCH_2 : 但是你喜欢魔法吗？不允许！如果你为这个法术购买了一个词，你可以再次将它用作一个法术。
+INV_DESC_SUPERDASH : 下面是一座由水晶制成的古老水晶屋。水晶能量可以转移给现有的人以避免风险。
+CHARM_NAME_2 : 旋转罗盘
+MAP_NAME_WATERWAYS : 克伦政府
+INV_NAME_SOULORBS_NONE : 
+CHARM_DESC_19 : 对上个世纪的衰落有一点了解。
+CHARM_DESC_18 : 增加使用者爪子之间的距离，让敌人从远处攻击。
+INV_DESC_ACIDARMOUR : 种子发芽很快。煮熟后，它将胶囊保持在酸层周围。
+CHARM_DESC_15 : 它是用商店里掉落的钉子制成的。当被敌人触碰时，拧紧你的别针并握住别针。
+CHARM_DESC_14 : 当敌人掌权时，征服者并没有被抛弃。
+CHARM_DESC_17 : 生活本身是正常的。 <br> <br> <br> <br> 上帝用锤子敲击地球
+CHARM_DESC_16 : 将死影变成武器的法术是被禁止的。
+CHARM_NAME_5 : 窥探
+CHARM_DESC_10 : 万圣节之王特别关注他的英雄。这很有趣：很聪明，但效果很好。 <br> <br> 你。
+INV_DESC_SPELL_SCREAM2 : 当鬼魂和阴影喊叫时消灭你的敌人。收集怪物并击败敌人。
+CHARM_DESC_12 : 古普塔病了，到处乱跑。
+SHOP_DESC_NOTCH_4 : 想变美吗？他一定会做到的！ 2011 年夏季摇杆配件 拿着这个魔法球，你就能得到它。
+INV_NAME_TRINKET4 : 绳索也是如此
+LANGUAGE_CONFIRM : 文凭
+CTRL_SELL : 例子。
+CHARM_DESC_25_G : 蒂娜打败了她的敌人并摧毁了他们。
+SHOP_DESC_QUILL : 您必须更改地图才能移动到新位置。 <br> <br> 对于票务爱好者！
+INV_NAME_SPELL_FIREBALL1 : 复仇的意思。
+CHARM_DESC_40 : 幸存的士兵穿好衣服。当前未记录在地图上的灯光会出现。
+INV_DESC_MAPQUILL : 创建地图的难点在于您可以使用此技术将地图移动到您办公桌上或其他地方的新位置。
+CHARM_NAME_25_G : 不朽的帝国
+BANK_MAX_BALANCE : 简单方程：
+INV_DESC_MAP : 康沃尔的万圣节贺卡设计。没有羽毛就不可能戴上 2011 年的夏季帽子。

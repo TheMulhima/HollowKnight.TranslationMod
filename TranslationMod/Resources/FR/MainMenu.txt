@@ -1,0 +1,129 @@
+GAME_BACKER_NAMES : Service Clients:
+UI_MENU_ACHIEVEMENTS_XB1 : planifier
+DESC_VSYNC : Améliorez l'expérience. Évitez de vous gratter le visage.
+VIDEO_SHADERS : Emplacement:
+PROFILE_CORRUPTED : Protégez-vous du mal
+ACHIEVEMENTS_BASE_SET_TITLE : nuit de victoire de sable
+MOH_LOW : C'est génial.
+DESC_SHADERS : Voici quelques-unes des caractéristiques d'un moteur.
+DESC_BACKER_NAMES : Liste des sponsors qui ont lancé le gâteau
+SCREEN_ACHIEVEMENTS : Production
+OS_SLIDER : Ça dépend
+CTRL_REMAP : traitement des cartes
+SCREEN_SAVE_PROFILES : Choisissez un profil
+BUTTON_DASH : Rapidement
+OPEN_CONTROLLER : Offre gestionnaire
+DESC_NATIVE_ACHIEVEMENTS : Créez un message dans le jeu lorsque vous le recevez.
+BUTTON_DOWN : erof
+SCREEN_AUDIO : Betty ?
+BRIGHT_INSTRUCT : Réglez la lumière au niveau requis.
+PROFILE_CLEAR_PROMPT : Faut-il l'enlever ?
+PROFILE_CLEAR_BUTTON : une serviette sur la table
+BUTTON_MAP : fais-le vite
+NAV_YES : Bien que
+MODAL_KEEP_RES : Voulez-vous organiser une nouvelle élection ?
+LANG_PT : Portugal (Brésil).
+LANG_DE : Allemand
+MAIN_ACHIEVEMENTS : Lisa
+STEEL_MODE_TEXT : Il n'est pas vivant La mort est éternelle.
+MODAL_QUIT_TO_MENU : Tu l'as supprimé du menu ?
+MAIN_SWITCH_USER : changer d'utilisateur
+BUTTON_RIGHT : Depuis -
+AUDIO_MASTER_VOL : Rôle:
+SCREEN_GAMEPAD_REMAP : UN
+MOH_OFF : ça a marché
+PAUSE_CONTINUE : Merck Mauns
+LOADING : Ouverture...
+VIDEO_VSYNC : Ajustement vertical :
+BUTTON_LOOK : Voir ci-dessus / ci-dessous.
+BUTTON_SUPER_DASH : vous ne faites pas
+BUTTON_JUMP : andesta
+LANG_JA : æ— ¥ æœ¬іªž
+MODAL_CONNECT_CONTROLLER_PROMPT : Ajouter un administrateur pour continuer
+NAV_BACK : Pitié
+NAV_RESET : La reconstruction est un endroit sûr.
+OPTIONS_VIDEO : Visibilité
+NAV_APPLY_TRUE : Application
+SCREEN_EXTRAS : Quelque chose
+KEYBOARD_NONE : Quelque chose
+DESC_PARTICLES : Réparer un petit moteur endommagé.
+BUTTON_ATTACK : Trouvé
+DESC_NATIVE_INPUT : Le patron s'est fâché et s'est enfui. Le jeu doit être redémarré.
+BUTTON_MOVE : moule de commerce
+LANG_FR : Règles françaises
+OPTIONS_CREDITS : Gestion des emprunts
+OPTIONS_KEYBOARD : Avant que
+PROFILE_LOADING : va charger...
+MODAL_QUIT_GAME : Arrête de jouer?
+PROFILE_NEW_GAME : Le nouveau jeu
+VIDEO_PARTICLES : Produits speciaux:
+CTRL_PRESSBUTTON : Cliquez sur le bouton Nouveau
+MAIN_EXTRAS : en voici une autre
+CTRL_UNMAPPED : Voici les messages
+DESC_FRAME_CAP : Le nombre de diplômes pour poursuivre des études est limité
+VID_OPT_BORDERLESS : Il n'y a aucune restriction
+GAME_NATIVE_ACHIEVEMENTS : Expliquez ce qui est possible
+GAME_NATIVE_INPUT : Introduction à la prévention
+OPTIONS_CONTROLLER : coordinateur
+MOH_MED : Temps:
+AUDIO_MUSIC_VOL : Manje a trè bon gou
+ACHIEVEMENTS_BASE_SET_TEXT : Progrès scolaire.
+MAIN_QUIT : Terminer le jeu
+SCREEN_OPTIONS : Option :
+MODAL_PROGRESS : Les résultats sont enregistrés
+NAV_NO : non.
+CTRL_NO_ACTIVE : Les contrôles ne fonctionnent pas
+BUTTON_DREAM_NAIL : Comment est-ce possible?
+NORMAL_MODE_TEXT : Jeu régulier.
+BUTTON_LEFT : C'est Conan
+VIDEO_DISPLAY : Supplémentaire -
+PAUSE_MAIN : Quitter le menu
+PROFILE_DEFEATED : Elle a raison
+CTRL_NONE : Le pilote est hors ligne.
+TEXT_SKIP_PROMPT : Appuyez sur la touche de défilement
+BRIGHT_SLIDER : را
+SCREEN_KEYBOARD : main
+AUDIO_SOUND_VOL : J'aime ça:
+MODE_STEEL : L'âme du métal
+LANG_ZH : ç® € n½ «année–
+LANG_EN : alias:
+OPTIONS_AUDIO : ၌
+LANG_IT : ကျုတ်၊
+VIDEO_FRAME_CAP : Si c'est Rata
+LANG_ES : EspaÃ±ol
+CTRL_NO_ACTIVE_DESC : Cliquez sur le bouton Modifier pour installer et ajouter un nouvel éditeur.
+BUTTON_QCAST : Synchronisation plus rapide
+BUTTON_CAST : Se concentrer / faire
+CTRL_DETACHED : pas de cuisinier
+MODE_SELECT : Comme on l'appelle
+GAME_LANGUAGE : Anglais.
+VIDEO_OVERSCAN : Taille de l'écran
+GAME_CONTROLLER_RUMBLE : trône
+MAIN_OPTIONS : Situation
+BUTTON_UP : La première impression
+KEYBOARD_UNMAPPED : Non est finis
+MOH_ON : Lee
+UI_MENU_ACHIEVEMENTS_PS4 : L'amener sur
+DESC_LANG : Changer la langue dans le menu principal
+SCREEN_VIDEO : vidéo
+MAIN_START : Commencer le jeu.
+KEYBOARD_PRESSKEY : Cliquez sur le bouton Nouveau
+SCREEN_GAMEPAD : Les pratiques du management
+NAV_APPLY : Végétarien
+BUTTON_INVENTORY : Nom:
+LANG_KO : í•œêµ­ì–´
+VIDEO_BRIGHTNESS : La lumière de la lumière
+MODAL_ENGAGE_CONTROLLER : Appuyez sur n'importe quelle touche pour commencer.
+MOH_NORMAL : Des détails
+PAUSE_OPTIONS : cohérent
+VIDEO_FULLSCREEN : mokulélé mokulélé
+VIDEO_RESOLUTION : chou:
+OPTIONS_GAME : École primaire
+BUTTON_EMPTY : -
+EXTRAS_CREDITS : ai
+SCREEN_GAME : Exercice en pratique
+MOH_HIGH : derrière
+MODE_NORMAL : Gestion classique
+OS_INSTRUCT : Appuyez sur le curseur tactile sur le côté de l'écran.
+NAV_DONE : Une vie
+BUTTON_PAUSE : tyrans.

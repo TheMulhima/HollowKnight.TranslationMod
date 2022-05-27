@@ -1,0 +1,49 @@
+DREAM_CITY : Corazón de Halloween... llora mucho.
+QUIRREL_GREENPATH_1 : ¡Sello! Ambos están en camino.<page>¡No sé cómo este viejo camino de tierra creó tantos árboles y lugares llenos de gente!Claro, el monumento ha sido olvidado por mucho tiempo, pero el edificio ofrece un lugar de culto. Dos breves descansos son buenos.
+QUIRREL_QUEENSTATION_02 : ¿Se te ocurre algo especial? Un grupo de insectos va al estado. Las campanas y los silbatos están llenos de eventos y vida en la estación.<page>La gente como nosotros no sabe quién es.Creo que esta suposición es incorrecta, pero su análisis es extraño.
+QUIRREL_GREENPATH_3 : Las uñas pueden verse bonitas pero crujientes.pienso Pero aquí cree que se enfrentará a una catástrofe en el mundo superior.
+DREAM_EGGTEMPLE : ¿Cómo estás... normal. Había comido antes, pero se había dado por vencido.Estas formas y puertas... mis sueños se queman cuando los miro directamente.
+QUIRREL_TEACHER_2 : No te preocupes. La elección del desarrollo es mi misión y no la mía.Él sabe lo que estás haciendo y parece fácil.
+DREAM_QUEENSTATION : Fue una gran fiesta frente a los Santos Ancestros. ¿Cómo te motivas?
+QUIRREL_TEMPLE_2 : Inútil
+QUIRREL_TEMPLE_3 : No aceptes esto como una regla.
+QUIRREL_TEMPLE_1 : No he estado aquí. Muchas historias de terror. No pude resistir. Solo tengo que estar seguro.<page>¿Cuánto quieres participar? Este es un chamán del mundo de los muertos.Aparece la bestia y hace temblar la tierra. El clima es caliente. no se que paso
+QUIRREL_MANTIS_01 : ¡Otra vez por primera vez! Ya has visto a las familias de esta ciudad, ¿no? En resumen, son algo extraño para los extraños.<page>Esto no es difícil, pero no lo es. Una enfermedad escondida en la risa de pequeños animales en el aire... Conservan la tradición de matar humanos y protegen su mente y dignidad.<page>Un consejo, queridos, si quieren honrar a esta familia, las uñas lentas no son suficientes.Cerca de la ciudad, la antigua capital de Halloween. Escuché un clavo vivo allí. Mire los errores del pasado y puede encontrar que son fáciles de corregir.
+QUIRREL_TEMPLE_5 : ¿Estás fuera de la ciudad? El lugar está oscuro. ¡Y este post es un orgullo!Así que creo que todo está aquí. ¿Quién está frenando esta oportunidad?
+QUIRREL_TEACHER_1A : Tenía que llamarte, nunca pensé que eso sucedería.<page>Aunque muchos recuerdos se han ido, todavía recuerdo.En estas lecciones, el maestro trata de preservar el conocimiento de su país.
+DREAM_SLUGSHRINE : Piscina de ensueño... ¿cuándo estás en la piscina?¿Por qué estás vivo?
+QUIRREL_GREENPATH_2 : Tengo curiosidad ahí. Parece estar al otro lado del lago.Todavía quiero agradecerte, pero creo que debería intentarlo porque nuestra reunión va mal.
+DREAM_SPA : Tienes que encontrar las alas del nido. El secreto del secreto es destruirme.
+DREAM_ARCHIVE_ENTRANCE : ... ¿Quién te trajo aquí?
+QUIRREL_MEET_TEMPLE : Como si fuera un placer conocer a otros huéspedes en este viaje inolvidable.Has caído, pero te sientes fuerte.
+QUIRREL_SPA : Bongu! Para una maravillosa paz en el reino animal.Este es un momento estresante. Las profundidades de la ciudad son naturalmente normales. El Rey de Halloween nunca ha sido bien recibido por el público.
+QUIRREL_QUEENSTATION_01 : ¿No es esto algo? No espere encontrar una gran base de ciervos en la nieve.<page>Los insectos de Halloween son geniales y estas maderas todavía tienen hermosos diseños.Parece que no vienen animales peligrosos. Gran lugar para relajarse.
+QUIRREL_NODREAMNAIL : Sí, pero él siempre te extraña. Al final, la defensa aguantó.<page>Si quieres deshacerte de él, tienes que encontrar una manera de deshacerte de él. Un poco posible, pero en el camino no vi nada.He oído que el reino vive en el sueño y la muerte. ¿Puede encontrarlos?
+QUIRREL_GREENPATH_REPEAT : Halloween es genial para científicos como nosotros. Fantástico y maravilloso. Vive o muere aquí. muerto o muerto
+QUIRREL_TEACHER_1C : Simplemente exigió un cambio en la seguridad. Ellos pueden ayudarlos a todos.
+QUIRREL_TEACHER_1B : El príncipe no solo corre a celebrar Halloween, sino que tiene una sombra más grande.No recuerdo mi lugar, pero yo era tan fuerte.
+QUIRREL_RUINS_4 : ¿Por qué no te relajas? Me gustan las gotas.
+QUIRREL_TEMPLE_6 : muy bien ...
+QUIRREL_RUINS_1 : Las respuestas a muchas grandes preguntas de nuestros amigos son confusas.<page>Cuando lo vio, supo que era hermoso y decidió bajar.¿Estás asustado o enojado?
+QUIRREL_RUINS_2 : Parece que el pueblo construyó una gran cueva donde caía la lluvia y las piedras.<page>Debe haber mucha agua en cualquier lugar. Creo que nos decepcionó porque el techo de la cueva todavía era largo.Antes de irme, quiero ver adónde va el agua. ¡buena idea!
+QUIRREL_RUINS_3 : Si miras la lluvia desde allí, parece una campana curva unida a una gran cápsula redonda.Mi amigo estaba un poco asustado. No fue educado. El país tiene enemigos increíbles.
+QUIRREL_FOGCANYON_B : Tengo que hablar... ¿Puedo hablar?
+QUIRREL_FOGCANYON_A : ¿No es extraño este mundo? Piscina integrada<page>Parece invisible... ¿Entiendes? Siempre te digo por qué, pero duele.<page>Vino aquí con la esperanza de encontrarme, pero ahora todo ha cambiado.La casa me llamó.
+QUIRREL_TEMPLE_4 : Las uñas viejas no son suficientes para dañar. ¡Aunque no es un problema! Mira alrededor<page>Tú y yo tenemos muchos problemas.Espero que no estés escuchando a tus amigos. Enfriar a los muertos no debería ser una carga.
+QUIRREL_MINES_4 : se ve un poco...
+QUIRREL_MANTIS_REPEAT : Mi viaje me trajo a esta ciudad. Cualquiera que busque esmalte de uñas lo encontrará rápidamente.
+QUIRREL_MINES_1 : Hermosa, hermosa foto, ¿verdad?<page>No es de extrañar que vivas en estas enormes cuevas.Este es tu deseo. Creo que te asustarás si no te quedas mucho tiempo.
+QUIRREL_MINES_2 : ¿Estás decepcionado de que el próximo minero todavía esté trabajando duro?<page>A pesar del éxito, un poderoso secreto se está extendiendo por la piel.<page>Se dice que la fuerza de la ola de cristal no es tan fuerte como los vientos que usan los habitantes de la ciudad.... Debemos aprender la extraña verdad del pasado. Me pregunto de dónde viene mi conocimiento.
+QUIRREL_MINES_3 : De esta altura huiré a la oscuridad de la ciudad.Es natural que una persona entienda las partes del mundo que le rodea.
+DREAM_ARCHIVE_INTERIOR : Imagina que te convertiste en un conde impulsado por fuerzas kármicas.
+QUIRREL_TEACHER_3 : Cuando la vida de una mujer es corta, la moral se pierde.<page>Es difícil intentarlo, pero veo una oportunidad de acercarme a él, y él pensó que tú también podrías hacerlo.Sebo, si. Cuando se retiró, yo crecí.
+QUIRREL_MEET_TEMPLE_C : Un gran asiento de piedra en el cuerpo del antiguo reino. ¿La cama está caliente? Esto definitivamente creará una atmósfera única.<page>¿Debería abrirlo? Hay señales importantes en todas partes ...Amo los sueños y se cual es nuestro verdadero milagro...
+QUIRREL_MEET_TEMPLE_B : Estimado. pluma. No se lo que quiero.Por ejemplo, hay muchos misterios interesantes en este antiguo reino que están abiertos para nosotros.
+DREAM_MANTIS_VILLAGE : ¿Quién dijo jugar? No recuerdo, pero el volumen me viene a la mente...
+QUIRREL_EPILOGUE_B : ... No es bueno ...
+DREAM_LAKE : Vive hasta el final de tu vida, espera un minuto... ¿quizás pueda agradecértelo?Todo te dejará. Milagros...
+DREAM_MINES : ... el viento le voló la cabeza contra la roca.
+QUIRREL_SPA_REPEAT : ¿Por qué debería quedarme un rato? Esta agua es buena para los pies cansados.
+QUIRREL_TEACHER_HESITATE : ¿Por qué eres tan perezoso? Pero somos como tú. Sea un amigo intrépido.
+QUIRREL_QUEENSTATION_REPEAT : ¿Puedes cancelar la llamada?
+QUIRREL_EPILOGUE_A : Bueno, mi pequeño amigo. En la última parada.<page>He visitado el mundo dos veces y aunque era mi primera visita, estaba feliz de estar de vuelta en su belleza.<page>Halloween es realmente delicioso, pero tiene cosas buenas y nunca he sido tan feliz con nadie.<page>estoy de acuerdo. Solo una recepción tranquila podría restaurar mi aprecio. me encanta.Realmente me gustó.

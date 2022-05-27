@@ -1,0 +1,129 @@
+GAME_BACKER_NAMES : Debt Consolidation:
+UI_MENU_ACHIEVEMENTS_XB1 : good luck
+DESC_VSYNC : Try. Disable screen movement.
+VIDEO_SHADERS : Abel in the fog
+PROFILE_CORRUPTED : Prevent air pollution
+ACHIEVEMENTS_BASE_SET_TITLE : Knights' Hall
+MOH_LOW : Lubricated
+DESC_SHADERS : Production of low-precision motors is unlikely to improve.
+DESC_BACKER_NAMES : Graduates have their own impressive gifts to start the cake.
+SCREEN_ACHIEVEMENTS : Incorporated
+OS_SLIDER : balance
+CTRL_REMAP : control
+SCREEN_SAVE_PROFILES : Select profile.
+BUTTON_DASH : Duke
+OPEN_CONTROLLER : Control force
+DESC_NATIVE_ACHIEVEMENTS : It displays the information when you won the game.
+BUTTON_DOWN : Alight
+SCREEN_AUDIO : Boundaries
+BRIGHT_INSTRUCT : Adjust the lighting to the required level.
+PROFILE_CLEAR_PROMPT : Delete account?
+PROFILE_CLEAR_BUTTON : Storage cover
+BUTTON_MAP : Carrie Volox
+NAV_YES : I obey
+MODAL_KEEP_RES : Do you want to make new decisions?
+LANG_PT : Lusitania (Brazil)
+LANG_DE : German
+MAIN_ACHIEVEMENTS : over time
+STEEL_MODE_TEXT : without construction. eternal death
+MODAL_QUIT_TO_MENU : I saw the reason
+MAIN_SWITCH_USER : User transfer
+BUTTON_RIGHT : Section A "C"
+AUDIO_MASTER_VOL : Most of them are:
+SCREEN_GAMEPAD_REMAP : Improvements in implementation
+MOH_OFF : go out
+PAUSE_CONTINUE : According to the statistical table
+LOADING : But more than that ...
+VIDEO_VSYNC : Direct Link:
+BUTTON_LOOK : Scroll down / down
+BUTTON_SUPER_DASH : Netherlands
+BUTTON_JUMP : hope
+LANG_JA : —
+MODAL_CONNECT_CONTROLLER_PROMPT : To continue, tighten the glasses
+NAV_BACK : reason
+NAV_RESET : Enable default settings
+OPTIONS_VIDEO : video
+NAV_APPLY_TRUE : Emotion:
+SCREEN_EXTRAS : change
+KEYBOARD_NONE : hand down
+DESC_PARTICLES : Reduction to reduce engine power
+BUTTON_ATTACK : attack
+DESC_NATIVE_INPUT : Notice if the facilitators have questions. You want to play the game again.
+BUTTON_MOVE : Write:
+LANG_FR : French
+OPTIONS_CREDITS : Palace
+OPTIONS_KEYBOARD : keyboard
+PROFILE_LOADING : Manassu... close the button
+MODAL_QUIT_GAME : hunting
+PROFILE_NEW_GAME : show again
+VIDEO_PARTICLES : Commercial products:
+CTRL_PRESSBUTTON : Click the New button.
+MAIN_EXTRAS : Alt
+CTRL_UNMAPPED : No map
+DESC_FRAME_CAP : Limit your frame rate for consistent experience.
+VID_OPT_BORDERLESS : There are no restrictions
+GAME_NATIVE_ACHIEVEMENTS : View results:
+GAME_NATIVE_INPUT : It is hidden from the original drive.
+OPTIONS_CONTROLLER : Driver
+MOH_MED : Dane
+AUDIO_MUSIC_VOL : Music volume:
+ACHIEVEMENTS_BASE_SET_TEXT : Good luck on the Holocaust.
+MAIN_QUIT : main game
+SCREEN_OPTIONS : As
+MODAL_PROGRESS : Our development is sustainable.
+NAV_NO : NAC ECO
+CTRL_NO_ACTIVE : No lead was found
+BUTTON_DREAM_NAIL : Nothing.
+NORMAL_MODE_TEXT : Normal game mode.
+BUTTON_LEFT : to change
+VIDEO_DISPLAY : I will follow you
+PAUSE_MAIN : come with me
+PROFILE_DEFEATED : Event:
+CTRL_NONE : No control unit
+TEXT_SKIP_PROMPT : Press any key to jump.
+BRIGHT_SLIDER : Spiritual
+SCREEN_KEYBOARD : Keyboard
+AUDIO_SOUND_VOL : Requires:
+MODE_STEEL : the spirit of iron
+LANG_ZH : cr Enco-
+LANG_EN : Bee
+OPTIONS_AUDIO : Thief
+LANG_IT : small
+VIDEO_FRAME_CAP : Fixed number:
+LANG_ES : EspaÃ±ol
+CTRL_NO_ACTIVE_DESC : Click to activate a new contract or connection
+BUTTON_QCAST : Go to bed early
+BUTTON_CAST : Hide / share:
+CTRL_DETACHED : The driver was not found.
+MODE_SELECT : choose a job
+GAME_LANGUAGE : Works:
+VIDEO_OVERSCAN : Screen size
+GAME_CONTROLLER_RUMBLE : Air traffic control tower
+MAIN_OPTIONS : Agab
+BUTTON_UP : There is nothing
+KEYBOARD_UNMAPPED : no card
+MOH_ON : First
+UI_MENU_ACHIEVEMENTS_PS4 : older brother
+DESC_LANG : Change the language in the main menu
+SCREEN_VIDEO : video
+MAIN_START : The game begins.
+KEYBOARD_PRESSKEY : Click the New button.
+SCREEN_GAMEPAD : Governor:
+NAV_APPLY : watch
+BUTTON_INVENTORY : Gifts
+LANG_KO : í•œêµì—´
+VIDEO_BRIGHTNESS : park
+MODAL_ENGAGE_CONTROLLER : Press any key to start.
+MOH_NORMAL : Easy
+PAUSE_OPTIONS : No need
+VIDEO_FULLSCREEN : Fullscreen:
+VIDEO_RESOLUTION : Category:
+OPTIONS_GAME : Hra
+BUTTON_EMPTY : -
+EXTRAS_CREDITS : AI
+SCREEN_GAME : Game settings
+MOH_HIGH : Do'con
+MODE_NORMAL : The past
+OS_INSTRUCT : Move the slider until the frame touches the edge of the screen.
+NAV_DONE : Aahe moonkhe
+BUTTON_PAUSE : Exit menyu

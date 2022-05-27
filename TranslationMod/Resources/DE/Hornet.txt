@@ -1,0 +1,18 @@
+HORNET_ABYSS_REPEAT : Ich fordere Sie auf, hart zu arbeiten. Aber was auch immer das Ergebnis ist, Sie haben es.
+HORNET_PRE_FINAL_BATTLE_REPEAT : Sie haben die Macht, die heiligsten Entscheidungen zu treffen. Wird er meine Mutter ersetzen?
+HORNET_FINAL_BOSS : Wenn wahr! Wählen Sie und der Standort wird länger sein.Es ist an der Zeit, die Welt zu verwirren oder sich dem Wandel zu stellen.
+HORNET_PRE_FINAL_BATTLE : Die Straße ist frei. Ja, etwas wartete auf mich.<page>Ich bin nicht an Orten geschaffen, um deine Lieben zu treffen. Wenn ich meinen Job mache, wird er mich stehlen.Wenn es soweit ist, werden wir unser Bestes geben. Aber Ihre Bemühungen werden Ihr Leben nicht ruinieren. Aber nicht überraschend
+HORNET_PRE_FINAL_BATTLE_DREAM : Können Sie das Unmögliche erreichen? Seine Worte sind wahr
+HORNET_GREENPATH : ha Ijo, golek.<page>Ich sehe dich, ich springe in meinem Kopf, ich überschreite die Grenze der Sünde.<page>Altes Land ... kein schlechter Schutz. Ich höre den Wind ...Ich weiß, was du denkst, ich weiß, was du tust. Ich kann es nicht akzeptieren
+HORNET_SPIDER_TOWN_REPEAT : Geist, gib es mir. Sie werden eine Weile bleiben, solange Sie in diesem Gebäude in Ihrer ewigen Kirche sind.
+HORNET_OUTSKIRTS_1 : Ja, suchst du die tiefe Wahrheit? Das ist nichts, was ein schwacher Mensch tun kann.
+HORNET_DOOR_UNOPENED : Ich liebe Insekten, der Einfluss dieser Welt ist zu spüren. Aber er ist hartnäckigDie Zerstörung Ihrer Träume kann als unmögliche Aufgabe angesehen werden. Aber Nutzlosigkeit zu akzeptieren, macht dich nicht anders.
+HORNET_SPIDER_TOWN_DREAM : ...Mama...sorry, nein...aber vielleicht eines Tages...
+HORNET_INSPECT_IK : Das Wrack drehte sich langsam und starb.
+HORNET_OUTSKIRTS_2 : Zeigen Sie, dass Sie bereit sind zu kämpfen. Ich werde nicht zurückkehren. Schüsse zu geben bringt dich um. Ich betrauere den Tod der Armen.Sag mir, dass du die Vergangenheit dieses Königreichs akzeptieren und Verantwortung für seine Zukunft übernehmen kannst.
+HORNET_FOUNTAIN_1 : Lass uns Männer treffen.<page>Curabitur Ipsum Sapien. Obwohl ich die Wahrheit sage, glaube ich, dass er ein treuer Mann ist.<page>Ich sah den anderen Teil dieses Königreichs. Ihre Opposition ist gespalten.Denken Sie nicht, dass Ihre Arbeit das Herz der Welt berührt. Dann wissen Sie, wer das Opfer ist.
+HORNET_FOUNTAIN_2 : Wenn Sie das wissen, aber eine Fortsetzung von Halloween spielen möchten, sehen Sie sich „Ash Cemetery“ und einen Brief an, den Sie jemandem wie Ihnen geben können.
+HORNET_ABYSS_DREAM : ... rückwärts ... zu traurig? ..
+HORNET_ABYSS_ASCENT_01 : Träume werden wahr. Ich weiß, dass du mutig bist. Es gibt gute Nachrichten in deinem Herzen.<page>Wir sind auf einem Auge stark, aber wir teilen es mit niemandem.<page>Danke, dass du mir Hoffnung gegeben hast. Ich sehe eine Veränderung in meiner Denkweise.Es wird eine schwierige Reise für Sie sein, aber Sie können eine Wahl treffen. Lebe länger auf deinem Planeten oder stoppe Herzkrankheiten.
+HORNET_SPIDER_TOWN_01 : Du hast den Teufel getötet ... du hast dieses wichtige Ziel erreicht.<page>Ich lachte nicht, aber der Gedanke tat mir nur weh.<page>...? Was? Sie finden das vielleicht schwierig, aber ich ignoriere es nicht.<page>Wir wählen nicht unsere eigene Sicherheit oder die unserer Nation. Danke für das Leben, das du mir gegeben hast, auch wenn es ein schwieriges Leben war.Das ist die richtige Religion. Sobald ich mich zurückziehe und die nächste Wahl für ihn treffe, kann ich anfangen, ihm einen Preis zu geben.
+HORNET_OUTSKIRTS_DEFEAT : Ich bin stark ...<page>Sie können dies tun, wenn Sie möchten.<page>Aber kannst du dieses traurige Gefühl hören und deine Nägel heben? Kenne ich dich ...Tu dies, Heiliger Geist! pack es weiter. Notieren Sie Ihre Verluste und Regeln.

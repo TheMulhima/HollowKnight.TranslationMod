@@ -1,0 +1,28 @@
+NAILSMITH_MEET_1 : Posso farti fare le unghie? Sdraiati sul pavimento e torna alla posizione di partenza se stai ancora respirando.
+NAILSMITH_DECLINE : Quello che vuoi
+ART_DREAM : ...il vecchio lavora da solo...questo è il migliore...
+MODELLING : Stiamo passando la notte migliore che abbia mai visto ai miei tempi. Ma Shala ricorda tutto molto bene.Non come un cattivo lavoro con le unghie fresche. Mi piace ogni dettaglio
+NAILSMITH_OFFER : Posso cambiare la forma delle tue unghie se vuoi! La pelle muore.
+NAILSMITH_COMPLETE_3 : Siamo qui. La costruzione è fatta.<page>Ho stretto le unghie. Questo è un compito molto difficile. Saprai che è più forte che mai.Disponibile ora. Ibasa.
+NAILSMITH_GREET : Casa? È tornato.
+NAILSMITH_COMPLETE_1 : coperto<page>Ho pulito la punta delle mie unghie. Scoprirai che diventa più forte.Dimostra la tua forza al nemico.
+PAINTED_REPEAT : Penso che tu abbia un senso di animazione nell'oscurità di Halloween.
+NAILSMITH_COMPLETE_4 : Questo potrebbe cambiare<page>Le tue unghie sono più forti che mai! dovrebbe essere forte<page>Questa energia è solo in te e poi vedo la gloria delle unghie bianche.<page>spero di tornarci presto...si arrampica...
+NAILSMITH_COMPLETE_2 : Va a Completare la riparazione.<page>L'ho aggiunto al tuo canale di posta elettronica. Deve essere tagliato bene. Vuoi sapere che è più forte di te.Vai lì e prova il tuo nemico con una spada.
+NAILSMITH_REGREET : OK? Come stai?
+NAILSMITH_ACCEPT : Ti aspetto in ufficio.
+NAILSMITH_KILL_REPEAT : Non farmi ridere, mi piace l'odore del tuo viso.
+ART_MEET : Hmm, l'accettazione sta cambiando il mondo.<page>Fortunatamente, non mi sono suicidato quando ho chiesto. All'inizio sono rimasto deluso, ma non ho avuto molto tempo per pensare, ho visto subito la saggezza dei suoi consigli.<page>La terra è fatta di ferro e acciaio. Ho subito iniziato a fare ricerche e trovare un modo per arrivare qui.Shave ha talento e si impegna a insegnarmi il più possibile. mi sento comodo
+NAILSMITH_SIGN : non disponibile; Ha fallito
+MODELLING_REPEAT : Molto buona. Non avrei mai pensato che le mie unghie potessero fornire queste informazioni.
+NAILSMITH_NEED_ORE1 : Se mi porti un po' di luce di metallo, posso inchiodarmela alle unghie.
+NAILSMITH_NEED_ORE3 : Ti taglierò e proteggerò le tue unghie quando avrai tre fori.
+NAILSMITH_NEED_ORE2 : Indossa viti robuste per fissare le unghie.
+NAILSMITH_KILL : Ho passato la mia vita con le unghie pulite. Il mio unico pensiero è vedere e credere che la sterlina sia reale!<page>Per favore, fermati per l'ultima volta nella mia vita, ho fame di verdure deliziose.Dopotutto, non sono degno?
+NAILSMITH_NOT_ENOUGH_GEO : Oh, hai la geografia. Per favore, vieni a vedere.
+NAILSMITH_MEET_3 : Sapphire Smith ha seguito? Sì, ce n'è uno. Non sono il ragazzo con cui parlare, ma mi sbaglio se colpisce sempre nel segno.Non riesco a vedere bene le mie unghie. Ovviamente no. Ma tutto può essere lavato con fatica e abilità e un coltello.
+NAILSMITH_OFFER_ORE : Vedo che hai una gemma preziosa... hai una gemma preziosa qui. Mi dà minerali e una struttura che ripristina le unghie e le rafforza.
+PAINTED : Non posso parlare ora perché ho paura. Troppa azione fa davvero male all'arte, non mi piace la rabbia.Nonostante il suo aspetto pericoloso, è una persona molto emotiva.
+NAILSMITH_DREAM_CLIFF : La vita è finita, cosa resta?
+NAILSMITH_MEET_2 : Hmmm?Oh voglio dire.
+NAILSMITH_DREAM_INTERIOR : ...fare spuntini originali

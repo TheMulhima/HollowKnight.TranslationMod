@@ -1,0 +1,49 @@
+DREAM_CITY : Le cœur du Joker... une beauté douloureuse.
+QUIRREL_GREENPATH_1 : Malheureusement, nous semblions rester coincés sur la route.<page>Je ne pense pas que les vieilles routes poussiéreuses mènent à des endroits aussi bondés.Il y a un service dans le bâtiment, mais l'icône a été oubliée. Il se penche pour se reposer un peu.
+QUIRREL_QUEENSTATION_02 : Avez-vous déjà pensé à cela? Ils tuent de nombreux insectes seuls. J'ai été enlevé d'un site plein de vie pratique.<page>Désormais, seuls nos partenaires le savent.Je pense qu'il y a quelque chose de spécial dans ces remplacements et ces destructions.
+QUIRREL_GREENPATH_3 : Les ongles peuvent être comme un bon outil, mais ils peuvent aussi montrer des signes d'usure.Je sais ce que vous lancez, mais je pense que ça va bientôt être hors de vue.
+DREAM_EGGTEMPLE : Son goût était très populaire... Il se leva, mais refusa.Avec la photo sur la porte... quand je l'ai vu vivant, mon cœur a raté un battement.
+QUIRREL_TEACHER_2 : N'ai pas peur. L'option de campagne est bonne pour vous. je ne suis pasIl sait et accepte ce que vous faites.
+DREAM_QUEENSTATION : Hart a adoré l'empereur pour Halloween. Quelles croyances peuvent vous influencer ?
+QUIRREL_TEMPLE_2 : ejila
+QUIRREL_TEMPLE_3 : Non utilisé
+QUIRREL_TEMPLE_1 : J'aime cet endroit depuis longtemps. De nombreux mythes sont pleins de questions et de préoccupations. Je ne peux pas voir par nous-mêmes.<page>Je l'ai récupéré à mon arrivée. Ce monde inanimé a disparu.Les animaux criaient et le sol tremblait. Je voulais savoir ce qui s'était passé.
+QUIRREL_MANTIS_01 : Bonjour, connaissez-vous déjà cette ville ? Vous avez rarement ... sans doute que des inconnus se réunissent.<page>Ils ne sont pas verts. Les maladies du cerveau des petits animaux affectent l'air ... ils s'intéressent non seulement à la culture matérielle mais aussi à la connaissance et à la popularité.<page>Ou mon ami Si tu veux surmonter les défis de cette tribu, tes ongles seront plus forts.Un thème oriental pour Halloween dans la ville. C'est parce que des Noirs y vivent. Vous comprendrez les anciennes erreurs et trouverez une solution facile.
+QUIRREL_TEMPLE_5 : Avez-vous déjà été dans cette ville? C'est un endroit sombre. La vertu se tenait derrière lui.Je pense que c'est bien ici. Qu'y avait-il derrière ce qui s'est passé ?
+QUIRREL_TEACHER_1A : Nous savons que je te connais.<page>ᲑDésolé. Je me souviens encore de cet endroit.Dans cette pièce, le maître essaie de maintenir la connaissance du royaume et de le protéger de ses pieds.
+DREAM_SLUGSHRINE : Piscine... si vous dormez...Qu'est-ce qui m'inquiète à ce sujet ?
+QUIRREL_GREENPATH_2 : J'ai un bon ami. Cela ressemble à du sel.Au début, je pensais que je rêvais, mais je voulais quand même dire au revoir.
+DREAM_SPA : La maison devrait être divisée par deux. Regarde si mes mots sont cachés.
+DREAM_ARCHIVE_ENTRANCE : ... qui m'a amené ici?
+QUIRREL_MEET_TEMPLE : Bonjour, je suis heureux de rencontrer d'autres passagers sur cet itinéraire mémorable.Tu es jeune, mais tu as l'air fort.
+QUIRREL_SPA : Gros pain ! C'est un vrai plaisir de vivre au zoo.C'est en effet un lieu de violence. Warren, bien sûr, est un endroit profond. Les riverains ne sont pas d'accord sur ce projet.
+QUIRREL_QUEENSTATION_01 : Du niveau du néant. Je n'aurais jamais pensé voir une telle route après un blizzard.<page>Les célèbres arbres qui composent la forêt sont si beaux.Apparemment, les mauvais animaux ne sont jamais réapparus. Les vacances sont parfaites.
+QUIRREL_NODREAMNAIL : Oh! Mais ton cœur est toujours fermé. Le dernier garde prit place.<page>Pour déchiffrer le nom, ouvrez d'abord la tasse. Vous pouvez utiliser ces outils pour obtenir les résultats souhaités, même si vous ne les gênez pas.J'ai entendu dire que le royaume de Dieu sauve les vivants et les morts. peux-tu le trouver?
+QUIRREL_GREENPATH_REPEAT : Haloest le meilleur pour les voyageurs intelligents comme nous. Très heureux et satisfait. Vous vivrez ici ou vous mourrez.
+QUIRREL_TEACHER_1C : Contactez-moi pour supprimer cette sécurité. Rien n'aidera
+QUIRREL_TEACHER_1B : Le professeur Halonest est passionné par le fait de sauver des vies, mais il est plus déterminé à prendre soin de lui.Je suis resté silencieux, même si je ne savais pas ce qui s'était passé.
+QUIRREL_RUINS_4 : N'est-ce pas un bon endroit pour se détendre ? J'aime le bruit de la pluie sur les photos.
+QUIRREL_TEMPLE_6 : Disons juste...
+QUIRREL_RUINS_1 : Notre centre coûte cher. C'est un lieu de ténèbres où de nombreux mystères sont résolus.<page>Quand il avait besoin d'un train, je me suis assis devant lui et je l'ai dépassé.Est-ce que je me sens mal dans ma peau ou est-ce que quelqu'un me fait du mal ?
+QUIRREL_RUINS_2 : La ville semble avoir été construite dans une grande grotte d'eau au sommet d'une montagne.<page>Où il devrait y avoir assez d'eau. Le toit de la grotte semble être continu.Avant de quitter le pays, j'ai réfléchi à la provenance de l'eau. Ça doit être cette photo !
+QUIRREL_RUINS_3 : Un examen plus attentif de la pluie révèle que les missiles sont toujours à bord.Je déteste mon copain. Rappelez-vous leurs actions. La ville présente de nombreux grands ennemis.
+QUIRREL_FOGCANYON_B : Avons-nous besoin de prendre soin de nos gants ?
+QUIRREL_FOGCANYON_A : N'est-ce pas merveilleux ? La maison est dans une source acide.<page>Je n'arrêtais pas de demander, je ne peux pas dire, mais j'ai dit ... tu sais quoi? Je ne peux pas dire qu'il se passe quelque chose dans ma tête.<page>Je pense que c'est ma génération qui m'a libéré de ça, mais maintenant c'est complètement différent.Cette maison m'intéresse.
+QUIRREL_TEMPLE_4 : Il ne suffit pas qu'un adulte endure ces conditions difficiles. Mais ça ne fait rien! Vous regardez autour de vous<page>Beaucoup de gens nous ont déjà quittés et beaucoup d'entre nous sont plus préparés aux conséquences.J'espère que mes camarades de classe ne lâcheront pas leurs armes. C'est beau. Ces choses ne devraient pas être données aux morts.
+QUIRREL_MINES_4 : seulement parfois...
+QUIRREL_MANTIS_REPEAT : J'ai été chaleureusement accueilli dans la belle ville. Si vous cherchez des fleurs en métal, vous êtes dans le futur.
+QUIRREL_MINES_1 : charmant.<page>Pas étonnant que vous soyez tombé sur ce rocher rocheux.Il y a un vent fort qui souffle. Quand vous serez jeune, vous serez très nerveux.
+QUIRREL_MINES_2 : Êtes-vous triste de voir que certains des prochains agriculteurs réalisent toujours leurs projets ?<page>C'est une cible puissante et efficace pour votre peau.<page>Les minéraux cristallins seraient plus forts mais pas aussi dangereux que l'énergie utilisée par la population urbaine.... cette vieille chose est étrange à connaître. Vous voulez savoir d'où viennent mes connaissances ?
+QUIRREL_MINES_3 : A travers cette grande partie j'ai vu la lumière de cette ville difficile.Je doute que son peuple sache à quel point le monde est grand autour de vous.
+DREAM_ARCHIVE_INTERIOR : Je pense que ces petits animaux vont mourir de cette maladie.
+QUIRREL_TEACHER_3 : La femme est morte et le sceau a été brisé.<page>Je ferai de mon mieux, mais quand je vois sa force, je pense que tu l'as.Puis j'ai démissionné. Je vieillis après le travail.
+QUIRREL_MEET_TEMPLE_C : Une grosse pierre a été placée sur le corps de l'ancien roi. Cet oeuf est-il chaud ? Cela ne vous fait certainement pas vous sentir spécial.<page>Je peux marcher Les tags sont partout...J'aime vraiment le secret de qui nous connaît?
+QUIRREL_MEET_TEMPLE_B : Je suis Quirell. amour inconnuUne très bonne décision dans l'ancien pays, c'était une tête mignonne.
+DREAM_MANTIS_VILLAGE : ... Qui m'a parlé de la clé ? Je ne sais pas, mais je vois un styliste...
+QUIRREL_EPILOGUE_B : پوملو ...
+DREAM_LAKE : M'a fait gagner un an, mais un peu d'expérience... est-ce que j'apprécierais ?Toutes les menaces sont supprimées. Le seul miracle que j'ai...
+DREAM_MINES : ... le vent souffle tout seul. Le rocher dans le coin supérieur gauche est bien.
+QUIRREL_SPA_REPEAT : Vous ne m'avez pas suivi ? Cette eau est idéale pour les pieds fatigués.
+QUIRREL_TEACHER_HESITATE : Pourquoi pensez-vous que l'amour n'est pas bon, mais êtes-vous et elle prêts pour cela? Soyez un ami courageux.
+QUIRREL_QUEENSTATION_REPEAT : Ressemble à un cri, entendez-vous la culpabilité?
+QUIRREL_EPILOGUE_A : Rencontrons un petit ami. Je me sens mieux à la fin ici.<page>Je vois ce monde deux fois et j'ai l'impression de pouvoir réaliser sa beauté, mais me servir peut ruiner ma première expérience.<page>Halloween est beau et beau, mais il y a tellement de choses étranges que personne ne peut le voir.<page>Heureusement, j'étais le seul à être silencieux. Aimez-vous?préparer.

@@ -1,0 +1,52 @@
+GODSEEKER_WASTE : crítico
+GODS_GLORY : casa de Dios
+BLUE_LAKE : Agua verde
+MONOMON_ARCHIVE : perfil universitario
+LURIENS_TOWER : Chapitel de estera Sebohi
+LOVE_TOWER : rasgó <be> mar
+KINGS_PASS : G. Passa
+GLADE : Circuncisione
+BONE_FOREST : Santuario
+KINGS_STATION : Crutón Merkezi
+CLIFFS : es una roca triste
+CRYSTAL_MOUND : Cábala.
+ABYSS : tanque para la venta
+CROSSROADS : Con solo manta
+TRAM_LOWER : Sal del tren
+DISTANT_VILLAGE : Todavía una ciudad incompleta
+HIVE : UL
+TEST_AREA : error de prueba
+TOWN : Rafael Fiyi
+WASTES : el humo estaba delicioso
+CITY : la ciudad esta triste
+ROYAL_QUARTER : clases reales
+NOEYES_TEMPLE : templo de piedra
+PALACE_GROUNDS : Prajasabha
+RUINED_TRAMWAY : Masaya si Tram
+ISMAS_GROVE : El asma aumenta
+QUEENS_STATION : estación de la reina
+ACID_LAKE : sí o no
+MANTIS_VILLAGE : η-ponserpina
+SOUL_SOCIETY : espíritu Santo
+COLOSSEUM : Sobre el Coliseo
+WHITE_PALACE : Niumba o Bangbarang
+WATERWAYS : Sistema de agua real
+ROYAL_GARDENS : El jardín del rey
+BEASTS_DEN : nos deja
+PEAK : El número de cadenas es importante.
+SHAMAN_TEMPLE : por avot
+DEEPNEST : mayoria
+TRAM_UPPER : Ascensor de triunfo
+MAGE_TOWER : Apoyo conductual
+MINES : borde del espejo
+DREAM_WORLD : dormir
+FINAL_BOSS : fruta negra
+GREEN_PATH : Línea verde
+OVERGROWN_MOUND : FA
+OUTSKIRTS : Kohu.
+JONI_GRAVE : Esa semana
+ABYSS_DEEP : Pompeya
+RESTING_GROUNDS : Placer
+WYRMSKIN : varilla
+FOG_CANYON : Hay niebla en el valle.
+NONE : 

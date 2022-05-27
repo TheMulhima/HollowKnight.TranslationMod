@@ -1,0 +1,387 @@
+SHOP : Agasi
+PIN_NAME_TRAM : ago macinato
+CHARM_NAME_40 : cattivo ragazzo
+MAP_NAME_OUTSKIRTS : il bordo del campo
+INV_DESC_SOULORBS_NONE : 
+KEY_SHOP : Negozio
+INV_DESC_LOVEKEY : È coperto di quadrati ed è un simbolo di amore.
+CTRL_ZOOM_OUT : Mattina
+CHARM_DESC_24_G : Perché avevi detto che avresti sconfitto questo nemico e catturato Jane. Questa bellezza non andrà perduta.
+PIN_DESC_STAG : Queste tendenze prolungheranno il tuo destino. <br> <br> Questo sarà un buon posto perché incroceranno i cervi.
+CHARM_NAME_24_G : Sabbia illimitata
+NOTIFICATION_FLOWER_BREAK : il fiore è sparito
+INV_NAME_SUPERDASH : È un cristallo colorato.
+INV_DESC_WHITEKEY : SERA DECORTA AKS NITIDIS MATLIS - Sfumature morbide di lucentezza scura per Halloween.
+INV_NAME_ART_CYCLONE : Formazione della tempesta
+MAP_NAME_ROYAL_GARDENS : Xardín Chaofa Ngum
+OPT_MENU_BACK_BUTTON : Ora è tornato
+INV_DESC_FLOWER : Bella Chori Yuna Lee Moratuwa - Cello Bi Giant U Giant KuBaşE (video musicale ufficiale)
+INV_NAME_SOULORBS_ALL : Nave spirituale
+INV_NAME_NAIL2 : Per favore mi mostri
+CHARM_DESC_23_G : Questo può migliorare la salute di una persona e portare a situazioni pericolose. Questo specialista non si romperà.
+CHARM_NAME_40_N : Questa è un'affermazione vergognosa
+INV_NAME_SPELL_SCREAM2 : Un altro
+CHARM_NAME_23_G : Un cuore che non si può spezzare
+CHARM_DESC_4 : struttura di tolleranza. In caso di smarrimento, il conducente non soffrirà più. <br> <br> Forze per prevenire i disastri naturali.
+ASCEND : Martedì
+INV_DESC_DREAMNAIL_A : Ciò consente all'utente di colmare il divario tra sonno e veglia. Può essere utilizzato per mostrare sogni nascosti o aperti. Heartbreak <br> La mancanza di sonno può accompagnare tutte le tue abitudini, desideri e sogni.
+INV_NAME_NAIL3 : Gestione della cavità ungueale
+MAP_NAME_RESTING_GROUNDS : Pieno:
+INV_DESC_SPELL_QUAKE2 : Entra nelle ombre dell'universo con l'energia immagazzinata e carica di energia. Questa forza può distruggere il nemico o distruggere edifici deboli. Abbiamo bisogno di rafforzare la nostra anima. Sconfiggi il nemico per raccogliere anime.
+CHARM_NAME_1 : Organizzazione
+SHOP_DESC_GLASS_GEO : È unico e bellissimo! Vuoi saperne di più sulle mappe? Prendiamo un mago e andiamo a pescare!
+CHARM_DESC_1 : La funzione restituisce un membro e ottiene un punto di riferimento vuoto.
+MARKER_W_NAME : segnale di luce
+CHARM_NAME_25_BRK : debole
+CHARM_DESC_36_C : Non c'è limite allo spazio nascosto all'interno. Raccogli le cose più importanti per il proprietario <br> <br> Magic Questa è una parte essenziale del kit.
+CHARM_DESC_36_B : Perché rappresenta l'unità di Dio, e alla fine il suo portatore avrà una vita meravigliosa. <br> <br> Terreno aperto.
+CHARM_DESC_36_A : Aggiunta parte della lista. Non interagire con gli adulti.
+INV_NAME_WALLJUMP : fao fao
+CHARM_DESC_BROKEN : La magia è finita, la tua energia interiore è nascosta. Non puoi portare una pistola.
+INV_DESC_ORE : Il ghiaccio è un metallo raro e trasparente. Il costo dei produttori di armi.
+INV_DESC_SPELL_SCREAM1 : Distruggi il nemico con le lacrime. <br> <br> I malati hanno bisogno di un miracolo dello Spirito. Incontra i nemici e raccogli i fantasmi.
+OPT_MENU_MUSIC_VOL : Volume della musica:
+CHARM_NAME_12 : Fine dell'estate
+INV_DESC_FLOWER_BROKEN_QG : Il palazzo reale è ora in rovina e vuoto.
+INV_NAME_RANCIDEGG : Risultati infruttuosi
+INV_NAME_STOREKEY : pulsante di vendita
+INV_NAME_TRAM_PASS : Fulmine
+CHARM_EQUIP_REMIND : Alto
+CTRL_SHOW_PINS_KEY : Mostra mano/pulsante
+MAP_DESC_FOG_CANYON : Il frutto Deep Foggy combina le linee verdi con i funghi rimanenti. Il tempo rende difficile per il carnevale trovare la sua strada. Sì, è molto complicato.
+MARKER_B_DESC : Questa nuova copia è stata aggiunta all'archivio. In questo modo puoi trovare luoghi interessanti sulla mappa! <br> <br> È un colore pacifico?
+UI_BLANK : 
+CHARM_DESC_6 : Esprime la rabbia e il coraggio dei morti. Con l'avvicinarsi della morte, il potere del profeta aumenterà.
+PANE_MAP : Caldo
+TRAVEL : passeggeri
+MAP_NAME_CLIFFS : È fatto di pietra.
+MAP_NAME_ABYSS : Una valle alle spalle
+SHOP_SALUBRA_BLESSING_NE : Questo è qualcosa di speciale per me, che amo i glitter. Sono felice di vendere 40 piccole cose. Cosa sai fare
+MAP_UPDATED : Mappa aggiornata
+MAP_DESC_CLIFFS : Mappa di pietra davanti a Dortmund. Cornelius mi disse che non potevo sentirlo perché il vento era molto forte. Chi ha chiesto ... perché parli da solo?
+SHOP_DESC_SOULORBS_1 : Lato aereo Conoscete questa cosa bellissima? Non mi piace il suo aspetto, ma ha una grande personalità.
+MAP_DESC_MINES : Mappa di Crystal Peak - Guida fantastica e pulita per Dartmouth. L'uomo ha comprato il bambino in un bicchiere da una mappa vicina. Perché è così ovvio?
+INV_NAME_HEARTPIECE_NONE : 
+MARKER_Y_DESC : Questi tag sono stati aggiunti di recente alla memoria. Puoi usarli per scoprire quali sono i vantaggi della tua carta. <br/>
+CHARM_ALERT_NONE : Non ci sono trucchi. <br> <br> Per realizzare un braccialetto, rilassati a letto և apri la lista CHARM.
+CHARM_NAME_23_BRK : Cuore del dente
+INV_DESC_HEARTPIECE_ALL : La copertura completa protegge non solo il bel vestito, ma anche il vero cavallo.
+CTRL_EXIT : o qualcos'altro
+CTRL_UNEQUIP : Niente armi.
+INV_DESC_NAIL2 : L'arma più sacra è tornata alla sua forma assassina.
+KEY_COCOON : La guida
+MARKER_Y_NAME : Toho Tso
+CHARM_ALERT_NONE_BENCH : Fare clic sul pulsante in basso per attivare il filtro e vedere i risultati.
+INV_NAME_MAPQUILL : Carte e barbe
+INV_DESC_HEARTPIECE_NONE : 
+INV_DESC_DREAMNAIL_B : Ciò consente al leader di superare la barriera tra il sonno e la veglia. Può essere utilizzato per svelare sogni segreti o in luoghi pubblici. <br /> La piena potenza di una cimice ti risveglierà con alcuni ricordi lasciati nella tua vita.
+SHOP_DESC_NOTCH_4_NE : Questo è un tema speciale per gli amanti dei dolci come me. <br> <br> Se hai 25 monumenti, sarei felice di venderli. <br> <br> Richiesto.
+CHARM_DESC_40_N : Il segno ci ricorda l'inizio dell'amicizia.
+SHOP_DESC_HEARTPIECE_1 : È una vecchia storia? Questa è una parte importante. Ma puoi usare qualsiasi cosa.
+SHOP_DESC_LONGNAIL : Il tuo vestito è fantastico! Ma a volte pensi che ci voglia molto tempo... vero? Ehi, portalo alla casa magica. Poi venne il nemico...
+MAP_NAME_DIRTMOUTH : Bevanda peggiore
+INV_NAME_WHITEKEY : Non così
+CHARM_DESC_40_F : Le foto classiche sono pronte. C'è una luce rossa brillante.
+INV_NAME_ORE : chiamata
+CHARM_DESC_39 : Il gruppo magico torna nella loro vecchia casa per Halloween. Allevatori <br> Solo balene considerate un buon pesce. Sano e salvo
+CHARM_DESC_38 : La Defense Band è una band di tutti i tempi. Dio chiamò l'armatura e cercò di proteggerla.
+SHOP_DESC_WHITEKEY : Gli scienziati hanno scoperto questo magnifico deficit che scorre sotto di noi sott'acqua in città. Non sei ancora pronto.
+CHARM_DESC_35 : Ciò include ringraziarlo per aver predetto gli ultimi giorni della sua vita. Dopo aver aggiornato l'arma a energia pulita, il perno rimuoverà la luce bianca.
+CTRL_HIDE_PINS : Rimuovere l'ago
+CHARM_DESC_37 : Come un libro speciale chiamato Spin Master.
+CHARM_DESC_31 : Ideale per chi ama andare più veloce dei fantastici "Dash Masters".
+CHARM_DESC_30 : Per coloro che cercano una ricompensa per asciugarsi le unghie, questa è una tentazione temporanea.
+CHARM_TXT_OVERCHARMED : Proteggere
+CHARM_DESC_32 : È nato con la chiave sbagliata buttata fuori. Dovrebbero anche essere indossate unghie più lunghe, consentendo agli utenti di tagliare più velocemente.
+SHOP_DESC_ENEMYRECOILUP : Vuoi distruggere il nemico con le tue unghie? Con questa splendida cornice, puoi volare di nuovo dopo ogni scatto.
+MAP_DESC_GREENPATH : Mappa dei pascoli verdi dell'Olocausto. L'acqua bollente è pericolosa qui.
+CHARM_DESC_11 : Un amuleto vivente nasce nell'intestino di Flucarmorm.
+MAP_DESC_WATERWAYS : La capitale è piena di canali, tubi e lacrime. Quando l'ago è volato a terra, era bagnato e bruciato, ma fai attenzione.
+SHOP_DESC_GLASS_ATTACK_BRK : Ora il suo cuore è spezzato e addormentato. Questo è così triste! Aggiungi Geo per risolverlo.
+SHOP_DESC_NOTCH_3 : Anche tu vuoi essere attraente, vero? Problema! <br> <br> Acquista questa fantastica chat e usa la tua magia all'istante.
+CTRL_HIDE_KEY : chiave nascosta
+CHARM_TXT_EQUIPPED : Amen
+INV_NAME_JOURNAL : Caccia al diario
+SHOP_DESC_TRINKET3 : The Magic King è una galleria dedicata agli dei e ai governanti. Vendiamo prodotti realizzati con materiali bianchi speciali. buon prezzo
+NAME_HUNTERMARK : Logo di caccia
+INV_NAME_DREAMCORE : Molto buona
+LISTEN : patai
+KEY_STAG : Stazione delle renne
+SHOP_DESC_GEOGATHERER : Riesci a vedere il numero di parte nel foro? <br> <br> Questi cambiamenti di bellezza non ti daranno mai fastidio.
+INV_DESC_FLOWER_BROKEN : <br> <br> 它们已被銷毀，不再用作心理材料. .
+PIN_DESC_TRAM : Questo treno è come un nuovo treno. Deve prendersi cura di questi bambini adulti.
+SHOP_DESC_NOTCH_1_NE : Questo è un ottimo prodotto per chi ama i gioielli costosi. Se hai cinque gemme, sarò felice di venderle. Questo è quello di cui hai bisogno.
+INV_NAME_SPELL_SCREAM1 : pianta
+INV_DESC_HEARTPIECE_2 : Proteggi il vecchio dei tuoi occhi dai danni. Elenca due articoli per proteggere il tuo portafoglio e prevenire danni.
+INV_DESC_HEARTPIECE_3 : Usa una vecchia faccia per proteggerti dalle ferite.
+INV_DESC_HEARTPIECE_0 : I vecchi occhi erano usati per prevenire il dolore. Riunisciti con un massimo di quattro persone per aumentare la tua sicurezza e proteggerti dalle lesioni.
+INV_DESC_HEARTPIECE_1 : Una vecchia maschera tipole protegge il corpo dalle lesioni <br> <br>
+CHARM_NAME_39 : Oh Lin
+INV_NAME_DREAMNAIL_A : Distretto drammatico
+INV_DESC_FLOWER_QG : I giardini fioriti sono aggressivi e possono essere danneggiati se i cervi fanno male o contaminano.
+INV_DESC_NAIL3 : Le foglie dei pazzi costumi di Halloween sono davvero equilibrate.
+CHARM_NAME_9 : Nella vita
+PIN_DESC_SPA : Ho fatto questa vaccinazione per ringraziare il governo. Sono sicuro che stai usando questo ago meglio che mai.
+CTRL_CANCEL : Disponibile:
+CTRL_CONFIRM : Sicuro
+CTRL_EQUIP : Preparazione
+CHARM_DESC_7 : Lente a gravità in cristallo. Più mi concentro sul mio cervello, meglio è. Vivi veloce per vestirti.
+INV_DESC_CITYKEY : Il logo Big Halloest ha bordi che possono essere inseriti nei fori.
+INV_DESC_NAIL4 : Lo strumento di Halloween più potente.
+INV_DESC_QUILL : Usato per prenotare un viaggio. <br/> <br/> Ogni programma ha bisogno di una mappa.
+INV_DESC_SIMPLEKEY : I prodotti di design tradizionali possono essere utilizzati per sbloccare chiavi personalizzate.
+CHARM_DESC_3 : Si prega di lasciare uno spazio vuoto. <br> <br> Quando la tua anima viene meno, prendila
+SHOP_DESC_GLASS_HP : Questa è una cosa molto costosa. Ti farò grandi funzionalità! Faresti meglio a notare. Rock Band Tools Estate 2011 se hai paura. Amerai questa celebrazione!
+INV_DESC_WALLJUMP : Formano unghie e ossa. Si appoggiò al muro e saltò.
+CHARM_NAME_38 : letto bianco
+INV_DESC_KINGSBRAND : Vide il regno come un re e la Gloria gli si aprì.
+CHARM_NAME_31 : Dieci muratori
+CHARM_NAME_30 : sogni personali
+INV_NAME_TRINKET2 : Io sono l'Halonista d'Oro
+MAP_DESC_OUTSKIRTS : Confini del mondo, luoghi, mappe stradali. Mia moglie... vai sono in città.
+CHARM_NAME_36_C : Il mio cuore è vuoto
+CHARM_NAME_36_B : Civile
+CHARM_NAME_36_A : Sito di Pars
+INV_NAME_SOULORBS_2 : La nave si è schiantata
+INV_NAME_SOULORBS_1 : parte della nave
+INV_NAME_SOULORBS_0 : annuncio del seguito
+CHARM_DESC_5 : Visualizza supporti SOUL Hard Shell <br> <br> I dati non verranno eliminati e verranno eliminati se sono gravemente danneggiati.
+INV_NAME_LANTERN : bulbo lombare
+PIN_NAME_SHOP : L'acquirente beve
+INV_NAME_NAIL4 : rimuovere i perni
+SHOP_DESC_STALWARTSHELL : Le persone che sono sopravvissute ad Halloween avranno un battito cardiaco costante e apprezzamento. Questa maschera ti darà più tempo per guarire dalla ferita. Questo è utile se vuoi sbarazzarti della diarrea.
+CHARM_NAME_24_BRK : Dor Sue (proprietario unico)
+CHARM_NAME_4 : Se stabile
+PIN_NAME_SPA : Tira i capelli al caldo
+SHOP_NAME_SALUBRA : Il mio desiderio
+INV_DESC_GEO : I fondi e le valute possono essere cambiati in diversi modi.
+PIN_NAME_STAG : Capelli di cervo
+PIN_NAME_COCOON : Ago vescicale
+SHOP_DESC_GLASS_ATTACK : È così debole che voglio mangiare. In questo modo vi darò la bellezza della mia creazione. Entro l'estate del 2011, le strutture sanitarie dei Rockers aumenteranno. I tuoi nemici e gli altri ti stanno minacciando...
+INV_NAME_SPELL_FOCUS : Forti
+SHOP_DESC_GLASS_HP_BRK : Ora se n'era andato, e così era il suo potere. Quindi tuffati nell'epistemologia deprimente e separala.
+MARKER_W_DESC : Questo è un nuovo negozio in cui puoi collaborare per creare luoghi attraenti sulla mappa! <br> <br> Ha questo strumento di pittura, quindi lo dà. ,
+OPT_MENU_APPLY_BUTTON : lambo
+INV_NAME_NOTCH : Baciami
+MAP_NAME_GREENPATH : strada verde
+INV_DESC_DOUBLEJUMP : Le ali della creatura brillano nell'oscurità. Per coloro che prosperano.
+INV_NAME_KINGSBRAND : Re dei conti
+INV_DESC_STOREKEY : Il mercante crea una chiave di bronzo con un'immagine.
+INV_DESC_RANCIDEGG : Il grasso è incorporato nelle uova di animali non identificati. Ha un forte odore. <br> <br> Il cibo non è consentito.
+CHARMS_REMAINING : R. Continua a scrivere.
+OPT_MENU_SOUND_VOL : A tuo vantaggio.
+PIN_DESC_GHOST : Corniver mi ha detto di aver visto delle tombe interessanti, profonde. <br /> Queste colonne verticali possono essere utilizzate per visualizzare grafici interessanti sulla mappa. lo sappiamo tutti
+PIN_DESC_DREAMPLANT : L'uomo cornuto parlò con una strana voce che vide sotto i suoi piedi.
+INV_DESC_SHADOWDASH : Le corde sono fatte di materiali abissali. Ciò consente all'utente di conoscere il nemico e attaccare senza rompersi.
+INV_NAME_GEO : Trasferimento:
+SHOP_DESC_SIMPLEKEY : chiave semplice. Funziona con tutti i tipi di pulsanti ed è adatto per l'uso quando si desidera ascoltare o meno.
+SHOP_DESC_LANTERN : Cosa è più importante? Una luce che guiderà te o il tuo amico? Summer Rockers 2011. Cosa accadrà a noi? Rendi questo saggio tuo amico. Poi ti troverà nell'oscurità.
+CHARM_NAME_8 : Salute del cuore e del sangue
+CHARM_DESC_8 : La vita consiste nel salvare il sangue prezioso della vita.
+CHARM_DESC_13 : Manty fa doni gratuiti a coloro che lo apprezzano.
+MAP_NAME_DEEPNEST : Profondo
+INV_DESC_LANTERN : Lumafly ha progettato la luce in vetro. Illumina il lato oscuro per aiutare i viaggiatori a trovare la loro strada.
+INV_NAME_DOUBLEJUMP : Lo scudo del re
+CHARM_NAME_33 : Linguaggio vorticoso
+CHARM_NAME_3 : Garpsson
+SHOP_SELL_CONFIRM : Perché acquistare questo prodotto?
+MAP_DESC_ABYSS : Questa mappa è la tomba più grande del mondo.
+CHARM_TXT_NOTCHES : پستان
+FLAME_COLLECTED : L'incendio è scoppiato
+INV_NAME_SPELL_FIREBALL2 : Il vento sta soffiando.
+CHARM_NAME_29 : Kate Goering
+CHARM_NAME_28 : Tradizionale
+SHOP_DESC_NOTCH_3_NE : Particolarmente adatto a chi ama i loghi. <br> <br> Quando compi 18 anni, ami vendere.
+INV_NAME_DREAMGATE : Anche le porte
+PIN_NAME_GHOST : Sepoltura militare
+CHARM_NAME_21 : Cibo spirituale
+CHARM_NAME_20 : È una buona cosa.
+CHARM_NAME_23 : cappello pazzo
+CHARM_NAME_22 : Linea sciarpa
+CHARM_NAME_25 : Potenza debole
+CHARM_NAME_24 : L'avidità è rotta
+CHARM_NAME_27 : Buon compleanno Gianni
+CHARM_NAME_26 : io
+INV_NAME_SHADOWDASH : re degli eroi
+PANE_JOURNAL : McCasney
+SHOP_DESC_WAYWARDCOMPASS : Buona idea Se hai problemi a monitorare i seguenti rischi, provaci. <br> <br> Mostra il tuo indirizzo sulla mappa. Grande aiuto per trovare il tuo tesoro in un luogo sconosciuto!
+BANK_DEPOSIT_AMT : canto gastaches
+MAP_NAME_MINES : angolo della coppa
+BANK_DEPOSIT : Errore:
+SHOP_DESC_SPELLDMGUP : Perché sei triste? No. No! Sorridi <br> <br> Impara la magia e compra te stesso. Penso che la magia sia più forte.
+CHARM_NAME_32 : Pulsante rapido
+SHOP_PURCHASE_COMPLETE : è in vendita
+SHOP_DESC_NOTCH_2_NE : Questo è particolarmente vero per le persone più grandi di me. Se hai 10 bellezze, mi piacerebbe vendertele. Così
+INV_DESC_TRAM_PASS : I coupon del treno sono collegati alla sezione Helonest. Queste licenze possono essere costose e tutti gli acquisti richiedono una licenza reale.
+MAP_NAME_CROSSROADS : Spettacolo di capelli a rampa
+INV_NAME_SIMPLEKEY : semplici consigli
+MAP_DESC_FUNGAL_WASTES : Mappa di Mushroom City, un'area in rovina sotto un'area d'attesa dimenticata. Mio marito mi ha mandato un fungo. Parapara!
+COMPLETED : Completare
+PIN_NAME_DREAMPLANT : Sotto il sussurro
+INV_NAME_DREAMNAIL_B : Molti
+MARKER_B_NAME : Massi
+SHOP_DESC_GLASS_GEO_BRK : Ora il suo corpo è debole e sta dormendo. molto triste Dammi una vita sana.
+CHARM_TXT_COST : è stato
+INV_DESC_DASH : La corda è fatta di filo. Ciò consente al supporto di saltare a terra o in aria.
+MAP_DESC_CITY : Mappa della capitale delle lacrime di Halloween. Le città sono davvero a corto di acqua? Magnifico...
+INV_DESC_SOULORBS_ALL : L'immagine è eccellente, con energia eolica extra.
+SHOP_DESC_SOULORBS_2 : Altri stanno scavando qui. Sono miei e se non hai accesso a me, sono già venuto da loro.
+CTRL_MARKER_REMOVE : Manipolazione del grano
+CTRL_MARKER_PLACE : Posizione:
+CTRL_MARKER_CHANGE : cambia il codice
+SHOP_DESC_TRINKET2 : Questo anello era un simbolo ufficiale di re e soldati ed era molto apprezzato per la sua stabilità. King <br> Il re e il leone sono lontani da tempo, ma le ali sono importanti. Mostro la condizione delle onde.
+INV_NAME_QUILL : Purtroppo
+MAP_DESC_CROSSROADS : Un sottoinsieme di un partner dimenticato. Un giorno Carnifer mi catturò. È solo un sostituto, ma è comunque divertente.
+BANK_WITHDRAW_AMT : Quanto costa?
+SHOP_PURCHASE_CONFIRM : Hai acquistato questo prodotto.
+INV_NAME_TRINKET1 : Elenco dei driver:
+INV_NAME_CITYKEY : Tribunale della città
+SHOP_DESC_QUICKFOCUS : Gli occhiali sono belli dentro, giusto? Incredibilmente! Ho sentito che gli occhiali ti aiutano a concentrarti. Quindi, se ti piace qualcosa, porta a casa questa bellezza!
+SHOP_DESC_TRINKET4 : Sì! Può sembrare cieco, ma in realtà è un mito di Halloween! <br> <br> Ti do un bastoncino. Si prega di vendere!
+COMPLETION_RATE_UNLOCKED : La percentuale completa apparirà nell'elenco.
+BANK_YOURBALANCE : La tua situazione
+CHARM_NAME_19 : Normale
+CHARM_NAME_18 : Unghie lunghe
+CHARM_TXT_COLLECTION : Rahul Gandhi
+CHARM_NAME_35 : Vermi di patate crude
+INV_NAME_ART_UPPER : linea Brevis
+KEY_BLACKEGG : Tempio de l'ou negre
+INV_DESC_SPELL_FIREBALL2 : Trova un'ombra volante di fronte a te e trascina i nemici lungo la strada. <br> <br> Ecco cosa sta cercando di fare il freddo sole. I nemici vincenti raccolgono fantasmi.
+CHARM_NAME_10 : protezione del tetto
+CHARM_NAME_13 : È un simbolo di orgoglio
+CTRL_ZOOM_IN : Nervi
+CHARM_NAME_15 : Zwieback-Eis
+CHARM_NAME_14 : Angelo
+CHARM_NAME_17 : Conflitto
+CHARM_NAME_16 : Tonalità brillante
+KEY_BENCH : Casa
+CTRL_TRAVEL : Comprato
+INV_NAME_MAP : non puoi
+CHARM_NAME_7 : non tanto
+KEY_DREAMER : سنجر
+SHOP_SALUBRA_BLESSING : Ho una preghiera speciale per te. Pezza!
+INV_NAME_HEARTPIECE_ALL : Coperchio
+CHARM_DESC_29 : Un po' di nettare nel latte caldo <br> Indipendentemente dalla sensazione, i consumatori possono seccare le ferite.
+CHARM_DESC_28 : Trova le dimensioni del treno. <br> <br> La nave degli spiriti è in buone condizioni e può muoversi liberamente per evitare i nemici.
+BANK_EXIT : Pezzi
+CHARM_DESC_25 : Aumenta la forza e aumenta il danno delle armi nemiche. <br> <br> 這張照片對用戶來說非常漂亮且內容豐富。
+CHARM_DESC_24 : <br> <br> Altri in cerca di altri per distruggere il nemico <br> Era impotente e morì senza soldi.
+CHARM_DESC_27 : Giovanni Verde Verde.
+CHARM_DESC_26 : Master Nail Art migliora l'espressione di emozione, immaginazione e appagamento del maestro, permettendogli di concentrarsi rapidamente sui suoi punti di forza e rendere rapidamente l'arte.
+CHARM_DESC_21 : Dimentica le parole sciamaniche. In questo modo vengono attratti gli spiriti degli esseri viventi. <br> <br> L'attacco di un grande nemico aumenta il numero di SPIRITI ricevuti.
+CHARM_DESC_20 : Gli sciamani sono usati per portare le anime in giro per il mondo; <br> <br>
+CHARM_DESC_23 : Fai del tuo meglio per mantenere in salute il tuo caregiver.
+CHARM_DESC_22 : Nasce la fede <br> <br> I figli non si sacrificano per i genitori.
+BANK_WITHDRAW : tagliare
+PIN_DESC_SHOP : Utilizza questo PIN per registrare documenti e altri errori che si verificano lungo il percorso. Devono amarlo.
+INV_NAME_FLOWER_BROKEN : Polizia
+PIN_DESC_COCOON : Hai visto il bellissimo albero di cocco? Questo clic è progettato per i visitatori. Le tagliatelle al cocco sono deliziose, ma sono anche molto gustose. Stai attento con loro.
+CHARM_DESC_9 : È il centro della vita dove scorre il sangue prezioso della vita. Il resto della squadra rocker acquisterà gomma nell'estate del 2011 per prevenire gravi lesioni.
+INV_DESC_NAIL5 : Le armi sono le più sacre. Questi chiodi antichi sono ben fatti a mano e mostrano la loro unicità.
+MAIN_MENU_START_GAME : Inizia il gioco:
+CHARM_DESC_24_BROKEN : Quando il nemico ha vinto, il vettore ha detto che avrebbero arrestato Jiu. Rockers ha iniziato l'estate 2011 con gli accessori per il pugilato, ma la sua forza è costante. Non è possibile.
+SHOP_DESC_HEARTPIECE_4 : Le vie della tecnologia moderna sembrano avere un limite. Questa è l'ultima canzone! br Quindi è necessario pagare più soldi per ogni gruppo.
+KEY_TRAM : Prendi il tram
+INV_DESC_SOULORBS_2 : Il film potrebbe essere bianco. Chiedi a qualcuno di fare l'intera scatola per dare un'esperienza diversa.
+INV_DESC_SOULORBS_1 : La tazza bianca è parte integrante dell'anima. Raccogli altre due anime e riempi il bicchiere.
+INV_DESC_SOULORBS_0 : White Box - una scatola di legno per il trasporto di aeroplani.
+MAP_DESC_DEEPNEST : Mappa profonda del mondo, luoghi oscuri e pericolosi. Quando mio marito è tornato al giornale, era sconvolto e io l'ho spaventato! In Giordania
+SHOP_DESC_SLYEGG : Incontro sotto il tavolo. Quindi metti gli animali nella spazzatura. Non è stato possibile rimuovere l'odore.
+INV_NAME_ART_DASH : Grandi capannoni.
+KEY_DREAMPLANT : Elite
+SHOP_DESC_HEARTPIECE_3 : Lo raccogli tu, vero? Per fortuna la cucina è un'altra. Il prezzo è lo stesso perché diverso.
+MAP_NAME_FUNGAL_WASTES : infezione fungina
+SHOP_DESC_SOULORBS_3 : viola. Il lato della barca è ancora visibile. Nessun sonno da dimenticare.
+SHOP_SELL_COMPLETE : Attività mostrate in esposizione:
+CTRL_BUY : Amen
+SHOP_DESC_TRINKET1 : Questa rivista riflette i cuori e le menti di coloro che ci hanno preceduto. .
+MARKER_R_NAME : Simbolo della conchiglia
+CHARM_NAME_34 : Posizione generale
+INV_NAME_NAIL5 : Lavarsi le mani
+CHARM_NAME_11 : Valde Bona
+KEY_GRUB : Lo sai meglio
+INV_NAME_ACIDARMOUR : Le lacrime mi salivano alle orecchie mentre ascoltavo.
+ENCOUNTERED : Incontro
+INV_DESC_ART_CYCLONE : Nail Master Tecniche di nail art in argilla. Ripeti gli attacchi attaccando rapidamente il nemico da tutte le direzioni.
+PIN_NAME_BENCH : India
+INV_DESC_ART_UPPER : Marika Nail Magister Vapore per la tensione delle unghie in metam vectans
+CHARM_DESC_23_BROKEN : Con questo una persona può migliorare la sua salute. La gravità è rotta, l'energia interna è calma. Nessuna risorsa disponibile.
+COMPLETION : Opzione immagine:
+INV_DESC_TRINKET4 : Il segreto di Halloween <br> <br> Abito tradizionale. Questo articolo non è disponibile qui. Tranne il primo
+CHARM_DESC_33 : Dimostra il desiderio del tempio degli spiriti di sviluppare la capacità di controllare gli spiriti e la magia <br>
+INV_DESC_TRINKET1 : Il diario di viaggio è scomparso da tempo. Le parole scritte in volgare sono molto complesse. Questo articolo tratta dell'arte storica reale.
+INV_DESC_TRINKET2 : Il sigillo ufficiale del tempio imperiale è un simbolo del potere e della nobiltà del re. Ora è inutile se non ti lasciano raccontare una storia.
+INV_DESC_TRINKET3 : La prima immagine raffigura il Re di Halloween. Questi idoli sono adorati da potenti re. Questi luoghi sono attualmente i luoghi più economici e storici del paese.
+INV_NAME_TRINKET3 : immagini del re
+OPT_MENU_RESOLUTION : Nel senso che:
+SHOP_DESC_NORECOIL : Adoro questo stile bambino leggero. Molto buona! Realizzato con materiali morbidi belli e resistenti. <br> <br> Puoi allacciare le unghie quando ti pieghi in avanti.
+CHARM_NAME_6 : L'ira dei morti
+INV_NAME_DASH : Ops!
+CHARM_DESC_2 : Una volta aperta la mappa, la posizione viene attivata e i visitatori verranno informati della loro posizione attuale.
+MAP_DESC_RESTING_GROUNDS : La zona della morte della mappa sacra alla fine dell'incrocio di Kornipuu mi ha detto che qui era tranquillo. Ma sono un po' nervoso, grazie mille.
+INV_NAME_LOVEKEY : di
+CTRL_MARKERS : ID
+MARKER_R_DESC : Questo libretto è stato creato di recente nel negozio. Puoi usarlo per identificare luoghi interessanti sulla mappa! <br> <br> Ricorda la terribile battaglia che ebbe luogo sotto questi colori.
+MAP_DESC_ROYAL_GARDENS : Mappa del Giardino Reale accanto alla piazza verde. A volte Kornever mi chiama regina... spesso mi arrabbio.
+SHOP_DESC_SPRINTMASTER : Questa sembra essere la mia ultima aggiunta alla scrittura. Mah, giusto? <br /> Smettila, non ti stancherai di correre veloce! Oppure fammi sapere.
+PIN_DESC_BENCH : Queste immagini mostrano alcuni luoghi e pause sulla mappa. Se vuoi dormire bene, approfittane!
+INV_NAME_HEARTPIECE_2 : Oza Muskista
+INV_NAME_HEARTPIECE_3 : maschera di un pezzo
+INV_NAME_HEARTPIECE_0 : zona della maschera
+INV_NAME_HEARTPIECE_1 : Ho un massaggio.
+CHARM_DESC_25_BROKEN : Questo rende l'auto più potente e con maggiori probabilità di provocare il cancro. <br> <br> Nessun servizio
+CHARM_NAME_37 : lez dikin
+CHARM_TXT_NOTCHCOST : Il costo del tartaro
+KEY_SPA : Nel momento:
+PANE_CHARMS : interesse:
+CHARM_DESC_34 : Sì, sono sempre di vetro. Raccoglie gli spiriti dal mondo che li circonda. <br /> L'altoparlante cambia idea lentamente, ma il suono raddoppia.
+PANE_INVENTORY : ਲਗਰਦੇ
+MAIN_MENU_OPTIONS : Corpo
+INV_DESC_ART_DASH : Nail Show Nail. Lancia il rapper prima di prendere in giro il nemico.
+MAP_NAME_CITY : Il corpo di Ray
+SHOP_DESC_HEARTPIECE_2 : <br> <br> 我懷疑我上次沒有充電，就剩下麆.
+KEY_GHOST : tomba del bellatore
+SHOP_DESC_SOULORBS_4 : Sai che posso giudicare velocemente. È stato davvero buono. Quindi voglio chiedere di nuovo ...
+INV_DESC_DREAMGATE : Ciò consente all'utente di muoversi più rapidamente durante il sonno. Attendi mentre usi Dream Nail per installare Dreamgate. Usa Dream Nail per istruzioni facili e realistiche quando visiti Dreamgate.
+INV_NAME_NAIL1 : Vecchi chiodi
+INV_NAME_SPELL_QUAKE1 : soffri di depressione
+INV_NAME_SPELL_QUAKE2 : L'oscurità lo attende
+MAP_NAME_FOG_CANYON : A
+INV_NAME_FLOWER : fiore
+SHOP_DESC_BLUEHEALTHSMALL : Hai bevuto Sangue Verde? Difficile, ma ti dà tranquillità, vero?
+NOTIFICATION_CHARM_BREAK : Bellissima
+OPT_MENU_TITLE : borsa a sacco
+INV_DESC_SPELL_FIREBALL1 : Separa la tua anima dai tuoi nemici. Sconfiggi il nemico per raccogliere aria.
+INV_DESC_NAIL1 : Magia tradizionale. Le foglie scompaiono con l'età.
+MAIN_MENU_QUIT_GAME : Ferma il gioco
+INV_DESC_SPELL_QUAKE1 : Sono caduto nel potere spirituale. Questa forza può distruggere nemici ed edifici vulnerabili. <br> <br> Questa forza deve lavorare con le emozioni. Sconfiggi i tuoi nemici e raccogli la tua anima.
+SHOP_DESC_NOTCH_1 : Vuoi dei bei vestiti? Assolutamente! <br> <br>
+INV_DESC_SPELL_FOCUS : Concentrati sull'integrazione sol per migliorare il tuo programma ed evitare perdite. Uccidi i tuoi nemici per guadagnare spirito.
+SHOP_DESC_NOTCH_2 : nonna, vero? Che ne dite di? <br><br>.
+INV_DESC_SUPERDASH : L'energia è nel mezzo di un'antica grotta che si è formata attorno a enormi cristalli. Il potere del cristallo può controllare il percorso ed evitare il pericolo.
+CHARM_NAME_2 : Guide avanzate
+MAP_NAME_WATERWAYS : via navigabile reale
+INV_NAME_SOULORBS_NONE : 
+CHARM_DESC_19 : l'uomo dice di sapere
+CHARM_DESC_18 : Aumenta l'accesso del personale e uccide i nemici a distanza.
+INV_DESC_ACIDARMOUR : Il frutto ha un significato forte. Una volta installato, previene le ustioni in alcune feste di Halloween.
+CHARM_DESC_15 : Fatto dai chiodi di eroi e martiri.
+CHARM_DESC_14 : Uccidere un avversario non consente di prendere a calci il leader. Uccidi sempre.
+CHARM_DESC_17 : Ci sono fungicidi vivi. Quando si crea uno spirito, il nemico parla di un conflitto pericoloso.
+CHARM_DESC_16 : Smetti di scattare foto con armi potenti, usa pietre difensive, rafforza il tuo corpo e insegna loro a distruggere i nemici.
+CHARM_NAME_5 : Su
+CHARM_DESC_10 : Il suo santo re, il suo eroe più fedele, ricevette un dono speciale. Al forno e sporco, ma ancora pallido.
+INV_DESC_SPELL_SCREAM2 : I nemici urlano nel vento e nell'ombra. <br> <br> Spara ai nemici e raccogli le anime.
+CHARM_DESC_12 : Kanswa Kurdish Siva ha preso tutta la sua U su di lui.
+SHOP_DESC_NOTCH_4 : Vuoi più bellezza? Sai cosa fare!
+INV_NAME_TRINKET4 : Grande segreto
+LANGUAGE_CONFIRM : Quello che dici è vero
+CTRL_SELL : sconto
+CHARM_DESC_25_G : e l'angelo del Signore lo uccise. è morto ed era legato al suo popolo.
+SHOP_DESC_QUILL : Per aggiornare la mappa a una nuova posizione, devi aggiornare la mappa. <br> <br> Questa carta è importante che tutti prendano sul serio.
+INV_NAME_SPELL_FIREBALL1 : lo spirito di vendetta
+CHARM_DESC_40 : Vesti i partecipanti con uniformi militari dirette. Il corriere deve trovare Grimkin e raccogliere l'esca. Le mancate accensioni appaiono su una mappa di legno.
+INV_DESC_MAPQUILL : Mappa di Halloween Quando ti rilassi su una sedia o altrove, puoi usare una maschera per filtrare la mappa per nuove idee.
+CHARM_NAME_25_G : Condivisione del potere
+BANK_MAX_BALANCE : Valutazione media N/A:
+INV_DESC_MAP : Le carte di Halloween sono piene di carnevale leggero. <br /> Non puoi cambiare senza una penna.

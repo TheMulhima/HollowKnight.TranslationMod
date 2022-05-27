@@ -1,0 +1,387 @@
+SHOP : Einkaufen
+PIN_NAME_TRAM : Hack hack
+CHARM_NAME_40 : Heiße Getränke
+MAP_NAME_OUTSKIRTS : Staatsgrenze
+INV_DESC_SOULORBS_NONE : 
+KEY_SHOP : Kommerziell:
+INV_DESC_LOVEKEY : Bedeckt mit einem Schleier und einem Symbol der Liebe.
+CTRL_ZOOM_OUT : Ich möchte
+CHARM_DESC_24_G : Der Sieg über Feinde wird die Stadt interessanter machen.
+PIN_DESC_STAG : Diese Kiefern bedecken alle dauerhaften Häuser in Asien. <br> Dieser Ort ist voller Krähen.
+CHARM_NAME_24_G : Arman hörte nicht auf.
+NOTIFICATION_FLOWER_BREAK : Die Blume ist gebrochen
+INV_NAME_SUPERDASH : Kalon Crist
+INV_DESC_WHITEKEY : Metallplatte zum Kochen. <br> <br> Halloween ist ein Symbol des Seelenschutzes und leuchtet im Dunkeln.
+INV_NAME_ART_CYCLONE : Wir stoppen den Sturm
+MAP_NAME_ROYAL_GARDENS : Garten der Königin
+OPT_MENU_BACK_BUTTON : Komm wieder zurück
+INV_DESC_FLOWER : Das Dorf hat ihn am Morgen zu dir gebracht und dich gebeten, seine Gottesanbeterin in seinem Lieblingsgrab im Garten der Königin zu begraben. Die Blume ist klein und stirbt, sobald sie geöffnet wird. Die Straße ist also kaputt
+INV_NAME_SOULORBS_ALL : Niederländisch
+INV_NAME_NAIL2 : Starke Nägel
+CHARM_DESC_23_G : Dies wird die Gesundheit des Besitzers verbessern und ihn einem größeren Risiko aussetzen. Dieser Vorschlag ist sehr wichtig.
+CHARM_NAME_40_N : Das Lied ist mir egal
+INV_NAME_SPELL_SCREAM2 : Ich habe viel geweint.
+CHARM_NAME_23_G : Candida Dider
+CHARM_DESC_4 : Bietet Flexibilität und schützt gleichzeitig den Benutzer für langfristigen Schutz während der Genesung von Verletzungen. Sie 緊張的
+ASCEND : Gut
+INV_DESC_DREAMNAIL_A : Dies ermöglicht es Benutzern, die Lücke zwischen Schlaf und Realität zu schließen.可用於打開秘密夢想，打開大門 <br> <br> 夢想名言可以使夢想變得宏大、富有成效和持久。
+INV_NAME_NAIL3 : Geh in die Ecke
+MAP_NAME_RESTING_GROUNDS : Ein Ort zum Entspannen
+INV_DESC_SPELL_QUAKE2 : Ich freue mich, mit einem Farbton zu beginnen. Diese Kräfte können Feinde zerstören oder geschwächte Strukturen zerstören. Schießen Sie auf die Feinde, um die Situation zu erfassen.
+CHARM_NAME_1 : mit Leuten reden
+SHOP_DESC_GLASS_GEO : Liebe teuer und guter Preis! Soll ich Geos wieder entfernen? Schnapp dir ein Mikrofon und mach weiter! Jio!
+CHARM_DESC_1 : Natavit <br><br><br><br><br>
+MARKER_W_NAME : Geld verdienen
+CHARM_NAME_25_BRK : Kraft (Humor).
+CHARM_DESC_36_C : Innen frei. Dieses Handbuch ist Teil seines Eigentümers und kann nicht gewartet werden.
+CHARM_DESC_36_B : Dieser Vers ist ein Symbol der Einheit unter den Gelehrten des Dharma. Atmen Sie am Gürtel Ihres Babys immer langsam. Er hat seinem Land den Weg geebnet.
+CHARM_DESC_36_A : leicht weiß Nicht dekorierbar.
+INV_NAME_WALLJUMP : Manti-Sushi und Bo
+CHARM_DESC_BROKEN : Die Nerven sind gebrochen, und die Kraft ist abgeschnitten. Es wird nicht geschmückt.
+INV_DESC_ORE : Sehr seltenes Metall von Ed Clay Seonag. <br> <br>
+INV_DESC_SPELL_SCREAM1 : Nutze deine Seele, um deine Feinde zu besiegen. Besiege Feinde, um Dämonen zu sammeln.
+OPT_MENU_MUSIC_VOL : Dem Tiger ganz nah
+CHARM_NAME_12 : Medizinische Pflanzen
+INV_DESC_FLOWER_BROKEN_QG : Willkommen im Königsgarten, der explodierte und verschwand.
+INV_NAME_RANCIDEGG : Sei mutig
+INV_NAME_STOREKEY : Einkaufszentrum
+INV_NAME_TRAM_PASS : Zugtickets
+CHARM_EQUIP_REMIND : Müssen Sie einen guten Platz machen?
+CTRL_SHOW_PINS_KEY : Projekte speichern/löschen
+MAP_DESC_FOG_CANYON : Karte des Nebels, der die Westseite mit dem Green Mushroom Trail verbindet. Es war so nah, dass es schwer war, sich daran zu gewöhnen. Dies kann natürlich vermieden werden. Aber bis Sie Ingenieur werden, wissen Sie, was er tut.
+MARKER_B_DESC : Dies ist ein Novum in der Branche. Sie können damit interessante Orte auf der Karte markieren! Warum seine helle Farbe?
+UI_BLANK : 
+CHARM_DESC_6 : Die Wut und Macht des Todes. <br> <br> Wenn der Tod naht, nimmt seine Kapazität zu.
+PANE_MAP : Ich kann nicht:
+TRAVEL : Notwendig
+MAP_NAME_CLIFFS : Ihr Name ist Edom.
+MAP_NAME_ABYSS : alter Fluss
+SHOP_SALUBRA_BLESSING_NE : <br> <br> <br> 40 个林雷，我很乐意为你买一个.<br><br>
+MAP_UPDATED : Ich werde es hochladen
+MAP_DESC_CLIFFS : schrie Dartmouth den Felsen an. Konifa hat mir gesagt, dass der Wind bläst, aber ich habe ihn nicht gehört. Die Frage ist, warum sagst du das?
+SHOP_DESC_SOULORBS_1 : Denkfabrik. Das ist es! Kennen Sie diesen schönen Pfeil? <br> <br> Ich mag keine Begrüßungen, aber sehr selten muss man einen Bonus zahlen.
+MAP_DESC_MINES : Karte von Crystal Peak nach Dirmaus. Mein Mann nahm meine Brille mit einer Karte mit. Was macht sie so schwierig?
+INV_NAME_HEARTPIECE_NONE : 
+MARKER_Y_DESC : Diese Artikel sind neu für das Unternehmen. Sie können es auch verwenden, um Ihr Ziel auf der Karte zu markieren! Diese neuen Farben erinnern mich an die Jagd.
+CHARM_ALERT_NONE : Der Schatten bewegt sich nicht. Legen Sie sich auf das Sofa, um die Schönheit eines schönen Kleides zu erleben.
+CHARM_NAME_23_BRK : Gutes Herz
+INV_DESC_HEARTPIECE_ALL : Nach vollständiger Sicherheitsinstallation schützt die Ressource den Benutzer und verbirgt die tatsächliche Situation.
+CTRL_EXIT : Frühling
+CTRL_UNEQUIP : Um ein Lied zu sehen
+INV_DESC_NAIL2 : Das ursprüngliche Irisgerät wurde wiederhergestellt.
+KEY_COCOON : geteilt:
+MARKER_Y_NAME : Kartenerkennung
+CHARM_ALERT_NONE_BENCH : Waffen sind kostenlos. <br> <br> Um Ergebnisse festzulegen und freizuschalten, wählen Sie den Link unten aus.
+INV_NAME_MAPQUILL : Aber die Formel
+INV_DESC_HEARTPIECE_NONE : 
+INV_DESC_DREAMNAIL_B : Dadurch kann der Benutzer zwischen Bildschirmtraum und Realität unterscheiden. Kann verwendet werden, um einen Traum oder eine Geheimtür zu öffnen. Bewerbung für Sommerrocker 2011. Schlafenergie weckt Sie auf, um Ihr Gedächtnis zu schützen.
+SHOP_DESC_NOTCH_4_NE : Es geschah denen, die mich liebten.
+CHARM_DESC_40_N : Zeigen Sie eine freundliche Marke <br> Das Auto verfügt über Sicherheitsmechanismen, die es vor Beschädigungen schützen.
+SHOP_DESC_HEARTPIECE_1 : Lose. Sehr gut, aber Sie können einige davon verwenden.
+SHOP_DESC_LONGNAIL : Deine Nägel sind wunderschön! Aber glauben Sie, dass die Zeit vergehen wird? <br><br>Wow! Nach Hause gehen! Der Feind kam ohne Vorwarnung nach Hause.
+MAP_NAME_DIRTMOUTH : Povirus
+INV_NAME_WHITEKEY : Schlüsselausgabe
+CHARM_DESC_40_F : Kulturelle Symbole erscheinen. Das rote Licht ist hell.
+INV_NAME_ORE : Mit Mineralien
+CHARM_DESC_39 : Resham entfernt das Gemetzel aus ihren alten Häusern und inspiziert sie.
+CHARM_DESC_38 : Sie können Ihr ganzes Leben lang von rassischer Schönheit träumen.
+SHOP_DESC_WHITEKEY : Forscher haben den Schlüssel zu dieser seichten Wasserstraße in unserer Stadt gefunden. Noch nicht gereinigt
+CHARM_DESC_35 : Danke an die Gruppe für den Eintritt in den zweiten Lebensabschnitt. Der Heilige Geist schmückt dich. <br> <br> Ist der Konsument gesund, spüren die Nägel die warme Energie des weißen Lichts.
+CTRL_HIDE_PINS : Bonn Nissan
+CHARM_DESC_37 : Dies scheint ein schrecklicher Fehler zu sein, der Sprintmeistern bekannt ist.
+CHARM_DESC_31 : Sie können Dashmaster verwenden. <br> Hop On Hop Off Baş für diejenigen, die es mögen.
+CHARM_DESC_30 : Entwickelt für Leute, die Dreamcatcher verwenden, um temporäre magische Werte zu speichern. <br> <br> Besitzer können DreamCatcher schnell herunterladen und mehr Geister während feindlicher Angriffe einsammeln.
+CHARM_TXT_OVERCHARMED : Süss
+CHARM_DESC_32 : Hohe Nägel können aufgrund schlechter Nägel sehr lange halten.
+SHOP_DESC_ENEMYRECOILUP : Du tötest gern Feinde, nicht wahr? Dank dieser Schönheit können Sie all ihren Erfolg zählen!
+MAP_DESC_GREENPATH : Der grüne Bereich befindet sich neben der Greenpat-Karte. Wie man stirbt, wenn das Wasser kommt!
+CHARM_DESC_11 : Vielfalt der Schönheit kommt von Fluke Marams Schwangerschaft. Ändern Sie die Schreibweise der Übersetzung in Circular Window.
+MAP_DESC_WATERWAYS : Fotografien des Kanals, der Rohre und der Büros unterhalb des Tears-Bereichs. Cornifer wird nass, als sie zurückkommt, aber sie scheint glücklich zu sein, einen Platz zu finden.
+SHOP_DESC_GLASS_ATTACK_BRK : Jetzt war es kaputt und es gab keinen Strom. Vergib mir und lebe. Ich wohne.
+SHOP_DESC_NOTCH_3 : Du willst mehr, oder? selbstverständlich! <br> <br> Diese Maske kann zusammen verwendet werden.
+CTRL_HIDE_KEY : Verstecke den Schlüssel
+CHARM_TXT_EQUIPPED : bewaffnet
+INV_NAME_JOURNAL : ലോകേ നിചിര്വൻ.
+SHOP_DESC_TRINKET3 : Das Symbol von König Halost, das den Namen Gottes und Herrschers trägt. Sie bestehen aus leichten, schönen, langlebigen und teuren Materialien. Kommen Sie mit einem guten Preis.
+NAME_HUNTERMARK : Jagdzeichen
+INV_NAME_DREAMCORE : Kabinett
+LISTEN : Frage
+KEY_STAG : Hirschgarten
+SHOP_DESC_GEOGATHERER : Bist du ein entfernter Kevasha? <br> <br>
+INV_DESC_FLOWER_BROKEN : Gary Marini erschien im Resort. <br> <br> Jetzt endlich zum Verständnis.
+PIN_DESC_TRAM : Diese Autos sind die besten Autos. Diese alten Sünden sind weise. <br> <br> Sie müssen das Feld unten ausfüllen, um eine Station zu registrieren.
+SHOP_DESC_NOTCH_1_NE : Das ist wichtig für Astronomen wie mich.
+INV_NAME_SPELL_SCREAM1 : Und Musik
+INV_DESC_HEARTPIECE_2 : Alte Elu-Maske zur Vorbeugung von Schäden - <br> Entdecken Sie zwei neue Inhaltsstoffe, um Ihr Immunsystem zu stärken und sich vor Schäden zu schützen.
+INV_DESC_HEARTPIECE_3 : Schal, um sich vor Schaden zu schützen
+INV_DESC_HEARTPIECE_0 : Sammle Federn, um dein Gerät zu stärken und es vor Beschädigungen zu schützen.
+INV_DESC_HEARTPIECE_1 : Tragen Sie eine Halsmaske, um sich vor Verletzungen zu schützen. Füge mehr Bäume hinzu, um die Schafe stärker zu machen und sie vor Schaden zu schützen.
+CHARM_NAME_39 : Online-Musik
+INV_NAME_DREAMNAIL_A : Farbe fao
+INV_DESC_FLOWER_QG : Entnommen aus dem Schild der Königin. Etwas im Licht anzünden. Die Blumen verblassen und sterben ab, wenn der beschädigte Stiel entfernt wird.
+INV_DESC_NAIL3 : Der beste Schwertschneider ist in gutem Zustand.
+CHARM_NAME_9 : hoher Blutdruck
+PIN_DESC_SPA : Dieser Hund wurde geschaffen, um die heißen Quellen des Landes zu sehen. <br> <br> Nein, ich hoffe, Sie verwenden dieses Symbol oft.
+CTRL_CANCEL : Bitte versuche es erneut
+CTRL_CONFIRM : Knochen.
+CTRL_EQUIP : Gerät
+CHARM_DESC_7 : Im Talisman befindet sich ein Glasloch.
+INV_DESC_CITYKEY : Sharonsta ist eine Klippe am Ende der Hauptstadt. Es gibt gravierende Veränderungen im Nasenrücken.
+INV_DESC_NAIL4 : Eine sehr mächtige griechische Waffe.
+INV_DESC_QUILL : Wird verwendet, um eine Fahrt aufzuzeichnen. Auf allen Geräten.
+INV_DESC_SIMPLEKEY : Einfacher als üblich, kann mit normalen Saiten verwendet werden. Einfache Anwendung nach einer Pause
+CHARM_DESC_3 : Gesegnet sind die, die sein Wort halten.
+SHOP_DESC_GLASS_HP : Das ist es wert. Schön für dich! Wenn Sie folgen, bleiben Sie gesund. <br /> Wer Angst vor dem Sterben hat, verdient Lärm!
+INV_DESC_WALLJUMP : Knochenschneiden. Dadurch kann der Benutzer die Wand schnell erweitern.
+CHARM_NAME_38 : Spiel
+INV_DESC_KINGSBRAND : Es ist ein Meister und ein Symbol des Königs. Eine alte Halloween-Seite erschien auf seinem Gesicht.
+CHARM_NAME_31 : du bist traurig
+CHARM_NAME_30 : Ich fege ist eine Ziege
+INV_NAME_TRINKET2 : Das Heilige Siegel
+MAP_DESC_OUTSKIRTS : Regierungskarten vom Ende der Welt. Mein Mann .. Ich reise viel in der Stadt.
+CHARM_NAME_36_C : jedes Gesicht
+CHARM_NAME_36_B : König der Geister
+CHARM_NAME_36_A : Verfügbarkeit
+INV_NAME_SOULORBS_2 : Die Fundamente sind gebrochen
+INV_NAME_SOULORBS_1 : Wo bist du?
+INV_NAME_SOULORBS_0 : Der Schiffskopf
+CHARM_DESC_5 : Er benutzt mächtige Kugeln und mächtige Kugeln, um die Gefangenen zu beschützen.
+INV_NAME_LANTERN : Lindern o LI
+PIN_NAME_SHOP : Mit Tag teilen.
+INV_NAME_NAIL4 : گول ناخن
+SHOP_DESC_STALWARTSHELL : Das Leben an Halloween kann immer hart sein. Diese Attraktion gibt Ihnen mehr Zeit, um Verletzungen zu vermeiden. Nützlich, wenn Sie schwierige Stellen vermeiden möchten.
+CHARM_NAME_24_BRK : Böse Gier (fix)
+CHARM_NAME_4 : gegen
+PIN_NAME_SPA : sommer sommer
+SHOP_NAME_SALUBRA : Gott vergebe ihm
+INV_DESC_GEO : Geröstete Münzen werden aus einer Vielzahl von Raketen hergestellt und können an Kunden verkauft oder als Bezahlung für andere kulturelle Kunsthandwerke verwendet werden.
+PIN_NAME_STAG : Iki Auge
+PIN_NAME_COCOON : Quadora
+SHOP_DESC_GLASS_ATTACK : Du hast keine Energie, oder? Ich gab es Ge? Wenn Sie dies tun, geben wir Ihnen die Magie, die Sie geschaffen haben. Du bist stark. Angst vor deinem Feind, anderen ...
+INV_NAME_SPELL_FOCUS : Wir arbeiten
+SHOP_DESC_GLASS_HP_BRK : Es ist jetzt gebrochen und geschwollen. Es tut uns leid! Lass Zion hier sitzen und Gutes tun.
+MARKER_W_DESC : Diese Marke ist neu im Shop. Kann verwendet werden, um auf der Karte zu markieren! Ich benutze diese Farbe sehr schlecht und sie ist sehr teuer.
+OPT_MENU_APPLY_BUTTON : Gebraucht
+INV_NAME_NOTCH : Es ist zu groß
+MAP_NAME_GREENPATH : Lang Wayne
+INV_DESC_DOUBLEJUMP : Die Federn des Tieres leuchten in der Dunkelheit. Diese Person kommt zurück in den Himmel.
+INV_NAME_KINGSBRAND : Geist von Torre
+INV_DESC_STOREKEY : Ein kleiner Bronzeschlüssel, der wie ein Geschäft aussieht.
+INV_DESC_RANCIDEGG : Unbekanntes tierisches Fett enthält Kohlenstoff. Das Zentrum kommt.
+CHARMS_REMAINING : Ausreichende Anmeldung.
+OPT_MENU_SOUND_VOL : Verbrennung:
+PIN_DESC_GHOST : Carnefa sagte, sie hätten die Gräber, Gräber und Tempel tief in ihren Herzen gesehen. Lasst uns Gott anbeten.
+PIN_DESC_DREAMPLANT : Carnivar diskutiert die Ursachen der traumatischen Ereignisse, die er miterlebt hat. <br> <br>
+INV_DESC_SHADOWDASH : Der Stoff besteht aus gewebtem Stoff. Dadurch kann der Schütze sicher entkommen und den Feind angreifen.
+INV_NAME_GEO : Geographie:
+SHOP_DESC_SIMPLEKEY : Wenn Sie woanders als Sie selbst spielen möchten, passen einfache, klare Tasten zu den meisten Tasten.
+SHOP_DESC_LANTERN : Was ist wichtiger? Führt das Licht Sie oder den Freund, dem Sie folgen? <br /> Warum nicht? Erwarten Sie diese clevere Generation als Freund und sie wird Ihnen den Weg im Dunkeln erhellen.
+CHARM_NAME_8 : Puh, was ist passiert
+CHARM_DESC_8 : Das Blut des Lebens lebt in einem flüssigen Herzen.
+CHARM_DESC_13 : Sie wurden kostenlos von den Mant-Stämmen gegeben, die sie verehrten. <br> <br> Alarmgeräte erhöhen die Distanz und ermöglichen es Feinden, aus der Ferne anzugreifen.
+MAP_NAME_DEEPNEST : in
+INV_DESC_LANTERN : Das Glas zerbrach im Inneren. Es zeigt Besuchern mit dunklen Höhlen, wie sie sich zurechtfinden.
+INV_NAME_DOUBLEJUMP : Es passiert
+CHARM_NAME_33 : Tiefe Vergeltung.
+CHARM_NAME_3 : Sehobo naPina
+SHOP_SELL_CONFIRM : Möchten Sie dieses Produkt verkaufen?
+MAP_DESC_ABYSS : Karte der unterirdischen Teiche
+CHARM_TXT_NOTCHES : Krümmung
+FLAME_COLLECTED : und Sünde verbreiten
+INV_NAME_SPELL_FIREBALL2 : Schmutziges Wetter
+CHARM_NAME_29 : Umzug:
+CHARM_NAME_28 : umgedreht
+SHOP_DESC_NOTCH_3_NE : Dies gilt insbesondere für diejenigen, die gerne reisen.
+INV_NAME_DREAMGATE : Konya Japanisches Öl-Thunfischpulver
+PIN_NAME_GHOST : Spiel Kriegerstift verbrennen online
+CHARM_NAME_21 : Was isst das Leben?
+CHARM_NAME_20 : Sie ist intelligent.
+CHARM_NAME_23 : ich bin verärgert
+CHARM_NAME_22 : Leichtes Volumen
+CHARM_NAME_25 : starke Kraft
+CHARM_NAME_24 : Etwas Angst
+CHARM_NAME_27 : Muborak Johnny
+CHARM_NAME_26 : Tuan Aldrin
+INV_NAME_SHADOWDASH : Es sieht erstaunlich aus
+PANE_JOURNAL : Autor
+SHOP_DESC_WAYWARDCOMPASS : Es gibt Experten, Sie können es sowieso nicht sehen, versuchen Sie es mit diesem. <br> <br>!
+BANK_DEPOSIT_AMT : Wie lange?
+MAP_NAME_MINES : Flasche
+BANK_DEPOSIT : Reen-Verwaltung
+SHOP_DESC_SPELLDMGUP : Bist du ein Partner, Freund? Gut! Er ist sehr traurig, sehr traurig. <br> <br> Wenn Sie gər sehr öyrənsə wären, würden Sie diesen Vers kaufen. Ich verstehe, dass dieser Fluch wächst!
+CHARM_NAME_32 : kurz anrufen
+SHOP_PURCHASE_COMPLETE : halt
+SHOP_DESC_NOTCH_2_NE : <br> <br> 你 想 你 你 你 10. <br> يوفانيسي
+INV_DESC_TRAM_PASS : Legen Sie Halloween-Gegenstände hinten im Zug ab, um zu überleben. Diese Tickets waren gut für George und er bat den König um seine Erlaubnis, etwas kaufen zu dürfen.
+MAP_NAME_CROSSROADS : vergessene Kreuzung
+INV_NAME_SIMPLEKEY : Sie können sogar schießen
+MAP_DESC_FUNGAL_WASTES : Eine Karte der Pilzkombination, der Ort, an dem der Pilz unter den vergessenen Ästen geschädigt ist. Mein Mann aß Pilze und versuchte, sie zu kochen. Der Geruch ist aromatisch.
+COMPLETED : voll
+PIN_NAME_DREAMPLANT : Herkunft des Holzes
+INV_NAME_DREAMNAIL_B : Fliegen fliegen am Nachmittag.
+MARKER_B_NAME : Merkur Shop
+SHOP_DESC_GLASS_GEO_BRK : Jetzt ist es kaputt und schwach. Es tut so weh! Ach, ich habe recht.
+CHARM_TXT_COST : tut
+INV_DESC_DASH : Es gibt keinen defensiven Flügel. Dies ermöglicht dem Besitzer, sich am Boden oder in der Luft zu bewegen.
+MAP_DESC_CITY : Karte der wahren Tränen des Kapitals. Regnet es wirklich in der Stadt? Wie geht es dir ...
+INV_DESC_SOULORBS_ALL : Tolles Design und volle AC-Power.
+SHOP_DESC_SOULORBS_2 : Ich habe einen ausgegraben. Ich habe das ganze Set. Ansonsten füge ich Teile hinzu.
+CTRL_MARKER_REMOVE : Vater
+CTRL_MARKER_PLACE : iso
+CTRL_MARKER_CHANGE : Arino
+SHOP_DESC_TRINKET2 : Dieses Abzeichen wurde verwendet, um den König und seine Armee zu repräsentieren. Aber zieh dich so an. Der König und sein Name sind weit weg. Aber ich brauche einen anderen Punkt. Ich gebe billig.
+INV_NAME_QUILL : Itage
+MAP_DESC_CROSSROADS : Vergiss die Karte, wo unter der dunklen Gruppe. Cornelius hat mich dorthin eingeladen. Nein, es ist ausreichend, aber immer noch gut.
+BANK_WITHDRAW_AMT : Wie viel?
+SHOP_PURCHASE_CONFIRM : Möchten Sie dieses Produkt kaufen?
+INV_NAME_TRINKET1 : larat moheni
+INV_NAME_CITYKEY : Korallenriffe
+SHOP_DESC_QUICKFOCUS : Der Kristall in der Mitte ist sehr schön. Zeigen! Ich habe gehört, dass Kristalle beim „Sehen“ helfen, also wenn Sie sich für etwas interessieren, sollten Sie sich dieses schöne Zuhause holen!
+SHOP_DESC_TRINKET4 : Ronko! Sieht aus wie ein einfaches Kostüm, aber besser als ein Halloween-Kostüm. <br> <br> Wir zahlen eine kleine Gebühr. Bitte kaufen!
+COMPLETION_RATE_UNLOCKED : Achten Sie auf die Uhrzeit
+BANK_YOURBALANCE : Wie viel Geld hast du?
+CHARM_NAME_19 : Der Zauberstein
+CHARM_NAME_18 : Was tust du
+CHARM_TXT_COLLECTION : Jede Person
+CHARM_NAME_35 : Auch als Stempelheide bekannt.
+INV_NAME_ART_UPPER : "OK
+KEY_BLACKEGG : Mona Krabbenschuppe
+INV_DESC_SPELL_FIREBALL2 : Fliege vorwärts und erschaffe Schatten, die Feinde auf dem Weg beleuchten. <br> <br> Der Schatten braucht Atem. Besiege deine Feinde und sammle neue
+CHARM_NAME_10 : Tolle Waffe
+CHARM_NAME_13 : Ein Symbol des Stolzes
+CTRL_ZOOM_IN : Atome
+CHARM_NAME_15 : Stärke führt zu Müdigkeit und ständiger Ermüdung.
+CHARM_NAME_14 : Schluck
+CHARM_NAME_17 : Spielplatz
+CHARM_NAME_16 : starke Schatten
+KEY_BENCH : Technisches Bankwesen
+CTRL_TRAVEL : 
+INV_NAME_MAP : Zusammen
+CHARM_NAME_7 : sofort aufpassen
+KEY_DREAMER : MINDEST
+SHOP_SALUBRA_BLESSING : Du verstehst meinen Wunsch
+INV_NAME_HEARTPIECE_ALL : Alte Kleidung
+CHARM_DESC_29 : Tonbuchstaben aus massivem Gold. <br> Sparen Sie ganz einfach Zeit.
+CHARM_DESC_28 : Medien 1 zeigt Geschichte. <br> <br> Wenn du dich auf den SPIRIT konzentrierst, werden die Tribünen ein völlig neues Aussehen haben und du kannst sie frei benutzen, um Feinde zu vernichten.
+BANK_EXIT : draußen
+CHARM_DESC_25 : Dies macht Wilder stärker und erhöht den Schaden an seinen Feinden. Nachdem der Bär gestorben ist, tut dieser Zauber weh und bricht.
+CHARM_DESC_24 : Operator bevorzugen den geografischen Standort, wenn sie Feinde angreifen. <br> <br> Diese Funktion ist schwach und kann deaktiviert werden, wenn das Gerät ausgeschaltet wird.
+CHARM_DESC_27 : Ich bin ein glücklicher Trainer, Johnny. Ohne Wasser <br> <br> <br> Die Haut kann körperlich stark und zerstörerisch sein, aber sie achtet nicht auf die Seele.
+CHARM_DESC_26 : Meister der Liebe, des Verständnisses und des Verlangens <br> <br>
+CHARM_DESC_21 : Vergiss den Schamanismus. Albträume werden verwendet, um empfindliche Kreaturen zu retten. Bauern fühlen sich besser, wenn ein feindlicher Sturm kommt.
+CHARM_DESC_20 : Die Schamanen nutzten dies, um ihren Geist zu beruhigen und zu unterdrücken. <br> <br> Olhe für Knochen osrosros Seiten.
+CHARM_DESC_23 : Dies verbessert die Gesundheit der Arbeitnehmer und eliminiert die Risiken, denen sie möglicherweise ausgesetzt sind. Wenn ein Mitarbeiter stirbt, wird sein Name nicht entfernt oder zerstört.
+CHARM_DESC_22 : Sie nimmt den Geist der Arbeit und verwendet ihn zur Geburt.
+BANK_WITHDRAW : Wärme
+PIN_DESC_SHOP : Verwenden Sie diese Tipps, um auf Reisen Kunden oder andere interessante Dinge zu finden. Landwirte sollten versuchen, ihr Aussehen regelmäßig zu sehen. Ich habe es immer geliebt
+INV_NAME_FLOWER_BROKEN : Eine zerbrochene Blume
+PIN_DESC_COCOON : Hast du die schöne blaue Tasche gesehen? Ich warte auf diese PIN für Sie. <br> <br> Kümmere dich um sie.
+CHARM_DESC_9 : Kostbares Blut zu machen ist der Eckpfeiler des Lebens. Die Wachen fanden ruhig die roten Blutkörperchen und retteten ihn vor schweren Verletzungen.
+INV_DESC_NAIL5 : Das neueste Hallownest-Tool. Der alte Nil mit all seinen Gaben ist ein Beweis für seine wahre Natur.
+MAIN_MENU_START_GAME : Das Spiel beginnt.
+CHARM_DESC_24_BROKEN : Perry verteidigte sein Land, während er seine Feinde besiegte. Kann nicht installiert werden.
+SHOP_DESC_HEARTPIECE_4 : Noch ein Feiertag für mich! <br> <br> 下个假期赚这么多钱，真不好意思。 Vor allem dann, wenn Sie selbst viel Geld verdienen möchten.
+KEY_TRAM : Stoppen Sie das Tempo
+INV_DESC_SOULORBS_2 : 收集白色盒子來填滿你的靈魂 <br> <br> 收集並製作完整的盒子來裝滿更多的靈魂。
+INV_DESC_SOULORBS_1 : Holen Sie es mit einer weißen Schüssel. <br> <br> Sammeln Sie zwei weitere Dinge, um eine Schachtel zu machen, die für die meisten Menschen geeignet ist.
+INV_DESC_SOULORBS_0 : Essen: Weiße Bohnen aus Wein. <br /> Mehr als drei Personen trinken ein Glas.
+MAP_DESC_DEEPNEST : Ende der Welt, ein unbekanntes Haus, ein dunkles und hässliches Bild.
+SHOP_DESC_SLYEGG : Zu finden unter der Tabelle. Dieses Tier lebt in der Wüste. <br> <br> Glaubst du, ich verstehe? Den Geschmack habe ich nicht vermisst.
+INV_NAME_ART_DASH : Carrefour Einfach
+KEY_DREAMPLANT : root bekommen
+SHOP_DESC_HEARTPIECE_3 : Sammelst du sie? Zum Glück traf ich jemand anderen in meinem Laden. Der Preis ist angemessen für die letzte Gruppe.
+MAP_NAME_FUNGAL_WASTES : Pilzbefall
+SHOP_DESC_SOULORBS_3 : Aber ich tue. Dieser Teil des Schiffes ist weg. Die Umwelt zu vergessen macht viel Spaß.
+SHOP_SELL_COMPLETE : Dieses Produkt steht zum Verkauf
+CTRL_BUY : Kann
+SHOP_DESC_TRINKET1 : Dieses Tagebuch untersucht die Einstellungen und Herzen derer, die vor uns gelebt haben.
+MARKER_R_NAME : atigi
+CHARM_NAME_34 : Sehr traurig.
+INV_NAME_NAIL5 : Wasche deine Nägel.
+CHARM_NAME_11 : du:
+KEY_GRUB : Sobald man sich nähert
+INV_NAME_ACIDARMOUR : Das ist eine gute Sache
+ENCOUNTERED : Hallo Fr.
+INV_DESC_ART_CYCLONE : Signatur für Food-Nagelkunst. Ein kreisförmiger Angriff, der den Feind schnell aus allen Richtungen trifft.
+PIN_NAME_BENCH : komm von alleine raus
+INV_DESC_ART_UPPER : Die Signatur von Nile Master Gold wurde kürzlich von Nile Art Drive enthüllt.
+CHARM_DESC_23_BROKEN : Dies verbessert die Gesundheit des Besitzers und kann andere Dinge beeinflussen. Interne Toggle- und Off-Tasten können nicht aktiviert werden.
+COMPLETION : ᲒᲐᲛᲝᲚᲔᲕᲐ
+INV_DESC_TRINKET4 : Die Steinfrucht feiert das glorreiche Halloween. <br> <br> Antike Ruinen. Es gibt keine andere historische Bedeutung als die Erhaltung.
+CHARM_DESC_33 : Den Wunsch nach Vertrauen auszudrücken, wird die Kraft der Veränderung haben.
+INV_DESC_TRINKET1 : Zeitung über tote Passagiere. Worte sind in einer vergessenen, unverständlichen Sprache geschrieben. <br> <br> Halust. In der inspirierten Geschichte des Landes gelten diese Geschichten nicht mehr.
+INV_DESC_TRINKET2 : Der offizielle Sitz des Hellenischen Reiches repräsentiert die Macht des Königs und seines Heeres <br> Ausgestellt bis zur letzten Nacht der Zauberer. Dieser Artikel hat nichts mit Zivilgeschichte zu tun.
+INV_DESC_TRINKET3 : Betty im Bild des Heiligen Königs. Er verehrt diese Götzen als Könige des Verrats.
+INV_NAME_TRINKET3 : Japan
+OPT_MENU_RESOLUTION : Pali.
+SHOP_DESC_NORECOIL : Sie finden einfache Tipps für diese Person! Sehr modern! Es besteht auch aus weichem, starkem und schwerem Material.
+CHARM_NAME_6 : der Zorn der Toten
+INV_NAME_DASH : Ah Motung
+CHARM_DESC_2 : Die Karte flüsterte ihrem Besitzer zu, damit die Römer bei jedem Öffnen ihre aktuelle Position sehen konnten.
+MAP_DESC_RESTING_GROUNDS : am Tag der Heiligen Welt Das Heilige Kreuz wäre ruhig, aber ein bisschen beängstigend, sagte er.
+INV_NAME_LOVEKEY : Liebesschloss
+CTRL_MARKERS : Kennzeichen:
+MARKER_R_DESC : Nachrichten schlucken. Sie können es verwenden, um Points of Interest auf der Karte anzuzeigen. <br> <br> Mit dieser Farbe können Sie komplexe Bilder wiederherstellen.
+MAP_DESC_ROYAL_GARDENS : Princess Garden in der Villa Royal Grundriss, Greenpeace. Manchmal rufe ich meine Großmutter an ... wenn ich traurig bin.
+SHOP_DESC_SPRINTMASTER : Das ist meine neue Kollektion. Sie sagten nicht viel.
+PIN_DESC_BENCH : Dieser Führer zeigt den Fluss und den Rest der Gegend. Dies ist nützlich, wenn Sie es leid sind, einen Ort auf der Karte zu finden.
+INV_NAME_HEARTPIECE_2 : ein sicherer Platz
+INV_NAME_HEARTPIECE_3 : Rohmaterial
+INV_NAME_HEARTPIECE_0 : Zeig mir die Maske
+INV_NAME_HEARTPIECE_1 : Vulami
+CHARM_DESC_25_BROKEN : Klauen und Feinde verletzen und wenden Gewalt an. Toast nicht verfügbar.
+CHARM_NAME_37 : Lagern Sie den Sprint
+CHARM_TXT_NOTCHCOST : Oberflächenkompensation
+KEY_SPA : Son-Gokuna
+PANE_CHARMS : ADH.
+CHARM_DESC_34 : Sie leuchten meist lange. Atme die Luft um dich herum ein. <br> <br> NAFTA wird langsam von den Eigentümern gebaut, aber die Erholung hat sich verdoppelt.
+PANE_INVENTORY : Suchen nach
+MAIN_MENU_OPTIONS : Crescendo
+INV_DESC_ART_DASH : Nail Master ist definitiv ein Nail Artist. Dies schafft eine großartige vertikale Position vorn und mehr Schaden für den Feind.
+MAP_NAME_CITY : Das ist gut. Container
+SHOP_DESC_HEARTPIECE_2 : Ich habe ein anderes gesehen, aber wenn Sie genau hinsehen, hat es ein schönes Bild. <br> <br> Harga telah turun baru-baru ini dan saya tidak fikir ia akan berubah. Wach auf!
+KEY_GHOST : echte Vereinigung
+SHOP_DESC_SOULORBS_4 : Weißt du, dass Gerechtigkeit bald kommen wird? Es hat eine unglaubliche Schönheit.
+INV_DESC_DREAMGATE : In meinen Träumen wächst das Fenster schnell. Erstellen Sie ein Dreamgate, um mit Dreamgate Zeit zu sparen. Denken Sie daran, wenn Sie Dream Nail verwenden. Verwenden Sie Essenz in Ihrem Traumtor-Aktionsplan. Einige Websites sind möglicherweise nicht mit Dreamgate verbunden, was die Verwendung von Dreamgate beeinträchtigen kann.
+INV_NAME_NAIL1 : Syrien Hori
+INV_NAME_SPELL_QUAKE1 : schäme dich
+INV_NAME_SPELL_QUAKE2 : Es wird dunkel
+MAP_NAME_FOG_CANYON : Stadt Maou
+INV_NAME_FLOWER : Süße Blumen
+SHOP_DESC_BLUEHEALTHSMALL : Nennen Sie dieses blaue Wasser "Blut des Lebens"? Es ist ein bisschen beängstigend, aber dir geht es gut, nicht wahr?
+NOTIFICATION_CHARM_BREAK : Sehr gut
+OPT_MENU_TITLE : Auswahl
+INV_DESC_SPELL_FIREBALL1 : Sammle fliegende Monster und kämpfe unterwegs gegen deine Feinde. Die Seele muss die Seele heilen. Kämpfe gegen Feinde, um Leben zu retten.
+INV_DESC_NAIL1 : Halogen ist ein gängiges Material. Einige sind aufgrund von Alter und Fettleibigkeit behindert.
+MAIN_MENU_QUIT_GAME : Spiel ist aus
+INV_DESC_SPELL_QUAKE1 : Diese Kräfte können die Welt mit spiritueller Kraft erobern, indem sie Feinde zerstören oder schwache Gebiete erobern. Rocker sollen im Sommer 2011 bereit für die Luftwaffe sein. Besiege Feinde und sammle Monster ein.
+SHOP_DESC_NOTCH_1 : Brauchst du nicht viele Hexen? selbstverständlich.
+INV_DESC_SPELL_FOCUS : Denken Sie an diejenigen, die an einem Strang ziehen, um kaputte Teile zu reparieren. <br> <br> 返回敌人并聚集精神。
+SHOP_DESC_NOTCH_2 : Du willst schön sein, oder? Unglaublich! Seien Sie der Erste, der diesen Anhänger kauft, um zu bekommen, was Sie wollen.
+INV_DESC_SUPERDASH : An einer Seite des permanenten Spiegels ist eine alte Golem-Halskette angebracht. Sie möchten, dass der Behälter mit dem Träger in Resonanz tritt.
+CHARM_NAME_2 : Endlose Möglichkeiten
+MAP_NAME_WATERWAYS : Nasaba
+INV_NAME_SOULORBS_NONE : 
+CHARM_DESC_19 : Sonst wird ihre Wissensanhäufung der älteren Generation von Tag zu Tag zunehmen.<br> <br> Je stärker die Magie, desto größer der Schaden, den der Feind anrichtet.
+CHARM_DESC_18 : Erhöhen Sie die Breite des Kinns und treffen Sie den Feind aus der Ferne.
+INV_DESC_ACIDARMOUR : Das Ergebnis waren trockene Tränen. Einmal drinnen, wird die saure Halogenkonzentration gehemmt.
+CHARM_DESC_15 : Aus Seil <br>
+CHARM_DESC_14 : Kehrt nicht um, wenn sich Feinde versammeln. <br> <br> Seien Sie sicher und lassen Sie sich angreifen.
+CHARM_DESC_17 : Es gibt lebende Antibiotika. Als er über Kommunikation und Psychologie sprach, kündigte er die Einladung an. Entspanne dich, während du deine Feinde langsam vernichtest.
+CHARM_DESC_16 : Es gibt eine ewige Schönheit, die die Dunkelheit in eine tödliche Waffe verwandelt
+CHARM_NAME_5 : بلدور کبھانگ
+CHARM_DESC_10 : Besondere Zauber, die der König von Halloween den hingebungsvollsten Rittern gibt. Mobile և Dump, aber speichern. <br> <br> Entdecken Sie den Heldenmut Ihres Projekts.
+INV_DESC_SPELL_SCREAM2 : Zerstöre die Feinde, indem du sie Soul and Tea nennst. <br> <br> Die Geister beschwören die Seele, um die Feinde zu besiegen und Geister zu sammeln.
+CHARM_DESC_12 : Er fühlte Schmerz und Verwirrung in der Welt um sich herum.
+SHOP_DESC_NOTCH_4 : Muss ich viel Schmuck tragen? Es gibt einen Grund! <br> <br> Kaufen Sie diese Lieblingsnadel, um mehr Edelsteine ​​auf einmal hinzuzufügen.
+INV_NAME_TRINKET4 : Weiße Argana
+LANGUAGE_CONFIRM : Ich habe recht
+CTRL_SELL : Ich habe verstanden
+CHARM_DESC_25_G : Es stärkt die Macht Gottes und vertreibt seine Feinde. Dieses Gefühl wird nie schlimmer.
+SHOP_DESC_QUILL : Dies ist nützlich, wenn Sie die Karte während einer Suche auf einen neuen Standort aktualisieren möchten.
+INV_NAME_SPELL_FIREBALL1 : Rache fühlen
+CHARM_DESC_40 : Wird von Grim Cultural Contributions verwendet <br> <br> Benutzer müssen nach Grim suchen, um Bilder hochzuladen. Viele Marktführer sind auf der Karte zu sehen.
+INV_DESC_MAPQUILL : Lieblingskarte Sie können Karten von neu entdeckten Orten platzieren, ob im Bett oder wo immer Sie sind.
+CHARM_NAME_25_G : Die Kraft ist schwach
+BANK_MAX_BALANCE : Anzahl Standardstimmen:
+INV_DESC_MAP : Der heiligste Teil der Nahrung ist die Ernährung. Update ohne Stift ist nicht möglich.

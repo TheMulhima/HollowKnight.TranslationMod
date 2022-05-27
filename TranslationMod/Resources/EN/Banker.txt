@@ -1,0 +1,18 @@
+BANKER_CANCEL : Have you changed your mind? Better to return if necessary
+BANKER_FAREWELL : Tum pays for your speed.
+BANKER_DREAM_SPA : Let me go
+BANKER_DEPOSIT : Good for you! I will defend your geography.
+BANKER_BALANCE_ZERO : I - nothing more... me. I think. Amazing! You can go now
+BANKER_GREET : Hello friends, do you want to open a bank?
+BANKER_REMEET : Thinking of opening an account? Olive's death is tragic. Put this world in new danger because you know for sure.
+BANKER_ACCT_OPEN : The next time a cruel animal finds what works best for you, you’ll be happy to know that Geo is safe. Now let’s get to work.
+BANKER_SPA_GREET : What? Hey ... you're back! The last time I went ...... I saw you ...... I thought it was your place. You know I'm angry. In fact, that heart shut down my bank forever.
+BANKER_ACCT_DECLINE_AGAIN : Isn't that great? If you are lazy, make a bold decision and do the same. Here is the order of your card size.
+BANKER_MEET : Hi. I'm closing the store until you come. If you're looking for a bank, it's dangerous to lose other people's information on the <page> page. It's best to put it on your back. As a banker, I never miss Geo! <page> You should consider opening an account.
+BANKER_SPA_MEET : X ... yes, congratulations guys. Imagine that you are part of a prison. Do you like Geo? We don't see it. Sadly, that happens. It's all over. This site is very expensive: some services need to be transferred to your wallet. A small portion of an entire bank account ... ha ... ha. But ... oh ... thanks for running. If you hide it, it stays. Then find a place to relax.
+BANKER_BALANCE_ZERO_REPEAT : ... I think y-y- might be more appropriate here. I feel a little better.
+BANKER_ACCT_DECLINE : To put it bluntly, live staff. I will be here if I change them.
+BANKER_ACCT_NOTENOUGH : Yes. I don't have enough space to buy an account. As soon as you enter 100 Geo, you will be back. create an account.
+BANKER_WITHDRAW : Do not stop closing, thank you.
+BANKER_SPA_REPEAT : ... or is the H-weight concept correct?
+BANKER_DREAM : ... Will we ever know again? In my stomach ...

@@ -1,0 +1,18 @@
+BANKER_CANCEL : cambió antes de que él regresara
+BANKER_FAREWELL : Hola, Así es.
+BANKER_DREAM_SPA : ... ay... me dejaste estupido...
+BANKER_DEPOSIT : Oye, guardé tu etiqueta geográfica.
+BANKER_BALANCE_ZERO : No tengo nada... Dime ahora.Ki-ki-ho que enmascara la cara de...
+BANKER_GREET : ¡Dios te bendiga! ¿Quieres solucionar tus problemas bancarios?
+BANKER_REMEET : ¿Alguna vez has considerado guardar tu billetera? La pérdida de espacio es motivo de preocupación.Estarás a salvo en un mundo grande y peligroso y sabrás que estás a salvo.
+BANKER_ACCT_OPEN : Hola en el futuro, la bestia vendrá a ti de muy buena manera. Quiero asegurarme de que la seguridad de tu área esté en mi patio - error... mi amor.Soy un banquero.
+BANKER_SPA_GREET : ¿Combinar? Bueno, entonces... creo que vienes el último...Así que es solo cuestión de tiempo. Debes saber que esto también es una gran presión para mí. La protesta me echó del juego.
+BANKER_ACCT_DECLINE_AGAIN : ¿Aún no te interesa? Eres muy vacilante. Toma una decisión audaz y apégate a ella. Es increíble ver su crecimiento ambiental.
+BANKER_MEET : Ten paciencia, te ruego que cierres la tienda y te vayas hasta que llegues. Si quieres, podemos darte un trabajo bancario.<page>Perder una vida es malo, pero si la vives, puedes.<page>¡Mi nombre es fuerte, no pasé mi vida trabajando en un banco!¿Quieres abrir una cuenta?
+BANKER_SPA_MEET : Así que nuevamente felicitaciones por des-temer. Tengo que conducir para llegar aquí.<page>¿Es esta la vida que quieres? Mira esto. Lo siento, pero estoy equivocado. Todos están cansados.<page>Los costos de administración bancaria pueden aumentar, por lo que debe pagar la compra a su cargo.<page>Absolutamente. Es parte de todo el proceso bancario, sí.Pero, oh, muchas gracias por darme la bienvenida, ahora no me iré a ningún lado. Me fui poco después de salir del trabajo. Entonces puedes crear un spa.
+BANKER_BALANCE_ZERO_REPEAT : Creo que puedo quedarme aquí por un tiempo. Cad, BT no me molesta
+BANKER_ACCT_DECLINE : La reunión geográfica no es fácil. Si cambias de opinión, aquí estoy.
+BANKER_ACCT_NOTENOUGH : Espera unos minutos. Lo sentimos, no tenemos tiempo para comprar su cuenta. Regrese a Geo 100 lo antes posible para crear una cuenta
+BANKER_WITHDRAW : Gracias por borrar ¡No los uses todos a la vez!
+BANKER_SPA_REPEAT : ... No conozco la Xbox, ¿verdad?
+BANKER_DREAM : ... ¿Cuándo te duchas? ... El agua puede reducir la irritación de la piel ...

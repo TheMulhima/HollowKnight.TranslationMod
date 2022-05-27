@@ -1,0 +1,83 @@
+HU_INSPECT : Ricorda il più grande.
+CHAGAX_TALK : Io aiuto gli altri. Sono stufo di loro, sto per morire... che differenza c'è? Pioggia ahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahahaha...La vittoria sulla morte è temporanea.
+HU_DEFEAT : La mia opinione è vera, tu dormi.<page>E ricorda. Gente arrogante... è lui il diavolo? Ora ricordo i loro occhi... chiari e chiari. Perché ho paura di loro?<page>Se c'è uno sciocco in città, sono io. Arrestato dalla polizia<page>ero contrario...<page>Hanno il diritto di uccidere...<page>La via di mezzo?....
+MOLTEN_TALK : Non così bene. Il mio corpo è andato ma il mio cuore è fermo.
+KCIN_REPEAT : Non c'è cioccolato all'inizio. Stai bene.
+HEX_REPEAT : Altri minacciano Goth. Non vedo l'ora di vedervi.
+XERO_REPEAT : Stai ancora aspettando? Vuoi che tutti noi spariamo, scappiamo o litighiamo con loro?
+GROHAC_TALK : Spesso ci ricordano i nostri errori. Non lasciarti ingannare dai tuoi errori, ma sii un leader che non può farlo.
+GALIEN_REPEAT : Combattiamo? Dedichiamo le nostre forze alle gioie della guerra.
+KARINA_TALK : Rispetti il ​​mio alto livello? Sono la prima razza che vedi, anche se non la vedo da molto tempo.
+THISTLEWIND_TALK : Giovani immigrati<page>Ci sono molte cose che posso fare e fare, ma penso che tu sia lontano da me.<page>Sono morto in una grotta ad Halloween. E penso sia peggio che camminare con la consapevolezza che il vento ti salverà.Ciao mondo
+WAYNER_TALK : Semplice e buon amico! Vuoi sederti con me, ma ho paura di impazzire.
+ALADAR_INSPECT : Le buone idee sono cattive.
+MUMCAT_TALK : giglio! distruggere! Ecco che arriva la regina! Ho aspettato qui per molto tempo! Pensavo di ballare!<page>Ho salvato questo giardino sacro! Mi sono preso cura di te e presto verrà la regina e mi insegnerà a volare!Non vediamo l'ora di incontrare tutti i tuoi ospiti! Giochiamo insieme
+PERPETOS_TALK : Ti piace il nostro deserto? D'accordo, ma da questo ti darà un'idea più chiara dei pericoli nell'orbita del nostro pianeta.
+GARRO_REPEAT : Nemico, sii forte.
+GRASSHOPPER_TALK : È un posto magico? Molte persone stanno aspettando le tue parole. Se le parti non sono d'accordo.C'è una tale ragione tra noi. Smettila con queste sciocchezze.
+100NAIL_TALK : Ti sono piaciute le mie piccole unghie? Ho cucito tre abiti un po' più corti del mio vestito preferito.Sempre! Tutto sta andando più veloce di quanto avrei voluto.
+MILLY_REPEAT : Prendi i miei biscotti! Ho venduto tutto, posso andare a casa.
+MAGNUS_TALK : Tutti i problemi della vita possono essere risolti con molta energia. La magia è semplice come mi aspetto.Non siamo Waltz e spero che tu lo seguirai.
+ATRA_REPEAT : Non sei contro la mia bellezza. Sono silenzioso qui.
+GALIEN_DEFEAT : Incredibile... ci proverò! Ecco cosa intendi quando protesti...<page>Ma sono forte? Di' la tua parte vedendo il nostro re...?<page>Sì, ma neanche BT fa per me. So che non dimenticherà mai le lettere coraggiose.<page>Sono pronto per stare con te ora. tuo fratello. egli sta andando ...È di più ...
+GALIEN_INSPECT : Il corpo di un arto morto
+NOEYES_REPEAT : L'amato diavolo è venuto da noi nell'oscurità ... Cosa? vuoi che canti
+HU_REPEAT : Esci dall'inferno, amore mio. Non tornare quando torni.
+PERPETOS_REPEAT : Non sembra essere la tua cosa principale. Sono un eroe, ma non voglio convincerti.
+GRAVEDIGGER_REPEAT : È un po' sbagliato. Fai spazio al tuo obiettivo.Non sono spaventato. Compra persone come me.
+MARKOTH_TALK : Ho fatto molta strada, ma alla fine morirò.<page>No, non dire che non riesco a sentire. Migliaia di parole di persone come te. Orgoglio, orgoglio e rabbia... Se mi batti, ti solleverò.Quindi prendi un fucile e muori come in anticipo.
+MARISSA_REPEAT : Si raccomanda di presentarsi al pubblico, anche se da solo.
+NOEYES_INSPECT : La sua faccia era rocciosa.
+HIVEQUEEN_TALK : Conosco tua moglie.<page>Se provi a riprenderti, sai che non sono la regina che stai cercando.<page>Gli animali malati determinano la tua performance.Sebbene queste api siano per Halloween, non abbiamo l'obbligo di cercare di proteggerle.
+XERO_DEFEAT : Capisco che coloro che si ribellarono al re furono puniti con le armi.<page>Non chiamare il tuo scout. Chiamami un grumo.So che non puoi correre. Puoi vedere dove stai andando.
+MUMCAT_DEFEAT : Scusa, Elaine... sei forte. ti posso assicurare...<page>Ci ho pensato a lungo. È stato fantastico, ma ho combattuto gli stranieri per molto tempo.<page>Sono così stanco! La regina arriverà presto. Voglio dormire<page>Quando venne la regina della tribù, mi svegliai. La regina insegna a entrambi a saltare. Qualsiasi altro paeseInteressante... dimmi...?
+BOSS_TALK : Sono stato qui molto. Sono un estraneo, ma sarò più giovane di te.
+MAGNUS_REPEAT : Ricorda che le ferite tolgono la paura Condanna il problema dai tuoi nemici.
+REVEK_TALK : Ho un problema a cancellare questo. Rispettali e vivrai. Ma prenditi cura delle tue unghie e combatti con me.
+ATRA_TALK : Le piccole creature non hanno niente. Ero un po' infelice, ma il vento mi ha risollevato.
+MUMCAT_REPEAT : Stranieri, state aspettando qui? Giochiamo insieme?
+XERO_TALK : Me! Guai a coloro che combattono contro il loro Creatore! Andiamo a letto.<page>Penso che rafforzi le mie speranze e possibilità. In un sogno, tiri fuori le unghie e dai un'arma al re.<page>Quando ero nella tempia, sono andato a vedere qualcosa, la pelle mi prudeva.Sei depresso? Ci andrai o saremo tutti giudicati?
+WYATT_TALK : molto felice!Sono un fan, non voglio bruciarti. Questo è il mio sistema di sicurezza, anche se per alcune persone è difficile averlo.
+HIVEQUEEN_EXTRA : La mia notte... sei libero.
+MAGE_LORD : Sono un sognatore nell'UE. Salva la terra, guarisci la peste... La risposta è nei nostri corpi e nelle nostre menti.<page>Ma il re... perché? !! Contro tutte le mie azioni.<page>La sua gelosia... la sua follia... mi hanno rubato l'eternità!Il re e il suo regno sono morti, ma vivremo per sempre.
+MARKOTH_INSPECT : Usa il corpo, le mani e le unghie dell'eroe.
+HIVEQUEEN_REPEAT : Distruggere l'ambiente è stupido. Tutti sono benvenuti.
+REVEK_TALK_DEFEAT_REPEAT : Sicurezza? È il mio lavoro? Se sì, chi puoi supportare? Io e te siamo qui.
+MARISSA_TALK : Benvenuto nel mio piccolo negozio. Marisa è sempre una cantante famosa, anche nel posto sbagliato.<page>Ho cantato e tutto è cambiato. Le persone iniziano ad aspettare idee. Canto sempre, ma ho una voce.Forse vuoi che legga? Sarai il primo a segnare.
+GRASSHOPPER_REPEAT : Sinistra o destra? Che è migliore? Dovrebbe essere facile, ma hai sempre una possibilità.
+XERO_INSPECT : Sia maledetto il servo del re.
+WALDIE_REPEAT : Non ti scordar di me
+GROHAC_REPEAT : Hai mal di gola? Sono miei amici, sono più ospitali con me di chiunque altro e hanno un buon rapporto.
+MOLTEN_REPEAT : Il mio corpo è cambiato ma il mio corpo non è cambiato.
+CHAGAX_REPEAT : La vittoria sulla morte è breve... un pensiero doloroso.
+MARKOTH_REPEAT : Alza la tua arma come prima. tornare per uccidere
+NOEYES_TALK : capisci? Cerca di non farmi del male.<page>Non riesco a dormire... apro gli occhi. Se vivi un po' più a lungo, non puoi sognare.<page>Lo padroneggio.Bambini, state cantando per me?
+JONI_TALK : Oh, vedo la mia benedizione su di te. Ho dimenticato di provare, ma penso che sia troppo tardi.
+ALADAR_DEFEAT : Sì, è davvero difficile per me.<page>Grande cervello... malato! Vai fuori di qui! Vai fuori di qui!Mamma ...
+GRAVEDIGGER_TALK : A quanto pare uno di loro era armato. Pensi che ami il tuo corpo?Quando non pensi ai morti, pensa al lavoro extra che fai nella mia carriera.
+MILLY_TALK : Compro le torte! A volte è molto interessante.
+NOEYES_DEFEAT : I suoi occhi lo videro. Mi sento caldo.<page>Scusa se ti ho fatto male. Se non ti vediamo, non puoi ancora.Eccoci qua, senza luce, senza sogni... Prova...
+100NAIL_REPEAT : Le mie unghie sono cattive? La sua faccia tagliente era tagliente e pericolosa.
+THISTLEWIND_REPEAT : Tre fatti sulle armi da commedia? Sebbene non avessi armi, eravamo inattivi.<page>In seguito è nato per dire una verità dimenticata.Cosa le è successo
+MUMCAT_INSPECT : Ti ringraziamo per la cura delle radici e delle foglie.
+KARINA_REPEAT : Non ci sono stati effetti collaterali, ma la condizione era insopportabile.Dimmi cosa fai, sei alto o basso?
+CASPIAN_TALK : Mantieni il tuo cervello piccolo. Le percezioni portano a comportamenti dolorosi in cui la mia mente è più fuorviante di altre.Pensavo fosse notte, ma l'ho trovata limpida e tranquilla.
+WAYNER_REPEAT : Invidio il mondo per paura. Posso imparare dalla tua esperienza.
+GALIEN_TALK : Fratelli in guerra, da qui? Penso che sia un combattente e abbastanza forte per sopravvivere.<page>Sono l'uomo più forte sopravvissuto all'Olocausto! Sono venuto in questo posto fantastico per mettere alla prova la mia forza. Vuoi mettere alla prova la tua forza?<page>Sì, tu ed io siamo poveri, non poveri come noi. Non c'è amore e paura nel mondo per i deboli.E se litighiamo? Facciamo del nostro meglio in questa emozionante battaglia!
+POGGY_REPEAT : Ho aspettato molto tempo. Cena
+REVEK_TALK_DEFEAT : È bello avere una cattiva comunicazione, ma sento che è impossibile? Ho ordinato prima, ma cosa? difficile da ricordare. Importa? posso dimenticare
+POGGY_TALK : Vedi, sei molto debole. così caldo. immaginoGuardami! Il carburante non è generalmente popolare qui.
+ALADAR_TALK : Ario Gobba!<page>Uscire! Mosca sta per finire!<page>Super biglietto! La sua gobba!Dipende da cosa! Dipende da cosa! Benvenuto a Gorbe!
+REVEK_REPEAT : Penso che stia già camminando. Le mie unghie affilate non reggevano.
+ALADAR_REPEAT : Gioca la parola! Gioca la parola! Becky è a buon mercato, Becky!
+JONI_REPEAT : Non c'è luogo di riposo dopo questo.
+HEX_TALK : "Ciao." Lo ha detto in anticipo. Dove sei stato?
+HU_TALK : aspettare! Sei venuto per distruggere solo una foresta?<page>Molte persone sono venute a ripulire la zona. ma tutto è stato distrutto<page>Sì, anche agli insetti piace nascondersi tra noi. siamo fieri di te. Ora sono solo veterani.l'onore dei bambini restituiti non è tornato
+GARRO_TALK : Sei un cavaliere combattente? Un vero combattente può resistere a una tempesta.
+MARKOTH_DEFEAT : Non posso vincere la guerra...<page>L'ho trovato sdraiato lì. Quando sono qui?<page>Non c'è terra ai confini, ma non lo è.<page>Soldati, soldati e re, ma... non hanno potere su di me. sei solo.Sei nel buio... Ho mangiato.
+KCIN_TALK : Quando trascorro del tempo in piscina il dolore è diminuito e ha smesso di funzionare.Che idea stupida!
+FALSE_KNIGHT : Devo essere forte per proteggere le altre persone...<page>L'ho visto quella notte և ho sognato... con le mie grandi mani protettive.<page>Non sono pazzo ....ma alla fine? Se non puoi risparmiare energia, chi può?
+WALDIE_TALK : Non giudicarmi dai miei occhi. Sono piccolo ma il mio cuore è oscuro e il mio amore per la guerra.
+WYATT_REPEAT : Non avvicinarti troppo. Non voglio sbagliare.
+CASPIAN_REPEAT : Pensi che tuo figlio sogni al buio? La sua faccia non è come la tua quando si nasconde. È difficile da dire
+BOSS_REPEAT : Sei un soldato, conosco le tue unghie. Ma tu sei come un albero, triste e ignaro che questo giorno è andato nel tuo regno.

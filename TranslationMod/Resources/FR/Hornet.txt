@@ -1,0 +1,18 @@
+HORNET_ABYSS_REPEAT : Je vous conseille d'utiliser une méthode stricte. Mais à la fin tu décides.
+HORNET_PRE_FINAL_BATTLE_REPEAT : Vous avez le pouvoir de faire vos propres choix dans l'esprit d'Halloween. Êtes-vous plus familier que vos frères ou continuez-vous?
+HORNET_FINAL_BOSS : Torique ! Tout ce que vous voulez. Il est.Décrivez l'âge ou la cause de notre planète.
+HORNET_PRE_FINAL_BATTLE : La route est ouverte. Mais la fin n'est pas finie.<page>Si vous ne suivez pas ce thème, le site est conçu pour maintenir vos performances. Quand j'ai fait ça, j'ai quitté leur relation.Ne soyez pas surpris, je ne risquerai pas ma vie à cause de vos efforts, mais je ferai de mon mieux pour vous aider à temps.
+HORNET_PRE_FINAL_BATTLE_DREAM : ... Je ne peux pas dormir? Aimes-tu
+HORNET_GREENPATH : Ne t'approche pas trop près<page>Je suis tombé à genoux et je t'ai suivi.<page>C'est un vieux dicton... les mauvaises choses arrivent. Je suis au paradis ...Je sais qui tu es et ce que je veux faire. je ne peux pas
+HORNET_SPIDER_TOWN_REPEAT : Repos quitte cette maison, et je serai un dieu
+HORNET_OUTSKIRTS_1 : Alors pourquoi chercher des vérités plus profondes ? Ces gens ne sont pas des gens faibles.
+HORNET_DOOR_UNOPENED : J'ai été surpris de voir ce petit masque. Vous faites partie de ce monde, mais vous êtes fort.A noter que l'anneau de Sanchez n'est pas cassé, mais son accueil inutile donne quelque chose de spécial.
+HORNET_SPIDER_TOWN_DREAM : Maman, je suis désolé de ne pas avoir demandé. Mais d'autre part ...
+HORNET_INSPECT_IK : Les restes d'une longue mort ont disparu.
+HORNET_OUTSKIRTS_2 : prêt à y faire face je ne reviendrai pas je ne regrette pas la mort d'un homme faible.Apprenez l'histoire de ce monde et assumez la responsabilité de votre avenir.
+HORNET_FOUNTAIN_1 : Regarde le petit cerveau<page>J'oublie souvent. Si c'est vrai, c'est de la haine<page>Vous pouvez quitter ce pays. Vous pouvez le distribuer à partir de deux sources.Ne pensez pas que vous atteindrez le centre de la terre. Ils comprennent les victimes dans la vie de la voiture.
+HORNET_FOUNTAIN_2 : Alors que vous vous efforcez de contribuer à la paix à Harvard, trouvez une tombe dans les cendres et donnez-la à des gens comme vous.
+HORNET_ABYSS_DREAM : L'obscurité de rien de plus pour toujours ? ..
+HORNET_ABYSS_ASCENT_01 : Ma fille, je sais que tu fais face à ton pays et maintenant tu es dans le noir.<page>Bien que nos forces viennent d'une seule source, je ne partagerai pas cette question importante avec vous.<page>C'est incroyable, ça donne de l'espoir. J'y ai vu une opportunité de changement.Ce sera difficile à gérer, mais vous allez l'adorer. Améliorez la résilience planétaire ou combattez les maladies cardiaques.
+HORNET_SPIDER_TOWN_01 : Tuez ensuite l'oiseau... et ainsi de suite.<page>Ça ne me dérange pas, mais je suis inquiet parce que je ne sais pas<page>... Quoi? Cela peut être difficile pour vous, mais je ne suis pas sûr<page>Pas parce que nous choisissons nos mères ou dans quelles circonstances nous sommes nés. J'appelle ma vie le mal de ce monde.C'est une grosse erreur. Alors tu y vas, porte le fardeau, je peux le porter
+HORNET_OUTSKIRTS_DEFEAT : ... important ...<page>Vous pouvez le faire si vous le souhaitez.<page>Mais vous pouvez faire pousser vos ongles. Tu sais ce que ça veut dire? Et vous vous connaissez ? ... ...Merci, Saint-Esprit ! Développement. Placez une image de cellule pour entrer dans le roi.

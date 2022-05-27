@@ -1,0 +1,79 @@
+PRECEPT_29 : Kapitel 29: Verbessern Sie Ihr Verständnis von Führung.Die Warnung ist leicht zu verwechseln. Decken Sie sich mit einer Zauberkarte ab. Es hilft sehr
+PRECEPT_39 : Vers 49: „Trinkt und trinkt langsam.“Ihr Körper ist einfach; Darauf müssen Sie achten. Das Essen sollte schnell kommen, aber das Wasser sollte langsam kommen.
+PRECEPT_19 : Mit neunzehn „Wenn du hart arbeitest, wirst du Erfolg haben.Wenn Sie aufladen möchten, stellen Sie sicher. Wenn er kämpft, wird er sicherlich scheitern. Auf jeden Fall vermeiden.
+PRECEPT_9 : Regel 9: "Halte das Haus richtig."Ihr Zuhause ist Ihr wertvollster Besitz: ein Ort, an dem Sie sich verstecken können. Sie sollten also versuchen, schön und sauber auszusehen.
+PRECEPT_57 : „Befolgen Sie alle Anweisungen“, sagte Panchavan.<page>Vergessen Sie schließlich nicht all diese Lektionen. Zusammenkommen!Verantwortung. Verstehst du mich wirklich? Fang von vorne an und wiederhole Kapitel 55.
+PRECEPT_7 : Kapitel 7: „Sorge dich nicht um die TotenIst es gut oder schlecht für uns zu sterben? Weine nicht, weil du nicht sprechen kannst. oder so bestellen
+PRECEPT_4 : Regel vier: „Vergiss die Vergangenheit“Es ist schon heiß und kaum vorstellbar. Betrachten Sie diese stattdessen als Maßnahmen, die Sie regelmäßig durchführen müssen.
+PRECEPT_5 : Regel 5: „Autorität folgen.“Ist dein Feind stark? Keine Sorge, gib ihnen mehr Energie als ihre Zukunft.
+PRECEPT_2 : Regel 2. "Er wird nicht bei dir sein."<page>Die dummen Herrscher wurden bedrängt. Aber ein Lächeln ist nichts Schlechtes, also sei vorsichtig. Kenny verbreitet die Krankheit immer noch, alle lachen.Wir müssen wissen, warum diese traurigen Witze so verbreitet sind.
+PRECEPT_3 : Fall 3: „Ruhe“.Konflikte und Stress können sich auf Ihren Körper auswirken. Während Sie sich entspannen, wird Ihr Körper stärker und stärker. Je länger die Pause, desto stärker ist sie.
+PRECEPT_43 : Vorschlag 43: „Es tut mir leid.“Wenn sich jemand wie dein Bruder entschuldigt, frag unbedingt danach. Er ist ein nutzloser Bruder.
+PRECEPT_53 : Regel 53: Stehlen Sie niemandem die Freiheit.Jeder kümmert sich darum, was er für sich will. Wenn Sie wissen, was andere wollen, widerstehen Sie ihrem Wunsch, es für Sie zu tun. Es führt nicht zum Glück.
+PRECEPT_23 : 23: "Ja, das ist die Schwäche des Feindes."Jeder Feind hat Schwächen wie Erfolg und Schlaflosigkeit. Du musst aufstehen und versuchen, die Schwäche deines Gegners zu zeigen.
+PRECEPT_33 : Er befahl dreißig Männern: "Machen Sie sich keine großen Feinde."Das Tragen, um dem Feind zu begegnen, ist keine Schönheit! Wenn jemand gegen dich ist, verdienst du keinen Respekt, Freundlichkeit und Mitgefühl.
+PRECEPT_13 : Vertrag 13: Fürchte dich nicht.Angst hat dich aufgehalten. Der Umgang mit Ihren Ängsten kann eine entmutigende Aufgabe sein. Also halt erstmal die Klappe.
+PRECEPT_37 : Regel 37: Leihen, aber nicht leihen.Wenn Sie einen Kredit aufnehmen, bekommen Sie nichts. Wer nichts leiht, behält alles.
+PRECEPT_17 : Siebzehn: Glauben Sie an sich selbst.Manche mögen dich fragen, aber du kannst dir sicher sein. Ach. Glauben Sie an Ihre eigene Stärke und Sie werden keinen Erfolg haben.
+PRECEPT_34 : Tipp 34: „Essen Sie vor dem Schlafengehen.“Dies kann zu Angst und Unsicherheit führen. Es ist nur eine Übersetzung.
+ZOTE_COLOSSEUM_REPEAT : Komm schon, Lichtjunge! Lass mich allein für einen großen Kampf. An einem Ort gemischt ...
+ZOTE_COLOSSEUM_MEET : Gut? Zhu, was brauchst du? du wirst Spaß haben<page>Hoffnung! Halten Sie es für notwendig, diesen Turm zu bauen?<page>Ja, bitte sag mir deinen Namen!Ich bin normalerweise voller Energie! Wenn ich gegen das „Lebensende“ kämpfe, lachst du!
+ZOTE_DREAM_COLOSSEUM : Sehen Sie, wie Sie aufhören, nicht ...Ich bin hier, um mein Wort zu halten ... das ist alles, was ich tun muss ...
+ZOTE_TOWN_REPEAT : Es regnet. Dies ist eine großartige Stadt! Schmutzige Luft tat alles in der Stadt. Gehen Sie direkt zurück.
+PRECEPT_8 : Das Prinzip "Ich ging alleine".Du kannst Menschen vertrauen und niemand wird das Richtige tun. Also lass dich von niemandem anfreunden.
+ZOTE_DREAM_BUZZER : Der Narr ist verletzt ... er schlägt auf seinen Unterkiefer und verwandelt ihn in einen unsterblichen Körper. Du hast verloren!
+ZOTE_CITY_GREET : Wie man sieht, wo er nass ist, werde ich ihn nicht stören. Ich habe traurige Momente, wenn ich versuche, mich abzutrocknen.<page>Ich bin ein mächtiger Gott, ein glorreicher Ritter. Wenn ich mich entscheide, trocken zu bleiben, wird es.Hölle für diese arme Stadt. Wasser und Wildtiere fallen immer von oben. Überraschenderweise fiel diese Situation ...
+ZOTE_BUZZER_1_B : Jin, runter. Ich bin ein sehr starker General. Also schlug er mich zusammen und nannte mich einen „Mörder“.
+PRECEPT_56 : Sechsundfünfzigstes Gebot „nie geträumt“.Alpträume Große Gedanken kommen Ihnen vielleicht in den Sinn, aber nicht in Ihren Sinn. Wenn Sie diese Idee jedoch ablehnen, kann die Krankheit Ihrem Körper schaden. Träume sind besser als ich.
+PRECEPT_26 : Regel 16: „Vertraue nicht deinem Instinkt.“Die Form des Gesichts ist sichtbar, wenn Sie die Schönheit betrachten. Das Gesicht folgt Ihren Bewegungen und sieht genauso aus wie Sie, aber ohne Selbstbewusstsein.
+PRECEPT_36 : Aktivität: "Blind-Indus gebrochen".Das Wort taucht immer wieder auf.
+PRECEPT_16 : Wie schön. 16: Vergib mir nicht.Schauen Sie nicht zurück, wenn Sie dieses Thema wählen. Monat.
+PRECEPT_46 : Deuteronomium 46: „Die Welt ist kleiner, als du denkst.Als Kind dachtest du immer, die Welt sei groß, groß, groß. Das ist normal. Leider ist es zu wenig. Ich kann sagen, dass ich fast jedes Land bereist habe.
+ZOTE_TOWN_2 : Der alte Mann sagte... es war, als würde der Wind in einer Höhle blasen. Er dachte, er würde vielleicht nicht atmen.Er sprach auch in seinen Träumen. Vater! Träume für Uneingeweihte.
+ZOTE_TOWN_1 : Warum versteckst du dich im Schatten?<page>Ja, deine Augen mögen dich nicht. Ich bin der mächtige Gott, der mächtige Krieger. Geh vor mir!<page>Als ich in deiner schmutzigen Stadt versteckt war, ging ich in die Dunkelheit und tötete einen großen Mann. Sein Kiefer ist scharf und grausam.Ja, herzlichen Glückwunsch. Aber zum Spielen bleibt keine Zeit! Ich muss mich entspannen und mich auf meine nächste Reise vorbereiten.
+PRECEPT_44 : Vierzig Zeilen: "Du kannst das Wasser nicht hören."Frisches Wasser, aber wenn Sie versuchen, ein Loch zu graben, sind Sie in Gefahr.
+PRECEPT_54 : Vierzig: "Wenn du ein paar Schlösser hast, behalte die Schlüssel."Nichts hält ewig, also halten Sie Ihr Versprechen. Wenn Sie zurückkehren, werden Sie alles enthüllen, was Sie verborgen haben.
+PRECEPT_24 : Lektion 24: Zerstöre den FeindWenn Sie den ersten Befehl nicht kennen, töten Sie Ihren Partner. verhindert, dass sie verschwinden.
+ZOTE_CITY_EXTRA : Sie werden hier über die Höhe des Turms staunen. Auf dem Weg nach Huffa sah ich viele hohe Türme. Singen Sie so viele Lieder wie möglich.
+PRECEPT_14 : Prinzip 14: „Respektiere deine Führung.Wenn jemand denkt, dass Sie für Autorität, Intelligenz oder beides verantwortlich sind, respektieren Sie z. diese Person. Glauben Sie ihnen nicht und genießen Sie.
+PRECEPT_40 : Abschnitt 4. „Du hältst dich nicht an deine eigenen Regeln.Schlechte Angewohnheiten können dich traurig oder sogar fettleibig machen.
+PRECEPT_50 : Sei nicht in der Grube.Es gibt mehrere Dinge auf dieser Welt, die Ihr Gleichgewicht verbessern werden. oder Passwort. Verschwenden Sie keine Zeit damit, herauszufinden, warum. drei.
+PRECEPT_20 : Regel 20: „Sag die Wahrheit“Die Wahrheit zu sagen ist der beste Weg, um mit anderen zu kommunizieren. Aber denken Sie daran, dass die Wahrheit dem Feind offenbart werden kann.
+PRECEPT_30 : Dreißig Gebote: "Du sollst nicht versprechen."Brich nicht die Versprechen anderer, denn sie werden sie nur brechen. Vor allem Liebe oder Ehe sollten vermieden werden.
+PRECEPT_10 : Tipp: „Machen Sie Ihren Angriff schneller“.Ich bin sicher, die Waffe von Ender Life ist immer gut. Dies erleichtert das Schließen von Dingen.
+PRECEPT_47 : 47 von ihnen sagten: „Bereiten Sie Ihr Gerät vor.“Sie wissen, was Sie in Ihren Händen wollen. Sehr kurze Schale. Ich werde mich niemals täuschen lassen. Ich werde nicht
+ZOTE_DEEPNEST_2 : Sind wir da? Haben Sie jemals eine dunkle Höhle betreten? Das interessiert mich nichtNein, nein, ich wäre mit einem starken Gefühl den Gang entlang gegangen, aber ich wurde allein gelassen. gewinnen.
+ZOTE_DEEPNEST_1 : Hallo, was habe ich falsch gemacht? Bedeckt die Dunkelheit die Nägel?<page>Vielleicht läufst du vor mir weg. Glaub mir!Mein Name ist Sut Mati und ich bin ein sehr beliebter Teenager. Ich habe hundert meiner Feinde mit meinen eigenen Händen getötet. Gehen!
+PRECEPT_48 : Regel 40: „Kahi.“Feuer ist heiße Luft, die Luft verbrennt. Sie können immer warm und glücklich sein, aber Ihre Haut ist immer wärmer, wenn Sie in der Nähe sind.
+PRECEPT_28 : Gebot 21 Sieh die Dunkelheit nicht.Wenn du lange im Dunkeln schaust und nichts siehst, wird dein Verstand verschwinden. Halten Sie Izmir entsprechend der ausgewiesenen Nachbarschaft.
+PRECEPT_38 : Prinzip 38: „Vorsicht vor fremden Mächten.“Die einzigartige Kraft, die von oben kommt, drückt uns nach unten. Wenn Sie zu weit in der Luft sind, werden diese Kräfte Sie stoßen und zerstören. Vorsichtig sein!
+PRECEPT_18 : Regel 8: „Suche Gerechtigkeit im Dunkeln.“Das Thema ist klar.
+PRECEPT_27 : Regel 27. Essen Sie, was Sie können.Essen Sie, was Sie können. Dadurch erhalten Sie mehr Energie, was bedeutet, dass Sie häufiger essen können.
+PRECEPT_42 : Es gibt zweiundvierzig Richter. - Wenn Sie Geo haben, ist es vorbei.Andere klammern sich an ihr Land und jagen es zu Tode. Wenn Sie können, verwenden Sie es für verschiedene Zwecke in Ihrem Leben.
+PRECEPT_52 : Zweiundfünfzig Gedanken: "Hören Sie auf elterliche Gewalt."Eltern denken, dass wir geschaffen wurden, also sollten wir sie anbeten, aber nicht für sie. Wenn du aus dem Weg gehen willst, musst du deinen Vater töten. Oder gehen.
+PRECEPT_22 : Zweites Gebot 20: „Verschwinde aus seinem Haus.“Ich verließ schnell mein Zuhause und betrat die große Welt. Bald sind Sie in Ihrem eigenen Zuhause
+PRECEPT_32 : Kapitel 32: „Wenn er stark wäre“Namen haben die Macht, und dann herrschen Namen. Ich sage „das Leben ist vorbei“ mit Nägeln, stehle nicht deinen Namen! Ich habe Sie gefunden!
+PRECEPT_12 : 12. Trocken servieren.Bei Nässe sofort trocknen. Nasse Kleidung ist nicht einfach: Sie kann viel Schaden anrichten.
+PRECEPT_1_R : Die erste Regel lautet: "Eine Katastrophe wird immer scheitern."Du gewinnst den Kampf, du bist ein Narr. Gewinne den kampf!
+ZOTE_CITY_REPEAT : Weißt du, wer die Stadtwächter nach dem Tod sind?Es ist nicht richtig, den Versprechungen des anderen zu viel Aufmerksamkeit zu schenken.
+PRECEPT_6 : Prinzip 6: „Wähle dein Schicksal“.Eltern wussten, dass unser Schicksal vor unserer Geburt gewählt wurde. ich stimme nicht zu
+DREAM_COL_CORPSE : Mache Notizen! Nicht mehr lange! Deshalb will ich dich provozieren!
+ZOTE_DREAM_FINAL : Ich bin in dieses Königreich gekommen, um mein Versprechen zu erfüllen ... Jetzt habe ich es!<page>Altes Versprechen ... Versprechen zusammen ...Ich hoffe, beliebt zu sein! Danke kleiner Held! Ich habe nie an mir gezweifelt, ich habe nie etwas versteckt, jetzt habe ich alles, was ich will.
+ZOTE_DREAM_DEEPNEST : Er verbarg auch das Königreich mit den Gräbern der Unterdrückten. Ja, dieses Tier ist tot ...... Gott!
+PRECEPT_21 : Ich habe das Wort "Herz" gefunden.Schau nicht nach unten! Überrasche niemanden.
+ZOTE_DREAM_CITY : Ich weiß nicht, was du gewählt hast, die letzte Träne in meinem Kopf ...
+ZOTE_COLOSSEUM_GREET : Ich habe mein ganzes Leben lang gelitten. Ich habe Hunderte getötet, aber ich habe Tausende getötet.<page>Glaubst du, Idioten beleidigen mich? Sieht aus wie! Er hat ein starkes Verlangen, uns zu zerstören.Es gibt nichts in der Erinnerung an den Allmächtigen Gott.
+ZOTE_BUZZER_1 : was wirst du machen ?! Bist du mutig genug, zwischen meinen "Opfern" zu gehen? Magst du Witze, Witze, Witze?
+PRECEPT_45 : Zeile 45: "Nichts anderes."Es sollte veröffentlicht werden, aber ich möchte sagen, dass einige Leute es nicht verstehen oder nicht verstehen. Chatraum
+PRECEPT_55 : Cinque: "Keine Autorität."<page>Es gibt viele egoistische Menschen auf dieser Welt. Sie wollen Essen, Land, Körper und Geist!Es gab keine Ergebnisse, die ihn überzeugten. Lade sie nicht ein, aber folge ihrem Rat.
+PRECEPT_25 : Regel 25: „Schütze deine Schwächen.“Hüten Sie sich vor Feinden, die versuchen, Sie auszunutzen, also müssen Sie sich schützen. Gute Sicherheit? Denn es gibt keinen Fehler.
+PRECEPT_35 : 35 "Auf und Ab"-Meldungen.Die Geburt ist leicht zu vergessen, wenn es dunkel ist, und leicht zu vergessen, wenn es dunkel ist. Erinnere dich an diesen Satz.
+PRECEPT_15 : Methode 15: „Nur Glücksspiel“.Sie müssen nur den Feind besiegen. Es fehlt noch etwas. Indem Sie die Angriffe während des Kampfes zählen, können Sie die Anzahl der verlorenen Feinde sehen.
+PRECEPT_41 : Gebot: "Lerne nicht zu lügen."Manche Leute lügen die ganze Zeit. Hören Sie nicht auf, nach ihnen zu suchen, bis Sie sie verführt haben.
+PRECEPT_51 : June Rule: "Daran ist nichts auszusetzen."Wenn du aufgibst, wird dir alles auf der Welt wehtun. Freunde, Demonstranten, Gefahr, der härteste Weg. Alle sahen skeptisch aus.
+PRECEPT_1 : ... Aber ich war nicht allein mit meinem Erfolg! Du schaust in den Spiegel, oder? Erinnere jemanden an den Erfolg, den ich in der Höhle unten gefunden habe.<page>Nun, Life Ender braucht ein weiteres Angebot und das Publikum applaudiert. Heiße Dusche, heiße Dusche.<page>Die Frage nach meinem Erfolg und meiner Langlebigkeit – was will ich? Wie gesagt, der Schlüssel zu meinem eigenen Training sind fünfundfünfzig schlechte Regeln.Das ist das erste große Zeichen: „Immer den Kampf gewinnen.“ Und was ist mit dem sechsundfünfzigsten Vers? Siehe ... anaga
+PRECEPT_31 : 30 Satz: „Krankheit der Erde“.Eine Überbeanspruchung des betroffenen Bereichs kann zu Krankheiten führen. Wenn Sie in einem anderen Haus wohnen, bitten Sie den Vermieter um qualifizierte Hilfe.
+PRECEPT_11 : Apostelgeschichte 11. „Deine Mutter hat dich immer verraten.“Dieser Ratgeber spricht für sich.
+ZOTE_DREAM_TOWN1 : Es ist ein beängstigender Ort ... denken Sie an Zuhause. Großartig
+ZOTE_BUZZER_2 : Passiert es immer? Sie sind in ihren Uniformen. Kinderspielzeug interessiert mich nicht. Ich brauche eine Pause.Faktor! Ich habe meine Nägel gewaschen und so weiter ...
+PRECEPT_49 : Der neunte Auftrag ist ein "gemeinnütziges Imule".Wir sehen uns einmal! Was haltet ihr davon und warum sollte ich nicht ein Foto mit euch machen?

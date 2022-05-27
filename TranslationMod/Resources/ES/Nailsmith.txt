@@ -1,0 +1,28 @@
+NAILSMITH_MEET_1 : ¿Compraste uñas nuevas? Acuéstate en el suelo y vuelve a la vida.
+NAILSMITH_DECLINE : Entonces, ¿estás preocupado? no.
+ART_DREAM : ... Trabajo ... Más ...
+MODELLING : Hemos creado una red de caballeros reales. Lo siento, pero les gustaba Shio.Ella está muy contenta. Esto es diferente del método original de trabajar con clavos. Me encantan todos los podcast.
+NAILSMITH_OFFER : Puedo arreglar tus uñas si quieres. Esto hace que la página sea más estable.
+NAILSMITH_COMPLETE_3 : Lo hicimos muy bien aquí.<page>me corté las uñas. La parte más difícil es esta. Descubrirá que es más fuerte que nunca.Ahora ve a la guía de viajes.
+NAILSMITH_GREET : Recaída y tristeza
+NAILSMITH_COMPLETE_1 : ven y mira<page>Me corté el dedo. Verás que es fuerte.Adelante, muestra a tus enemigos tu fuerza.
+PAINTED_REPEAT : En los días más oscuros de Halloween, pensé que podría inspirarme.
+NAILSMITH_COMPLETE_4 : Ya no puedo escuchar. Perdóneme.<page>Tu nivel es más fuerte que nunca. Un hombre fuerte.<page>Por mi parte, vi mucha violencia. Finalmente me di cuenta de lo hermosas que son mis uñas.<page>Creo que me llamó la atención por primera vez.tengo que irme en unos minutos...
+NAILSMITH_COMPLETE_2 : Este cambio es drástico.<page>Puse el tubo en mi uña. Necesitan ser reducidos de manera efectiva. Te verás más fuerte que nunca.Sal y prueba este lenguaje contra tus enemigos.
+NAILSMITH_REGREET : ¿Mmm? Todavía estas aquí. ¿Hay algo que necesites?
+NAILSMITH_ACCEPT : como se desee. lo haré
+NAILSMITH_KILL_REPEAT : no dispares, no quiero escuchar el programa.
+ART_MEET : ¿eh? Bienvenido a viajar, puedes ser una persona en este mundo.<page>Gracias por no matarme mientras te protejo. Al principio estaba preocupado. Pero me tomó mucho tiempo pensar y entender mi decisión.<page>Un mundo sin hierro y sin armas. Fui y encontré mi camino aquí rápidamente.Shio se especializa en muchas profesiones y promete enseñarme esto. Creo que seré muy feliz aquí.
+NAILSMITH_SIGN : no utilizado
+MODELLING_REPEAT : Cosa extraña. Creo que mis uñas no pueden ser brillantes.
+NAILSMITH_NEED_ORE1 : Dame un paño blanco para que pueda clavarte las uñas.
+NAILSMITH_NEED_ORE3 : Si tienes tres códigos, puedes hacer y mejorar tus uñas.
+NAILSMITH_NEED_ORE2 : Golpea dos metales en bruto para que pueda trabajar y fortalecer mis dedos.
+NAILSMITH_KILL : Mi vida terminó después de limpiarme las uñas. ¡Mi único sueño es ver la realidad más oscura!<page>Por favor, comprenda que quiero disfrutar de los últimos minutos de mi vida.Después de todo, estás cansado de eso... ¿no es así?
+NAILSMITH_NOT_ENOUGH_GEO : ¿No es un lugar? Lo verás en unos días.
+NAILSMITH_MEET_3 : Vi mi cabello. No discuto, pero tienes razón si quieres ampliar tus opciones.Tus límites son muy, muy malos. Ciertamente no para mí. Pero con fuerza y ​​habilidad, incluso un cuchillo roto puede hacer cualquier cosa.
+NAILSMITH_OFFER_ORE : Hay piedras grises. Si no tienes plancha, sí, dame la oportunidad de experimentarla. Repita por sus esfuerzos.
+PAINTED : Tengo miedo porque no hablo. Este efecto aumenta cuando está muy activo y no está dispuesto a enfadarse.Buenas vistas, pero sutiles.
+NAILSMITH_DREAM_CLIFF : Mi vida se acabo, que mas...
+NAILSMITH_MEET_2 : OkeyD. Creo que eres más.
+NAILSMITH_DREAM_INTERIOR : Para una referencia adecuada...

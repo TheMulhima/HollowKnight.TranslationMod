@@ -1,0 +1,134 @@
+MAP_TITLE : Stellmacher
+COLLECTOR_TITLE : es ist dunkel
+STEELSOUL_COMPLETION_TEXT : Das Spiel ist zu 100 % fertig.
+COLOSSEUM_1_TEXT : Vervollständige die Heldenfragen
+MR_MUSHROOM_TITLE : Fahrkarte
+MR_MUSHROOM_TEXT : Helfen Sie der Gruppe, ins Wasser zu gehen.
+WATCHER_TEXT : Regie: Ruth Lorraine
+AWAKENING_TITLE : Kräfte
+GRUBFRIEND_TEXT : Hüten Sie sich vor halbgezüchteten Insekten
+TRAITOR_LORD_TEXT : er hat sie betrogen
+SOUL_MASTER_DEFEAT_TITLE : Bürgerlich
+ENDING_A_TEXT : Rufen Sie eine Wache und seien Sie ein Pilot.
+CHARMED_TITLE : Denimaki
+VOID_TITLE : lächeln-
+HUNTER_1_TITLE : Der Erlöser ist zufrieden.
+BEAST_TEXT : Dazu müssen Sie Tiere töten
+ENDING_A_TITLE : Kev Lehrer
+DREAM_SOUL_MASTER_DEFEAT_TEXT : Besiege den bedrückenden Geist
+MANTIS_LORDS_TITLE : Beachtung
+WHITE_DEFENDER2_TITLE : O Herr
+STEELSOUL_TEXT : Laden Sie das Spiel im Iron Civil-Modus herunter.
+PANTHEON1_TEXT : Füllen Sie das Hauptpantheon.
+VOID_TEXT : Erinnere dich an die vergangenen Tage und zwei
+SOULFUL_TEXT : Bringen Sie drei Exemplare mit.
+WORLDSOUL_TEXT : Es gibt keinen Grund zu trinken.
+GREY_PRINCE_TITLE : Le Mans schläft
+STAG_STATION_HALF_TEXT : Zeigt ein zölibatäres Heiligtum, das die Insel Bombay zeigt
+NIGHTMARE_GRIMM_TITLE : religiöse Zeremonie
+HIDDEN_ACHIEVEMENT_TITLE : Dies ist ein Rätsel
+PANTHEON2_TEXT : Handwerkerleder am Ende
+ACH_TITLE_TEST : Dies ist der Name des Besitzers.
+COLOSSEUM_2_TEXT : tun, was Mose geboten hat
+PANTHEON4_TITLE : Wind und Schatten
+METAMORPHOSIS_TEXT : Alle Katzen werden mit dir gehen.
+DREAM_SOUL_MASTER_DEFEAT_TITLE : Dort
+NEGLECT_TITLE : Arzt
+BANISHMENT_TITLE : Schleier
+MANTIS_LORDS_TEXT : Aus dieser Zeile
+STAG_STATION_ALL_TEXT : Sehen Sie alle Holanest und Stagnast Sicherheit. Lor
+DREAM_FK_TITLE : Handgemacht
+NAILSMITH_SPARE_TEXT : Holen Sie sich ein neues Telefon
+DREAM_BROKEN_VESSEL_TITLE : Im Allgemeinen
+SOULFUL_TITLE : Es gibt keinen Schlaf
+WHITE_DEFENDER_TEXT : Besiege die weißen Wachen.
+NIGHTMARE_GRIMM_TEXT : Besiege den König der Träume und vervollständige das Karma.
+ASCENSION_TITLE : Fortschritt
+HIDDEN_ACHIEVEMENT : Diese Arbeit verbirgt die Situation.
+NAILSMITH_KILL_TITLE : Malen
+ATTUNEMENT_TEXT : B Margotra 600
+GRIMM_TITLE : Genießen Sie einen Drink
+WORLDSOUL_TITLE : Weltgeist
+WATCHER_TITLE : Sehen
+HORNET_1_TITLE : Versuche es
+MOURNER_TITLE : Es ist möglich
+BROKEN_VESSEL_TITLE : Nehmen Sie die Hand
+BLESSED_TEXT : Finden Sie die Sprichwörter und Segnungen der Versammlung
+PROTECTED_TEXT : Die Personen umfassen 4 Stück
+FK_DEFEAT_TEXT : Werde der Gewinner der Lügen
+PANTHEON3_TITLE : Wohnzimmer.
+SPEED_COMPLETION_TEXT : Schließe das Spiel zu 100 % und in weniger als 20 Stunden ab.
+HORNET_2_TITLE : Zahlungsbescheinigung
+ZOTE_TEXT : Verurteilen Sie alle im Vava-Kolosseum
+HUNTER_2_TEXT : Markus Markus Kantoren
+ENDING_C_TITLE : Meine Träume sind weg
+COMPLETION_TITLE : Rauchen
+ATTUNEMENT_TITLE : Europa
+DUNG_DEFENDER_TITLE : Regen!
+PROTECTED_TITLE : Weiterlesen
+NAILSMITH_KILL_TEXT : Befestigen Sie die Nagelspitze am sauberen Nagel.
+COLOSSEUM_2_TITLE : Chefarzt
+WHITE_DEFENDER_TITLE : Thunfisch
+ENDING_B_TEXT : In Ihrer Nähe befinden sich das berühmte Qadir und das Valley of Reading.
+STAG_STATION_HALF_TITLE : Überprüfen
+MOURNER_TEXT : Angenehmes Grau
+ENDINGD_TITLE : Empfangsort.
+HUNTER_2_TITLE : er ist ein echter fan
+FK_DEFEAT_TITLE : Pro
+TEACHER_TEXT : Löschen Sie das Nachrichtenmonomer.
+HORNET_1_TEXT : Trinken Sie Wasser auf der grünen Linie
+ENCHANTED_TITLE : Managementtherapie
+MASKED_TEXT : Finde eine andere Maske.
+COMPLETIONGG_TEXT : Schließe 112 % des Spiels ab.
+SPEEDRUN_1_TITLE : Aktivität 1:
+PANTHEON2_TITLE : Joka l’Angat
+AWAKENING_TEXT : Sammeln Sie 1.800 Artikel, die einige Ihrer Träume inspirieren
+COLOSSEUM_1_TITLE : Das ist
+BANISHMENT_TEXT : Team Graham ist für Halloween frei.
+SPEEDRUN_2_TEXT : Beende das Spiel in 5 Stunden
+COLLECTOR_TEXT : Ich habe gewonnen.
+PANTHEON3_TEXT : Außer dem Pantheon.
+ASCENSION_TEXT : 2400 Sammelt eure Seelen und hört die letzten Worte der Gemeinde.
+ENCHANTED_TEXT : Sie erregen die halbe Aufmerksamkeit von Halloween.
+SOUL_MASTER_DEFEAT_TEXT : Herr Asmangath
+HUNTER_1_TEXT : Finden Sie alle Halloween-Tiere in Ihrem Jagdkalender.
+GRIMM_TEXT : Besiege den Hauptmann der dunklen Armee.
+QUIRREL_EPILOGUE_TITLE : Stil
+SPEED_COMPLETION_TITLE : Wir sind Pavimo
+SPEEDRUN_1_TEXT : Das Spiel endet in 10 Stunden.
+BROKEN_VESSEL_TEXT : Berühre das havarierte Schiff
+ZOTE_TITLE : ein Rennen
+QUIRREL_EPILOGUE_TEXT : Letztes Mal war ich bei Quiral.
+GREY_PRINCE2_TEXT : Füge Prince Grey Temple hinzu
+MASKED_TITLE : AK:
+PANTHEON4_TEXT : Die Grenzen sind stark
+SPEEDRUN_2_TITLE : Lärm 2
+PANTHEON1_TITLE : Morgen
+METAMORPHOSIS_TITLE : فیوفونی
+TEACHER_TITLE : MACALIN
+NEGLECT_TEXT : Weg von mir
+DREAM_BROKEN_VESSEL_TEXT : Die Bilder sind alle falsch.
+DREAM_FK_TEXT : um das Spiel zu gewinnen
+NAILSMITH_SPARE_TITLE : Paare
+GRUBFRIEND_TITLE : CULEX
+GREY_PRINCE_TEXT : Sigra grauer Prinz Iota
+ENDINGD_TEXT : Der verlorene Tempel wurde gekreuzigt und niedergesetzt.
+STAG_STATION_ALL_TITLE : Uva
+GREY_PRINCE2_TITLE : Aber ich hasse Schönheit
+COMPLETION_TEXT : Schließe das Spiel zu 100 % ab
+ENDING_B_TITLE : Zusammen geschlossen
+BLESSED_TITLE : Und meine
+COLOSSEUM_3_TEXT : Schließe das fiktive Experiment ab
+BEAST_TITLE : Weg
+ENDING_C_TEXT : Absorption von Flecken und Licht.
+TRAITOR_LORD_TITLE : Behandlung
+HORNET_2_TEXT : Eroberung eines unbestrittenen Königreichs
+ACH_TEXT_TEST : Hier sind einige Anwendungen, die in Metakommunikationssystemen verwendet werden können.
+CHARMED_TEXT : Viel Spaß im Voraus
+WHITE_DEFENDER2_TEXT : Finden Sie Ihren Platz in White Defenders Dreams.
+DUNG_DEFENDER_TEXT : Die Metallabschirmung wurde entfernt
+MAP_TEXT : Ordnen Sie jeden Bereich zu.
+COMPLETIONGG_TITLE : Endreinigung.
+STEELSOUL_TITLE : letztes Jahr
+COLOSSEUM_3_TITLE : Jetzt
+STEELSOUL_COMPLETION_TITLE : Stahlform

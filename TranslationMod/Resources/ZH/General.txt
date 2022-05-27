@@ -1,0 +1,13 @@
+GAME_TITLE : S.p.
+PRE_MENU_QUOTE : 宽恕是一件美妙的事情。
+GAME_DISPLAY_TITLE : 
+SAVE_WARNING : 游戏会自动将信息存储在特定位置。 <br> 在看到这段代码之前不要关闭程序。
+CONTROL_PROMPT : 经常使用管理员。
+VERSION_NUMBER : ーーー
+PROLOGUE_EXCERPT_AUTHOR : Monomond A “穆布拉姆的荣誉”。
+PROLOGUE_EXCERPT_02 : 你的身体很痛，因为没有什么能伤害我们残忍的灵魂。
+PROLOGUE_EXCERPT_03 : 注意不要研究、修改或去除有机物，
+PRE_MENU_QUOTE_AUTHOR : - 麦兹弗洛罗
+PROLOGUE_EXCERPT_01 : 由于森林，仇恨和抑郁。
+SNEAK_PEEK : 这个宏伟的景象来自空心骑士未完工的地下室——它并不止于此。
+PROLOGUE_EXCERPT_04 : 他为昆虫和动物创造了一个不可预测的环境。

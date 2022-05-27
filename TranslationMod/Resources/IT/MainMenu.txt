@@ -1,0 +1,129 @@
+GAME_BACKER_NAMES : Assistenza al credito:
+UI_MENU_ACHIEVEMENTS_XB1 : La stagione:
+DESC_VSYNC : Rendilo il più semplice possibile. Vuole che l'utente veda che è disabilitato.
+VIDEO_SHADERS : Livello di eccitazione:
+PROFILE_CORRUPTED : ritenzione dell'acne
+ACHIEVEMENTS_BASE_SET_TITLE : Kshatriya Rakkak Oli Antukkusso
+MOH_LOW : Dall'inizio:
+DESC_SHADERS : Ciò ridurrà l'uso di sistemi a basso costo.
+DESC_BACKER_NAMES : Aggiungi un nome di fan di Kickstarter al tuo dispositivo.
+SCREEN_ACHIEVEMENTS : diventare
+OS_SLIDER : unità
+CTRL_REMAP : Gestione delle carte
+SCREEN_SAVE_PROFILES : Seleziona un profilo
+BUTTON_DASH : marco
+OPEN_CONTROLLER : Si consiglia di guardare la base dei coni.
+DESC_NATIVE_ACHIEVEMENTS : Guarda le notizie mentre giochi.
+BUTTON_DOWN : cucini !
+SCREEN_AUDIO : Suen
+BRIGHT_INSTRUCT : Rimuovere la palla per regolare il livello desiderato.
+PROFILE_CLEAR_PROMPT : molto interessante?
+PROFILE_CLEAR_BUTTON : Compensazione dell'affitto
+BUTTON_MAP : Mappa delle attività
+NAV_YES : Tuttavia
+MODAL_KEEP_RES : Vuoi fissare nuovi obiettivi?
+LANG_PT : Foto (Brasile)
+LANG_DE : In tedesco
+MAIN_ACHIEVEMENTS : In bocca al lupo
+STEEL_MODE_TEXT : Senza riposo. morte eterna
+MODAL_QUIT_TO_MENU : Perso?
+MAIN_SWITCH_USER : Modifiche personalizzate:
+BUTTON_RIGHT : Solstizio
+AUDIO_MASTER_VOL : magna:
+SCREEN_GAMEPAD_REMAP : Capo del dipartimento delle finanze
+MOH_OFF : Conservazione
+PAUSE_CONTINUE : Funzionerà
+LOADING : Scarica Fuoco...
+VIDEO_VSYNC : B-sol:
+BUTTON_LOOK : Guarda in alto/in basso
+BUTTON_SUPER_DASH : Kasta
+BUTTON_JUMP : Attenzione
+LANG_JA : æ— ¥ æœ¬èªž
+MODAL_CONNECT_CONTROLLER_PROMPT : Connettiti con l'autista.
+NAV_BACK : Di ritorno
+NAV_RESET : Ripristina le impostazioni personalizzate
+OPTIONS_VIDEO : video
+NAV_APPLY_TRUE : Attività
+SCREEN_EXTRAS : Liza
+KEYBOARD_NONE : Dixon
+DESC_PARTICLES : Non ci sono aggiornamenti
+BUTTON_ATTACK : collocamento
+DESC_NATIVE_INPUT : Se il telefono ha un problema, accendilo. Devo giocarci di nuovo.
+BUTTON_MOVE : Moi!
+LANG_FR : FranÃ§ais
+OPTIONS_CREDITS : Debito
+OPTIONS_KEYBOARD : rotte
+PROFILE_LOADING : Eliminare...
+MODAL_QUIT_GAME : Il gioco è finito?
+PROFILE_NEW_GAME : Di nuovo
+VIDEO_PARTICLES : Attico.
+CTRL_PRESSBUTTON : Fare clic sul pulsante "Nuovo".
+MAIN_EXTRAS : bene
+CTRL_UNMAPPED : Scarpe
+DESC_FRAME_CAP : Imposta la frequenza fotogrammi massima per l'uso normale.
+VID_OPT_BORDERLESS : Non c'è sporco
+GAME_NATIVE_ACHIEVEMENTS : una manifestazione di successo.
+GAME_NATIVE_INPUT : Accedi a Area Manager.
+OPTIONS_CONTROLLER : Risposta
+MOH_MED : leggero
+AUDIO_MUSIC_VOL : Musica Telemus:
+ACHIEVEMENTS_BASE_SET_TEXT : Ottieni una notte gratis.
+MAIN_QUIT : Smetti di giocare
+SCREEN_OPTIONS : Maja SA ha aperto
+MODAL_PROGRESS : La procedura si tiene
+NAV_NO : F.
+CTRL_NO_ACTIVE : niente neve
+BUTTON_DREAM_NAIL : Non un sogno
+NORMAL_MODE_TEXT : gli sport
+BUTTON_LEFT : Non:
+VIDEO_DISPLAY : Guarda:
+PAUSE_MAIN : Menu di uscita.
+PROFILE_DEFEATED : Sii come quello
+CTRL_NONE : L'autista non è in linea
+TEXT_SKIP_PROMPT : Premere ciascun pulsante per scorrere.
+BRIGHT_SLIDER : Bicchieri
+SCREEN_KEYBOARD : FX
+AUDIO_SOUND_VOL : Collettivo:
+MODE_STEEL : stirare al sole
+LANG_ZH : نو € نو نو € نو
+LANG_EN : Inglese:
+OPTIONS_AUDIO : Ho votato per lui
+LANG_IT : Italiano
+VIDEO_FRAME_CAP : Lunghezza media speciale:
+LANG_ES : EspaÃ±ol
+CTRL_NO_ACTIVE_DESC : Premi o collega il pulsante di controllo e apri un nuovo driver
+BUTTON_QCAST : Rapida crescita
+BUTTON_CAST : Forte/interno
+CTRL_DETACHED : Non è un gestore di contatti.
+MODE_SELECT : il processo decisionale
+GAME_LANGUAGE : Lingua:
+VIDEO_OVERSCAN : Skrin Magnum
+GAME_CONTROLLER_RUMBLE : Velo
+MAIN_OPTIONS : Opzioni
+BUTTON_UP : SHINTOMOG
+KEYBOARD_UNMAPPED : Non bene
+MOH_ON : Ultimo, ma non per importanza
+UI_MENU_ACHIEVEMENTS_PS4 : concessioni
+DESC_LANG : Cambia la lingua del menu principale
+SCREEN_VIDEO : Ridere
+MAIN_START : inizia il gioco
+KEYBOARD_PRESSKEY : Fare clic sul pulsante Nuovo.
+SCREEN_GAMEPAD : Direttore
+NAV_APPLY : Secondo questo
+BUTTON_INVENTORY : Volume delle vendite
+LANG_KO : í•œêµ­ì–´
+VIDEO_BRIGHTNESS : Strada
+MODAL_ENGAGE_CONTROLLER : Premi ciascun pulsante per iniziare.
+MOH_NORMAL : Nessun problema
+PAUSE_OPTIONS : Libertà
+VIDEO_FULLSCREEN : Pagina intera:
+VIDEO_RESOLUTION : Lexa:
+OPTIONS_GAME : tanto -
+BUTTON_EMPTY : -
+EXTRAS_CREDITS : Scavata
+SCREEN_GAME : Opzioni di gioco:
+MOH_HIGH : vedere
+MODE_NORMAL : Vecchio uomo
+OS_INSTRUCT : Disporre le immagini fino a raggiungere il bordo dello schermo.
+NAV_DONE : cosa dovrei fare
+BUTTON_PAUSE : Ho smesso di mangiare

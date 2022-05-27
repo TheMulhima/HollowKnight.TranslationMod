@@ -1,0 +1,150 @@
+WATERWAY_DOOR_KEY : Easy personal tools Do you use a simple key?
+GET_ACIDARMOUR_2 : Swim slowly in acidic water.
+FOUNTAIN_PLAQUE_DESC : There are many stories. “Thanks to their offerings, Halloween will continue.
+BATH_HOUSE_NOKEY : The door is closed.
+ABYSS_DOOR_NOBRAND : This article has been deleted.
+NOT_ENOUGH_GEO : Geo is not enough.
+JIJI_OFFER : a ja i SI IJ I Niveau I?
+PROMPT_ATTACK : Attack
+SIT : Host
+LEGEATER_SOMETHING : will give.
+CHALLENGE : This is difficult
+GET_SCREAM_2 : Magic destroys the soul. Strengthen your soul by killing enemies.
+PROMPT_FOCUS_EXPLAINER2 : Focus on mental health and treatment.
+XUN_OFFER : Did you get a present?
+NAILMASTER_PAY : Want To Get Into The Gift Basket Business?
+ACCEPT : trust
+TRAM_DOOR_NOPASS : Open the door
+GET_DREAMNAILUPGRADE_2 : A beautiful dream came true. It enters the brain with no problem.
+GEO_RELIEVE : Geo-police in Tirtiratan Dham?
+FOUNTAIN_PLAQUE_TOP : sell us
+GET_JOURNAL_1 : Switch to the board to light the board.
+GET_JOURNAL_2 : Defeat enemies and destroy hunting records adding new techniques.
+GET_DSLASH_2 : Release the button while working in the air.
+ENTER : please ask
+TRADE : process
+EXIT : cycle
+WATCH : Video
+GET_FIREBALL_2 : It can occur in hospitals and clinics. The soul remains the enemy.
+RUINS_SHAMAN_1 : Connect to the car <br>Are you sure?
+BUTTON_DESC_TAP : Internet:
+JINN_OFFER : Am I Perera Zaveen?
+GET_FIREBALL_1 : Free the soul
+GET_SUPERDASH_1 : Point to the floor or wall for accent.
+GET_SUPERDASH_2 : Click on the scroll button and jump in the air.
+GET_DSLASH_1 : Improves nail strength.
+REST : I - Restart.
+GET_WALLJUMP_1 : Put it on the back wall.
+GET_CYCLONE_2 : Press the release button up or down to adjust the wind speed.
+GET_SHADOWDASH_1 : Cover with a thick lamp.
+MAGE_DOOR_NOKEY : Shiny metal doors look gorgeous. There are many prevention options.
+TRIAL_BOARD_BRONZE : earning process. It's not a struggle for geography and attractiveness. How can I see and start seeing?
+PROMPT_FOCUS_EXPLAINER1B : When enough souls are gathered
+GET_ITEM_INTRO6 : To smoke
+GET_ITEM_INTRO7 : from
+GET_ITEM_INTRO4 : Marx
+GET_ITEM_INTRO5 : Or
+GET_ITEM_INTRO2 : I'm tired
+GET_ITEM_INTRO3 : Is-SurH。
+PROMPT_LOOK_DOWN : look at the pen
+GET_SHADOWDASH_2 : Use your weapons to defend yourself from enemies without attacking them.
+MENDER_DIARY : Dear blogs, life itself is not beautiful. I say edit the table, edit the text, delete. We prefer this solution. Sometimes I feel happy and very beautiful. The daily "side" line is not associated with the next move. Hi, we were a bunch of rebels when we were together ... <page> And Munderberg laughed. It's time to dump her and move on. My Beautiful Blog <br> Someone stole and ruined my favorite pictures. During the collision. It always happens! But I do not know what to do. I really want to thank you, the other way is to update this beautiful forum session by sharing it so you do not have to worry about ruining it for a long time.
+GET_ITEM_INTRO8 : once again
+CHARM_REMINDER : Unlock the most beautiful songs in the bag to open the celebration.
+GET_QUAKE2_1 : I have to walk.
+LOVE_DOOR_KEY : The door is closed. Living in New York Best tips for using the key to love every day?
+GET_KINGSBRAND_1 : Halowest represents a new world.
+TRAM_DOOR : Open the door <br> <br> Need a train ticket?
+BUTTON_DESC_RELEASE : Halal
+TRAM_CONSOLE : Go to the switch?
+GET_QUAKE_1 : When the fire is extinguished, the remains go to the ground.
+GET_QUAKE_2 : The mind eats the soul and fills the soul with victorious enemies.
+BANKER_ACCOUNT : Will you open an account?
+PROMPT_SUPERDASH : I'm really tired
+NAILSMITH_UPGRADE_1 : Will the contract area improve your performance?
+NO : Hair
+NAILSMITH_UPGRADE_3 : Will Bernice be strengthened by two geo-nails?
+NAILSMITH_UPGRADE_2 : yellow? Light blue dress?
+NAILSMITH_UPGRADE_4 : Three geese strengthen their claws at beak intervals.
+GHOST_CHALLENGE : You are struggling with nightmares.
+BUTTON_DESC_HOLD_FOCUS : women together
+JIJI_DOOR_KEY : Can you open the trash can with the proper lock?
+ASCEND : Walk up
+ELDERBUG_FLOWER : Give me beautiful flowers.
+TRAVEL : conference
+CHARM_TUTE_SUB : They make good plans to see their potential.
+GET_BLESSING_2 : After success comes beauty and love.
+PROMPT_INTERACT : Overall effect
+NAILMASTER_FREE : Have you become a master of green art?
+CITY_GATE_NOKEY : The statue is a superhero. He has a place in his chest.
+GET_BLESSING_1 : He was worried about his friend's health.
+GET_SCREAM_1 : For stupid writing.
+PROMPT_MAP_BLACKEGG : The black egg sticks to the top of the lid.
+TUK_RANCIDEGG : Buying food
+GET_HUNTERMARK_2 : The muscle is built in a corner.
+TRIAL_BOARD_GOLD : The madmen have tried this. Fight for Geo ... with stupid fame. How do I register and start a business?
+BUTTON_DESC_WALLJUMP : Click
+PROMPT_DREAMNAIL : Click on the snow road.
+TOLLBOOTH_STAG : Does each donkey have multiple geographies?
+BUTTON_DESC_HOLD : Exiled
+COLLECTOR_MAP : Prepare your cards:
+LOVE_DOOR_NOKEY : Man der Lynn; There is a container containing water
+GET_GSLASH_1 : Draw the boards.
+GET_SCREAM2_2 : To protect the river. Kill enemies and fill up.
+GET_SCREAM2_1 : Press UP to start shaving.
+HUNTER_REWARD : Are you ready to receive an award?
+NAME_BLESSING : Healthy Parabens
+TRIAL_UNLOCK_BRONZE : Did you pay to sue the hero?
+PROMPT_DASH : And some
+GET_HUNTERMARK_1 : It is a sign of respect for true hunters.
+GET_GSLASH_2 : To pop up larger bars, press the up or down key.
+TOLLBOOTH_LIFT : A car with a license plate. Suspicion?
+INSPECT : Punishment
+GET_ITEM_INTRO1 : i understand
+TRIAL_UNLOCK_GOLD : Is it foolish to pay for a hearing?
+BUTTON_DESC_PRESS : Uh. R. for me
+GET_MAP_1 : Get a chart.
+TRAM_CALL : How to open a passport <br> Plagiarize tram ticket?
+GET_MAP_3 : See the full Halonest map in the Map List table
+PROMPT_FOCUS_EXPLAINER1A : Blow up enemies and collect them.
+DESCEND : Abbreviation
+GET_COLLECTOR_MAP : The position of the prisoner is indicated in the corner.
+BATH_HOUSE_KEY : Doors and simple locks <br> Simple locks?
+TOLLBOOTH_GATE : Automated bank account withdrawal signature. Z Geo?
+CHARM_TUTE_TITLE : beauty accomplished
+GET_MAP_2 : Map with your current location
+BUTTON_DESC_NONE : 
+GET_DREAMNAIL_2 : Cut the tent that separates your dreams from reality.
+NO_MAP : There are no maps for this area
+GET_KINGSBRAND_2 : He conquered the gates of the empire.
+WATERWAY_DOOR_NOKEY : A simple way to change.
+SHOP : Hello
+FOUNTAIN_PLAQUE_MAIN : Pirates
+MAGE_DOOR_KEY : Doors cut of polished metal <br> Want to add a lighter lock?
+GET_DREAMNAIL_1 : Liver and nails.
+LISTEN : hear what he has to say
+TRIAL_BOARD_SILVER : Geo works well with some metals. The signal is given at the beginning of the experiment.
+TRIAL_UNLOCK_SILVER : Are you paying to unlock a broken system?
+GET_ACIDARMOUR_1 : The acid must be removed.
+GET_QUAKE2_2 : magic-killing Spirit <br> It attacks enemies and replenishes spirits
+CITY_GATE_KEY : There was a giant knight on his chest.
+TOLLBOOTH_BENCH : Payment machine with bank signature are you still alive
+PROMPT_JUMP : perfect
+PROMPT_FIREBALL : revenge for the soul
+GET_WALLJUMP_2 : Let one wall reach the other.
+GET_DREAMGATE_1 : Take your time Use Dream Nail to install Dreamgate.
+GET_CYCLONE_1 : Focus on the second energy.
+GET_DREAMGATE_2 : Sisapna uparbala dreyamgate dream what.
+YES : Inability
+GET_DOUBLEJUMP_2 : Swim with enemies with the required wings and discover new abilities.
+PROMPT_FOCUS : Absorption
+PROMPT_QUICKMAP : Take a quick look at the map
+JIJI_DOOR_NOKEY : The stone gate has just closed.
+: The door is locked, with the wrong key?
+TRAM_CALL_NOPASS : Drill holes to replace them.
+GET_DASH_2 : Wear a hat and throw it on the ground or in the sky.
+GET_DOUBLEJUMP_1 : Expand your page.
+GET_FIREBALL2_1 : It opens a strong head
+GET_FIREBALL2_2 : This patch is harder to follow as the force increases.
+GET_DREAMNAILUPGRADE_1 : Cut the nails.
+GET_DASH_1 : Wait

@@ -1,0 +1,14 @@
+CITY_OF_TEARS_1 : nessuna villa
+DIRTMOUTH : Discussione:
+DEEPNEST : Più calibro
+KINGS_STATION : Tony
+RESTING_GROUNDS : posto felice
+HIDDEN_STATION : Stazione nascosta
+STAG_NEST : La struttura superiore di uno
+ROYAL_GARDENS : C'è acqua
+GREENPATH : Mare verde
+STATIONS : indicare
+BONE_FOREST : ்்்
+CROSSROADS : Libola ipreptona
+FUNGAL_WASTES : Regina Garani
+PALACE_GROUNDS : Bitone

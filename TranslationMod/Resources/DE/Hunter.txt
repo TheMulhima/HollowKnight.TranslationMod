@@ -1,0 +1,10 @@
+COMPLETE_REPEAT : Stellen Sie sicher, dass Sie ein echter Jäger sind. Keeler Onkel, also freue ich mich, dir ein tolles Geschenk zu machen ...
+HUNTER_MEET : Hunde ... keine Sorge. Bist du ein glücklicher Mensch wie ich?<page>Willst du jagen, töten und schlauer sein?<page>Also los! Mein Tagebuch, du hilfst mir. Das Trennen von Text von Text kann schwierig sein, aber der Blickwinkel weiß, wovon Sie sprechen.Gehen Sie zur globalen Erwärmung und töten Sie Tiere. Muss das Spiel kennen.
+HUNTER_ENTRIES_COMPLETED : Treffen Sie alle Tiere auf der Erde. Vati! Aber hier ist eine andere Seite, etwas mehr.Folge und akzeptiere alle meine Posts! Dann wirst du wissen, dass du meine Beute bist und du wirst deine Belohnung erhalten.
+HUNTER_CONVO_1 : Versuche es! Bitte helfen Sie. Aber du hast angefangenEs wird Sie bald in die Mitte heben!
+HUNTER_CONVO_3 : ! Füllen Sie die Tapete aus. Fange die letzten seltenen Tiere.Erkunden Sie jeden Winkel des Landes. Bitte füllen Sie den Kommentar aus. Holen Sie sich ein Geschenk ...
+GOT_MARK : Du bist mein Ebenbild, wenn wir wissen, dass er das Ebenbild meines Großvaters ist. Ich habe dir nichts zu geben.
+HUNTER_CONVO_2 : Nun, das bin ich nicht. Es ist eine Art Jagd. Das Tier der Kirche wird zu dir kommen.Hör jetzt nicht auf. Suchen, jagen, töten.
+HUNTER_COMPLETE : Sehen Sie Ihre Kommentare ... nicht mehr!<page>Das komplette Hunter-Magazin!Ich persönlich möchte Ihnen eine faire Auszeichnung geben, da Sie der beste Jäger aller Zeiten sind ...
+GOT_REVISIT : Rafiq ist ein Jäger. Du willst zurück, du hast es für mich getan. Ich hatte nicht viel Zeit, um ein weiteres Spiel zu beginnen.<page>Wahre Mieter haben kein Zuhause oder Personal, sie wollen nur neue Häuser bauen.Ich habe einige Vorschläge, aber das ist erst der Anfang. Er lebt mit dir, in dir und inspiriert dich zur Suche … Er wird dich nicht verlassen.
+HUNTER_DREAM : Und... was weißt du? Folgst du mir noch...? Ich hoffe, es zu versuchen

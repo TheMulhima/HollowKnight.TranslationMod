@@ -1,0 +1,10 @@
+COMPLETE_REPEAT : Cher chasseur. Permettez-moi de me présenter comme un meurtrier professionnel. Je suis content que vous ayez eu le prix que vous méritez...
+HUNTER_MEET : Le personnel... vous pouvez les approcher sans crainte. Es-tu aussi intelligent que moi ?<page>Me détestez-vous et me tuez-vous?<page>C'est vrai! Mes commentaires. Il veut aider. Les mots sont difficiles à comprendre au début, mais les chasseurs expérimentés les comprennent.Allez dans la fosse et détruisez l'animal. Assurez-vous que le chasseur a le droit de préparer la médaille.
+HUNTER_ENTRIES_COMPLETED : Vous reconnaîtrez tous les animaux du pays. Hahaha! Cependant, les efforts se sont poursuivis et un petit embouteillage s'est produit.Je veux rester jusqu'à ce que toute ma liste soit affichée ! Ensuite, trouvez, chassez et gagnez de l'argent.
+HUNTER_CONVO_1 : Renard! Vous pouvez trouver d'autres animaux, mais je suis un débutant.N'ayez pas peur de vous jeter dans les bras de ce monde et de trouver la vie que vous voulez !
+HUNTER_CONVO_3 : Oui, votre brochure est petite et emballée. Le dernier animal rare vit dans une boîte.C'est la fin de l'empire. Terminer le livre. Trouvez le prix que vous voulez...
+GOT_MARK : Vous avez ma signature et vous serez reconnu par ma génération. Des angles que je n'ai rien à proposer.
+HUNTER_CONVO_2 : Je sais, j'en ai vu beaucoup. Les collectionneurs d'Animal Hunter viennent pour Halloween.Ne vous approchez pas d'un petit tireur d'élite. Coups épars ou répétés.
+HUNTER_COMPLETE : Je vois ta réflexion...<page>Oups! Le jeu est gratuit !Prouvez que vous êtes un bon chasseur et tueur, alors je me ferai un plaisir de vous récompenser...
+GOT_REVISIT : Compagnon de chasseur Tu es de retour, tu me vois bien, il est trop tard pour une autre partie de chasse.<page>La nourriture part et nous attendons la nouvelle nourriture.Oui! Ils ont des cours, mais ce n'est que le début. Votre présence fait partie de vous. Le désir de creuser profondément et de chasser n'est pas perdu.
+HUNTER_DREAM : Il est meilleur que moi... tu sais, tu as commencé à me battre... ? essayer

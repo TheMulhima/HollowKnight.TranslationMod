@@ -1,0 +1,13 @@
+GAME_TITLE : Wald
+PRE_MENU_QUOTE : Ich bin froh, dass ich mich verirrt und wieder einen Platz gefunden habe.
+GAME_DISPLAY_TITLE : 
+SAVE_WARNING : Dieses Spiel speichert Daten nur für einige Zeit. Schließen Sie diese App zu diesem Zeitpunkt nicht.
+CONTROL_PROMPT : Ihr Browser ist ausgelastet.
+VERSION_NUMBER : ---
+PROLOGUE_EXCERPT_AUTHOR : - «Santisimo Elegie» Pasun
+PROLOGUE_EXCERPT_02 : Niemand nimmt unsere wilden Seelen, aber es ist notwendig.
+PROLOGUE_EXCERPT_03 : Indem wir in die Augen des Leidens schauen, lernen wir, wie wir unsere traurigen Herzen retten können.
+PRE_MENU_QUOTE_AUTHOR : Fleischklößchen
+PROLOGUE_EXCERPT_01 : Kehren Sie für sich selbst in die Wildnis zurück.
+SNEAK_PEEK : Der heimliche Held wird in ein ewig leeres Ritterhaus gebracht, und das ist nicht der letzte Auftrag.
+PROLOGUE_EXCERPT_04 : Dies ist eine Welt, die sich nicht um Zoll und Tiere kümmert.

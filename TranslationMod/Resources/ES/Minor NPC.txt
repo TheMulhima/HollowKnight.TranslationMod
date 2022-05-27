@@ -1,0 +1,231 @@
+BIGCAT_REPEAT : Hmmm... ¿quieres ir? A estas alturas, el sueño no suele ser cómodo, pero volveré a descansar.
+KING_ABYSS_FINAL_A : Estás atado por luces tenues que destruyen tus sueños.
+LITTLE_FOOL_NOTENOUGH : Oh, las tarjetas no ayudan. Me temo que no podemos culparnos a nosotros mismos. volver a la bondad y la riqueza
+JINN_TALK_02 : ... cuerpo flaco... flaco... polvoriento. Algo de peso.Sin peso, sin dolor... mal. peso eterno.
+JINN_ACCEPT : ¡Qué maravilloso regalo! aterrador...<page>Sin embargo, bajo su dirección, Gin está espiando al amigo de Gin. La comida no es buena, acepto el mal amor.En resumen... lo siento. traje
+WHITE_DEFENDER_OUTRO_2 : Rey... te creo. Creo en Halloween. no he perdido la fe...
+LITTLE_FOOL_PAID : Primero, nuevos desafíos se abren para ti. me parece muy bueno tu post...
+GIRAFFE_UPPER_REPEAT : La risa
+SPIDER_GREET2 : Mi mejor amigo Usando guiones muy bonitos. entonces lo conoces Y la señal de la salvación, hijo.<page>Eso es malo, ¿no? Él da regalos ligeros a hermosos hogares, animales y caza.<page>Ha sido un largo tiempo. Sería bueno que vinieras a nuestra casa...... Barsan. Wow, hmm, no estoy feliz. La nostalgia no impide que me ahogue en una meditación tan loca, especialmente cuando tengo hambre.
+MR_MUSHROOM_SHROOMISH1 : Dongo, el viejo mensajero del bosque, Gong Mo...
+CLOTH_DEEPNEST_MEET : Naturalmente saludable. Como dije, como turista, odio este horrible lugar.
+TISO_COLOSSEUM_REPEAT : Tuve que separarlos Oh, me vio muerto
+SPA_DUO_DREAM : El otro es débil. Los consejos de Colosseum son una gran idea, pero no se apresure a enumerarlos.
+JINN_NOEGG : P... quieren un regalo que no traiga duendes. No funciona... no.... Schumacher le dará el regalo que necesita. Impresionante... por... sucio? ¿Volverá de nuevo? Elfos piensa...
+MASK_MAKER_UNMASK3 : Bájalo, es realmente un secreto... defensa fuerte, pero con un final trágico.Socavar la idea principal de quien quiere mantenerlo en secreto.
+MINER_DREAM_2 : ... Cuantas veces... Piensa... Cuantas veces... Accidente... Cuantas veces... Piensa... Cuantas veces... Espacio...... ¿Cuánto tiempo se tarda en excavar ...?
+MINER_DREAM_1 : La canción es sencilla. Cantar. te estoy buscando¡Llamarlo! ¡Cristal! Estoy bastante oído lo que dices.
+WHITE_DEFENDER_OUTRO_3 : Mi Rey... ¡Un santo también debe nacer! ¡Belleza y belleza! como siempre...
+LITTLE_FOOL_UNPAID : ¡F! El trabajo se realizará para aquellos que no brindaron el apoyo necesario. Un vistazo rápido al mapa del mundo
+BRETTA_DREAM_ZOTE : Anuna...
+SPIDER_REPEAT : Mi amor no es nada, mira tu trabajo, soy una invitación al amor. No entiendo por qué algunas personas no pueden ver su sistema.No te detengas cuando tengas algo para comer. La mejor manera de sentirse bien es...
+TUK_DREAM : Bueno, te veo luego. ¿Adónde me dará el agua? Yo sólo... quiero ver y rezar.Cuando nos volvamos a encontrar... quiero cantarte... lo siento.
+CLOTH_TRAMWAY_SAVED : ¡Todo! No pude alcanzar mi debilidad. Quiero sacar fuerza de tu ejemplo.Yo creo en la guerra. No tengas miedo del enemigo. trabajaré juntos
+MINER_EARLY_1 : Vaya, no está funcionando de nuevo! En coche y ¿por qué me quieres llevar allí? ¡Esta piedra es perfecta para los amantes del trabajo!¡Estos cristales son un poco brillantes, pero creo que hay algo muy profundamente escondido! ¡No huele! ¡LOL!
+JINN_ACCEPT_REPEAT : ... algo malo ... un regalo sucio. Un elfo tiene un don... un elfo... amigos y belleza. Esta fábrica...
+XUN_FAILED2 : Rompe la oferta Sí, y esto es extraño, el lado duro es la boca seca.Chi y ... pero el lémur debe saber que esta es una flor sagrada hermosa y gentil. Él no quería ir allí, hizo todo lo posible por amor. ¿Este movimiento se detiene?
+LITTLE_FOOL_CHALLENGE : Sube tu ficha y te abrimos la puerta. ¡siguiente! Ve al Coliseo y gana.
+TISO_LAKE_REPEAT : Estará tranquilo. Y no te rindas.
+CLOTH_TRAMWAY_DREAM_HAPPY : Esta sinceridad llega en el momento adecuado. ¡Muy buen diseño!Es tan fuerte como un soldado. He leído detenidamente el formulario de solicitud.
+MASK_MAKER_UNMASK : ¡Él vio el plan! otra cara?La pura verdad es profunda. Nuevo Motasi?
+QUEEN_DUNG_02 : Querido Yogaram, ¿estás seguro de que alguna de tus amigas está de viaje? Miró frente a mí por un momento.A pesar de su frente rígida, es un defensor fácil. Estoy seguro de que quiere ver algo más grande de nuevo.
+QUEEN_MEET_REPEAT : estar bien preparado Pero no lo hagas. Si la columna vertebral se daña de inmediato, este problema terminará con siglos de rabia y violencia.
+QUEEN_HORNET : ¿El sexo es especial? Ella puede estar con nosotros por un tiempo, pero es un demonio que daña el rostro, el alma y el cuerpo de nuestra madre.<page>No sé cómo trabaja Verma con confianza. Y no me gustan los animales naturales.Si el proceso siempre es correcto, creo que podemos ser su socio fuerte.
+MR_MUSHROOM_DREAM_SHROOMISH : Mira las lágrimas. Doji! ......
+LITTLE_FOOL_DIED : ¿Qué piensas acerca de este acuerdo? Quería matar con respeto, pero ahora no lo admito.Puedo imaginar. Siempre pensé que saldrían los jugadores. Este es un buen ejercicio. Especialmente si el trabajo es en la pobreza.
+MR_MUSHROOM_DREAM : ... los gusanos hacen la cama a sus expensas. Pasó un siglo y los imperios colapsaron.El casco y la bala se deshacen, pero tú...
+MR_MUSHROOM_4 : Los diferentes significados de la palabra "héroe".<page>¿Hay delincuencia y profesionales en todas partes?¿Quieres romper la cadena del futuro que creó todo?
+GIRAFFE_MEET : Serra! Tomando medicación, pude trabajar con los pequeños saludos especiales que recibimos. Lo encontre en esta pagina y solo Dios si.
+TUK_EGGMAX : Tienes mucho que comer, ¿no? Aquí está... es una fragancia.No te importa... No quiero compartir contigo.
+MINER_EARLY_3 : Trabajo duro pero no lo creo. Entonces puedo trabajar sin dormir. Para el juego¡Y tú siempre estás frente a mí! Menos mal... si si... alédame ma che che che che ¡Mi voz!
+MINER_EARLY_2 : ¡Caballo, esconde las uñas rotas y esconde a una hermosa mujer rubia! ¡Las monjas se adornaron, se escondieron y cubrieron sus alas con coronas!
+LEGEATER_MEET : No intentes vencerme. dudo de ti<page>Hmmm... ¿Obtuviste suficiente información de mapeo?Tráeme algo que pueda ver en Zion... Nada.
+MOSS_CULTIST_01 : realmente no. Nos encanta que la luz nos toque. Tu enfermedad nos llena.Los santos han quemado tus ídolos. Respondiendo...
+DUNG_DEFENDER_REPEAT : Únete al poderoso guerrero en Halonest. He demostrado tu valía. Esperamos verte en el futuro.
+DUNG_UNDERGROUND_1 : ¡Eres hermosa y respira hondo!<page>Me gusta despertarme y dormir a tu lado, pero de verdad, si tu agua está enferma por dentro, definitivamente descansaré aquí.El rey ha desechado su reino y yo he dado mi casa a los pobres. Relájate, caliéntate y mantén el nivel de humedad que desees.
+KING_ABYSS_FINAL : Puedes hacer destellos en tus sueños oscuros.<page>Eres una herramienta.No dentro de la noche
+BRETTA_DIARY_2 : 萨尔瓦多布兰克 <br> <br> 他知道他的哭泣在哪里。 Ha preso solo un proiettile.<page>Tal vez su nueva madre regrese cuando se entere de que está muy enfermo. Al pie de la montaña, sus ojos eran oscuros y brillantes, los ojos de su novia perdida.<page>El Salvador lo tomó y se sentó a su lado con grandes pensamientos. ¡ciertamente!La cara de la niña estaba atónita, sus dedos giraban, no se frotaba los ojos, no se tocaba las uñas, tenía amor verdadero. El amor duele, las calles están en silencio...
+TUK_BUY : Paz... Este lugar es mío ahora. No lo molestesCome mientras estás fuera.
+CLOTH_FUNG_DREAM : ¿Por qué hay tanta maldad en el mundo?Cállate, estúpido completamente. Si estoy orgulloso de mí mismo, recurriré a este joven soldado.
+LITTLE_FOOL_LOCKED : ¡No demasiado pronto! Para los inexpertos, comencemos con algunos desafíos.
+JINN_DREAM : ¿Sueñas con Jane? ¿Que quiero decir? ...... ¿Cuanto tiempo has estado ahi?
+JINN_OFFER : ... Jane Jane es el mejor regalo ...?
+TISO_BENCH_GREET : Dios. La acusación no es clara. ¿Usas cuerdas viejas? Ninguna cosa. Los verdaderos guerreros van a la guerra. No necesitan consuelo.
+BIGCAT_DREAM : No puedes vencer a la gente como quieres. Lucha en lugar de ira.
+KING_ABYSS_FINAL_C : Eres un jinete sagrado.
+BRETTA_DREAM_BED : Tengo que limpiar.. No tengas miedo.. Hace frío afuera..
+BIGCAT_INTRO : Ah... algo. Estaban en la cima. ¿Busca información sobre la ubicación?<page>Son las cenizas de la tumba de la serpiente. Incluso murió. Pero, ¿qué pasa con la muerte de esta antigua criatura? Creo que es un gran cambio.Este es el resultado del fracaso.
+JINN_RETURN : ... Asi que. ¿Recuerdas que das regalos? ¿Tiene algún requisito para la iluminación?
+QUEEN_REPEAT_SHADECHARM : En esos ojos eternos... sí, ha sido reemplazado por la revelación.<page>Escuchaste algo ...? ¿Le dispararon? ¿O tal vez repugnancia? Entonces no entendí.Tu reino, tu santidad... el futuro ha quedado atrás.
+XUN_DREAM : Dios... clavo... ¿por qué?
+SPIDER_GREET : ¡Suficientemente bueno! Regresé. Ejemplo aceptable, por ejemplo, me disculpo de antemano, Joe Joe tiene razón contigo. Tienes razón. Normalmente me despierto con hambre. Actualmente.<page>¿Has oído hablar de mí?Soy bosnio, pero muchas personas se han unido recientemente a mi ministerio.<page>Nuestra generación está conmocionada por esta epidemia. Triste condición de malas mejillas.Sin embargo. Estoy comiendo Sí, estoy lleno, entonces el niño me hizo muy feliz. Buen paquete de comida...
+TISO_TOWN_GREET : Fácil de usar, puede usar fácilmente estas correas. Si un río corre, no hay muchos soldados en el pozo.<page>Porque el costo es bajo. Igual que yo. Ponemos a prueba tu habilidad.Volveré enseguida. Si tienes hijos, canta.
+LITTLE_FOOL_CHAMP : Sin mí, la verdadera batalla de la ignorancia habría continuado. ¡Ve a clase y recuerda! ¡Muéstranos tu verdadera ignorancia!
+EMILITIA_MEET : ¡Fue increíble! No lo veo a menudo. largo tiempo. Cientos de años. Ojalá mis esfuerzos no sean en vano.<page>Find Your Love Como sabéis, es famosa porque se rodó en Halloween.<page>Bueno, lo hice por segunda vez antes de que los idiotas se fueran.<page>¿Los has conocido, mi viejo amigo? Tu presencia es insignificante e insignificante. Pero me senté a ver su dolor.Oh, estoy feliz, buena suerte.
+KING_ABYSS_02 : Memorable.
+KING_ABYSS_03 : No hay crimen.
+KING_ABYSS_01 : No funciona
+LEGEATER_DREAM : Estoy cansado... Geo me lo da. Si alguien viene, roba una carta.Si tienes suficientes letras, serás rey. Si tengo suficientes artículos, los tengo...
+LEGEATER_NOSTOCK : No tengo nada que mostrarte. ¿Todavía lo necesitan?Te gusta tanto...
+XUN_HAVE_FLOWER : Su tumba está en medio del templo de la antigua reina, y las calles y callejones entre ellos están llenos de animales.El camino es bueno. Latido del corazón físico.
+BRETTA_DREAM_DAZED : soy rubia... Tejasuvi...
+CLOTH_GHOST : ¡Está nevando! Es muy difícil de adivinar. Muy ocupado. Esta vez. Esto es algo honesto y tiene que terminar.Gracias por ayudar a mi amigo. Sólo un ejemplo de un pequeño error. Hasta luego.
+MASK_MAKER_UNMASK4 : ¿Estoy buscando otro rey? Acepta esta responsabilidad.<page>No se informaron errores. Estos animales también conocen las condiciones que los rodean y construyen nidos a su alrededor.En primer lugar, se necesita más control. La eliminación de Halloween es un testimonio de este éxito.
+LEGEATER_REFUSE_AGAIN : mantha? !! ¿Quieres compartir tu página gratis?
+EMILITIA_GREET : Nunca he hablado con nadie como tú, pero ahora tengo miedo.Si no estoy de acuerdo, no compartiré mi felicidad con los demás.
+BRETTA_DREAM_BENCH : Por mi salvador...
+TISO_LAKE_GREET : Kara es un lugar tranquilo. Lo que más me gusta es la guerra brutal. muerto. Este silencio es doloroso.
+JINN_TALK_GENERIC : ... ¿quieres hacer negocios? Comenzar y vender un gran negocio
+SPIDER_DREAM : me !! ¡puerta! ¡puerta! ¡puerta!
+CLOTH_TRAMWAY_GREET : Eh, ¿por qué quieres todos estos animales?<page>No me da vergüenza decirlo... me escondo. Estos males me abrazan. ¿Quién sabía que me despertaría si no venía?Otros dicen que soy un soldado terrible, pero mi cuerpo es incierto, pero es una regla estatal, ¿no crees que valgo la pena? Autor: Rainey hhhhhhhhhhhhhhhhhhhhhhhhhh...
+XUN_MEET : ¡Qué vergüenza el mundo! Este es un mundo malvado, un mundo pecaminoso. ¿Por qué no se despertó? ¿Por qué me salvaste?<page>Haba Lamur, ustedes dos no están casados, y no sé si los dos países no son suficientes para encontrarse.<page>Y ahora es su mejor amigo. ¿Me enterró hasta que muriera? No, hablo con un hermano que queria salir con nosotros....<page>No te calles... ¿Nalo, Nala? Tu puedes preguntar. Puedes apagar:<page>No Lemur, ¿puedes regalarlo?<page>¿Quizás un pequeño regalo? Pero el viaje fue demasiado largo. Él y Holly Mad descansaron con su familia.Si eso sucede, no preguntes por lo imposible. Para los lémures locos, estos hallazgos se olvidan por completo.
+DUNG_DEFENDER_DUNG_CHARM : Exalta la gloria de los justos, Por supuesto que estás montando una bicicleta fuerte.
+TUK_DUNG : گ jo گ jo ...? Tu olor... ¿sois amigos? Si sois mis amigos, compartiré la comida con vosotros.Muy bien, ayuda
+CLOTH_TOWN_REPEAT : Estoy moviéndome. Fue un error dejar la junta de Tuttle City. Haré todo lo posible para salvarte.Primero, relájate bien.
+MR_MUSHROOM_EXCUSE : ... Lo siento.
+TUK_GREET : Jajajaja... el agua me dio lo que quería... lo conseguí.Él te trajo aquí. Cuando tengo hambre, como con Geo.
+XUN_ACCEPT : Los sueños especiales te hacen feliz ¿Cuál es tu último sueño? No tienes que cargar a los demás.<page>Las flores sagradas como regalo son únicas y peligrosas. Este es un tipo especial. Necesitas respetarlo y actuar en consecuencia.<page>Si te lesionas en un viaje o llevas este feo animal. Perecerán para siempre.<page>Su tumba está en el corazón del continente. Conéctate con tu pareja para que no veas tu violencia.Creo que el deseo de paz es insoportable. Esto es verdad.
+TISO_DREAM_BENCH : Estos ciervos viejos pueden ser luchadores obstinados. Si no fuera por los crueles...
+JINN_SHADE_CHARM : Es extraño. En lugar de parecer impotente, ganó. ¿Cómo está Jenny... te interesa?La herencia toma malas decisiones... nada mal. ¿Cuál es la diferencia que a Jane no le gustó? ¿Es suficiente? Todavía... ¿como profesor?
+MR_MUSHROOM_FINAL : ... Venus. Demostración. ¿Quieres seguirme? Espero que mi visita no me distraiga.<page>Además, la libertad de movimiento también ayuda a comprender mejor. Eventualmente encontramos nuestro propósito y nuestro camino, y la parada no es solo una base.<page>Dime, ¿y si no encuentro mi lugar? Montañas profundas, paisajes arenosos remotos, vastos sitios arqueológicos. No es el primero ni el último, pero sí algo muy especial.Ahora que ha completado la tarea, es hora de seguir adelante. La próxima vez, mi amigo. Bonito viaje, pero divertido.
+TISO_DREAM_LAKE : Esto me llama ¿Qué es posible en este lago?
+CLOTH_QG_DREAM : ¡El tiempo ha llegado! Respondí con ese miedo. Que feliz estaba.
+CLOTH_FUNG_REPEAT : Cuidado con los peatones. Nos vemos en el camino de nuevo.
+DUNG_UNDERGROUND_2 : Aunque mi cueva está lejos del esplendor del palacio, los pensamientos y pensamientos de la época del Gran Rey todavía están en mi mente.Story Court es un hermoso lugar lleno de héroes. ¡pero! Ahora que te veo, puedo imaginar fácilmente cómo estabas en ellos.
+TISO_TOWN_REPEAT : Haram... ¿Cuáles son las barreras a la abolición?
+XUN_GRAVE_INSPECT : Aquí el niño cae en coma.
+BRETTA_ZOTE : Rey del Verde... oscuro... pesado...
+TISO_COLOSSEUM : Mirando hacia atrás, hermosos colores. Lucharé pronto, descansa primeroA pesar de un pequeño cuchillo y tenedor, me sorprendió gratamente. Pero creo que es lo peor que he hecho.
+BIGCAT_KING_BRAND : En una palabra, es un icono cultural atesorado. ¿Quieres este cambio? ¿Quieres cuidar este país?Esto es adecuado para ti. Los jóvenes siempre cuidan de los viejos.
+BIGCAT_TALK_02 : No me malinterpretes. No soy caro... Oh... soy joven. La mayoría de los miembros no están sorprendidos por los artefactos.
+KING_ABYSS_04 : Sin dolor, sin espalda
+BLANK_TEST : 
+CLOTH_TOWN_DREAM : Donde quiera que esté, soy mi mayor enemigo, pero nadie puede llevarme a esta tragedia.
+MOSS_CULTIST_DREAM_INFECTED : ... caliente ... muy ...
+LEGEATER_CONVO3 : Izonso, tengo estos... brillantes, brillantes, brillantes.No seas celoso... dame vida, lo verás.
+LEGEATER_CONVO2 : Ahora, estar saludable trae vida.Tal vez no ...? Trata de no engañarme... no soy tonto.
+LEGEATER_CONVO1 : ¿No te enojas cuando estás herido? O... ¿quizás no tuviste cuidado...?
+LEGEATER_BROKEN : ¡tanto! ¿Lo desperdicias? Te di este poema, te has ido. Twp... pobre.Lo siento, estoy preguntando, y Geo debería arreglarse aquí.
+DUNG_UNDERGROUND_DREAM : ¿Dónde termina el divertido juego de Halloween? Conmigo ¿Es posible?
+LEGEATER_CONVO5 : ¿Que quieres saber? ... ¿Quieres un regalo especial?<page>¡Amigo! ¡Alí! ¡Estoy tratando de robar mi secreto! yo los juegoPedimos disculpas por las molestias.
+LEGEATER_CONVO4 : Destaca la noche del cambio. Eliminar esa tristeza... ¿miedo?Si estás aquí... no te protegerá.
+MOSS_CULTIST_02 : Luz vida, luz, pureza, luz, alimento de este conocimiento está inmerso en la naturaleza.Nuestra naturaleza malvada nos engaña y nos entristece, ¡yo abrazo la luz! ¡Salta sobre las unidades! Que triste.
+CLOTH_DEEPNEST_REPEAT : Tomo un descanso, tratando de encontrar un desafío seguro. Este nido no es letal.
+JINN_KING_BRAND : ... este rey debe ser joven. Sabía su peso pero no lo sabía en mi cabeza.Diferentes dueños... diferentes opiniones... no todo el tiempo. No es necesario hacer un pedido, consulte.
+DUNG_DEFENDER_DREAM : Así que es diferente.
+KING_FINAL_WORDS : ... el espíritu de la serpiente. Su alma. solo el corazon...
+TUK_DECLINE : Mngh? Si no, te salvaré.
+KING_ABYSS_FINAL_B : ¿Cuánto tiempo se tarda?
+XUN_REOFFER2 : ¿Estás tratando de volver a la tumba de un ser querido?
+MINER_EARLY_2_B : Sí, eso me suena bastante mal, BT parece no ser así para mí. Tengo mucho tiempo para pensar en trabajar aquí. ¡Tal vez me lleve mis canciones!
+CLOTH_DEEPNEST_GREET : Todo el lugar estaba lleno de cadáveres de ganado. Quiero hacer lo que pueda. Estoy en prisión Estoy cansado y enfermo.
+CLOTH_TRAMWAY_REPEAT : Él es el Salvador esperando nuestra próxima relación. Entonces estarás listo para convertirte en un buen soldado.
+JINN_REFUSE : ... normas ...? A ella le gusta... ella. Usted pregunta, Gina está esperando un regalo.
+TUK_NOTENOUGH : ¿Por qué no hay suficiente geografía?Mung Si no puedes comerme, no te dejaré comer.
+XUN_REOFFER : ¿Correr? ¿Un tiempo de duelo? ¿Compartes el dolor del duelo y quieres aliviarlo?¿Le das a Chen su último regalo en la tumba de su novia?
+MASK_MAKER_UNMASK_REPEAT : Alguien preguntó, no digo yo, sino ayuda, pero como regalo al mundo me lo merezco.
+EMILITIA_REPEAT : La vida es inútil...
+QUEEN_REPEAT_KINGSOUL : ¡Vaya! ¡Así que levanta la cabeza con fuerza, determinación y sinceridad! ¿Quién es el responsable del crimen? Parece que ahí está mi pared favorita.Kingsol... que te parece? Debes buscar un lugar para encontrarlo. Lugar de nacimiento, lugar de nacimiento, lugar de nacimiento.
+LEGEATER_NOTENOUGHGEO : Desafortunadamente... la geografía por sí sola no es suficiente.Ahora está de vuelta en otro país.
+MR_MUSHROOM_SHROOMISH3 : Ilus en Cool. მიაოშა? ¿El perro de Mayu? Isimbuku...
+MINER_MEET_1_B : Jajaja, ¿sabes? ¡Uno de mis favoritos! Puedes reproducir otras canciones si quieres. Empieza a cantar Estoy de acuerdo ¡Espero que tengas una gran voz! Jajajajaja!Entonces, ¿por qué estás aquí? Si quieres ser rico, ¡hazlo! ¡Estos minerales son siempre ricos en minerales! Hago mucho PP para todos, ¡vamos! ¡lol!
+QUEEN_DUNG : ... huele bien. ¿Quién te guiará? Eres Ogram, mi luchador más fuerte.<page>No veo nada, pero cuando cierro los ojos no veo nada. Guarda silencio en tus palabras.<page>Creo que era un poco demasiado pequeño porque compartía conmigo mismo. Se encuentra en un mundo oscuro.<page>Ah, pero este fuerte aroma me recuerda dulces recuerdos. En una palabra, es bueno estar juntos ahora.Gracias por seguirme
+EMILITIA_DREAM : Seguramente morirá a manos de los guardias. Como todo el mundo, vivo para ti.
+SPIDER_MEET : Oh gracias. Gracias. No te avergüences. Hay un montón aquí. Yo no. Soy amigo de todos. quiero viajar contigo<page>Esta es la información que buscas. Yo diría que sí, sí<page>El pueblo es el hogar de personas con sobrepeso. Su historia de guerra es triste. Su gente es muy cara, pero no me arrepentiré más tarde.<page>Sé que entiendo ¿Quieres ver este artículo? Sí, lo siento, quiero decir, pero no he comido en mucho tiempo...hambre divina
+DUNG_DEFENDER_SLEEP_DREAM : ... escuchar ... en voz alta ... enseñar ...
+CLOTH_TOWN_GREET : ¡Té! . Bienvenido a verte de nuevo. ¡Tú me animas! Estoy buscando otro lugar con otro héroe.Esta zona tranquila es un buen lugar para quedarse antes de ahogarse en el campo.
+QUEEN_DREAM : ¿Puedes tocar tu corazón? Luego rompa el sello de papel frontal.
+MINER_EARLY_1_B : Hola, eso es suficiente para los dos. Si no, no quiero que me peguen, solo siéntate conmigo. ¡Ninguna!
+XUN_FAILED : ¡Póker! Qué flor limpia, nítida y diferente. El amor no da tu último regalo. Entonces se preocupan. No, no creo que sea por mucho tiempo.<page>... No lo creo. "No podemoslémur! El santo odio es muy simple. ¿Dónde buscar esperanza? Si es así, ¿lo intentarás de nuevo?
+XUN_REFUSE : ¿Vale la pena la espera? Este no es un servicio internacional. Es doloroso.
+CLOTH_DEEPNEST_DREAM : Ésto es una emergencia. El diseño aquí es único. Besar es ahora el rey.Lo que quiero saber aún no ha terminado.
+LITTLE_FOOL_OPEN : ¿Quieres registrarte y probarlo?
+DUNG_DEFENDER_ISMA : ¡mierda! Esa lágrima... ¡estás en el bosque!<page>Iba a intentarlo, pero... mi trabajo... mi sueño...<page>Lo siento, no me ignores, soy un estúpido. Si no tenemos cuidado, me sumergiré en los recuerdos del pasado y nunca volveré a ser terrible.Él respeta tu personalidad, ya seas especial o bendecido. ¡No tengo que estar delante de ti!
+LITTLE_FOOL_GREET : El ejército estaba agradecido.
+LITTLE_FOOL_OFFER_1 : Únete y participa en la prueba de combate.
+MR_MUSHROOM_5 : ... Si algo sale mal, ¿tal vez es hora de seguir adelante?<page>Regrese y pase tiempo cazando, recolectando o visitando.No, la portada...
+LITTLE_FOOL_OFFER_3 : Si tú lo dices, puedes tomar una prueba innecesaria.
+LITTLE_FOOL_OFFER_2 : Le ayuda a solicitar el examen de Fatiha.
+LEGEATER_GREET : Hablando de mantequilla de sal en mis heridas - ¡Ups! Estás feliz... estás enojado. Ven aquí y muéstrame tu helado.
+MINER_INFECTED_REPEAT : ... enterrados ... labios ... encontrados ... vacíos, oscuros. Espera... Peligro... Pero espera... Luz... otra vez...
+JINN_REOFFER : ... ¿Dónde está ahora? Jana es un regalo para ti... o no?
+WHITE_DEFENDER_OUTRO_5 : Cariño, me alegro de verte de nuevo en mis sueños. Su gracia me recuerda a un gran rey. Cuando las cosas volvieron a salir mal, me pregunté si podría ser un héroe. Que felices somos...
+CLOTH_QG_GREET : Pequeño héroe, tienes que decidir sobre esta fiesta traicionera.<page>Son los peores animales para comer. Siempre los he evitado, pero tus obras me han enseñado la verdad. ¿Quieres superar tus miedos o quieres superar tus miedos?Ambos lidiamos con nuestra confianza cuando elegimos embarcarnos en nuestras actividades de juego. No puedo esperar.
+LEGEATER_DUNG : ¡Vaya! El olor que huele...<page>Jajajajajajajajajajaja!<page>... terrible!<page>Querida... comparte tu olor. ¿Quieres un regalo?Barato... si. Mi maravilloso regalo... Te lo daré. descuento.
+WHITE_DEFENDER_OUTRO_4 : Mi rey... hasta entonces...
+TISO_DREAM_COLOSSEUM : Lo siento señor, estoy satisfecho con mi progreso.
+GIRAFFE_LOWER : El sitio está construido en el límite de dos lugares con vegetación central, uno cerro y el otro.Estoy bien y me quedo aquí hasta que tenga algo para comer.
+MINER_INFECTED : ... entiérrame ... <br> Estaba oscuro. Pero estaré aquí... siempre... hasta que llegue la luz...
+BRETTA_DIARY_1 : White Work <br> La niña se despertó en la oscuridad. Tiene una herida en el brazo. Hay un agujero en el almacén. Saldrá ácido. ¿Cuál es tu peor sueño? ¿Hay alguna esperanza de supervivencia?<page>Demonios, pensó, mientras la luz se oscurecía, él se oscurecía, pronto para llegar a un lugar más brillante. Salta a tu alrededor y la niña se ahoga en agua caliente.Cuando llegó, salió una hermosa criatura con cuernos afilados y brillantes. Se acercó a la niña, la agarró y la abrazó con fuerza.
+LEGEATER_REMEET : Has cambiado de opinión, ¿verdad? dame vida y verás algo... genial.
+TISO_DREAM_TOWN : Tenía miedo de esta pequeña habitación. Me encanta, pero hace mucho calor.
+BIGCAT_TALK_03 : No vine aquí a disparar. Valle... Tina. Es una gran manera de deshacerse del desorden innecesario. Perdido en la luz.<page>Todo el resto. Los gusanos se niegan a trabajar.resistencia a la luz roja. La relación que forjaron puede no tener sentido... un error que solo Jane puede cometer... hmm...
+KING_ABYSS_05 : Nació de Dios y del cielo.
+QUEEN_TALK_01 : Su espalda puede estar dañada. Solo hay dos respuestas.<page>El primero sigue y sigue, y todo el cerebro ya no responde a este peligroso virus.<page>Entiendo esta importancia y pido su ayuda y comunicación.Pedimos disculpas por las molestias. Cerrar. d. no tienes nada
+EMILITIA_KING_BRAND : Aw... ah... ¿Aeen? Vuelvo a las nueve...<page>Dios mío, estás un poco loco. Bienvenido al espectáculo de una manera maravillosa.Loco, lo sé. Obviamente no eres la persona más alta del mundo que siempre camina.
+DUNG_DEFENDER_1 : De ti, volvamos.<page>No, por favor... no lo hace. Debes ser perdonado por lo que has hecho en el pasado.mi culpa era grave en mi corazón. pero me castigó con fuerza y ​​valor.
+DUNG_DEFENDER_3 : Salvaré al ejército de entre los muertos, pero el enemigo no tiene poder. ¿Cómo puedes derrotar a este oponente?<page>Nuestro rey hace lo mismo. Eso significa violencia.Bueno, no te enojes. Despiértame, no puedo esperar a conocer a alguien tan fuerte como yo.
+DUNG_DEFENDER_2 : La batalla fue feroz y feroz. me olvidé de escuchar<page>Soy valiente, ya sabes. Gracias a nuestro gran rey, estoy orgulloso de ver el gran progreso de Halloween.Y no es bueno para la enfermedad...
+BIGCAT_SHADECHARM : Ohhhhhhhhhhhhhhhhhh. tal frase. ¿Por qué la industria no es claramente un problema ambiental? Quizás gane el juego.
+QUEEN_TALK_02 : Me advirtieron que el bote podría estar enfermo, pero su fuerza interior era fuerte.Se necesita un poco de esfuerzo para determinar las proporciones. Prepáralo bien antes de terminar.
+JONN_NOEGG_REPEAT : ... ¿Puede un alma obtener el regalo que desea? Grandes... círculos... grandes regalos? Lin está recordando...
+XUN_GRAVE_FLOWER : Hay flores.
+MASK_MAKER_REPEAT2 : Si desconoces esta situación, te lo recomiendo.
+LITTLE_FOOL_DREAM : Señor, por favor, deme otra oportunidad de obtener cupones para demostrar sus habilidades.
+BRETTA_DIARY_4 : El buen príncipe respira hondo. Libertad de la guerra. Olvidé mi número de teléfono. Su victoria sobre sus enemigos fue grande.<page>Dijo que la ciudad tenía razón. Un médico rubio, un cazador de insectos, un animal, un príncipe azul: un buen cazador.Él la encuentra en el planeta con respeto y humildad, habla sobre su gran viaje para salvar a su hija y esposa verdes de la oscuridad.
+GIRAFFE_LOWER_REPEAT : Gratis siempre es gratis. Aquí mantenemos la paz, pero los que confían en nosotros siempre están vivos.
+QUEEN_MEET : ¡Asi que! Piénsalo. Decidió reunirse conmigo. ¿Necesitas ayuda? ¿O simplemente no prestas atención cuando le dices algo que hacer?<page>Esto es muy cierto. Por supuesto, te está esperando. hacer. Tal vez cometí un error. Eso debe ser cierto.Tengo un tesoro escondido para tu única historia. Ahora lleno. Juntos generan mucha energía y energía para el próximo viaje.
+TUK_REPEAT : Si me das a Sion, te daré mi comida.
+MINER_MEET_1 : ¡OH! ven y escóndeme
+WHITE_DEFENDER_OUTRO_1b : Hasta luego. Suena...
+WHITE_DEFENDER_OUTRO_1a : Defenderé el reino, amigo mío... Confía en mí.
+LEGEATER_REFUSE : No eres estúpido.
+BRETTA_DIARY_3 : Salvador blanco en la oscuridad: una mujer rodeada de sueños. Los rescatistas desaparecieron y comieron comida. Ahora sólo había aire frío en la puerta. cantar ...<page>Otra vez. Armada. ¿pedir disculpas? Ian tomó prestado recientemente.<page>El deseo de ver, la incapacidad de moverse y el deseo de quedarse. Sabía que podía traer paz a su cama.Ahora los ojos blancos son estables, perfectos...
+XUN_GRAVE_INSPECT2 : Es hijo de un engañador.
+LITTLE_FOOL_MARK : Para acceder al tipo de prueba, navegue a la tabla e ingrese. De ahora en adelante...
+JINN_TALK_03 : ¿Te gusta Jin Shi? Hay muchos... muchos demonios. Los regalos de los demás, Gina ayudó. Satanás se compadeció de él.Satanás no quiere brillar. Pero estos días. Puede ser una toka pero un regalo.
+CLOTH_FUNG_GREET : No me estoy escondiendo, ya sabes. Dormí hasta que volví.Solo conozco al monstruo para hacerme mejor.
+JINN_MEET : ... sí ... ¿Gina vino aquí? ..<page>Ojo... que no pasen almas. Larga sombra... ancha pero audaz...<page>¿Tienes el coraje?El diablo te hace brillar... el diablo es inútil pero hace muchas recompensas.
+MASK_MAKER_DREAM : ¿Sabes quién se esconde debajo... La villa tiene una buena comparación...
+LITTLE_FOOL_COWARD : ¡Etiqueta enlaces permanentes y fuentes! ¡Qué tonto! ¿Quizás vacas?Un buen héroe siempre está en el camino. Cuando se recuperaron, se ahogaron en el dolor, siendo así castigados por sus muchos pecados.
+MINER_MEET_REPEAT : Vaya, el dueño del barco está enterrado, ... Papá ... ¿Qué significa la corona ...? No recuerdo ninguno, ¡sí! Tal vez debería arrepentirme
+MR_MUSHROOM_FINAL2 : Hasta luego ...
+CLOTH_GHOST_REPEAT : Bloquea mi camino tanto como sea posible. Nora, espera, he terminado. Diviértete.
+XUN_ACCEPT2 : Esto le permitirá encontrar nuevas flores hermosas y flores exóticas. No importaba que su corazón estuviera roto, como había advertido antes.<page>Si lo golpeas, te vistes o intentas caer de nuevo, volverá a caer.Aunque mi confianza ha sido puesta a prueba, creo en Lumiere.
+MASK_MAKER_UNMASK2 : ¿Es esta la peor prueba? Vermani cerró los ojos.El país ahora depende de los cables.
+BRETTA_RESCUE_5 : E... Gracias.
+BRETTA_RESCUE_4 : Lo siento, no pude ver tu rostro... No puedo creer que vinieras a salvarme. Nadie piensa...Gracias, quiero decir... adiós. Estoy de vuelta en la ciudad. Ven a casa ...
+BRETTA_RESCUE_1 : ¡por favor no me dejes!¿Recuerdas tu pregunta? Seguro que me olvido de todo...
+BRETTA_RESCUE_3 : Le ruego me disculpe. Estoy perdido, no sé cómo llegué aquí.Estás aquí para salvarte, Britta. Ella siempre lo ha amado.
+BRETTA_RESCUE_2 : ¡por qué! ¿Quién es usted?Monty Sabio ... Mark Erza ... Mark
+MR_MUSHROOM_7 : ...no hay camino al éxito. Sus conocimientos, decisiones y metas.
+MR_MUSHROOM_6 : ... Aún no lo he visto. Recuerdas dónde estabas la última vez.<page>Cree en la luna o en ti mismo. O créeme, lo que yo creo es mi opinión.¿Así que lo que? De ningún modo. De ningún modo.
+LEGEATER_PAID : Te lo mostraré de nuevo... aquí. Quiere que me mude a otro lugar cuando realmente me quiere. Altamente
+BIGCAT_TALK_01 : Es gris en el otoño. El cuerpo del dragón explotó. todavía no. Uh, por supuesto, sí, sé por qué es algo que sabemos de antemano.El mundo se encoge y encoge.
+MR_MUSHROOM_3 : El paciente no puede usar nada. ¿Qué dice?<page>Los niños también aman a sus abuelos. deben comer ¡y trabajo! y deportesSi vives... Creo que tienes razón. ...
+MR_MUSHROOM_2 : ... no creas en tus ojos. Confía en tu conciencia.<page>Utilizar en caso de resfriados.Si descubres un secreto, ¡ten cuidado con lo que sigues!
+MR_MUSHROOM_1 : ... Estoy feliz de ayudar a mis amigos. Luego se abrió.<page>Sí, eso es muy triste. La UE está temblando. Sin embargo, todos necesitamos tiempo para avanzar.Probablemente más. Pasarán muchas cosas en poco tiempo...
+QUEEN_TALK_EXTRA : ¿Soy un prisionero aquí? Esta es mi decisión. es mi decisión estoy estresado decidí presentar este grupo.<page>Estoy un poco avergonzado en el trabajo.Todavía te toco Siempre estaré ahí Es un deseo precioso de crecer y triunfar en la tierra.
+XUN_SUCCESS2 : ¿Lou Merman? ¿Cuándo terminará esta tragedia? ¿Puedo usar el coche?Querido Oralsk, Se acabó.
+BIGCAT_TAIL_HIT : Puedes apartar la cara de los demás, pero no me parece ridículo.
+CLOTH_FUNG_MEET : ¡Sí Sí! Talla pequeña. Escuché bien, así que tienen una cosa en común.<page>¿Buscas un recuerdo? Bueno, estás en el camino correcto.El venado de cola larga me recuerda a una carrera profunda. "Es un buen peleador, así que peleé", dijo.
+GIRAFFE_UPPER : Este
+TUK_INTRO : Mmmmmm... mal desde el principio. Hijo<page>Todo lo que ve...No te preocupes si me das una geografía para compartir contigo.
+XUN_HAVE_FLOWER2 : Su tumba está en medio de la tumba del viejo rey. De esto ya conoces los peligros de este proceso.Tawofi. McConn:
+MOSS_CULTIST_DREAM : Maravilla, crece, no crezcas...
+TISO_BENCH_REPEAT : Por favor, hágame saber si este es el dominio que estoy buscando. El día que perdí tanto.
+CLOTH_QG_REPEAT : Espero que mi amigo funcione. No importa lo que escuchemos aquí, espero que no se nos aluda a estas especies.
+CLOTH_TRAMWAY_MEET : ¡Cómo estás! Este es un animal muy pequeño. ¿Pero tratas a todos estos animales?<page>Quiero decir, no te escondas. Encuentra un buen momento para soplar... No... No mentiré así... Soy un misterio.<page>La gente mala me acosa, corro, no entro, sé que vivo.<page>Alguien me mira como un héroe. Y mi tamaño es increíble. ¡Pero estos animales reales no los persiguen!...
+GIRAFFE_DREAM : Estas pequeñas cosas son hermosas. Tengo que comer las sobras aquí.
+LITTLE_FOOL_REFUSE : La fama no se puede obtener por piedad en la geografía.
+XUN_KING_BRAND : Estimado, compre este traje pesado ... No, no lo quiere. Nadie había visto el dolor después del espectáculo sin parar. Para carreras salvajes: caballos de guerra.
+MASK_MAKER_REPEAT3 : هارا! ¡rostro! ¿Lo necesitas? no hagas, no hagas; یلیا. Sin revisión
+LITTLE_FOOL_MEET : Asaa! El otro soldado estaba buscando una oportunidad para demostrar mi contrato con el Coliseo. Nuestra tierra es un lugar maravilloso para aquellos que quieren luchar contra la crueldad y la destrucción.<page>¡Haz una marca en el tablero seleccionado y lo verás! La puerta del estadio se abrió.<page>Hay una pequeña tarifa por cada proyecto, pero si tiene mucho conocimiento de mapas, seguramente obtendrá un entrenamiento de boxeo pronto.<page>Por lo tanto, daré unas breves instrucciones antes de terminar y reprender.<page>Debajo de esa página hay beneficios que otros están esperando por ti. Hay que tener paciencia antes de tomar una decisión.Sí, soy un luchador fuerte. No he usado mi tamaño o mi juicio ahora. ¡El Coliseo significa dos! Volveré pronto.
+MASK_MAKER_REPEAT : Estoy feliz de tener uvas. Esto no es algo que todos celebremos.
+XUN_SUCCESS1 : Limón Siguiente, ¿eres tú? Creo que puede ejercer presión sobre el resto del mundo. Pero Ay. Desafortunadamente, sus ex socios se han ganado el amor por los autos.
+JINN_TALK_01 : ... ¿Qué quiere saber ella sobre los hombres? ,<page>Jean, no sé... no puedo hablar por mí mismo. A una edad temprana, sus pensamientos, sus pensamientos. Nacimiento de empresas y marketing.¿El cliente es útil? ... en ese caso. Esto es muy útil.
+BRETTA_DIARY_ZOTE : Príncipe Gris: Pasa por el agujero y pelea. El trofeo que trajeron así lo demostró y fue todo un éxito. Este es el tema más peligroso hasta ahora.<page>Esta advertencia era cierta, y el hombre blanco se veía a sí mismo como el salvador de la bestia, y el rey de cabello blanco merecía coraje.Orgullo: La forma sabia de alcanzar una meta Le dijeron que perseverara. Una chica gris en la oscuridad con su marido...
+CLOTH_TRAMWAY_DREAM_SAD : Ahora te escondo Que soldado...
+MR_MUSHROOM_SHROOMISH2 : Sí... Misha Amu Sanga. ¿Es esto una prisión?
+MASK_MAKER_GREET : ¿El cuerpo o la forma del animal? El significado del Holocausto es difícil de explicar.
+TISO_SHIELD : ¿Crees que este enfoque es un desafío? Inmediatamente me advirtieron y oculté el retorno incorrecto. No sabes lo que es la oración.

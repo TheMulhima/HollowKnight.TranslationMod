@@ -1,0 +1,94 @@
+PERMA_UNLOCK_UNLOCK : Levantarse
+CREDITS_PORTING_LEAD : Schoffer Mackin - Mago mo a'e
+CREDITS_PORTING_LEAD_NAME : Matthew Lee Prosit
+CREDITS_ENVIRONDRESSING : restricciones aéreas
+MR_MUSH_CONTINUED : no
+PERMA_GAME_OVER : final del partido
+CREDITS_INDIE_FUND : El dinero es neutral
+CREDITS_THANKS_MUSIC : Música de acción de gracias gaar ah
+CREDITS_VOCALS_NAME : emily jones
+CREDITS_TESTERS_MAC_NAME : David Kane-Marcus Hick-Jonathan Penny-Wayne Bender
+CREDITS_ADDITIONAL_CODING_NAME : David LancasterMichael Jenkins
+CREDITS_LOCAL_LEAD : el mejor especialista en inspección
+CREDITS_TRANSLATE_CHINESE_NAME : Esta herramienta Esta herramienta
+CREDITS_ADDIT_TRANSLATE_JAPANESE : Otras traducciones al japonés
+CREDITS_ENVIRONDRESSING_NAME : Lee Tyler Burley conoce a Neitan Elmer
+CREDITS_TRANSLATE_CHINESE : Traducción - Chino
+CREDITS_CONGRATS_BODY_PERMA : Juega con inteligencia և Demuestra que eres una persona fuerte. <br> Gracias por tomarse el tiempo para explorar nuestro mundo. <br> Bienvenido. Nuevo desafío ...
+TUTORIAL_CREDIT_SCORE : Lee mas
+CREDITS_EXTRA_THANKS : Gracias especiales
+CREDITS_TESTERS_NAME_COL_02 : Pho3nix - Kyle Pulver - Greg Smith
+CREDITS_TESTERS_NAME_COL_01 : Harry Demetrio-Tyler Bartley-Lilly Carlisle-Joshua Clark-Andrew Cook-Shannon Cross-Bello "Bijner" Richard-Rohan Fraser-Nazim "Simo" Gabriel> Tobias Kos
+PERMA_UNLOCK_TITLE : Timbre de la puerta
+CREDITS_TESTERS_MAC : Juegos en línea - Mac
+CREDITS_SCORE : con sonido y musica
+CREDITS_ADDIT_TRANSLATE_RUSSIAN_NAME : Daniela Obstipev - Andre Turbin - Aleksandr "Alpina" Povo
+CREDITS_ADDIT_TRANSLATE_RUSSIAN : Traducción adicional - Ruso
+CREDITS_ADDITIONAL_ENEMYCODE : es una expresion de enfado
+PERMA_GAME_OVER_BODY : Intentando lograrlo, trató de demostrar su destreza. Por fin encontrarás paz en tu oscuridad.
+CREDITS_CHARVOICES : Descargar Sonidos del Reproductor
+CREDITS_ADDIT_TRANSLATE_KOREAN : Traducción adicional: Corea
+CREDITS_GUITAR : redes sociales
+GAME_COMPLETE_PERCENTAGE : Enrique
+CREDITS_TECH_DIRECT : líder de l'art
+CREDITS_TRANSLATE_BPORTUGUESE : Traducción-Portugués brasileño
+CREDITS_VIOLA : escoger
+CREDITS_ADDITIONAL_CODING : Otro software de seguridad
+CREDITS_TRANSLATE_ITALIAN : traduccion Italiana
+PERMA_GAME_OVER_CONTINUE : Presiona cualquier botón para continuar.
+CREDITS_FIGSCULPTOR_NAME : Mukhlisoni David Díaz
+CREDITS_TRANSLATE_BPORTUGUESE_NAME : Lucas "Luska" Fernandes <br> Vinícius "Viniuau" Xose <br> Jonas Breda "¡Poteiga!" Luiz Fernando S. M. Maia <br> UGuilherme Antonio Canani
+CREDITS_PORTING : Análisis de Salto al Este
+CREDITS_MARKET_JAPAN_NAME : Azala - Gopo qisuni
+CREDITS_THANKS : Gracias
+CREDITS_ADDIT_TRANSLATE_KOREAN_NAME : Juan vencerá al Basilea
+CREDITS_INDIE_FUND_NAME : Jeffrey Rosen <br> John Graham <br> Ben Newhouse <br> Kyle Pulver <br> Ron Teese
+TUTORIAL_CREDIT_NAME_01 : habilidad b
+TUTORIAL_CREDIT_NAME_02 : Guillermo lo consiguió
+CREDITS_TESTERS : inspector deportivo
+TUTORIAL_CREDIT_NAME_04 : mateo grifo
+TUTORIAL_CREDIT_NAME_05 : mateo grifo
+CREDITS_ADDITIONAL_ENEMYCODE_NAME : El mundo
+CREDIT_PROGRAM : Software y herramientas del sistema.
+CREDITS_TRANSLATE_RUSSIAN_NAME : Familiares Alexandre
+CREDITS_PORTING_NAME : Matthias Le Chupa - Seuma Pierce - Thomas Lee - Brad Weston
+CREDITS_PROGRAM_ADDIT : Otras aplicaciones
+TUTORIAL_CREDIT_GAME : El juego
+CREDITS_PORTING_TEST_NAME : james pierce
+CREDITS_SCORE_NAME : cristobal larkin
+CREDITS_CHARVOICES_NAME : Makoto Kodas Tyler Bartley Harry Dimitria Matthew Griffin Hannah Mordek Hannah Murdock Bill Northsko Zara Victoria Roberts Cassandra "Holdooh" Rina Hong trong Shalu
+GAME_COMPLETE_TITLE : "El lugar se ha ido
+CREDITS_GAME_BY_NAME : el es de bali
+CREDITS_THANKS_NAME : Ludum Daredevil, Warren Fenn, Rohan Fraser, Ben Gibson, Makoto Kosi, Trent Casters, Morgan Jafit, Rod Jago, Timas McBurney, John Millard, Jason Pamentas, Sarah Pellen, Victoria Roberts, Lilli Storm, Matt Trobiani, Dan Y Trebl <br> > <br> > Jenny Vigu <br> Chris Wrights
+CREDITS_PORTING_TEST_LEAD : Pruebas preliminares - Repeler tiburones
+CREDITS_TRANSLATE_RUSSIAN : Traducir al ruso
+CREDITS_INTERNS_NAME : James Profundidad <br> James Rose McNabb
+CREDITS_PROGRAM_ADDIT_NAME : jake wayne
+CREDITS_VIOLA_NAME : equipo pequeño
+CREDITS_CONGRATS_BODY : La riqueza es el éxito de la paciencia y el triunfo. Esperamos que disfrute de su noche en el Palacio. Nos vemos a dar un paseo en un rato.
+CREDITS_VOCALS : Durabil - Ib iyo
+CREDITS_EXTRA_THANKS_TEXT : 2158 Patrocinador <br> Kickstarter.
+CREDITS_ADDIT_TRANSLATE_GERMAN : Añadir traducción - Alemán
+CREDITS_ADDIT_TRANSLATE_GERMAN_NAME : Tim Tobias, Alessandro Raphael Adomo, Daniel Speckerman, Mercedes
+GAME_COMPLETE_TIME : emociones
+CREDITS_MARKET_JAPAN : Con la ayuda de periódicos japoneses.
+CREDITS_TRANSLATE_FRENCH : Traducción - Francés
+CREDITS_ADDIT_TRANSLATE_SPANISH : Traducción Española
+TUTORIAL_CREDIT_NAME_03 : david kazik
+CREDITS_TRANSLATE_JAPAN_NAME : fase de corona
+CREDITS_INTERNS : para prevenir
+CREDITS_SOUND_ASSIST : Hace frío
+CREDITS_LETH : Mercadeo y Relaciones Públicas
+CREDITS_SOUND_ASSIST_NAME : tim whit
+CREDITS_GAME_BY : Jugar
+CREDITS_CONGRATS : Félix
+CREDITS_ADDIT_TRANSLATE_SPANISH_NAME : Daniel Ruiz "Regis Cross"
+CREDITS_THANKS_MUSIC_NAME : Jeff Van Dyke - Russell Larkin & Michelle Larkin, Fabian Marbella & Andrea Tran - Angela Valdeva
+CREDITS_TRANSLATE_FRENCH_NAME : no hipócrita
+CREDITS_TRANSLATE_JAPAN : Ubicado en Japón
+CREDITS_ADDIT_TRANSLATE_JAPANESE_NAME : me siento mal ahi
+CREDITS_TRANSLATION : Traducción
+CREDITS_TRANSLATE_ITALIAN_NAME : Kuma Federica Gita, Marco Bortologic koma Harabada
+PERMA_UNLOCK_BODY : No hay protección. No existe cura. La enfermedad continúa. Este es el verdadero desafío.
+CREDITS_FIGSCULPTOR : masacre
+CREDITS_TEST_LEAD : Instrucciones de prueba

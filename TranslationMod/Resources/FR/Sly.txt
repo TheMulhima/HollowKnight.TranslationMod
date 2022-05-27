@@ -1,0 +1,21 @@
+SLY_GENERIC : Votre portefeuille est vide. Si vous avez besoin de plus de géographie, rendez-vous au temple ci-dessous pour nous voir. Veuillez ne pas lire attentivement. Je ne les sauverai pas.
+SLY_GENERIC_NM : Comment va Kurunil ? Bref, je pense que tu es fort.Quand je regarde l'ongle, je dis toujours au revoir et j'achète des choses au professeur.
+SLY_NAIL_HONED : Nouveau ou Il semble être une meilleure arme que jamais.<page>Bonjour, même clé... mais stable ! Très professionnel...<page>La liberté est un moyen par lequel nous étendons et définissons le monde qui nous entoure. L'existence d'un but est un devoir divin.... colonne. À ne pas manquer. Parlez de géographie.
+SLY_MAPPER : J'entends sa voix dans la rue. je suis un peu fatiguéAvez-vous commencé à acheter des billets ou êtes-vous contrarié? C'est le meilleur N.Sion au monde.
+SLY_DREAM_STORE : ... où que vous soyez ... quoi que vous fassiez maintenant ... J'espère que vous aimez le trio.
+SLY_BASEMENT_1 : ... pour que d'autres rejoignent notre groupe.
+SLY_NOSTOCK_2 : À deux reprises? Saviez-vous que je n'ai rien d'autre ? vous serez libéréOu voyez-vous le devant de ma vie? Je ne suis pas. C'est juste!
+SLY_RESCUE_REPEAT : est-ce que j'étudie Beaucoup de bons voyageurs sont morts dans la grande grotte de l'ancienne vie.Je peux vous dire que vous avez des ongles et que vous savez peindre des ongles dans vos yeux.
+SLY_RESCUE_1 : ... mec ... tiens ton doigt ... comme un bâton ...... mes mots ... nous devons approfondir ...
+SLY_NAILART : Oui c'est super<page>Et ils vous ont bloqué ! Formation Nail Art...C'est très vrai. Avez-vous aimé l'exercice?
+SLY_DREAM_BASEMENT : ... ces armes ... le monde de la fureur ...
+SLY_SHOP_INTRO : Très mauvais! Je sais que nous nous reverrons. Aimez-vous ma boutique fatiguée? Reste ici et vends ta vieille voiture. Voyagez comme vousSi vous prévoyez un voyage vers le bas, c'est quelque chose que vous pouvez ajouter pendant votre séjour.
+SLY_BASEMENT_2 : J'ai un cadeau pour toi, mon soldat. Je sais que c'est difficile pour un vendeur de le garder gratuit.Mais je dois admettre que vos compétences sont très importantes. Vous avez maîtrisé les compétences de mes autres disciples. Il est maintenant traditionnellement dit que ce signal doit être protégé.
+SLY_RESCUE_3 : Et attention, ma vie est très mauvaise dans ma bouche. Je n'aime pas le reste de l'odeur, donc j'aimerais y retourner.Tu es venu vers moi և j'étais très honnête alors, je peux te remercier pour toutes tes bonnes actions.
+SLY_RESCUE_2 : Qui es-tu?... J'ai compris ça. Cette vieille ville est incroyable, emmenez-moi ici! Si tu ne peux pas me voir, ne dors pas.
+SLY_DREAM_RUINS : ... la vie. Il vit aux quatre coins du globe. Personne ne peut nier son pouvoir...
+SLY_KEY_2 : Ce que vous faites là-bas est la clé de ma maison ! J'ai l'impression qu'il va me manquer pour toujours.<page>Mère? Avez-vous trouvé l'un de ces articles ? Fait intéressant, je ne sais pas comment il est arrivé dans un endroit aussi horrible.<page>J'ai honnêtement répondu : Oui, très bien, j'ai maintenant ouvert un magasin d'antiquités. Je vends des aspirateurs rares.Ce produit peut avoir une durée de vie plus courte. Comme la valeur marchande est toujours la même, c'est très cher ! éducation ...
+SLY_KEY : Ce que tu as fait ici est vraiment la clé de ma mémoire ! Je pensais que j'étais complètement perdu.<page>C'est cuit ? L'avez-vous trouvé dans une ancienne grotte ? Très intéressant. Je ne sais pas où c'est.<page>Quoi qu'il en soit, oui. Tellement délicieux. Et maintenant, je peux ouvrir mon ancienne boutique pour acheter ces vêtements étrangers.Ces produits peuvent être interrompus à tout moment, mais conservent leur pleine valeur marchande. Très notable ! appel...
+SLY_BASEMENT_REPEAT : Allez faire les ongles ! Je n'ai rien à faire avec toi...Il n'y a pas une telle chose. Je veux choisir votre bureau local pour votre travail important.
+SLY_NOSTOCK_1 : Bonjour, voulez-vous en acheter ? Où est la peur ? Désolé, je pense que je suis propre. Il ne restait rien!<page>Je pense que c'est la pierre angulaire de la cuisine. Mais j'ai perdu mes clés pendant longtemps.Alors j'ai peur que ça ne marche pas ! En ce moment. Sortez d'ici et profitez de la carte que vous m'avez donnée.
+SLY_BASEMENT_3 : Une manucure fière est la dernière personne que vous recherchez.

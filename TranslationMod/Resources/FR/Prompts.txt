@@ -1,0 +1,150 @@
+WATERWAY_DOOR_KEY : Procédure d'installation facile. Dois-je utiliser une clé normale ?
+GET_ACIDARMOUR_2 : Nagez en toute sécurité dans une eau acide
+FOUNTAIN_PLAQUE_DESC : Boutique noire. Pour des raisons égoïstes, l'Holocauste a continué.
+BATH_HOUSE_NOKEY : Les portes et les serrures sont simples.
+ABYSS_DOOR_NOBRAND : Cet article a été supprimé.
+NOT_ENOUGH_GEO : Géo est très petit.
+JIJI_OFFER : S'il te plait, ne me donne rien de doux
+PROMPT_ATTACK : Limanui
+SIT : Svone
+LEGEATER_SOMETHING : Payez-vous pour voir quelque chose d'incroyable ?
+CHALLENGE : garçons
+GET_SCREAM_2 : La magie opère dans l'esprit. Remplissez votre âme de la colère de l'ennemi.
+PROMPT_FOCUS_EXPLAINER2 : Concentrez-vous sur l'esprit et guérissez.
+XUN_OFFER : Acceptez-vous les cadeaux ?
+NAILMASTER_PAY : Payez-vous pour acheter du dissolvant pour vernis à ongles?
+ACCEPT : Cristalliser l'eau
+TRAM_DOOR_NOPASS : La porte de la chambre est ouverte.
+GET_DREAMNAILUPGRADE_2 : Dream Nails mis à jour. Il peut entrer dans une conscience très sûre.
+GEO_RELIEVE : Nous gâtent-ils pendant la saison des pluies ?
+FOUNTAIN_PLAQUE_TOP : du MAR
+GET_JOURNAL_1 : Accédez à la carte d'enregistrement et ouvrez le menu.
+GET_JOURNAL_2 : Apprenez de bonnes histoires pour vaincre les ennemis et ajoutez de nouveaux articles aux magazines.
+GET_DSLASH_2 : Appuyez sur le bouton pour vous couper les cheveux en courant.
+ENTER : DANS
+TRADE : Affaires
+EXIT : "Entrer."
+WATCH : apparaître
+GET_FIREBALL_2 : Vos oeuvres sont pleines de vie. Remplissez votre vie d'ennemis vaincus.
+RUINS_SHAMAN_1 : Description et paramètres de l'appareil. <br> Comment vas-tu ?
+BUTTON_DESC_TAP : par exemple
+JINN_OFFER : Giuse gin gin et surf
+GET_FIREBALL_1 : Que l'âme soit libre.
+GET_SUPERDASH_1 : Marchez jusqu'au sol ou au mur pour célébrer.
+GET_SUPERDASH_2 : Appuyez sur la touche de défilement pour vous déplacer.
+GET_DSLASH_1 : La puissance est la clé.
+REST : Prenez-le lentement.
+GET_WALLJUMP_1 : Quand je frappe le mur, je saute à nouveau
+GET_CYCLONE_2 : Appuyez sur le bouton et appuyez vers le haut ou vers le bas pour créer un cercle.
+GET_SHADOWDASH_1 : Une ombre est apparue en premier.
+MAGE_DOOR_NOKEY : Animaux en métal brillant. Il a une clé.
+TRIAL_BOARD_BRONZE : Exemples de soldats. Règles pour obtenir des cours d'eau propres. <br> Vous voulez vous inscrire et commencer à essayer ?
+PROMPT_FOCUS_EXPLAINER1B : Recueillir au besoin.
+GET_ITEM_INTRO6 : Éva
+GET_ITEM_INTRO7 : Nina
+GET_ITEM_INTRO4 : Et Sean
+GET_ITEM_INTRO5 : Fleurs
+GET_ITEM_INTRO2 : Téléphoner
+GET_ITEM_INTRO3 : tango
+PROMPT_LOOK_DOWN : Regarder en bas
+GET_SHADOWDASH_2 : Détruisez les attaques ennemies avec des cartes sans les endommager.
+MENDER_DIARY : Une vie meilleure sans santé. Scellez le sceau, scellez le sceau, lisez, dis-je ! Je soutiens fermement toutes ces tendances.<page>Vous pouvez faire de grosses erreurs.<page>Sauvez le feu Les gens en seront à ce point quand ils s'atteleront à la mauvaise chose.<page>Alors le ministre Barry a souri ! Il est maintenant temps de réfléchir et d'agir.<page>J'aime ma famille et ma vie, mais quand il s'agit d'être avec les autres, pourquoi Barry devrait-il être un héros ?<page>Ma liste est bonne, <br> Quelqu'un a lu mes favoris ! C'est le ton du spectacle. C'est encore en train d'arriver !<page>Mais tu sais, je ne suis pas fou avec ça. Il existe plusieurs façons d'améliorer cette merveilleuse politique.Suivez ce qu'ils ont, et je ne le laisserai pas faire de mal à long terme.
+GET_ITEM_INTRO8 : précédemment utilisé
+CHARM_REMINDER : Pour activer la mémoire, détendez-vous sur une chaise et accédez au menu CARMS.
+GET_QUAKE2_1 : Dommages causés par de fortes explosions.
+LOVE_DOOR_KEY : Mais la porte était pleine. Quelle hauteur
+GET_KINGSBRAND_1 : Halonest rencontrera un nouveau commandant.
+TRAM_DOOR : Porte avec roulettes. Puis-je avoir un ticket de tram ?
+BUTTON_DESC_RELEASE : la même chose
+TRAM_CONSOLE : Appuyez sur le bouton lumière ?
+GET_QUAKE_1 : Le sol s'est effondré lorsque l'explosion s'est produite.
+GET_QUAKE_2 : Le temps peut détruire l'âme <br> Battez l'ennemi et prenez le parti de l'âme.
+BANKER_ACCOUNT : Dois-je payer pour ouvrir un compte ?
+PROMPT_SUPERDASH : Super cuisinier
+NAILSMITH_UPGRADE_1 : Vous voulez vous emparer du trône ?
+NO : Union européenne
+NAILSMITH_UPGRADE_3 : Pouvez-vous me donner une boule en os pour renforcer mes ongles ?
+NAILSMITH_UPGRADE_2 : Minéraux et gels faciles pour renforcer les ongles ?
+NAILSMITH_UPGRADE_4 : J'ai besoin de trois ampoules pour planter mes ongles.
+GHOST_CHALLENGE : Avez-vous vécu votre rêve de gagner?
+BUTTON_DESC_HOLD_FOCUS : adhésion
+JIJI_DOOR_KEY : Soft Lock Stone Door - Utilisez-vous des clés programmables ?
+ASCEND : Bien sûr
+ELDERBUG_FLOWER : Peux-tu m'offrir des fleurs ?
+TRAVEL : Tapis
+CHARM_TUTE_SUB : Gérez le paysage pour augmenter votre intérêt.
+GET_BLESSING_2 : Baraka est à la recherche de la beauté et de l'amour.
+PROMPT_INTERACT : Kéna
+NAILMASTER_FREE : Le faites-vous sous votre propre direction ?
+CITY_GATE_NOKEY : Photo d'un vieil homme. C'est une glacière.
+GET_BLESSING_1 : Félicitations aux hommes qui aiment la beauté de la fibre de verre.
+GET_SCREAM_1 : Ne laissez pas tomber les coudes.
+PROMPT_MAP_BLACKEGG : Un homme noir est monté sur la table du temple.
+TUK_RANCIDEGG : j'achète de la nourriture
+GET_HUNTERMARK_2 : Le prix sera publié dans Hunter Magazine.
+TRIAL_BOARD_GOLD : Nous menons une guerre folle pour un mouvement fou et populaire. Qu'est-ce qu'une marque ?
+BUTTON_DESC_WALLJUMP : Frais
+PROMPT_DREAMNAIL : Une livre de rêves
+TOLLBOOTH_STAG : Votre machine à carrelage a-t-elle des capuchons muraux ?
+BUTTON_DESC_HOLD : Taille
+COLLECTOR_MAP : Otolira Elima
+LOVE_DOOR_NOKEY : La porte se ferma silencieusement.
+GET_GSLASH_1 : Observez les arêtes vives.
+GET_SCREAM2_2 : La dépression est pleine de péché pour vaincre l'ennemi.
+GET_SCREAM2_1 : Saisissez-le et ouvrez la porte d'entrée.
+HUNTER_REWARD : Êtes-vous prêt pour le prix?
+NAME_BLESSING : Le tiens
+TRIAL_UNLOCK_BRONZE : Combien coûte le Hero Act ?
+PROMPT_DASH : Flingue
+GET_HUNTERMARK_1 : Un signe de respect pour la vraie victime.
+GET_GSLASH_2 : Relâchez le bouton sans déplacer vers le haut ou vers le bas pour créer une barre plus grande.
+TOLLBOOTH_LIFT : Répartition և Introduction. Vous souhaitez rejoindre le domaine ?
+INSPECT : verre
+GET_ITEM_INTRO1 : Connectez-vous avec Maggie
+TRIAL_UNLOCK_GOLD : Le même émul ! Combien de temps est Phil de Prova?
+BUTTON_DESC_PRESS : café
+GET_MAP_1 : recette Tora
+TRAM_CALL : Machine à sous pour tous les types de carrés. <br> Vous traversez la voie ferrée ?
+GET_MAP_3 : Voir une carte détaillée d'Halloween de la propriété
+PROMPT_FOCUS_EXPLAINER1A : Tuez les ennemis et collectionnez les démons.
+DESCEND : sceptre, sceptre, sceptre
+GET_COLLECTOR_MAP : L'emplacement des prisonniers a été déterminé.
+BATH_HOUSE_KEY : Vous voulez utiliser une clé, une clé de porte ?
+TOLLBOOTH_GATE : Les objets dans les poches de la porte sont marqués. Voulez-vous installer Geo ?
+CHARM_TUTE_TITLE : exemple écrit
+GET_MAP_2 : Afficher les fichiers disponibles
+BUTTON_DESC_NONE : 
+GET_DREAMNAIL_2 : Découpez des images entre les rêves.
+NO_MAP : Cette carte n'existe pas
+GET_KINGSBRAND_2 : L'armée locale sera déployée.
+WATERWAY_DOOR_NOKEY : Ceci est une machine avec des perles ordinaires.
+SHOP : L'accord
+FOUNTAIN_PLAQUE_MAIN : Malade.
+MAGE_DOOR_KEY : Voulez-vous construire un beau temple avec de belles portes en fer ?
+GET_DREAMNAIL_1 : Coupez les ongles.
+LISTEN : Nom
+TRIAL_BOARD_SILVER : La route vers le succès. Le meilleur du live et du métal. <br> S'inscrire et commencer ?
+TRIAL_UNLOCK_SILVER : Has pagat temps judicial?
+GET_ACIDARMOUR_1 : Les acides se décomposent.
+GET_QUAKE2_2 : La musique détruit l'âme de ceux qui tombent entre les mains de leurs ennemis et remplit leur cœur.
+CITY_GATE_KEY : Il y a de bonnes images. Électricité dans le placard. Portez-vous des vêtements urbains ?
+TOLLBOOTH_BENCH : Les voitures chères donneront-elles de la géographie?
+PROMPT_JUMP : F
+PROMPT_FIREBALL : Sang
+GET_WALLJUMP_2 : Sortez du paquet.
+GET_DREAMGATE_1 : Lorsque vous utilisez Dream Nail pour charger, cliquez et maintenez Dreamgate.
+GET_CYCLONE_1 : Accumulation de courant électrique dans le verre.
+GET_DREAMGATE_2 : Cliquez pour accéder aux livres Dreamgate.
+YES : D.
+GET_DOUBLEJUMP_2 : Utilisez ces boucliers pour vaincre les ennemis et trouver de nouvelles voies.
+PROMPT_FOCUS : Réglez le centre de gravité.
+PROMPT_QUICKMAP : Hatta vélox vidéo
+JIJI_DOOR_NOKEY : Tovan kiviportit.
+  : Les portes sont fermées. Voulez-vous utiliser le bouton OD ?
+TRAM_CALL_NOPASS : Machine à mesurer les murs
+GET_DASH_2 : Portez des vêtements pour voyager par voie terrestre ou aérienne.
+GET_DOUBLEJUMP_1 : Akashzep.
+GET_FIREBALL2_1 : Au départ, le problème est la difficulté à respirer.
+GET_FIREBALL2_2 : La magie utilise les mêmes esprits, mais est beaucoup plus forte.
+GET_DREAMNAILUPGRADE_1 : Remplissez et coupez vos ongles.
+GET_DASH_1 : Et la malédiction du canal

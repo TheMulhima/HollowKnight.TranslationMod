@@ -1,0 +1,73 @@
+DREAMERS_INSPECT_MONOMON1 : 有什么东西在水箱里烧了。
+DREAMERS_EC1_1 : 你想打破封印吗？
+FAKE_GREET_3 : 坐下来放松
+For diversity. For variance. For evolution. I become bond upon the Vessel. : 
+LURIEN_CONVO_4 : ... 听 ...
+To sleep eternal, what difference from death? : 
+DREAMERS_INSPECT_RG6 : 单击此处获取带有嵌入图像的完整保存页面。
+DREAMERS_INSPECT_RG2 : Manom​​ania 先生 <br> 他的弓缠绕在他的剑上。
+DREAMERS_EC1_3 : 它必须被丢弃。
+DREAMERS_EC2_2 : 唐，简单。 2011 夏季摇杆配件 跑步和睡眠不错。
+LURIEN_CONVO_6 : ... 土地 ...
+<br><br>Open your minds, brother and sister.<br>Our vow was to protect...but do we? The Vessel weakens. : 
+Unused Below : 
+DREAMERS_INSPECT_RG4 : 上帝在他的山洞里，是王国黑暗中的恶魔。
+DREAMERS_EC1_1A : 打破封印？我不记得了。这些应该被删除。躺在树荫下。让我们玩。
+Remember our promise, sister!<br>We three vowed to protect the seal with all of our devotion. : 
+Only one path I see. The Seals must break. Will it bring destruction? Of course. It will bring change, too. Let it.<page>To live forever in an unchanging world... Death, I would fear less. : 
+For my daughter and my kind, I become bond upon the Vessel. : 
+It matters not. Our Seals remain. This shadow seeks to defy us... It must be cast away. : 
+That plague, it calls to something within. But that union it offers is a lie, the cost, a mind regressed. : 
+DREAMERS_INSPECT_LURIEN : 石柱的图像。
+More detached than the other dreamers? Maybe ponders how the Hollow Knight (vessel) feels after all this time. Would he make the same choice again?First few dialogues are very taciturn : 
+HEGEMOL_CONVO_1 : ...为家庭...为儿童...写作...
+LURIEN_CONVO_3 : 遗产保险...
+What compels you to claw your way out of the darkness? What compels your return to this sacred kingdom? : 
+Go no further, little shadow. : 
+Talks about her history: As part of the agreement for her alliance and her role as a dreamer, King gave her a child (Hornet). Was she allowed to keep this child or was she taken away? : 
+DREAMERS_EC2_1 : 戒指会坏掉。这是不容忽视的。他一定是自由的。希望之语 <br> 产品打破，打破你的品牌，打破。
+<br><br>Do you truly wish to break it...?<br>Do you have the strength, or the will...? : 
+LURIEN_CONVO_1 : ……情人节那天……
+FAKE_GREET_4 : 热是安全的。坐下来放松一下。
+How long has passed? How long have we slept? : 
+DREAMERS_EC1_4 : 睡在黑暗中 - 返回主题 - 留在我们身边
+LURIEN_CONVO_5 : ...  ... 意思
+What calls it from beyond the Seal?<br>The Vessel, or that captive light? : 
+DREAMERS_INSPECT_RG3 : 守卫看着洛里亚诺·埃斯佩拉尼亚。
+DREAMERS_EC1_2 : 没有希望。
+FAKE_GREET_2 : 我们是朋友：欢迎，坐下来放松。
+Our King appears as bug, and I shall take him as so.But his are traits that transcend our kind. His is a mind beyond ours. Deity given form.In sleep, I shall not look upon his like again. : 
+Fade away, little shadow.<br><br>Fade away, and allow us sleep in peace. : 
+MONOMON_CONVO_1 : 赛娜...
+MONOMON_CONVO_2 : 地球无法改变。
+DREAMERS_INSPECT_RG5 : 所以万圣节是永恒的。
+MONOMON_CONVO_4 : 很快或...
+My mind is seal upon that tragic being. But who shall teach them now? Who shall open their minds, where I cannot? : 
+MONOMON_CONVO_6 : 终于好了……
+DREAMERS_INSPECT_RG1 : 梦想是保护船。
+It would break the Seals.<br>They cannot be undone.<br>They must be undone.<page>An empty vessel to bring hope.<br>A strong vessel to bring stagnation.<br>An enlightened vessel to bring an end. : 
+DREAMERS_EC2_1C : 炸弹爆炸了吗？它不能被删除。
+To live forever in an unchanging world... Death, I would fear less. : 
+<br><br>Remember our bond... our sacrifice. For the kingdom's sake... for the one we must protect. : 
+HEGEMOL_CONVO_6 : 存在...
+HEGEMOL_CONVO_4 : 埃琳娜...
+HEGEMOL_CONVO_5 : ...对于这个女孩...
+HEGEMOL_CONVO_2 : ... 超级服务 ...
+HEGEMOL_CONVO_3 : 好的 ...
+DREAMERS_EC2_1A_2 : 是什么让你走出黑暗？是什么把你带到了那个神圣的权威？
+MONOMON_CONVO_3 : 封印必须被打破...
+We sealed that plague, and thought we'd found an answer, but we were wrong.<page>Our sacrifices... what did they win us? A world sealed in stasis. : 
+<br>As you say... we made a promise. Let it be done. : 
+MONOMON_CONVO_5 : 永恒...
+LURIEN_CONVO_2 : ஊரா。莫...
+FAKE_GREET_1 : 我很疲倦。高枕无忧。
+DREAMERS_EC2_1G : 我们的工作是有保证的，是的。
+DREAMERS_EC2_1F : 他们必须被摧毁。
+DREAMERS_EC2_1E : 我们的印章还在。这是我们的责任。
+DREAMERS_EC2_1D : 但是保养很差。病又开始了。
+FAKE_GREET_5 : 欢迎光临，我在休息。坐下。
+DREAMERS_EC2_1B : 什么是信用残端？ <br> 是飞机还是隐形灯？
+DREAMERS_EC2_1A : 请不要去。
+DREAMERS_INSPECT_HEGEMOL : 刀片的图像是旧的。
+This little shadow...<br><br>Must return to its darkness. : 
+DREAMERS_INSPECT_MONOMON2 : 图为宫殿内的卧室。

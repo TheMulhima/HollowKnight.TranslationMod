@@ -1,0 +1,14 @@
+CITY_OF_TEARS_1 : Besoin de magasiner
+DIRTMOUTH : Exprimer "
+DEEPNEST : Une ville lointaine
+KINGS_STATION : gare
+RESTING_GROUNDS : Chaîne nationale
+HIDDEN_STATION : endroit caché
+STAG_NEST : Maison du cerf
+ROYAL_GARDENS : jardin du palais
+GREENPATH : La route verte
+STATIONS : emplacement
+BONE_FOREST : luj bos
+CROSSROADS : Un voyage oublié
+FUNGAL_WASTES : rôle de la reine
+PALACE_GROUNDS : سیگینچا

@@ -1,0 +1,150 @@
+WATERWAY_DOOR_KEY : Easy Key Tool – Welcher Schlüssel ist einfach zu bedienen?
+GET_ACIDARMOUR_2 : Schwimmen in saurem Wasser ist kein Problem.
+FOUNTAIN_PLAQUE_DESC : In einer sehr dunklen Umgebung. <br> Der Herr lebt ewig durch sein Opfer
+BATH_HOUSE_NOKEY : Ich schloss die einfache Tür.
+ABYSS_DOOR_NOBRAND : Diese Aussage wurde entfernt.
+NOT_ENOUGH_GEO : Geographie ist nicht genug
+JIJI_OFFER : Wer will der Stadt das schlechteste Gewand verpassen?
+PROMPT_ATTACK : Attacke
+SIT : OH JA
+LEGEATER_SOMETHING : Lohnt es sich?
+CHALLENGE : Problem:
+GET_SCREAM_2 : NAFTA eliminiert Magie. Besiege den Feind und tritt der NAFTA bei.
+PROMPT_FOCUS_EXPLAINER2 : Herausgegeben unter der Schirmherrschaft der Fakultät für Naturwissenschaften
+XUN_OFFER : Nimmst du die Geschenke an?
+NAILMASTER_PAY : Möchten Sie in das Geschäft mit Geschenkkörben einsteigen?
+ACCEPT : Ich stimme zu
+TRAM_DOOR_NOPASS : Sich treffen.
+GET_DREAMNAILUPGRADE_2 : Rot schläft glücklich und wird dein Herz brechen lassen.
+GEO_RELIEVE : Ist es möglich, im Frühjahr die gesamte Geographie wegzuwerfen?
+FOUNTAIN_PLAQUE_TOP : Fotoplatte
+GET_JOURNAL_1 : Öffnen Sie das Menü und gehen Sie zu Blogs.
+GET_JOURNAL_2 : Besiege Feinde, um deinem Kalender neue Rätsel hinzuzufügen und Jägerpunkte zu verdienen.
+GET_DSLASH_2 : Das Bedienfeld wird erstellt, wenn Sie die Taste versehentlich loslassen.
+ENTER : Eingang
+TRADE : benutzen
+EXIT : aus
+WATCH : -Ku
+GET_FIREBALL_2 : Der Geist der Magie wird geschwächt. Töte deine Feinde und nähre sie.
+RUINS_SHAMAN_1 : Mit der Immobilie verbundener Betrag. Sind Sie sicher, dass Sie sich ändern möchten?
+BUTTON_DESC_TAP : Einige tun
+JINN_OFFER : Wer braucht es?
+GET_FIREBALL_1 : Predigt den Heiligen Geist.
+GET_SUPERDASH_1 : Wenn Sie auf dem Boden oder an der Wand stehen, achten Sie auf Rot.
+GET_SUPERDASH_2 : Wenn Sie die Taste loslassen, bewegen Sie sich vorwärts und fliegen Sie in den Himmel.
+GET_DSLASH_1 : Konzentrieren Sie sich auf Ihre Nägel.
+REST : Rette dein Leben.
+GET_WALLJUMP_1 : An die Wand lehnen und umdrehen.
+GET_CYCLONE_2 : Halten Sie die Auslösetaste gedrückt, um den Hurrikan freizugeben.
+GET_SHADOWDASH_1 : läuft angezogen
+MAGE_DOOR_NOKEY : Dekorative Türen aus poliertem Metall. Einige Handyschlüssel
+TRIAL_BOARD_BRONZE : Fantastischer Prozess. Geographie des Krieges und der Unterhaltung. Reingehen und testen?
+PROMPT_FOCUS_EXPLAINER1B : Wenn die RAN nicht ausreicht, werden sie geschrieben
+GET_ITEM_INTRO6 : sterben
+GET_ITEM_INTRO7 : Zu meiner Tante
+GET_ITEM_INTRO4 : Lauren
+GET_ITEM_INTRO5 : Gardasee
+GET_ITEM_INTRO2 : ich
+GET_ITEM_INTRO3 : Probleme lösen
+PROMPT_LOOK_DOWN : Ria
+GET_SHADOWDASH_2 : Verwenden Sie Trainer, um anzugreifen und anzugreifen, ohne mit dem Feind zusammenzustoßen.
+MENDER_DIARY : Ist das Leben in meiner Geschichte besser? Ich habe echte Symptome, richtige Medikamente, kaputt. Ich bin ein echter Food-Experte.<page>Manchmal denke ich, dass etwas nicht stimmt, also macht Halloween mehr Spaß als ich.<page>Hallo, neuer Blog, <br> Menderbash kommt bald. Wir sind talentierte junge Rebellen.<page>Manderberry lächelte mich an. Vielleicht ist jetzt die Zeit für Mut und Handeln.<page>Ich liebe mein Zuhause, mich selbst, aber ich teile es mit anderen, warum diese Erdbeere?<page>Mein Lieblingsblog, <br> Jemand hat meinen Favoriten gelesen. Schau dir die Brücke an! Mach es immer!<page>Aber schau, ich kann mich nicht darum kümmern. Das muss ich respektieren. Es gibt viele Möglichkeiten, diesen Stil und diese schöne Stadt zu fördern.Und ich habe verschiedene Teile, also habe ich keine Angst vor entfernten Gefahren.
+GET_ITEM_INTRO8 : അനിയ നാ
+CHARM_REMINDER : Der Zauberer sitzt auf einem Stuhl und spielt Musik.
+GET_QUAKE2_1 : Wenn du hart auf dem Boden aufschlägst.
+LOVE_DOOR_KEY : Schließen Sie die Tür und füllen Sie es. Benutzt du den Schlüssel zur Liebe?
+GET_KINGSBRAND_1 : Hallows schlägt neuen Bürgermeister vor.
+TRAM_DOOR : Die Tür ist offen. <br> Wo?
+BUTTON_DESC_RELEASE : Tendenzen
+TRAM_CONSOLE : Kannst du den Lichtschalter drücken?
+GET_QUAKE_1 : Er stürzte wegen Strommangels zu Boden.
+GET_QUAKE_2 : Gedanken erschaffen Magie. <br> Füllen Sie Ihren Geist mit Feinden, die Sie angreifen.
+BANKER_ACCOUNT : Du bezahlst dafür?
+PROMPT_SUPERDASH : gute Reifen
+NAILSMITH_UPGRADE_1 : Verwenden Sie Gel, um die Nägel zu stärken?
+NO : Es gibt jetzt keinen Ausweg.
+NAILSMITH_UPGRADE_3 : Verwenden Sie für gesunde Nägel Mineralgel und helles Gel.
+NAILSMITH_UPGRADE_2 : Schreiben Sie eine Geschichte oder ein Geo, um die Nägel zu verbinden.
+NAILSMITH_UPGRADE_4 : Nehmen Sie drei schwarze Mineralien und Erde, um Ihre Nägel zu stärken?
+GHOST_CHALLENGE : Bist du deinen militärischen Träumen verpflichtet?
+BUTTON_DESC_HOLD_FOCUS : um dies zu tun
+JIJI_DOOR_KEY : Steintür mit einem einfachen Vorhängeschloss. Benutzt du einen Schlüssel?
+ASCEND : GmbH
+ELDERBUG_FLOWER : Wird es einfache Blumen geben?
+TRAVEL : wiederholen
+CHARM_TUTE_SUB : Nutze deine Talente, um dich auf Spaß vorzubereiten.
+GET_BLESSING_2 : Hinter Schönheit und Liebe steckt Freude.
+PROMPT_INTERACT : ارمل
+NAILMASTER_FREE : Haben Sie einen Master-Abschluss in Nagellack?
+CITY_GATE_NOKEY : Der große Soldat hatte ein Loch in der Brust.
+GET_BLESSING_1 : Ein gutes Geschenk für Salobra
+GET_SCREAM_1 : Wraith Nr. Robam CPC
+PROMPT_MAP_BLACKEGG : Der Blackwood-Tempel ist an die Karte angehängt.
+TUK_RANCIDEGG : Hast du Essen gekauft?
+GET_HUNTERMARK_2 : Bukov hat eine Rekordmutter.
+TRIAL_BOARD_GOLD : Dummes Medium. Jio ... und Ehrentisch <br> Hat der Lehrer angefangen, Briefe zu schreiben?
+BUTTON_DESC_WALLJUMP : Klicke hier
+PROMPT_DREAMNAIL : Neil schläft.
+TOLLBOOTH_STAG : Vollständige Zahlungen sind im Index enthalten. Leben?
+BUTTON_DESC_HOLD : halt
+COLLECTOR_MAP : Karten-Compiler
+LOVE_DOOR_NOKEY : Firewall-Standort
+GET_GSLASH_1 : Konzentrieren Sie Ihre Energie auf Ihre Nägel.
+GET_SCREAM2_2 : <br> <br>
+GET_SCREAM2_1 : Hör auf, ihn anzuschreien.
+HUNTER_REWARD : Sind Sie bereit, Preise zu gewinnen?
+NAME_BLESSING : Freiheitslager
+TRIAL_UNLOCK_BRONZE : Zahlen Sie für die alten Prüfungen?
+PROMPT_DASH : Schnell
+GET_HUNTERMARK_1 : Es ist ein Ausdruck des Respekts für den wahren Schöpfer.
+GET_GSLASH_2 : Um eine lange Zeile zu beenden, drücken Sie die AUF- oder AB-Taste, um sie freizugeben.
+TOLLBOOTH_LIFT : Die Kosten für die Ausrüstung und das technische Know-how des Verstärkers. Magst du diesen Ort?
+INSPECT : Testschreiber
+GET_ITEM_INTRO1 : Sie fanden
+TRIAL_UNLOCK_GOLD : Blöde legale Version?
+BUTTON_DESC_PRESS : h drücken
+GET_MAP_1 : Kartensuche
+TRAM_CALL : Gutes Auto. Möchten Sie ein Trampolin installieren?
+GET_MAP_3 : Überprüfen Sie die entsprechende Halloween-Karte.
+PROMPT_FOCUS_EXPLAINER1A : Besiege deine Feinde und sammle RANs.
+DESCEND : Zuerst
+GET_COLLECTOR_MAP : Zeig mir, wo der zweite ist.
+BATH_HOUSE_KEY : Robuste Türschlösser - Verwenden Sie Standard-Türschlösser?
+TOLLBOOTH_GATE : Nehmen Sie ein Auto mit einem Schild an der Tür. Möchten Sie geografische Informationen bereitstellen?
+CHARM_TUTE_TITLE : Beantworte dein Mantra
+GET_MAP_2 : Zeigen Sie eine Karte Ihres aktuellen Standorts an.
+BUTTON_DESC_NONE : 
+GET_DREAMNAIL_2 : Reinigen Sie den Bildschirm im Ruhezustand und warten Sie.
+NO_MAP : Hier gibt es keine Karte.
+GET_KINGSBRAND_2 : Die Tore des Königreichs sind offen.
+WATERWAY_DOOR_NOKEY : Die einfache Methode ist wichtig.
+SHOP : Juni
+FOUNTAIN_PLAQUE_MAIN : Ritter Höhle
+MAGE_DOOR_KEY : Glänzende Metalltüren – Brauchen Sie eine moderne Küche?
+GET_DREAMNAIL_1 : Culpa-Nägel werden geschnitten.
+LISTEN : Henoi
+TRIAL_BOARD_SILVER : Fragen Sie den Besitzer einer seltenen Metallmünze <br> Schreiben Sie den ersten Punkt.
+TRIAL_UNLOCK_SILVER : Muss der Antragsteller für den Gang vor Gericht bezahlen?
+GET_ACIDARMOUR_1 : Die Säure sollte abgetrennt werden.
+GET_QUAKE2_2 : Füllen Sie Ihre Seele mit müdem AGA, das Feinde angreift.
+CITY_GATE_KEY : Große Nachfrage nach den Rittern. Berühre ihre Brust. Ziehst du dich in der Stadt an?
+TOLLBOOTH_BENCH : Lead co Ordu-Logo. Eingangsbereich?
+PROMPT_JUMP : దురముగా
+PROMPT_FIREBALL : Die Bedeutung des Lösegeldes
+GET_WALLJUMP_2 : Bringen Sie die Wände auf eine neue Ebene.
+GET_DREAMGATE_1 : Öffnen Sie die Traumtür, halten Sie die Schlüssel zu Ihren Träumen.
+GET_CYCLONE_1 : Konzentrieren Sie sich auf die Energie Ihrer Nägel.
+GET_DREAMGATE_2 : Verwenden Sie immer Dream Roder, um die Tür Ihrer Träume zu erreichen.
+YES : sic
+GET_DOUBLEJUMP_2 : Verwenden Sie diese magischen Flügel, um dem Feind zu entkommen und neue Wege zu finden.
+PROMPT_FOCUS : Ihre Informationen
+PROMPT_QUICKMAP : Holen Sie sich eine schnelle Karte
+JIJI_DOOR_NOKEY : Eine einfache geschlossene Steintür.
+  : Gesperrt?
+TRAM_CALL_NOPASS : Dieses System hat das Potenzial für Freiflächen.
+GET_DASH_2 : Trage ein Kleid, das schnell auf dem Boden oder in der Luft schwebt.
+GET_DOUBLEJUMP_1 : Wie kann man es jemandem geben?
+GET_FIREBALL2_1 : Es generiert starke Ideen.
+GET_FIREBALL2_2 : Diese Magie hat das gleiche Leben und die gleichen übernatürlichen Kräfte.
+GET_DREAMNAILUPGRADE_1 : Stop einstellen und klicken.
+GET_DASH_1 : Dies wird fortgesetzt.

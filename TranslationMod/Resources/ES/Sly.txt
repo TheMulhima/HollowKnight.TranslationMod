@@ -1,0 +1,21 @@
+SLY_GENERIC : ¿Tu bolso está vacío? Deje nuestro helado si necesita más productos geográficos. Asegúrate de no caer en la niebla. no te ayudé
+SLY_GENERIC_NM : El tiempo en Bar Nalmaster es muy fuerte.Hágales saber que la próxima vez que vea sus uñas, siempre las recordaré. Y disfruta tu futuro al máximo.
+SLY_NAIL_HONED : Tienes una tormenta de bebés, ¿verdad? Como una caja con tapa.<page>¿Por la noche? Sí, a mí tampoco me gusta. Para ...<page>Las hormigas nos ayudan, son los medios para crear el mundo que nos rodea. El mayor es el responsable de la aceleración.... Lo siento. No diré mucho sobre geografía.
+SLY_MAPPER : Lo vi en la taquilla de enfrente. Habrá sana competencia.Tal vez debería empezar a comprar boletos... o más. Hola, vamos a evaluar todos los AEH del mundo.
+SLY_DREAM_STORE : Por alguna razón, quiero que vueles.
+SLY_BASEMENT_1 : ... Entonces únete a nuestro equipo.
+SLY_NOSTOCK_2 : ¿Centeno? ¿Sabías que no tengo muchas cuentas? limpiarme¿O simplemente no presta atención cuando le dices algo que hacer? Esto es mío y bueno.
+SLY_RESCUE_REPEAT : ¡Para encontrar coraje! Muchos soldados murieron durante la antigua sequía.No, no lo es. Pero puedo decirte cómo funciona.
+SLY_RESCUE_1 : ... oh, hace calor afuera ... están peleando como una banda ...... llamado ... qué tan profundo es ...
+SLY_NAILART : Sí, te ves diferente. Hay un cambio en tu actitud.<page>¡Jaja! Como proteges tus uñas, como entrenas tus uñas...Es muy interesante. ¿No estás seguro si quieres seguir jugando?
+SLY_DREAM_BASEMENT : ... tal ejército ... una batalla por la vida ...
+SLY_SHOP_INTRO : ¡Hola! Lo sé, vamos a ver. ¿Qué os parece mi pequeña tienda? También me gustaría venderte oro cuando crezcas aquí.Si está planeando un viaje, tengo algunas cosas que harán que su vida sea más placentera.
+SLY_BASEMENT_2 : Soldado, tengo tu regalo de un cliente. Estoy de acuerdo en que el espacio libre es muy difícil.Pero es muy importante conocer tu talento para dominar las habilidades de mis alumnos que no lo son, y ahora la cultura dice que tienes la misma personalidad.
+SLY_RESCUE_3 : Bueno, no siempre como Dartmouth. Esta caja no me queda bien, así que me alegro de estar de vuelta.Te lo diré cuando vengas. Soy la mejor persona que puedo agradecerles por el buen trabajo que están haciendo.
+SLY_RESCUE_2 : ¡Registrado! ¿No es así? kay ohYa veo... Es una ciudad vieja. ¡Qué sueño tengo aquí! no puedo dormir sin ti
+SLY_DREAM_RUINS : ... y lugar. Como debería. El mundo entero existe. Nadie prueba el tiempo...
+SLY_KEY_2 : ¡Esta es la llave de mi billetera! Siento que nunca me he perdido<page>¿Mmm? ¿Quizás te gustó tu vieja oreja? No sé es bueno saberlo.<page>Honestamente, no creo que BT me moleste. En el mejor de los casos, ahora puedo abrir un museo sin salas de arcilla.Estos productos pueden ser un poco baratos, pero todavía se comercializan por completo. ¡Odio! Show ...
+SLY_KEY : Creo que lo que la relación ha perdido para siempre.<page>¿Mmm? ¿Escucha? Sorprendentemente no sabemos cómo llegamos a este lejano país.<page>Debo mucho dinero por el alquiler. Es compasión y amor. Ahora que ha abierto la puerta principal, puede vender un artículo raro.La empresa puede ser un poco fraudulenta, pero aún puede vender mucho. ¡Tú entiendes! para ver ...
+SLY_BASEMENT_REPEAT : Tahoe, escritor. No tengo nada que añadir...Sin embargo, nada es gratis. Dirigí una serie de proyectos y lideré a Geo en la empresa.
+SLY_NOSTOCK_1 : Sí, ¿quieres comprar? ¿Tu tarjeta es pesada? Lo siento, borraste todo lo que quería dejar. ¡No queda nada!<page>Creo que puedes verlo en mi armario, pero la llave está ahí.¡Así que no había nada entre nosotros y la música! Más aquí. Obtén la información geográfica que me diste.
+SLY_BASEMENT_3 : Haz un buen uso de Neil Master. Bueno, me estás mirando.

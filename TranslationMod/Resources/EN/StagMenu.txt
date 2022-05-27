@@ -1,0 +1,14 @@
+CITY_OF_TEARS_1 : City store
+DIRTMOUTH : Life
+DEEPNEST : far away
+KINGS_STATION : The Royal Palace
+RESTING_GROUNDS : A place to rest
+HIDDEN_STATION : Space is lacking
+STAG_NEST : house of hearts
+ROYAL_GARDENS : Queen's Park
+GREENPATH : Greenway
+STATIONS : Center:
+BONE_FOREST : botambos
+CROSSROADS : It was a forgotten meeting
+FUNGAL_WASTES : Queen's Station
+PALACE_GROUNDS : The State Court

@@ -1,0 +1,28 @@
+NAILSMITH_MEET_1 : Avez-vous aiguisé d'autres ongles ? Commencez par le sol et revenez si vous respirez encore.
+NAILSMITH_DECLINE : Alors je m'en fous ? mètre
+ART_DREAM : ... lorsqu'un problème survient ... très bien ...
+MODELLING : Nous avons beaucoup travaillé sur King’s Night. On les voit de temps en temps, mais on les apprécie vraiment.Très simple. La méthode de base pour les mauvais ongles est différente. J'aime toutes les histoires dures.
+NAILSMITH_OFFER : Je peux le renvoyer si besoin. Le fer est faible.
+NAILSMITH_COMPLETE_3 : Nous vous proposons une liste. Changement complet.<page>Des trucs mouillés. C'est une question difficile. Nous sommes plus forts que jamais !Nous arrivons maintenant à la partie où nous parlons du juste milieu.
+NAILSMITH_GREET : Yim Radisi
+NAILSMITH_COMPLETE_1 : design personalisé.<page>J'essaie de retirer mes ongles. Vous êtes plus fort que jamais.Sortez de là et testez votre force contre vos ennemis.
+PAINTED_REPEAT : À chaque sombre Halloween, je pensais trouver un fantôme comme celui-ci.
+NAILSMITH_COMPLETE_4 : C'est le résultat. Des modifications ont été apportées.<page>Vos ongles sont solides. Cela peut être difficile.<page>J'ai vu ton flingue, j'ai plein d'ongles propres à la fin.<page>Imaginez-vous transformer en un monde graphique gouverné par le karma.... Je veux sortir un moment ...
+NAILSMITH_COMPLETE_2 : Légèrement simple. La construction est terminée.<page>J'ai agité tes ongles. Vous payez mieux. Vous voyez, il est plus fort que jamais.Allez-y et testez votre épée contre vos ennemis.
+NAILSMITH_REGREET : Hmm? Cherchez-vous toujours plus ici?
+NAILSMITH_ACCEPT : comme vous voulez. Puis travailler.
+NAILSMITH_KILL_REPEAT : n'ayez pas honte de vous. Pardonne-moi! J'adorerais essayer cette belle pointe d'épée.
+ART_MEET : Style? Haba pilote. C'est un excellent moyen de prévenir les gens.<page>Merci, fils, d'être avec toi. J'étais en colère au début, mais j'ai vite trouvé le temps de réfléchir et j'ai vite réalisé que le conseil était bon.<page>La terre est faite de fer et d'acier. J'ai rapidement commencé à chercher et je l'ai trouvé ici.Salt est spécialisé dans de nombreuses technologies et a promis de m'en apprendre le plus possible. Je pense que c'est très pratique.
+NAILSMITH_SIGN : je vais
+MODELLING_REPEAT : Nous sommes heureux de l'entendre. Je n'aurais jamais pensé rendre mes ongles spéciaux.
+NAILSMITH_NEED_ORE1 : Si vous utilisez Urpel, vous pouvez l'attacher à un ongle pour le renforcer.
+NAILSMITH_NEED_ORE3 : Si vous obtenez trois métaux mous, je vais couper et durcir mes ongles.
+NAILSMITH_NEED_ORE2 : Prenez deux cuillères à soupe pour protéger vos ongles.
+NAILSMITH_KILL : Le vernis à ongles est la fin de ma vie. Je veux voir si je peux finir mon jardin !<page>Evite-moi Comme les derniers jours de ma vie, je veux aussi profiter du bel emplacement du magazine.Après tant de travail... non ?
+NAILSMITH_NOT_ENOUGH_GEO : Ouah! C'est GO. S'il vous plaît, rendez-moi.
+NAILSMITH_MEET_3 : Ou pas? Il y en a un, je veux dire, je n'aime pas dire ça, mais s'il y a quelque chose qui doit être réparé, vous vous trompez.Votre ongle est cassé. J'ai jamais fait. Mais la force et la sagesse peuvent guérir tout le monde, même les os brisés.
+NAILSMITH_OFFER_ORE : Je vois que vous avez du métal jaune. Il y a un peu de fer. Résoudre les problèmes d'utilisation des terres. Nous augmenterons vos efforts.
+PAINTED : J'ai peur de ne pas pouvoir parler. Si je bouge trop, les capacités de Geo diminueront et je ne le regretterai pas.Bien que cela semble fou, la vérité est simple.
+NAILSMITH_DREAM_CLIFF : Ma vie est finie .. alors ..?
+NAILSMITH_MEET_2 : La mise en réseau?Les chats publics pensent que vous êtes quelqu'un d'autre
+NAILSMITH_DREAM_INTERIOR : ongles de travail droits

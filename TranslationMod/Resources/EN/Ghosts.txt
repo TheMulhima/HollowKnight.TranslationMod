@@ -1,0 +1,83 @@
+HU_INSPECT : Something to keep in mind
+CHAGAX_TALK : The patient died for me ... so beautiful.
+HU_DEFEAT : My point is clear. We sleep baby <page> Oh ... I remember. These proud women ... Are they really giant beasts? I remember your eyes now ... bright and clear. Why am I scared? When they attack <page> they can't kill ... <page> ... kill me <page> ...? <λάπα> ... ω.
+MOLTEN_TALK : Feel free to call my face. My body is always different, but it's the same.
+KCIN_REPEAT : The government's demands are unfounded. It’s fun to see something else.
+HEX_REPEAT : Contact someone. Not what I expected.
+XERO_REPEAT : You wait, villain. Do you want to escape or take up arms and punish both?
+GROHAC_TALK : We always warn them of our mistakes. Don't overdo it. But be a leader who can’t go.
+GALIEN_REPEAT : So we fight? Check out our fun games!
+KARINA_TALK : Can you check my results? You know that I am of the same race, but I have never seen anything like it.
+THISTLEWIND_TALK : Ah, traveler. I have visited a lot of websites, have done a lot, but I think you know more than I do. Last time I was for Halloween it could have been worse than traveling, but it was better to go when the weather was nice. Recognition: There is a bigger world.
+WAYNER_TALK : Yes, my friend is gone! You want the world to stay together, but in the end why.
+ALADAR_INSPECT : Anything wrong is a good idea.
+MUMCAT_TALK : you x! Princess! The princess has arrived. I waited many times. But here. I think it's going to explode. This is a holy place. During that time, his queen learned to fly backwards. Why are we all waiting for strangers? Why we play together
+PERPETOS_TALK : Have you ever liked a college student? I want to give advice, but I’ve done it here, so you better manage the world with your problems.
+GARRO_REPEAT : hero
+GRASSHOPPER_TALK : Isn't this a good place? There are some things I like. We can't decide which way to go, but we are ready to do it ourselves. We need to stop discussing these little things.
+100NAIL_TALK : Do you want to remove my short nails? Port 3 only. Less recommended than <page>! Each is faster than the other. I was hurt
+MILLY_REPEAT : Buy cakes and buy finishes.
+MAGNUS_TALK : Every problem in life can be solved by violence. The mantra is simple, I will always live. If you are not very proud, we encourage you to follow it.
+ATRA_REPEAT : Don't be afraid of me, I'll be safe here
+GALIEN_DEFEAT : Barakala! I'm happy ... how healthy am I? If you see our king, why do you say that? I'm sure you won't forget Galliano's fortune. Brethren, I am preparing this for you. Me and you from here ... <page> ... with ...
+GALIEN_INSPECT : The corpse of a dead soldier.
+NOEYES_REPEAT : Boy, the devil is coming to us in the dark ... can you call me?
+HU_REPEAT : Be careful, your child is dreaming.
+PERPETOS_REPEAT : You know such things very well. Although he is afraid to start with his brother, he continues to drive.
+GRAVEDIGGER_REPEAT : Whatever you want to do, driver. Get to your destination. I do not complain. People who care about the people in my company.
+MARKOTH_TALK : You will die. No, don't say I've heard a thousand twins about someone like you. If you have lost your pride, your desire, your strength ... give it back.
+MARISSA_REPEAT : I love solitude.
+NOEYES_INSPECT : Done with the stones.
+HIVEQUEEN_TALK : Woo. I know the type of <page>. While white beings are responsible for natural phenomena, we are not involved in the long-term objective of the Halloween business.
+XERO_DEFEAT : Unfortunately ... now I understand. Opposers pressured me to quit my job. moo:
+MUMCAT_DEFEAT : I can't believe... it's hard. He is stronger than me...Wait, stranger. Long war with aliens. God sleeps. Bring an amazing queen. Maybe me and our alien queen! Funny... or...?
+BOSS_TALK : I'm far from here and my personality is strange, but like you, I'm wrong.
+MAGNUS_REPEAT : Keep in mind that small insects can reduce your stress. Solve your problems and destroy your enemies
+REVEK_TALK : This worm is in my hand. You can live with dignity with them, but you can catch nails and attack.
+ATRA_TALK : Do not be afraid of small animals. Unfortunately, the cold carried me away.
+MUMCAT_REPEAT : Did the guests surprise? We played
+XERO_TALK : pardon! Those who want to be saved in this kingdom must be cursed. It’s best to rest here while you have time. Pages of hope and freedom. I think it gives me strength. And he slept with nails and hugged her. <page> When I woke up in this temple, I realized. I lost hope. Anyway Montazeri, did I shoot us or destroy us?
+WYATT_TALK : I don't want to burn you with acid. Identifying others may seem strange, but it is a form of self-defense.
+HIVEQUEEN_EXTRA : Details ... you are free.
+MAGE_LORD : I can see my dreams. The answer to the salvation of the homeland is to heal the world with the spirits that protect our bodies. I've done everything. They will live forever.
+MARKOTH_INSPECT : Fiction with service and humanity.
+HIVEQUEEN_REPEAT : It is not wise to resist the temptation. Everyone accepted the offer.
+REVEK_TALK_DEFEAT_REPEAT : This is my job so what am I waiting for? You and I are here.
+MARISSA_TALK : Welcome to my little program. I am the famous singer Marisa. I apologize for the current situation. But it's not easy to believe. Many people come to me to listen to their songs. Then everything changed The audience immediately panicked. I fell out of my ears and my voice was silent. I want you to listen to music You'll be hearing it over the years.
+GRASSHOPPER_REPEAT : Left or right? Which way is best? It should be a simple question, but we always oppose it.
+XERO_INSPECT : Those who plotted the king were condemned.
+WALDIE_REPEAT : don't meet me
+GROHAC_REPEAT : Rope? They are my dear friends. They are always there to protect me. Mainly because it's a great game that doesn't exist.
+MOLTEN_REPEAT : My body loses weight and moves and so does my back.
+CHAGAX_REPEAT : All success with death is temporary ... a sad thought.
+MARKOTH_REPEAT : Take up arms like your ancestors, cheat, die.
+NOEYES_TALK : Friends, you say the poor lie in bed ... they are nails ... Dear children, bears come in the dark. ..Did you miss me?
+JONI_TALK : I see you're happy, I do not remember, otherwise I would not have given up. But in the end, the memory shrank a little.
+ALADAR_DEFEAT : Oh ... COCKS! It was good ... okay! Continue! Continue! follow me
+GRAVEDIGGER_TALK : And someone has a gun. Do you think that you have left many bodies? If he doesn’t say he’s dead, remember he quit his job.
+MILLY_TALK : Grab my cookies! You're always funny.
+NOEYES_DEFEAT : One by one ... I finally closed my eyes. I mean, it was hot and cold. Sorry, I'm with you. Even if we don't see you, you will always protect us. We're here We're not in a bright and imaginative place ... thank you.
+100NAIL_REPEAT : Are my nails beautiful? Sharp edges are very sharp and can be deadly.
+THISTLEWIND_REPEAT : Looking for a lightweight gun? We are sleeping animals. I don't just steal weapons. What happened to him
+MUMCAT_INSPECT : We recommend that you look at the roots and leaves.
+KARINA_REPEAT : I can not even see the sign below. Tell me, are you big or small?
+CASPIAN_TALK : Focus on your thoughts. Evil leads to evil, and the heart is corrupted above all things.
+WAYNER_REPEAT : Do not be afraid of jealousy. I can learn from your attitude.
+GALIEN_TALK : oh! He is my friend! Will I live a stupid life In the cave did we forget he was brave and strong? I came to the right place for my health checkup. You really want to test your health. Fear, there is no mercy for the weak. So they went to war? Test our strength in an exciting game.
+POGGY_REPEAT : I'm waiting. Is lunch fast?
+REVEK_TALK_DEFEAT : Is the house comfortable, very quiet, but not very comfortable? I've worked here before. But what is it? ... hard to remember, is it really that important? How can I forget
+POGGY_TALK : Joyful! You look a few. We were deeply moved. I think it's a place! Very good, sweet, greasy ... I don't think a good cake is popular here.
+ALADAR_TALK : I bow! Be ready, O Allah! <side> That's good advice! I am happy! <bill <account! On the moon! With neighbors!
+REVEK_REPEAT : It should be noted that tourists worked tirelessly.
+ALADAR_REPEAT : Panda! Panda! Come in, check it out and have fun!
+JONI_REPEAT : Why is this place so quiet? This is a great place to relax.
+HEX_TALK : "Welcome." A few days ago ... basically. Where I died
+HU_TALK : Children just for a moment, why do you want to silence this oppressive country? Many people came to clear the earth, but all died. If you are as proud as they are, they are demons. My soul guards my wonderful dreams. Don't come back
+GARRO_TALK : My dear, you are a hero. A good warrior is a man who stands firm in the face of adversity.
+MARKOTH_DEFEAT : I have never won a war. <page>... He was still sleeping there. How long are you here?
+KCIN_TALK : At first I was active, but my classes were very difficult.
+FALSE_KNIGHT : I... I want to force myself to do something to protect others... No... I'm sleeping... I'm armed... <page> I'm not crazy... I want to... .Page>. .. Finally? What if the government can't save you?
+WALDIE_TALK : Don't judge my face. I was small, but I had black thoughts and was angry.
+WYATT_REPEAT : Do not approach. I don't want to die
+CASPIAN_REPEAT : Do you think the child's mind is dark? I find it hard to feel like I'm hiding in a troubled scene like yours.
+BOSS_REPEAT : I look at you as a warrior. But your skin will not grow in the current location Traveling indoors is dangerous and fun.

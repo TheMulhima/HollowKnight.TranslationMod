@@ -1,0 +1,13 @@
+GAME_TITLE : Jeu en ligne Gunting Grass Knight
+PRE_MENU_QUOTE : Méthode spéciale de démolition et de réparation des sols.
+GAME_DISPLAY_TITLE : 
+SAVE_WARNING : Le jeu conserve les notes en un seul endroit. <br> N'ouvrez pas l'application si vous voyez une icône.
+CONTROL_PROMPT : Nous vous recommandons d'utiliser un contrôleur.
+VERSION_NUMBER : - - -
+PROLOGUE_EXCERPT_AUTHOR : - Maître Jean Amma, "Tonton Bo Halloween Mort"
+PROLOGUE_EXCERPT_02 : À ce jour, personne ne se déteste. Mais nous le protégeons et le considérons comme le Seigneur de l'Église.
+PROLOGUE_EXCERPT_03 : Avec une bonne gestion, vous apprendrez, pratiquerez et resterez en bonne santé,
+PRE_MENU_QUOTE_AUTHOR : - A propos
+PROLOGUE_EXCERPT_01 : Dans le désert, cela vous rappelle votre respect et votre amour.
+SNEAK_PEEK : Cette image de conception illimitée est prise la nuit et ne reflète pas la performance finale.
+PROLOGUE_EXCERPT_04 : Vous avez donné au monde le rêve des insectes et des animaux.

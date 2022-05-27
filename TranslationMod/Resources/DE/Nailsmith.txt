@@ -1,0 +1,28 @@
+NAILSMITH_MEET_1 : Kann ich einen neuen Unlock-Nagel haben? Wenn Sie Schwierigkeiten beim Atmen haben, gehen Sie ins Bett und kehren Sie zurück.
+NAILSMITH_DECLINE : interessiert dich das nicht? Vorsichtig sein.
+ART_DREAM : Arbeitszeiten ... Ausgezeichnet ...
+MODELLING : Wir haben Kostüme für den Königsritter entworfen. Seine Zeit ist mir wirklich egal. Aber erinnere dich an alles.Es ist selbstmörderisch, nicht festzunageln. Ich mag harte Sachen.
+NAILSMITH_OFFER : Wenn du willst, kann ich ein Foto machen. Das macht es tödlicher als Eisen.
+NAILSMITH_COMPLETE_3 : Er kommt für eine Sekunde hierher.<page>Ich habe meine Nägel geschnitten. Dies ist eine schwierige Aufgabe. Er war stärker denn je.Gehen Sie nun auf die andere Straßenseite.
+NAILSMITH_GREET : Hmmm? Sind Sie zurück?
+NAILSMITH_COMPLETE_1 : Wir sind von dort, auch nicht ändern<page>Ich wasche meine Nägel. Sie können es gut sehen.Dann testest du deine Stärke gegen deine Feinde.
+PAINTED_REPEAT : In der Vergangenheit dachten sie, sie seien von der Halloween-Dunkelheit inspiriert worden.
+NAILSMITH_COMPLETE_4 : In Ordnung. Tokio.<page>Ihre Nägel sind stärker als je zuvor. Es kann so mächtig sein, wie Sie es wollen.<page>Ich sehe, dass es nur in deinen Händen liegen kann. Schließlich bemerkte ich die scharfe Größe des Nagels.<page>Ich denke die Zeit wird kommen...... ich muss hier kurz weg ...
+NAILSMITH_COMPLETE_2 : Stier. Fortgeschrittener Prozess<page>Ich habe den Kanal auf meine Nägel gelegt, er sollte gut getrimmt sein. Es wird schwieriger denn je.Testen Sie schnell Ihre Stärke im Kampf gegen Feinde.
+NAILSMITH_REGREET : Gabi? Du bist da
+NAILSMITH_ACCEPT : hängt von dir ab. Ich arbeite später.
+NAILSMITH_KILL_REPEAT : Seien Sie nicht schüchtern, bitte. Wende! Ich genieße gerne die schöne Seite des Wassers.
+ART_MEET : Hmm? Liebe die Touristen. Ich freue mich, Sie in dieser schönen Welt wiederzusehen!<page>Wenn ich dich frage, möchte ich dir danken, dass du mich nicht getötet hast. Zuerst fragte ich, aber ich dachte darüber nach und verstand schnell den Grund für seine Wahl.<page>Jeder Mensch besteht aus Metallen und Materialien. Ich ging und fand ihn sofort.Shiva liebt Kunst und verspricht mir, was ich kann. Ich denke, ich werde hier sehr glücklich sein.
+NAILSMITH_SIGN : Nicht benutzt
+MODELLING_REPEAT : Seltsamerweise kann ich nicht glauben, dass meine Nägel eine solche Gelegenheit bieten.
+NAILSMITH_NEED_ORE1 : Wenn Sie mir dieses Salz bringen können, kann ich es stärken, indem ich es auf meine Nägel auftrage.
+NAILSMITH_NEED_ORE3 : Bring mir drei Gläser, um deine Nägel zu stärken.
+NAILSMITH_NEED_ORE2 : Wenn du mir zwei schuldest, schulde ich dir das.
+NAILSMITH_KILL : In diesem Leben endete meine Arbeit mit künstlichen Nägeln. Ich will nur deinen Finger sehen<page>Das letzte Mal in meinem Leben war genug, um mir zu sagen, dass ich einen besonderen Schwerttest haben möchte.Jetzt ist es eine schwierige Situation ... Bin ich nicht fit?
+NAILSMITH_NOT_ENOUGH_GEO : der nächste Abschnitt? komm zu mir, wenn du frei hast
+NAILSMITH_MEET_3 : Wie wäre es mit Neil Smith? Ja, ich werde nicht mehr sagen, aber wenn Sie dieses Zitat korrigieren müssen, liegen Sie falsch.Meine Nägel sind in einem wirklich schlechten Zustand. Nicht natürlich, aber wenn Sie einen Finger haben, können Sie ihn mit harter Arbeit und Geschick reinigen.
+NAILSMITH_OFFER_ORE : Ich sehe, du bist ein besonderes und reichhaltiges Metall. Ich habe viel Mühe in Geo gesteckt und an meinen Nägeln gezogen, um es zu stärken.
+PAINTED : Ich fürchte, es wird nicht lange dauern. Wenn ich stark wäre, würde ich deine Kraft nicht verlieren, ich will deinen Zorn nicht sehen.Überraschenderweise ist es sehr einfach.
+NAILSMITH_DREAM_CLIFF : Mein Leben ist vorbei ... Was nun ...?
+NAILSMITH_MEET_2 : Gibt es Fortschritte?Ja, ich verstehe, was Sie sagen
+NAILSMITH_DREAM_INTERIOR : Um Ihre Nägel schöner zu machen ...

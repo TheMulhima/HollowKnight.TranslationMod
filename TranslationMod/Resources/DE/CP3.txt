@@ -1,0 +1,408 @@
+GG_LOCKED_DESC_GHOST_NOEYES : Ich schlafe unter demselben Stern
+MEGA_MOSS_MAIN : Muskelübungen
+ATRIUM_ENTER_TEXT : Beratung bei der Urteilsfindung. <br><page>Du bist Wu-Schlange! Du bist der jüngste <br>Wie kommt man zu diesem Tempel? Er verschwand bald. anfangen
+NAME_MANTIS_LORD_V : Die Brüder kämpfen.
+NIGHTMARE_GRIMM_GG_3 : Das verlorene Land ... Das Ende der Alpträume ...
+GG_UNLOCK_INSPECT : Handgefertigte Pressen
+NOTE_VOID_IDOL_1 : Zunächst wurde dies von Astrologen unterstützt. Oder weitermachen. Kaiser beten die Dunkelheit an, nicht Macht und Macht. <br> - Mann
+INV_DESC_GODFINDER : Sie sehen aus wie starke Menschen. Glänzen Sie, wenn Sie einen mächtigen Feind besiegen.
+GG_S_MEGABEAMMINER : Ruhm ist der Gott der Gier.
+ETERNAL_ORDEAL_SUPER : Stein
+UI_MENUSTYLE_VOIDHEART : Südkorea
+LOADING : Fingernägel ...
+GG_UNLOCK_TALK : ... der Gott unserer Zukunft. Wir werden Sie überwachen. Wir wollen alles spenden ...
+GG_S_GHOST_NOEYES : Gott träumt von Angst und Trost.
+NAME_SOUL_TYRANT : dunkel
+UI_MENU_EXTRA_GG_DESC : Anmerkung 03: <br> Erstveröffentlichungsdatum: August 2018 Anmerkung: Setzen Sie sich zwischen die Götter, um den Ruhm von Helosta zu feiern und markieren Sie das letzte Kapitel der Reise des Ritters. <br> <br> <br> Neuigkeiten und Updates - Kommende Berichte. Zieh sein Hemd aus und hilf ihm bei seiner vorherigen Arbeit. <br> <br> Neuer Krieg - Der größte Held von Heloesta benutzt sein Schwert, um seinen Wunsch zu erfüllen, einen neuen Weg zu den Göttern zu öffnen. <br> Raga Baharu - Verteidige Bahara! Alles wird zu Ihrer Lieblingsübung hinzugefügt.
+GODSEEKER_GGMODE_INTRO : Gleichgewicht! Gleichgewicht! Leuchter! Du prüfst dich gegen die Armen und Schwachen, die für dich arbeiten. BauernWie auf einer unmöglichen geraden Linie werden wir niederknien und zu deiner Herrlichkeit gehen. Gib uns alles, um es noch einmal zu beweisen, aber die Energie wird sofort erschöpft sein!
+ATRIUM_NPC_DREAM_2 : Golek Gust...
+GG_S_ZOTE : einer der götter von halloween
+GG_S_NOSK : Gott ist die menschliche Natur
+GODSEEKER_ENGINE_DREAM : Hallo, zeigen Sie uns Ihre Seite hier. Lasst uns unseren König ergreifen. Lass uns besser sein.
+HIVEQUEEN_EXTRA : Gabii ... so mise.
+ETERNAL_ORDEAL : Die Ermittlungen dauern an
+ATRIUM_NPC_DREAM_5 : Bitte ...
+PURE_VESSEL_4 : Carson-Mühle;
+NOTE_SAGE_SLY : Nun Herr, unser Herr ist weise, gottesfürchtig, groß.
+UI_BINDINGS_TITLE : Das sieht großartig aus
+GODSEEKER_ENGINE_UNN_REPEAT : Es reduziert auch die Größe von ... ...
+GG_S_MAGEKNIGHT : heilig wie sac sac Gott
+GRIMM_GG_3 : Es ist eine Ehre, Mitglied der Suchmaschine zu sein!
+GG_S_UMMU : Gott des Intellekts
+GG_LOCKED_DESC_GHOST_GORB : Ich lag auf dem Boden und ein starker Wind wehte
+GODSEEKER_ENGINE_REVISIT_GGMODE : Gott ist wie Milch auf Erden. Sie sind nicht die Person, die wir suchen. Unsere Lieder sind in Ihren Händen.
+GG_S_SOUL_TYRANT : Der Zorn des Herrn kommt auf den Tod;
+NAME_PURE_VESSEL : Der Garten ist sauber
+GG_S_GHOST_HU : Gott wird mit dem Willen und der Weisheit der Reisenden geboren.
+GODSEEKER_WATERWAYS_WHITEFLOWER : opfern? Die Yanten-Malerei wird für uns bereit sein. Die Blüten sind klein und weiß. Aber er ist nicht Gott. Es gibt keinen Gott. sondern ...<page>Worauf wartest du Raven? Wissen? Was verbirgst du, siehst du dieses schöne Gesicht unter unseren Augen? RELIGIONMaya Maya! Die meisten von ihnen sind Larven. Es ist unsere Verantwortung. Sind wir uns einig. Aber wir halten es geheim.
+UI_MENU_STYLE_HD : Labanto Toro
+ELDERBUG_FLOWER : Sie brauchen weiche Blumen
+GODSEEKER_WATERWAYS_AWAKE_REPEAT : Heiliges Schicksal ... Auch die Herrlichkeit Gottes nimmt ab.Befehl. Befehl! Gott ist nicht hier!
+GODSEEKER_ENGINE_REPEAT : Wir sind hier schwach in der Hoffnung, dass die Götter dich vollständig zerstören werden.
+NAME_MEGA_BEAM_MINER_2 : Nervenreparatur
+MARKER_W_NAME : Das leuchtende Zeichen
+INV_DESC_FLOWER_QG : Betritt den Garten der Königin. Leuchtet nicht im Dunkeln <br> <br>
+GG_LOCKED_DESC_MANTISLORDS : Die Soldaten durchsuchten das Haus
+GODSEEKER_MAIN : Gott sieht
+PAINTMASTER_MAIN : Satz:
+QUEEN_FLOWER : Geschenke sind wichtig, wir nehmen sie nicht an.<page>Ich bin weder eine Blume noch eine Republik. Es war ein langer Weg und sein Lieblingsauto brachte ihn an einen ruhigen Ort.<page>Diese zarten Blüten verbergen ein wenig Kraft.Sie müssen Ihre Identität vergessen, um zu sprechen.
+PANTHEON_ENTER_2 : Schäm dich! Hübsche Käfer! Bin ich immer noch gegen die Götter? Welche Kraft hat Gott mir gegeben, um in dieser einsamen Welt zu leben? <br>Gute Taten, Krieg, Krieg, also hören wir von deinem Tod!
+FLUKE_HERMIT_DREAM : schöne Mutter ... wütend ... wütend ...
+GG_LOCKED_DESC_GHOST_MARKOTH : Ich glaube nicht.
+GODSEEKER_COFFIN_NOKEY : Coconut ist an den öffentlichen Schlüssel angehängt.
+VENGEFLY_SUB : 
+HORNET_GG_1 : Folgst du meinem Traum oder meinem Traum?
+UI_CHALLENGE_TITLE_MAIN_4 : Nat
+UI_CHALLENGE_TITLE_MAIN_5 : Künstler Gallone
+FLUKE_HERMIT_PRAY_REPEAT : Banane Banane ... Mama ... <big> Heute ... Mama ...? Sehr ...
+NOTE_PALE_LURKER : Fremde tappen nicht in die Falle - ich weiß nicht, ob seine Wut verschwindet.
+UI_CHALLENGE_TITLE_MAIN_1 : Lehrer:
+UI_CHALLENGE_TITLE_MAIN_2 : Künstler:
+UI_CHALLENGE_TITLE_MAIN_3 : Mofani
+KNIGHT_STATUE_2 : Token funktioniert nicht.
+GG_S_PAINTMASTER : Anerkennung Gottes für Künstler und Schöpfer.
+KNIGHT_STATUE_1 : Es gibt keine Insekten, keine Tiere, keine Götter.
+SHEO_3 : Wenn wir nicht spielen, was ist Gott?
+GG_LOCKED_DESC_FKNIGHT : Ich möchte mit Bedauern scheitern
+MODAL_ENGAGE_CONTROLLER : Klicken Sie auf die Schaltfläche Start
+ENDING_D_TITLE : löschen
+GG_S_COLLECTOR : Gott segne dich
+UI_MENU_RUMBLE : Fest
+GG_LOCKED_DESC_WATCHERKNIGHTS : Wir kümmern uns um den Turm
+GG_LOCKED_DESC_GHOST_XERO : Anstatt zu schlafen, fand ich mich in einem stillen Grab wieder.
+PURE_VESSEL_3 : Ich hatte nicht erwartet ...
+PURE_VESSEL_2 : die Sprache
+GG_S_SOULMASTER : Gott ist gierig
+GODSEEKER_ENGINE_PRIME_REVISIT : Schneiden Sie Ihre Nägel mit diesem sauberen Werkzeug erneut. Können wir den Grund erraten?Der Wahltag steht bevor? Willst du Gott sein oder hast du andere geheime Wünsche?
+CTRL_MARKER_PLACE : Hausaufgaben
+GODSEEKER_ENGINE_3 : bist du bereit ?! Warum ist dieses Haus vor dir dreckig? Möchtest du berühmt sein?<page>Sie verstehen unseren Zweck nicht. Im Bürgerkrieg folgen wir den Worten GottesBring es zu uns! Hoch, runter, rauf! Vor Gott können wir über eine große Macht sprechen, die in den Tiefen des Königreichs verborgen ist ...
+TEMP_NM_SUB : 
+HIVE_KNIGHT_2 : Vertrau mir!
+HIVE_KNIGHT_3 : Wenn du aufwachst ...
+HIVE_KNIGHT_1 : Danke
+PLATINUM_TITLE : Ehrlichkeit
+GG_LOCKED_DESC_GHOST_MARMU : Der Park, den ich gesehen habe
+ATRIUM_NPC_DREAM_1 : Unsere Wurzeln sind sehr gut ...
+DESC_PAINTMASTER : Die Anker sind elegant und schön. Ich lerne immer gerne neue Dinge.
+NOTE_PAINTMASTER : Allmächtiger Gott, weiser Guru, <br> Zeige uns, was in unseren unschuldigen Köpfen und Herzen vorgeht, wenn wir fleißig sind. <br> - Namoz-Learist
+GET_GODFINDER_1 : Die Lautsprecher halten am längsten.
+GET_GODFINDER_2 : Finde die heiligen Götter. Betrachten Sie Ihre Stärken. Stehen Sie mit Macht auf
+LURKER_1 : Ein Mal noch! Ich weiß nicht!
+MARKER_B_DESC : Dies ist eine neue Ergänzung des Geschäfts. Sie können es verwenden, um Ihre Emotionen auf die Karte zu bringen! Findest du die Farben lustig?
+ATRIUM_NPC_DREAM_4 : ... Saska ...
+FLUKE_HERMIT_PRAY : Komm schon! Nächste!<page>Das Einkaufen! Mir geht es prächtig! Hell, glänzend! Brüder ... wachsen, wachsen, wachsen!Akron… Amma… Ich… Amma? Wohlgemerkt ... Sulgemisnoop
+GG_S_BROKENVESSEL : Gott öffnete das kaputte Rad.
+MAGE_KNIGHT_SUPER : Bewegung
+GODSEEKER_ENGINE_UNN_DREAM : Mama, wir möchten, dass du die Welt von heute mit den Träumen und Überzeugungen der Vergangenheit kennst.
+GG_LOCKED_DESC_SOULMASTER : Alice, ich habe das gekauft.
+GG_LOCKED_DESC_HIVEKNIGHT : Bata blieb bei ihrem Mann.
+ORO_FLOWER : Was bringt Studenten dazu zu denken, dass Arbeitgeber Müll in ihre Häuser werfen sollten? Oder ist diese schöne Blume Ihr Geschenk?Ich sehe keinen Sinn darin, dies zu tun. Nimm es mit, oder ich lasse es gehen.
+OPTIONS_CONTROLLER_PS4 : Käse:
+SLY_BOSS_SUB : 
+FLUKE_HERMIT_SUB : 
+MODAL_CONNECT_CONTROLLER_PROMPT : Zünde den Topf an, um fortzufahren.
+GAME_NATIVE_INPUT_PS4 : Treiber-Controller-Standardbereich
+GG_LOCKED_DESC_GRIM : Es gab einen Stromschlag.
+GODSEEKER_WATERWAYS_AWAKE_NO_GODFINDER : Gu Jiang, Vidistin? Bonnie Godslonka Sims.Du bist der Wille des Herrn. Willst du mehr als du willst? Wir empfangen und senden. Es gibt kein solches Gerät.
+GG_S_SLY : Herr.
+NAME_VOID_IDOL_1 : Mangel an Skulptur
+GG_S_FKNIGHT : Gott ist von Zorn umgeben
+FLUKE_HERMIT_MAIN : Indien
+GG_UNLOCK_BODY : Messen Sie sich mit Halloween-Filmen. Hinsetzen.
+GODSEEKER_ENGINE_PRIME : Ehrlich gesagt, Junge. Zeigen Sie Ihre Angst davor, sich einem großen und wunderbaren Gott zu nähern.<page>Sein Körper war unrein und unrein, aber die Herrlichkeit seines reinen und ewigen Bildes überwand diese Verfolgung. Seine unendliche Macht vereint uns mit dem großen Gott!<page>Enttäuschter Mann, denkst du, du bist Gott gleich? Können Sie sich das Bild vorstellen, das er gemalt hat? Dieselbe vertraute Form, dieselbe tiefe Resonanz ...Was ist das für ein Gedanke, du selbst bist unehrlich und dumm! Loslegen! Möge es keinen Gott geben, der dich für immer glücklich macht!
+ABSOLUTE_RADIANCE_MAIN : hell
+FLUKE_HERMIT_IDLE_3 : Freiheit ... der Schatz meiner Mutter ... sammelt ...
+GG1ACHIEVE_TEXT : Lamping ist der Meister der Hall of Fame
+UI_BINDING_NAIL : Reinigungsprozess
+UI_MENU_ACHIEVEMENTS_XB1 : die besten Wünsche
+GG_LOCKED_DESC_MIGHTYZOTE : Ich liebe die Prinzessin meiner Träume.
+GG_S_LOST_KIN : Gott hat sein schwarzes Loch verloren.
+NAME_PAINTMASTER_JOURNAL : Perfektes Produkt
+DESC_VOID_IDOL_3 : Dieser Turm ist einzigartig in der prähistorischen Eierkunst. Abessinien ist sehr wässrig und fühlt sich nicht wohl.
+GODSEEKER_ENGINE_T5 : betrunken! Selbst diesen hohen Pantheons können wir uns nicht entziehen.<page>Nägel gegessen. Ist das der Gesandte Gottes ... Gibt es irgendetwas auf der Erde?Wir werden dir nicht im Weg stehen, wir werden kämpfen. Wir hören aufmerksam zu ...
+PROMPT_ASCEND_GG : Den Berg besteigen
+NOTE_GODSEEKER_MASK : "Herr des Donners, Gott des Regens!" Warum die Sklaven befreien? Funktioniert unser Verstand nur? „Was braucht Gott, um uns aus dieser Stille zu befreien?“
+GG_S_NAILPAINT : Gott der Künstler und Kreaturen
+VENGEFLY_MAIN : nämlich:
+NAME_VOID_IDOL_3 : NR ist ein Bild
+GG3ACHIEVE_TEXT : Die Anzahl der Kinder ist ausreichend.
+GG_LOCKED_DESC_SLY : Ich warte nicht auf dich, Pantheon
+VENGEFLY_SUPER : Verurteilung wegen Diebstahls
+NOTE_NAILMASTERS : "Lord Key, um Gottes willen, hilf unseren Brüdern und Schwestern, die Kranken zu beschützen und dich zu finden, Herr des Heiligen Landes."
+NOTE_VOID_IDOL_3 : "Diese Männer sind Dummköpfe, die im Dunkeln anbeten, nicht den Prinzen."
+GG_LOCKED_DESC_BROKENVESSEL : Ich habe die Tiefen der Erde erforscht
+SISTERS_SUPER : 
+GG_S_RADIANCE : Vergiss den Gott des Lichts
+GG_LOCKED_DESC_MEGABEAMMINER : Abstand zwischen Federn und anderem Zubehör.
+VIDEO_SHADERS : Eisqualität:
+INV_NAME_GODFINDER : Herr
+GODSEEKER_WATERWAYS_DAZED : Liebe ... die Welt ... will ... Gott ...
+GG_LOCKED_DESC_GRUZ : Ich wurde in die Luft geschleudert
+NAME_FAT_FLUKE : Aromanka
+GODSEEKER_COFFIN_KEY : Mit leichter Kokosnuss mischen. <br> Verwenden Sie denselben Schlüssel?
+GG_UNLOCK_FINAL_TALK : schlecht du Wetten! Diese heiligen Gedanken können uns vom Sündigen abhalten. Mach dir keine Sorgen! Mach dir keine Sorgen!
+UI_MENU_STYLE_CLASSIC : Klasse
+UI_MENU_STYLE_STEEL : Tamilische Bewegung
+SLY_2 : Geben Sie den Suchschlüssel ein.
+SCREEN_GAMEPAD_PS4 : Seit
+CONTROL_PROMPT_PS4 : zum Fahren empfohlen
+GODSEEKER_ENGINE_PRIME_REPEAT : Bist du nicht Gott? Hör auf, ein Verräter zu sein! Bleib ruhig!
+GRIMM_REMINDER_1 : ... du richtige Schattierung ...
+UI_MENU_ACHIEVEMENTS_ALT : Arbeiten
+GODSEEKER_ENGINE_ROOT_DREAM : Wir hatten nie den Mut zu denken. Ihre Sicht ist begrenzt, aber auch Ihre Gedanken sind begrenzt. Bist du eine von ihnen?
+GG_S_TRAITORLORD : Gott des gefährlichen Zorns
+STORMLAND_MAIN : Boka
+MARKER_R_DESC : Sie können dieses neue Programm verwenden. Kann verwendet werden, um interessante Orte auf der Karte zu zeichnen! <br> <br> Diese Farbe erinnert an intensive Schlachten.
+NAME_NOSK_HORNET : Sibuk Skifahren
+GODSEEKER_RADIANCE_STATUE : Ich bin so arm wie ich bin! O Gott, Du bist ewig, herrlich. Ihr Widerstand ist so groß, dass er Sie täuschen kann. VideoAber glaubst du an Gottes Sieg, der dein Herz und deine Seele zur Vollkommenheit demütigt? Ich kann es nicht glauben!
+GG_LOCKED_DESC_HORNET : Ich sah verschiedene Straßen und Friedhöfe mit Asche bedeckt.
+GG_S_HIVEKNIGHT : Gott sei ihm gnädig
+GG_S_HK : Gottes Macht.
+GAME_CONTROLLER_RUMBLE_XB1 : Hosta
+GG_LOCKED_DESC_LOBSTERLANCER : Er ist mit einer riesigen Waffe im Kolosseum.
+GG_S_GHOST_MARMU : Gott träumte von einem Garten
+GODSEEKER_ENGINE_DREAM_GGMODE : Geben Sie drei Reihen an. Gott Samantha, wir haben nichts Neues für dich.
+NAME_PALE_LURKER : der Jäger kam
+GODSEEKER_ENGINE_WYRM : Nach vielen Reisen spürten wir die Kraft Gottes auf diesem Thron sitzen. ... Es ist hart in diesem Land.Diese Kraft reicht aus, um uns von Angesicht zu Angesicht zu begegnen. Wie wurde er vor ihren Augen getötet?
+GODSEEKER_ENGINE_UNN : Zusammen mit den anderen grünen Göttern waren sich die faulen Menschen ihrer Existenz nicht bewusst. Deine Qualität trennt mich von Zeit und Raum.
+HORNET_GG_3 : ... Siehst du unseren Krieg? ...
+UI_BINDING_HEART : Lee
+MEGA_MOSS_SUPER : Monat
+GG_S_NIGHTMARE_KING : Träumen
+GAME_NATIVE_ACHIEVEMENTS_SWITCH : siehe Aktion
+GG4ACHIEVE_TEXT : Anbetung Tag und Nacht
+GG_S_DUNGDEF : Gott der Ausdauer und Herrlichkeit!
+MATO_1 : Die Brüder kämpfen zusammen!
+UI_CHALLENGE_TITLE_SUPER_4 : Pantheon
+GODSEEKER_ENGINE : Warum bist du dieser Sekte beigetreten, hallo Dale? Die Stimme deiner Gefühle verursacht viele Kontroversen und erhöht den göttlichen Frieden, den wir suchen!<page>Geht es um unsere göttlichen Ziele? Bist du weich?Beten Sie, dass Gott dieses Königreich bestrafen, zerstören und vollständig zerstören wird!
+GG_LOCKED_DESC_MAWLEK : Keiner meiner Bekannten versteckt sich am Straßenrand.
+GG4ACHIEVE_TITLE : Seele und Stolz
+STORMLAND_SUPER : ein
+GODSEEKER_ENGINE_2 : zum! Kann Gott uns aus diesen Schwierigkeiten retten? Wir waren erstaunt, diesen Schleier mit einer abscheulichen Waffe vor Gott zu sehen!<page>Viel Glück, hör auf! Bilder der Soldaten sind vage.Natürlich gibt es viele Entscheidungen, die Gott treffen muss. Sich fertig machen! Sich fertig machen!
+DESC_FAT_FLUKE : Nach Angaben der Metropolregion Helsinki haben sintflutartige Regenfälle den Wasserfluss durch Trinkwasserleitungen erhöht.
+GODSEEKER_ENGINE_REVISIT : Wenn Sie es genommen hätten, wären Sie dann zu dieser Brücke zurückgekehrt?Ist dies eine wunderbare Art, Gott nahe zu kommen? Oder versuchst du nur zu spielen?
+GG_S_GHOST_XERO : Gott des Glaubens, des Geschäfts und der Träume
+MODE_GODSGLORY_DESC : Halloween ist Gottes Einladung
+DESC_NATIVE_INPUT_PS4 : Wenn Sie auf Probleme stoßen, beginnen Sie mit deren Behebung. Jedes Spiel muss neu gestartet werden.
+GG_S_MANTISLORDS : Adina - großer Kriegsgott
+UI_BEGIN : von Anfang an
+MARKER_W_DESC : Diese Marken sind neue Werkzeuge im Laden. Sie können damit Karten zeichnen.
+SLY_BOSS_SUPER : Lackieren Sie Ihre Nägel gut
+NAME_NAILMASTERS : Das ist ein goldener Teller
+GG_UNLOCK_TALK_DREAM : Wer ist Gott, der unsere Herzen beschützt?
+UI_MENU_STYLE : Aufführen:
+UI_CHALLENGE_DESC_2 : Suche den Heiligen Geist Gottes
+UI_MENU_EXTRA_LB_DESC : Allgemeine Updates<br /> Datum der ersten Veröffentlichung: März 2018 Hinweis: Knights Hall wird bei der ersten Vorschau des Videospiels getestet und aktualisiert. Bankenbereich: Die meisten Halloween-Charaktere sehen sich vielen Änderungen und Neuerungen gegenüber. <br> Stierkampf: Messen Sie sich mit verrückten Soldaten, die die ehemalige Königin verteidigen. Rising Manager - Manche Dinge sind gut, manche schwierig, manche neu. | Egal, wo Sie es auf der Karte platzieren, denken Sie an etwas Interessantes, einen schwierigen Feind oder etwas Schwieriges.
+UI_MENU_EXTRA_GT_TITLE : Vorteile - Informationen
+ENRAGED_GUARDIAN_MAIN : handhaben
+GAME_CONTROLLER_RUMBLE_PS4 : Filtern
+NAME_MEGA_BEAM_MINER_1 : Chimi fungiert als Schild
+DESC_LANG : Ändern Sie die Sprache im Hauptmenü
+KNIGHT_STATUE_3 : Ich habe nicht zugehört.
+DESC_GODSEEKER_MASK : Nehmen Sie sich Zeit, um die seltsamen Insekten im Tempel loszuwerden. Dieses Design macht deutlich, dass Kundenfeedback nur eine Option ist.
+PURE_VESSEL_5 : ...
+CTRL_NO_ACTIVE_DESC_PS4 : Klicken Sie auf ein Widget oder fügen Sie ein neues Widget hinzu, um es zu aktivieren.
+TEMP_NM_MAIN : Geld und Tod
+GG_LOCKED_DESC_MEGAMOSS : Gemeinsames Mittagessen in einem warmen grünen Restaurant.
+GODSEEKER_ENGINE_ROOT_REPEAT : Preise Ihn, denn Du bist vollkommen in Jesus: Ohne Dich wären unsere Herzen klein
+DESC_HIVE_KNIGHT : Verteidiger des Nestes der Königin. Er rennt nicht, sondern kämpft hart.
+NAME_VOID_IDOL_2 : Verlassen der Familie
+GG_S_MIGHTYZOTE : Die Götter werden von Reue und Reue getäuscht.
+INV_DESC_FLOWER_BROKEN_QG : Miss A Day, nimm es raus und wirf es weg.
+UI_MENU_STYLE_INFECTED : Prüfung
+GG_LOCKED_DESC_NAILPAINT : Wir freuen uns darauf, Sie an der Spitze des Pantheons zu sehen.
+NAME_FAILED_CHAMPION : ohne gott
+ENRAGED_GUARDIAN_SUB : 
+HORNET_GG_2 : Kleine Geister ... diejenigen von uns, die in Träumen zusammenleben ...
+UI_MENU_STYLE_GG : χω'κιντηργαν តា តា
+MODAL_CONNECT_CONTROLLER_PROMPT_PS4 : Kontaktieren Sie uns, um Ihre Reise fortzusetzen.
+OBLOBBLES_MAIN : Wald
+NAME_GODSEEKER_MASK : Raon ama
+GG2ACHIEVE_TITLE : Renaissance
+GRIMM_GG_2 : Viel Glück ... viel Glück!
+CHALLENGE_UI_LEVEL1 : Anzahl
+GG_S_NOSK_HORNET : Falsche Götter sehen aus wie Beschützer.
+CHALLENGE_UI_LEVEL2 : Ändern
+SAVE_WARNING : Das Spiel speichert Daten aus internen Quellen. Das Programm wurde nicht angehalten, als ein Fehler erkannt wurde.
+UI_MENU_RUMBLE_PS4 : Trinidads
+GG_S_MEGAMOSS : Gott will nicht, dass die Menschen in Frieden leben
+GODSEEKER_WASTE_MAIN : Ramana
+UI_MENU_STYLE_ETERNAL : ewiges Gericht
+UI_CHALLENGE_DESC_5 : Mach das Licht für den vergessenen Ort an
+UI_CHALLENGE_DESC_4 : Suche den Heiligen Geist.
+UI_CHALLENGE_DESC_3 : Bete zu Gott um Geld und Kraft.
+PROFILE_LOADING : Sendung...
+UI_CHALLENGE_DESC_1 : Ich suche Gottes Nägel
+GODSEEKER_WATERWAYS_WORLD_TUNE_EXTRA : Komisch ... schlau, cool. Ich habe das noch nie gemacht. Ich bin minderwertig. Und unsere Energie hat nichts mit dem Universum zu tun. Tu was du bekommst... gehorche Gott, spiele!
+NAME_SAGE_SLY : Nagelkunst zu Hause
+GG_LOCKED_DESC_NAILMASTER : Sie lebten zusammen im Pantheon.
+GG_S_MANTIS_LORD_V : Stolz sind die Götter der Liebe.
+FLUKE_HERMIT_IDLE_2 : Lärm ... Kehle Stille ... Angst ... Gerüche ...
+FLUKE_HERMIT_IDLE_5 : So viel ... Umarmung ... viel ... Mama ...
+FLUKE_HERMIT_IDLE_4 : Hallo Schwestern ... seid glücklich ...
+NAME_HORNET_2 : vigilia balgiert
+NAME_HORNET_1 : Gebläse
+NOTE_PURE_VESSEL : „Halt die Klappe“, sagte er mit einer Kugel, streckte die Hand aus und rief dem Soldaten zu: „Rühren Sie sich in die Ketten, Schafe und Geister, hören Sie uns beten! – Drücken Sie uns, um zu beten.“
+GG3ACHIEVE_TITLE : Belohnung
+GG_LOCKED_DESC_NAILMASTERS : Wir saßen zusammen in der Küche
+MATO_2 : Lass mich nicht allein!
+UI_CHALLENGE_TITLE_SUPER_5 : Pantheon-VUN:
+PANTHEON_ENTER_1 : Sehr wütend! Der barmherzige Gott hat dich schon früher zu Gott erhöht, aber denkst du immer noch, dass er stark sein wird? <br>Messen Sie sich also, indem Sie sich auf sich selbst konzentrieren und sich mehr unterstützen!
+GG_S_MAWLEK : Gott schweigt
+MAGE_KNIGHT_SUB : 
+GG_S_FAILED_CHAMPION : Sechs wurden mit einer Geldstrafe belegt.
+ATRIUM_NPC_DREAM_3 : ... Plus ...
+GODSEEKER_WASTE_SUPER : 
+PAINTMASTER_SUPER : Kunstlehrer
+SHEO_2 : Warum willst du sie alle?
+CTRL_NO_ACTIVE_PS4 : Es gibt keine Souveränität.
+DUNG_UNDERGROUND_1 : Aufwachen heißt entspannen.<page>Ich war überrascht, mit dir zum Essen aufzustehen, aber die Welt führt dich, damit du hier sein kannst.Ich verließ mein Haus, weil der König erlaubte, dass das Königreich den Armen gegeben wurde. Wer hier übernachten möchte, muss es gemütlich, warm und feucht haben.
+DESC_PALE_LURKER : Verlassen des Kolosseums wegen ausländischer Interessen
+SISTERS_MAIN : IE
+PLATINUM_DESC : Nimm die übrige Tasse
+GG_S_GHOST_MARKOTH : Geist und Stille ist ein Traum
+CTRL_DETACHED_PS4 : Es gibt keine Kommentare zu diesem Artikel.
+TEMP_NM_SUPER : Bruder
+NAILSMITH_CORPSE : ... was er nicht ist ...
+GODSEEKER_WATERWAYS_WHITEFLOWER_REPEAT : Wegen des Erbes. Was ist mit Blumen? Sparen zu spät? hart arbeiten?Ich weiß nicht, nein. Ich habe nicht gelesen ... fragte ich.
+FLUKE_HERMIT_PEERING : Männer! Männer! Du ... ich wurde verhaftet ... warte ...? Überraschung!Ma ... schockiert. Lass uns gehen Gras!
+CTRL_MARKER_REMOVE : Dürre.
+CTRL_MARKER_CHANGE : Linie
+GG_LOCKED_DESC_HK : Nur Gott ist größer als Gott.
+ENRAGED_GUARDIAN_SUPER : ich liebe es
+DESC_VOID_IDOL_1 : Zum einzigartigen Erbe der Niederlande gehören Wasserfälle.
+GODHOME_SUPER : 
+MEGA_MOSS_SUB : 
+HK_PRIME_MAIN : Reinigen Sie den Behälter
+NOTE_HIVE_KNIGHT : Manche Tiere sind mutig. Sie sind mächtig und Sklaven.
+PS4_ACHIEVE_GRIMM_END_TEXT : Autor: Grammy
+GG_LOCKED_DESC_COLLECTOR : Er versteckte sich in einem leeren Turm.
+UI_MENU_RUMBLE_XB1 : Wieso den
+GODSEEKER_ENGINE_REPEAT_T5 : Bekämpfe die Aliens und folge deinen Gewohnheiten. Hör gut zu ...
+GG_SUMMARY_TITLE : «Fantastisch. »
+MOH_MED : Pa
+GG_S_FLUKEMUM : Gott sei Dank für Amman
+CTRL_NONE_PS4 : Keine Kommunikation erlaubt
+ACHIEVEMENTS_BASE_SET_TEXT : Kavatzis aus Österreich
+DESC_NATIVE_ACHIEVEMENTS_SWITCH : Spielansage zeigt an, wann die Ansage fertig ist.
+GG_LOCKED_DESC_UMMU : Ich habe in den Berichten gut geschlafen
+GG_LOCKED_DESC_TRAITORLORD : Ich werde den König der Lügen zerstören.
+MOH_HIGH : Nado
+UI_MENU_EXTRA_HD_TITLE : Geheime Traumgeschichte
+UI_CHALLENGE_TITLE_SUPER_1 : Duspantheon
+MARKER_Y_DESC : Eine neue Ergänzung zum Verkauf dieser Farben. Sie können es verwenden, um interessante Orte auf der Karte auszuwählen! <br> <br> Diese Art von Problem erinnert mich an den Verkäufer
+MAIN_SWITCH_USER : Mandanten wechseln
+GODSEEKER_WATERWAYS_AWAKE_3 : paio. Ich hasste das! Dein Charakter, dein Geheimnis. Ja, an die Öffentlichkeit!<page>Wir haben die Stimme und die Härte. Ihre Schönheit ist nicht bekannt.»Ea. Gott hat das Königreich wirklich gesegnet. Ipu! Die Toten sind falsche Götter. Leider nicht sauber...
+GODSEEKER_WATERWAYS_AWAKE_2 : Autor: Was hast du mitgebracht? osxme? GEHST DU AUS? Oder schaust du auf Gott?<page>Das ist das Herz der Regierung. Hören Sie sie sich hier an. Aber die anderen Götter waren weit weg. Ich möchte aufwachen.<page>Folgen Sie dem Gott des Empfängers und sehen Sie die Götter. Sichtbar! Suchen Sie den im Speicher gespeicherten Pfad. Senden Sie den Antrag nach HauseDelegierte können als Geschenk zur Arbeit kommen. Schauen Sie sich unsere schönen Muscheln an. Unser Bestes.
+GODSEEKER_WATERWAYS_AWAKE_1 : Hast du unsere Schlange geweckt?<page>Das Leben ist ein Königreich. Der Wille der auserwählten Götter wurde zum Ausdruck gebracht. Diego Gran<page>... und warum? Sind unsere Augen geschwollen? Bist du verrückt Ja, nichts ist perfekt. Das Land der Träume wurde zerstört, aber die Schafe sind sehr stark ... sehr stark!Die Schönheit Ihrer Augen, denke ich, ist, dass wir Gott suchen. Frisch, verrückt. Aber vor dir liegt Schönheit und Pracht, das heißt ...
+GODSEEKER_SUB : 
+UI_MENU_STYLE_MODERN : Leben-
+PANTHEON_ENTER_0 : olc ua! Sie sind für Ihren eigenen Schaden verantwortlich<page>Wir begrüßen ein gutes dschihadistisches Land. Wenn Sie diesen Hafen betreten, werden Sie gegen die Götter dieses Ortes kämpfen. <br>:Siehst du dich als deinen Mann? Also lass die Flügel der Toren - Lob sei deiner Ehre.
+GG_LOCKED_DESC_BIGBUZZ : Ich bin Terra Verde
+OBLOBBLES_SUPER : 
+GODHOME_MAIN : Onkel Gottes
+NOTE_FAT_FLUKE : Das Alter der Körner und der Nahrung, die sie essen, wird zu einer weichen Masse im ganzen Körper. Allerdings nutzen diese Tiere Übergewicht gut aus.
+NAME_NAILMASTERS_JOURNAL : Explosion. Schlechte Nägel
+GG_S_NAILMASTER : Treue Brüder wurden vom Herrn gefangen genommen
+DESC_NAILMASTERS : Die Nilbrüder wurden für den Kampf gegen den Heiligen Nil ausgebildet.
+GG_LOCKED_DESC_GHOST_GALIEN : Ich schlief im dunklen Traum ein, dass ich einen Übersetzer in der Nähe hatte
+UI_BINDING_SOUL : S.L.
+NIGHTMARE_GRIMM_GG_1 : Gott ist mit Religion verbunden.
+HIVE_KNIGHT_SUB : Land
+GG5ACHIEVE_TITLE : Perfektion in Perfektion
+UI_BINDING_CHARMS : Herr.
+MARKER_Y_NAME : Das Emblem ist die Flagge.
+DESC_SAGE_SLY : Diese berühmte und in letzter Zeit beliebte Nagelkunstmarke.
+GG_LOCKED_DESC_MAGEKNIGHT : Es fließt am Fluss entlang.
+GODSEEKER_ENGINE_REPEAT_GGMODE : Verdammter Hijab! In seinen weichen Augen war kein Staub. Wir begrüßen Ihre Wut! Ich will mehr!
+DUNG_UNDERGROUND_2 : Ich fühle mich eher wie eine Höhle als wie eine Burg, aber ich habe immer noch Erinnerungen an unsere alten Freunde und unseren glorreichen König.Damals war Paul Court ein bezaubernder Ort voller toller Geschäfte. Ha! Wenn ich Sie jetzt sehe, kann ich davon ausgehen, dass Sie einer von ihnen sind.
+NAME_PAINTMASTER : SEO-Maler
+TROPHIES_BASE_SET_TITLE : Walnüsse schälen
+ENDING_D_TEXT : Rigo Pantheon Halloween: Vom Dach ins Rampenlicht
+GODSEEKER_ENGINE_WYRM_REPEAT : Gott hat große Macht ... aber er ist verloren. Warum passiert dies?
+GG_S_HORNET : KJJ Dee Deva
+AMELITIA_FLOWER : Ein interessantes Beispiel! Andererseits unterscheidet sich die reine Ehe von dem Licht, das der König liebt.Schwächen Sie Ihre Blumenplage. Du musst akzeptieren, dass ich Bedürfnisse habe und dass ich viele Bedürfnisse habe.
+PS4_ACHIEVE_ENDING_TEXT : Schließe das Spiel ab, indem du den Helden des Tals besiegst.
+GG_S_BIGBUZZ : Kakatahulu Gaara
+MODE_GODSGLORY : es ist Gott nahe
+GG_LOCKED_DESC_FLUKEMUM : Ich bin in Träumerei
+LURKER_2 : Für mich! sagte der König
+PAINTMASTER_SUB : 
+SLY_1 : Viel Glück ...
+GG_S_GRUZ : Sie sind auch Götter der Fruchtbarkeit
+SLY_3 : Denken Sie daran, dass Sie ein Bruder sind.
+MARKER_R_NAME : Shell-Optionen:
+UI_MENU_EXTRA_HD_DESC : 集 集 01 ：： 2017 年 8 。。 br 聖 聖 月 nu nu Neues Update - Xevn Gate. Finden Sie eine neue Art, Halloween zu besuchen Ein neuer Abschnitt wurde eröffnet: Der Bahnhof versteckt sich vor der Gartenmauer, und die Hirsche sind jetzt vergessen.
+GRIMM_GG_1 : Unbekannter Mann!
+SCREEN_GAMEPAD_REMAP_PS4 : Zurücksetzen
+GODSEEKER_ENGINE_GGMODE : Oh Gott, weil es wirklich cool ist. Natürlich wird dieses kleine Schild Ihre zerstörerische Kraft und Ihren Glanz nicht verbergen!Mauni, wir haben keine Ahnung, was das bedeutet. Gier nach dem Gesetz! Zerschlagen sie! Gebt uns Nägel und Bad Beats. Wir bekommen so eine göttliche Belohnung!
+DESC_VOID_IDOL_2 : Halloween-Spezial. Verschleiß in Rillen.
+GG_LOCKED_DESC_GHOST_HU : Wenn du es in die Tasche steckst.
+GG_LOCKED_DESC_BIGBEES : Wir alle tappen in eine bestimmte Falle.
+GG5ACHIEVE_TEXT : 112% Chance, zum Spiel zu gehen und das Spiel zu beenden.
+UI_MENU_EXTRA_GT_DESC : Kostenloses Inhaltspaket 02 <br> <br> Veröffentlichungsdatum: Halloween 2017 <br> <br> Beschreibung: Nehmen Sie an aufregenden Events teil, die das Spielfeld erweitern und neue und stärkere Freunde für Ihre Spieler finden. > <br> Neue Chiefs - Entdecke den tiefrosa Sinn des Dunklen Lords <br> <br> Neue Zauber - 4 neue Charaktere, neue Unterstützung, neue Tipps. Finde neue Freunde – lerne tolle neue Leute kennen und erhalte spezielle Services für engagierte Künstler. <br> <br> <br>
+OBLOBBLES_SUB : 
+GG_LOCKED_DESC_PAINTMASTER : Ich werde meine Kunst auf das Dach des Panton stellen
+GG_LOCKED_DESC_DUNGDEF : Ich werde weiterhin Paläste bauen
+NAME_SLY : Clevere Planung
+GODSEEKER_WASTE_SUB : 
+GG_LOCKED_DESC_NOSK : Ich wilde schwarze Tierjäger
+GODSEEKER_ENGINE_PRIME_DREAM : Wir verstehen Ihr Schweigen. Wir haben Angst vor dir, aber wir werden finden, was wir suchen. Götter sind ...
+GODSEEKER_SUPER : 
+GG1ACHIEVE_TITLE : Verhältnis
+PS4_ACHIEVE_GRIMM_END_TITLE : Am Ende des Tages
+NOTE_VOID_IDOL_2 : <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br > <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> < br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br > <br> <br> <br>
+SLY_BOSS_MAIN : Bald
+CTRL_MARKERS : Ein Ort zum Sehen
+SHEO_1 : Das ist die stärkste Kraft, oder?
+FLUKE_HERMIT_PEERING_DREAM : Kannst du meine Gefühle sehen? Aber hallo!
+GODSEEKER_ENGINE_WYRM_DREAM : Dumm! Passen Sie Ihr Aussehen an unseren Hut an ... aber warum sind Sie so schlau?Ihre aktuelle Größe wird noch beeindruckender sein.
+ORO_2 : Mein Eisentopf ...
+DESC_PURE_VESSEL : Die ausgewählten Lebensmittel müssen in vollständiger Reihenfolge ausgewählt und präsentiert werden.
+ORO_1 : Ich war anfangs nicht so.
+FLUKE_HERMIT_SUPER : Insekten
+GG_S_WATCHERKNIGHTS : Sicher sein
+STORMLAND_SUB : 
+CHALLENGE_UI_LEVEL3 : Taiga
+GODSEEKER_WATERWAYS_AWAKE_ALLGODS : Boulder ist ein wunderbarer Titel. Der Held unseres Lieblingsspiels ist voller Macht dieses Königreichs. Rico brillante NichikaIch glaube an die vielen Götter dieser Welt. Ich habe viel Kraft. Wie geht's Oder vielleicht ist es eine Feier der menschlichen Gleichheit.
+FLUKE_HERMIT_IDLE_1 : Halsen ... ABl ... ABl ...
+GODSEEKER_WATERWAYS_AWAKE_GODFINDER : Wir haben Waffen, um unseren weisen Entdeckern zu helfen.<page>Habe Spaß. Das ist also ein wunderbares Geschenk. Das Hinzufügen solcher Tools ist ebenfalls gefährlich.<page>Dieses Werkzeug ist sehr teuer für unsere Vorstellungskraft. Sie können also sicher sein.Der Boden wird gewaschen und gehärtet und die Kerze wird angezündet.
+GG_S_BIGBEES : die Götter des Glaubens und der Frömmigkeit anbeten.
+UI_MENU_ACHIEVEMENTS_PS4 : KOFI
+DIVINE_DUNG_CHARM : Wow, der Geruch ist köstlich. Es ist sehr stark, aber es ist nicht mein Lieblingsduft.Ich möchte für Simple Price werben. Es ist stickig! Nimm es. Du weisst
+GODSEEKER_WATERWAYS_AWAKE_3_REPEAT : Sehr ehrlich. Dieses Königreich ist gesegnet von Maine, dem Gott der Wahrheit! Der Körper ist überall neu! Nur Halloween ...
+LURKER_3 : Der Schlüssel! Empfangshalle! Jungfrau
+GG_UNLOCK_TITLE : Manche suchen nach einem modernen Gott
+UI_MENU_EXTRA_GG_TITLE : Moderator: Details
+HIVE_KNIGHT_MAIN : Ich weiss
+UI_MENU_STYLE_GRIMM : traurige Gruppe
+GG2ACHIEVE_TEXT : Vervollständige das Kostüm des Künstlers
+GG_S_GHOST_GALIEN : Gott in deinem Herzen, geboren in Träumen
+PURE_VESSEL_1 : Und ...
+MODAL_NO_SAVE : Möchten Sie ohne Benutzer weiterspielen? <br> Ihr Verfahren ist nicht sicher.
+ABSOLUTE_RADIANCE_SUPER : Genau
+GODSEEKER_ENGINE_REPEAT_2 : Du kannst hier nicht bleiben. Geh und empfange eine heilige Strafe.
+GODSEEKER_ENGINE_REPEAT_3 : Weißt du, wo Gott dir geschrieben hat? Wirst du zulassen, dass unsere göttliche Einheit zurückkehrt?
+TROPHIES_BASE_SET_TEXT : Holocaust-Nacht in Kuba
+UI_CHALLENGE_TITLE_SUPER_2 : Allmächtig
+NIGHTMARE_GRIMM_GG_2 : Die Kraft der Schale ... des Herzens ...
+MAGE_KNIGHT_MAIN : Gut gemacht
+NAME_HIVE_KNIGHT : Stano Davak
+UI_CHALLENGE_TITLE_SUPER_3 : Pantheon abu
+GG_UNLOCK_TALK_REPEAT : Dieser Traum führt dich ... Gott ...
+OPEN_CONTROLLER_PS4 : Der Prüfer berät.
+SISTERS_SUB : Verbrechen:
+NAME_HK_PRIME : Mein Vater
+PANTHEON_ENTER_3 : Gott des Genozids, bitte mach den Weg frei für mehr Drinks! Kommen Sie und überzeugen Sie sich selbst! .br>Bitte höre mir zu, bis das Licht Gottes aus der Dunkelheit kommt.
+UI_MENU_EXTRA_LB_TITLE : Tanhin - Statistik
+MARKER_B_NAME : Verbindungszeichen
+ACHIEVEMENTS_BASE_SET_TITLE : Das Ende der Aristokratie.
+UI_MENU_STYLE_SHADE : Muga
+GODSEEKER_ENGINE_ROOT : Stimmt! In unserem Prozess ist es einfach, diese Engel zu eliminieren.Wir beten Gott zunehmend an. Warum fragst du? Wie kann er uns verstecken? Irgendwas du willst
+GODHOME_SUB : 
+GG_S_GRIM : Gehen Sie durch die Gemeinde
+PROFILE_CORRUPTED : Vor Beschädigung schützen.
+GG_S_GHOST_GORB : Gott kam in einem Traum
+GG_S_LOBSTERLANCER : Gott hat wirklich die Kontrolle
+NAME_LOST_KIN : Sehr freundlich
+DUNG_UNDERGROUND_DREAM : Wie endet eine wunderbare Halloween-Nacht? Mit mir? Ist das möglich?

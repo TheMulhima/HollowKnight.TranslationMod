@@ -1,0 +1,18 @@
+HORNET_ABYSS_REPEAT : Choose the hard way, but whatever the outcome, you can decide for yourself.
+HORNET_PRE_FINAL_BATTLE_REPEAT : The Halloween spirit is capable of achieving any goal you choose. Are you changing our brother?
+HORNET_FINAL_BOSS : Fear not! I was. My walls will last a long time. <page> Live longer or suffer from many illnesses.
+HORNET_PRE_FINAL_BATTLE : The road is open. In the end, I did not explain myself at first. Here you are defending your will. When I closed, it started to mix. Even though I know I can, I do not risk my life.
+HORNET_PRE_FINAL_BATTLE_DREAM : .. Can you achieve the impossible? eight
+HORNET_GREENPATH : Come to me, give it to him. I saw trees clearing and caring for me. I listened ... <side> I know who you are. I know what you need to do to make the EU easier.
+HORNET_SPIDER_TOWN_REPEAT : I broke up, I broke up for a while before this apartment became a church forever.
+HORNET_OUTSKIRTS_1 : Can you search for deeper truths? I am not tolerant.
+HORNET_DOOR_UNOPENED : You have a baby. You affect the future of the world, but you remain strong. Reading dream patterns can seem like a daunting task, and if it makes a hole in your head, you are truly an amazing person.
+HORNET_SPIDER_TOWN_DREAM : Sorry, but there is a way.
+HORNET_INSPECT_IK : The traveler had long since passed away.
+HORNET_OUTSKIRTS_2 : Show that you are ready. I will not be. My sister is dead, I have no regrets. Tell me if you can accept the history of this kingdom and be responsible for its future.
+HORNET_FOUNTAIN_1 : I will meet the children again. Overall, everything is fine. I hate you even if he thinks he's right. There are two holes, so the effort is up to you. In this way you can recognize his sacrifice.
+HORNET_FOUNTAIN_2 : If you know the truth and are trying to play another Halloween twist, you will find Ash's grave and you will get the same character.
+HORNET_ABYSS_DREAM : ... those bumps and tears ... can anyone be lazy? ..
+HORNET_ABYSS_ASCENT_01 : Arima. I saw you in my home and now I am dressed. Page> Strange enough to cause sadness. Now I see an opportunity for change. Find a difficult but complicated path. Destabilize our country or destroy the virus.
+HORNET_SPIDER_TOWN_01 : Kill the beast ... you are on your way to a stronger goal. You may think you are strong. But I didn't mind that, because we were born, we didn't choose a mother. There are many diseases in the world. But I am grateful for the life he gave me. Takes responsibility for the future. I started paying
+HORNET_OUTSKIRTS_DEFEAT : ... Read more ... <page> Yes, if possible. But would you back down if you knew it was a disaster? You know me ... the souls of hell are coming! He goes on. Check your local pen and say you are king.

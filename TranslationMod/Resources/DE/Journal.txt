@@ -1,0 +1,514 @@
+DESC_BLOB_FLYER : Großes Gebiet. kann. Es entfernt normalerweise Flüssigkeiten und Säuren, die sich im Rumpf angesammelt haben.
+DESC_FINAL_BOSS : Vergiss das Licht.
+NAME_JELLYFISH : Karan
+NOTE_BURSTING_BOUNCER : Von oben stieg schwerer Schlamm und Giftgas auf. Was ist die Quelle dieser Krankheit? So sieht es nicht aus.
+NAME_ZOM_BEAM_MINER : Kisi tal-kristall
+DESC_HEALTH_SCUTTLER : Ein kleiner Schub wird erreicht, wenn man sich für einen großen Bluttest einschreibt.
+NOTE_ZOTE_HOPPER : „Sie ist eine Papierlady, huh, Prinzessin. Wie hält sie das aus? Alle Frauen sind gegen die Schönheit deiner Familie.“ Liebe <br> - "Der grüne Prinz" Kapitel 178
+NAME_JELLY_CRAWLER : Monte Dorent
+NOTE_CRYS_CRAWLER : Groß und sicher, aber stabil und zuverlässig. In der Höhe werden diese Tiere und diese Autos und Lastwagen infiziert.
+NOTE_CRYS_LAZER_BUG : Das Tier scheint bewusstlos zu sein, aber manchmal splittert die Fackel über der Schulter des Pferdes. Siehe das Angriffstagebuch
+NOTE_CRYS_FLYER : Lass sein Haus das höchste Haus der Welt sein. Hat er absichtlich eine Glaspistole oder ein infiziertes Glas verwendet?
+NAME_MUSH_ROLLER : Sehr gutes Loch
+NAME_FINAL_BOSS : Rückmeldung
+NAME_MAGEBLOB : Hier ist
+NAME_GORGEOUS_HUSK : wie ein Spiel
+DESC_MOSSMAN_SHAKER : Insekten, die Krankheiten übertragen. Bei einem Unfall entsteht gefährlicher Rauch.
+NOTE_ABYSS_TENDRIL : Halmust Gardens wird manchmal als unbekanntes unterirdisches Gebiet angesehen. Was für eine wunderbare Idee, die Sie haben. Vielleicht sind sie deshalb immer noch so zerstörerisch und leicht zu töten.
+NOTE_MIMIC_SPIDER : Im Dunkeln zerreißt dir das Monster das Herz und erinnert dich an dein falsches Gesicht. Bewusstsein und Energie.
+DESC_MEGA_BEAM_MINER : In den wachsenden Kristallen befinden sich reine Mineralien. Ihre Füße glänzten vor Licht.
+NAME_EGG_SAC : Schreiben Sie einen Blog
+NAME_BLOBBLE : Obertas kämpft
+NOTE_MENDERBUG : Insekten lieben Baumaterialien. Werbung macht Spaß.
+DESC_BEE : Es gibt zwei Schnitte in den oberen Kämpfen mit zwei Cutaways, um den Zugang zu den höheren Bünden zu erleichtern.
+DESC_BOUNCER : Ein dünnes Herz ist gebrochen und jemand ist verletzt.
+DESC_FLAMEBEARER_SMALL : Junior und Grimm spielen im Team. Rufen Sie die lila Lichter aus der Ordnung des Königs. Wenn Sie gewinnen, erlischt das Feuer.
+NOTE_JELLY_CRAWLER : Die Geister der Toten? Kann sich das Gehirn eines großen Tieres von selbst entwickeln? Auf der Suche nach einem guten Platz zum Eierlegen? Ich weiß nicht, was das ist.
+NOTE_ZOM_HIVE : Ein Haus mit gebrochenem Herzen in der Nähe? Oder lokale Insekten im Körper? Also spielten beide.
+NAME_MIMIC_SPIDER : katholische Kirche
+DESC_SPITTER : Kampfsport-Rennwagen sind besser. Sie arbeiten hart.
+DESC_ROYAL_GUARD : Ein erfolgreicher Sammler von Halloween-Uhren und Schwertern. Seine schweren Hände schützten seinen zarten Körper.
+NAME_LAZY_FLYER : Alupa
+NAME_SAGE_SLY : Ausgezeichnete Maniküre-Tickets
+NOTE_ANGRY_BUZZER : Staatsstreiche geben Ihnen nicht nur Kraft und Mut, sondern auch ein Gefühl der Sklaverei. Du hast einen Deal gemacht.
+DESC_BIGFLY : Erwachsene haben blinde Nachkommen. Die Größe hängt mit dem Preis zusammen.
+DESC_GHOST_MARMU : Ein uralter Traum von Gottes Wächtern und gefallenen Soldaten
+NOTE_ROYAL_GUARD : Der alte König liegt im Sterben. Aber die Wirkung ist immer um uns herum zu spüren! Was braucht so ein Geschöpf?
+NOTE_SAGE_SLY : "Herr, weise, intelligent, mutig", er zeigte auf seine Nägel und deutete auf seine Weisheit, "Mann, du musst sehen." Er ist ein großer Gott! Das Gebet des Weisen.
+NOTE_MAGE_LORD : Analysten haben versucht, den Tod durch traditionelle Methoden und Religionen zu täuschen und zu verhindern. Marran! Er kann sterben.
+NOTE_ZOM_MINER : Trockene Kinder lieben seltsame Dinge im Leben. Von Stein zu Stein. Metalle, insbesondere Saphire, werden heimlich erodiert.
+DESC_ELEC_MAGE : Das Studium der Insekten hat das Erlernen der Seele einer Militärtechnik gefährlich gemacht. Stromschlag und Beschädigung.
+DESC_INFLATOR : Klein und leise, aber in Gefahr wie alle anderen auch.
+NAME_GHOST_HU : Anna Villa
+DESC_OBLOBBLE : du siehst. Sie hat ihren Mann nicht verlassen.
+NAME_MINI_SPIDER : Sei cool
+NAME_GIANT_HOPPER : eine mutige Reise
+NOTE_JAR_COLLECTOR : Manchmal fliegen die Schatten durch die Höhlen und machen seltsame Geräusche. Ich weiß nicht, was für ein Tier er ist, weil ich ihn noch nie so deutlich gesehen habe.
+NOTE_HEALTH_SCUTTLER : Für kleine Kinder ist dieses klare Wasser köstlich und verbessert das Trinken. Ich frage mich, wie reich meine Nägel sind ... ist es einen Drink wert?
+NAME_PURE_VESSEL : glückliche Maschine
+DESC_COL_SHIELD : Narita ist eine Kämpferin, die im Museum um Ehre kämpft. Nähere dich deinen Feinden mit einer mächtigen Bombe.
+DESC_GREY_PRINCE : an Wut denken. Er war wütend, aber so oft er umherirrte, erholte er sich.
+NOTE_FUNGOON_BABY : Wenn ein Kind sein Herz öffnet, schließt es die Augen und klettert hinauf. Als er klein war, jagte er in einem Nest. Das ist jetzt die einzige Sichtweise.
+NAME_MOSS_KNIGHT_FAT : Gansakuka-Abzeichen
+NOTE_HUNTERMARK : Ich habe keine Kinder, keinen Charakter, keine Fans. Mein Lebensstandard, meine Bildung, meine Intelligenz ... Ich tue, was ich kann. Hallo Jäger.
+NOTE_SENTRY_1 : Sie sind schneller als teure, aber Waffen sind leichter. Predige regelmäßig.
+DESC_GHOST_ALADAR : Der Traum vom Diktator wurde wahr. Es zeigt, wie gut das Gehirn Informationen aus der ganzen Welt reflektiert.
+NAME_BEE : diese Information
+DESC_MAWLEK : Das kann Spaß machen, ist aber sozial teuer. Wenn du ihn nicht anlügen kannst, greife ihn an.
+DESC_PIGEON : Unschuldige fliegende Kreaturen brauchen einen ruhigen Ort. Normalerweise folgt er der Maschine.
+DESC_MAGE_LORD : Der Geist ist das Haupt des Tempels. Der lebende Dämon hofft, während Halloween zu überleben, aber er ist immer noch in Gedanken.
+NOTE_MAWLEK_TURRET : Wie hat sich dieses verrückte Biest das Bein gebrochen? Wenn Sie es wirklich versuchen, werden Sie das Gefühl haben, dass etwas fehlt.
+DESC_SENTRY_FAT : Die Halloween-Gesundheit wird fortgesetzt. An Halloween kann eine Hand einen großen Nagel heben.
+NOTE_OBLOBBLE : Er hat einen Freund neben dir ... er lässt dich nicht sterben. Ich glaube ich habe keine Freunde...
+DESC_ZOTE : Kündigen Sie Ihren Charakter an. du weißt nicht Die, die ich gekauft habe, heißen End of Life.
+NAME_COL_HOPPER : ᲛBrustkrebs
+NAME_WHITE_ROYAL : Palastwache
+DESC_FUNG_ZOMBIE : Kohle und Kohle. Es entfernt normalerweise Schadstoffe aus der Atmosphäre.
+DESC_CRYS_CRAWLER : Er ist ein guter und starker Mann. Die Kristalle auf der Rückseite bieten zusätzlichen Schutz vor hohen Feinden.
+DESC_ZOM_MINER : Legen Sie das restliche Gewicht auf das Glas für ein empfindliches Glas. Eis wird jetzt als tödliche Waffe eingesetzt.
+NAME_SLASH_SPIDER : sauberes Raster
+DESC_PRAYER_SLUG : Der schlimmste Halloween-Charakter. Sie sehen in der Vereinigung immer gleich und stark aus.
+DESC_LAZY_FLYER : Ich mag empfindliche Haut mit saurem Wasser.
+DESC_MENDERBUG : HelloNest ist eine Plattform, die die Platzierung von Werbetafeln und Straßenschildern optimiert.
+NAME_VOID_IDOL_2 : Bild des Arztes
+DESC_KIN_SEAL : Grundtypen der Architektur <br> <br> Sie dient der Energieeinsparung oder der Aufbewahrung von Wertgegenständen.
+NOTE_ZAP_BUG : Sie sind immer ruhig, aber manchmal kann sogar ein Lauffeuer zusammen sogar Wildtiere wie mich in Erstaunen versetzen. Fokus auf Öffnungstage und Feiertage.
+NAME_ZOM_ROYAL_1 : Los, Dundee
+NAME_ROYAL_GUARD : Raja Messe |
+NAME_CRYS_CRAWLER : Gürtel
+NOTE_MINES_CRAWLER : Dieses Tier nützt mir nichts. Es macht nicht so viel Spaß. Fliegen lernen, im Feuer rauchen, denken, singen, denken, beides schützt deine Existenz.
+NAME_NIGHTMARE_GRIMM : König der Nachtfarben
+NOTE_GHOST_MARMU : Wenn es schwierig ist, schließen Sie die Augen ... <br> -5
+DESC_MEGA_MOSS_CHARGER : Gruppen lernen mit Moses zu sprechen und sind oft alleine.
+NOTE_BOUNCER : Wie Sie sehen, können umweltfreundliche Zähne leicht beschädigt werden. Was ist ein Haram? Wie der Gedanke daran, sie zu töten.
+NAME_GHOST_XERO : Nein.
+DESC_ROLLER : Wirf den Ball und erschieße den Dieb, der deine Nachbarschaft angreift. Als Anfängerangriff.
+DESC_SENTRY_FLYING_JAVELIN : Hey, es entfernt Nagellack. Lösche den Satz oder wirf ihn aus dem Schrank.
+NAME_FUNG_ZOMBIE : Sie sind frei
+DESC_ZOM_SPITTING : Das Virus infiziert Insekten. Gießen Sie kochendes Wasser
+DESC_FLUKEFLY : Es ist klein. Er wurde von Kugeln und Kugeln in seinem Körper getroffen. Fügen Sie Kräuter und Magen hinzu.
+DESC_BUZZER : Benutzer von Flugcomputern suchen ständig nach Tieren.
+NOTE_ROLLER : Jäger lieben es, diese Tiere zu jagen und zu genießen. Ich lade Sie zu spannenden und unvergesslichen Aktivitäten ein.
+NAME_CRAWLER : Wieso den
+NOTE_ZOM_SHIELD : Die Bekämpfung dieser Insekten durch den Verzehr von Füßen, Nägeln und Insekten ist eine kostspielige Aufgabe. Kein Schild und keine Bewegung. Wer sich verteidigen wollte, wurde hingerichtet. Vater
+DESC_MEGA_JELLYFISH : Datenschutzkarte in der Hauptdatei.
+NOTE_MUSH_ROLLER : Dieser Pilz verursacht Ereignisse in der Luft, im Herzen, im Gehirn und sogar im menschlichen Körper. Gemeint ist damit die Lebensangst im Allgemeinen.
+NOTE_EGG_SAC : Sie können leicht sehen, was es bedeutet. Ich rate Ihnen, nicht zu essen.
+DESC_COL_FLYINGSENTRY : Helden kämpfen in Crazy Colosseum um Ruhm. Die Fliege verlässt den Feind und stirbt.
+NOTE_ABYSS_CRAWLER : Kleine Tumore sind schwach und harmlos, aber ich mache mir trotzdem Sorgen. Was ist los ... klingt ... genug.
+NAME_BLACK_KNIGHT : Bis heute Abend
+NAME_MANTIS_HEAVY : Kunststoff
+NOTE_ORANGE_BALLOON : Sind Sie sicher, dass Sie an der Krankheit sterben werden? Willst du Kinder? Lebt er wirklich?
+NOTE_FINAL_BOSS : Der Mord, der Tod und die Wut der wallonischen Attentäter ... Das Licht des Imperiums scheint auf ihren Hals und sie sterben. Ich denke, die Leute mögen mich.
+DESC_WHITE_DEFENDER : Vergangene Ereignisse werden nicht vergessen. Eine ausgezeichnete Lösung für Fettleibigkeit und Gewichtsverlust.
+DESC_FLUKEMAN : Solche Kreaturen sind Insekten an dunklen Orten.
+NOTE_CENTIPEDE_HATCHER : Klettern diese Tiere auf deinen Mutterbaum? Sie haben ihre Schwächen, aber wie lässt sich Skulptur im Raum einsetzen? Das ist eine Herausforderung.
+DESC_ZOM_BEAM_MINER : Seine Augen waren auf das tote Glas fixiert. Die Proklamation traf hart und entfernte das Licht aus dem Spiegel.
+NAME_SPITTER : Asp-Jäger
+NAME_OBLOBBLE : Thor
+NOTE_ZOM_SPITTING : Halloween ist vorbei ... je mehr Sie bezahlen, desto mehr verdienen Sie.
+NAME_CEILING_DROPPER : gegen
+DESC_MOSS_KNIGHT : Nagelschutz ist auf Betrug ausgelegt.
+NOTE_MAGE : Ich hörte, wie Leute über Geister sprachen, aber ich verstand nicht, was geschah. Weiß ich, ob frisches Essen schmeckt oder ob die „Seele“ noch glutenfrei ist?
+DESC_HOLLOW_KNIGHT : Dies ist ein voll ausgebildetes Organ, das das Handgelenk zum Körper trägt.
+DESC_MIMIC_SPIDER : Vergleiche Bilder von anderen Tieren, um ihre Muster zu finden.
+NAME_COL_MINER : Verrückt im Palast
+NOTE_MEGA_BEAM_MINER : Was ist das Bild der Welt des Wesens, das im Glaskäfig zu sehen ist? Siehst du nur Licht? Bist du verrückt?
+DESC_TRAITOR_LORD : Er nahm den Virus aus der Peitsche und gab ihn seiner Schwester.
+NAME_ACID_WALKER : Durando
+NAME_ZOTE : alles
+NAME_VOID_IDOL_1 : zerbrochene Idole
+NOTE_GREY_PRINCE : „親愛 的 ， 每 一 遠離 你 的 生靈 都 會 主動 ， 你 你 說 你 不 不 的 話 話 你 看！ 配活 配活 在 你 冷 冷。。。。。。。。！！！ 配活 配活 很 冷 冷。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。。！ 不 配活 配活 在 冷 冷。。。。 你！ 不 配活 配活 在 你 影子 裡 的 普通 普通Wärme in ihrem Körper, ein Gefühl, das sie fast vergessen hätte... <br> -112. Die Abteilung des Grauen Prinzen
+NAME_ABYSS_CRAWLER : Umbra Umbra
+DESC_HATCHLING : In letzter Zeit ist Aspirin für Menschen, die dagegen allergisch sind, immer gefährlicher geworden.
+NAME_BIGFLY : Kroaten
+NAME_MOSSMAN_RUNNER : Autos
+NAME_GHOST_ALADAR : Gruppe
+DESC_BABY_CENTIPEDE : Waffenjäger. Der Boden bebte und explodierte.
+NOTE_HOPPER : Der Bauch des Leoparden war voller Blut, das anderen Tieren gestohlen worden war. Sie raucht, ihr Bauch ist dick, trocken.
+NOTE_KIN_SEAL : 
+NOTE_HATCHER : Schamlos setzt er seine Generation als Waffe gegen seine Feinde ein! Im Ernst, ja, aber ich danke dir für dein Talent. Ein guter Jäger ist nicht immer ein guter Wächter.
+NOTE_MOSS_WALKER : Ich dachte, es wäre ein kahler Baum. Als ich wusste, dass es sich um echte Kreaturen handelte, fing ich an, sie so zu töten, wie ich sie erschaffen hatte. Das ist die Essenz des Spiels!
+NOTE_BIG_BEE : Das einzige Gen, das das Nest als junger Elternteil schützt, besteht darin, dass es, sobald es das Nest betritt, jagt und häufig die Neststruktur stört. Ich weiß nicht, ob ich die Bedingungen erfülle.
+DESC_BURSTING_BOUNCER : Durch die Infektion schwoll der Stamm an und brach.
+NAME_PALACE_FLY : Fellfeder
+NOTE_GHOST_MARKOTH : Ihre Bemühungen werden Ihnen das Beste bringen <br> Marcato
+DESC_VOID_IDOL_3 : Das Bild wird mit einer einzigartigen Aura der Malerei kombiniert.
+NOTE_COL_FLYINGSENTRY : Was hältst du von den Helden, die im Kolosseum gekämpft haben? Sind sie Sklaven, Sklaven oder nicht im Krieg?
+NOTE_FLAMEBEARER_MED : "Der schlimmste Traum ist das rote Licht, der rote Traum vom Licht und der Himmel fliegt und redet über Licht. Dieser Mann brennt." <br> - "Aloha"
+NOTE_GODSEEKER_MASK : "Blitzgott, Regen!" wirst du mich verlassen Werden unsere Seelen in Ruhe gelassen oder wird Gott uns von diesem Schmerz erlösen?
+NAME_ZOM_HIVE : Rette sie
+NAME_MANTIS_FLYER_CHILD : Afu limamin
+NOTE_SENTRY_FLYING : Er tat dies, bis er das offene Feld sah. Wenn Sie es nicht wissen, warten Sie, bis es Sie erreicht, Sie werden angegriffen.
+NAME_VOID_IDOL_3 : Oder:
+NOTE_LOBSTER_LANCER : Einige Jäger planen, ihre Beute zu fangen. Ich habe das einmal versucht, wollte aber meine Mathefähigkeiten nicht testen.
+NAME_ZOTE_HOPPER : ganz im Gegenteil
+NAME_ROLLER : Baldur
+NAME_PIGEON : Ich habe die Maske gestohlen
+NAME_MEGA_MOSS_CHARGER : großes Moos
+NAME_KIN_SEAL : Logodruck
+NOTE_FLAMEBEARER_SMALL : "Träume vom ewigen Feuer für das Feuer und das Feuer im Licht der Nacht - gutes Lied zum Singen und Singen" - "Team Play"
+NOTE_NAILMASTERS : "Hilf mir, den Herrn zu finden, den ich liebe!"
+NAME_JAR_COLLECTOR : Installieren
+NOTE_VOID_IDOL_3 : „Gott ist nicht der Geist oder die Quelle der alten Zerg, sondern Stärke, Macht, Glaube, Schmerz.“ - Reich
+NOTE_ZOM_LEAPER : Der alte kann nicht ersetzt werden, er muss ersetzt werden. Infolgedessen sind sie frustriert. + Werde eine königliche Garde!
+DESC_ZOM_ROYAL_1 : Sie geht zu Halloween. sehr schwierig.
+NAME_FAT_FLUKE : Inhalt:
+NOTE_MANTIS_FLYER_ADULT : Dadurch wird der Weg blockiert, sodass Sie sich anmelden und zur Seite gehen können. Der Körper ist weich und die Nägel fallen leicht ab.
+NOTE_SENTRY_FAT : Führer sind früh für die Toten. Sie werden versuchen, dich zu fangen, wenn du triffst. Wenn er freigelassen wird, werden Sie eingesperrt. Die Jagd macht Spaß, aber seien Sie vorsichtig.
+NAME_GHOST_MARKOTH : Soko
+DESC_BIG_BEE : Werfen Sie einen großen Körper auf einen Narren und schützen Sie ihn vor Entzündungen.
+NOTE_MOSS_FLYER : Sie verstecken oder existieren ihr ganzes Leben lang. Ist das nicht das Leben, das wir alle genießen? Tolle Idee, aber unmöglich.
+DESC_NAILMASTERS : Die Nägel sind bereit für den Kampf.
+NAME_ZOM_RUNNER : Hummel
+NOTE_ZOM_BEAM_MINER : Schnell wachsende Kristalle haben eine unglaubliche Kraft. Alles leuchtet im Dunkeln und in der Hitze. Singen Sie, wann immer Sie wollen. Sanft ...
+DESC_EGG_SAC : Langsam aber traurig legte sie ein zerbrochenes Ei in ihren Magen.
+DESC_CLIMBER : Verwenden Sie kleine Nägel, um Wände und Decken zu machen.
+NOTE_MAGEBLOB : Diese Narren verloren zusammen mit dem Leben anderer Tiere ihre Form. Jetzt warten sie darauf, dass ihre Geschwister einen neuen Körper erschaffen, wie ein Armband im Schatten, wo sie sich verstecken.
+NOTE_PALE_LURKER : Diese Monster sind perfekt und ohne Löcher. Es ist einfach verrückt.
+DESC_COL_HOPPER : Liddell lernte, den Ball mit einem Helm zu schlagen.
+NOTE_BUZZER : Dieser kleine Dämon beginnt, seine Kreaturen zu ergreifen. Cao ist so schwach, dass ich die Blätter mit wenig Energie und Aufmerksamkeit esse.
+NOTE_MOSSMAN_SHAKER : Es riecht gut, wenn das Gas austritt, aber wenn du ihm zu nahe kommst, verbrennen seine Haut und sein Fleisch!
+DESC_MUSH_BRAWLER : Der Kuchen ist gut bei Vergiftungen, Speicheldrüsen und Gliederschmerzen.
+NAME_GRIMM : ich nicht
+NOTE_HORNET : Ich habe dieses schöne Tier gesehen. Ich stürzte und dachte, ich wäre ein Opfer, aber plötzlich stieg ich in ein Flugzeug und floh. Bist du ein Retter?
+NOTE_HOLLOW_SHADE : Wir alle hinterlassen Spuren des Todes. Irgendwo in der Welt. Ich weiß nicht, wie lange das dauern wird ...
+NOTE_BEE_HATCHLING : Es tut weh, aber es tut sehr weh. Der Körper ist klein, lebendig, stark, gelb und schmeckt süß. Es ist gut, viel Zeit damit zu verbringen, Menschen zu jagen.
+NAME_GREAT_SHIELD_ZOMBIE : Sicherheitsumschlag
+NOTE_JELLYFISH : Extreme Hochwassergefahr in vielen Teilen der Welt. Wenn Sie es sehen, wissen Sie nicht, wohin mit Ihren Gedanken. Ich habe es nie geglaubt. Vorteile:
+NAME_BIGBUZZER : Die Rache des Königs
+DESC_FLAMEBEARER_MED : Grimm ist ein starkes und schlagkräftiges Team. Die Kirche entzündete ein rotes Licht am Kamin. Ich habe beim Essen meine Zunge verloren.
+NAME_MOSS_FLYER : Firma Massu
+DESC_ZOM_SHIELD : Der nächste Fehler besteht darin, spezielle Berechtigungen anzugeben. In den Garten gießen und den Saft auspressen.
+NAME_TRAITOR_LORD : Eine gute Lüge
+NOTE_WHITE_ROYAL : Einfache Bestien und schwache Bestien schrumpfen ihre Nester und bitten den König, sie zu trösten. Diese Tiere hatten Hände, Zähne und Pilze.
+NOTE_GRIMM : „Ich träume davon, das Land zu zerstören, indem ich eine Kerze anzünde“, sagte Grimes.
+NOTE_MUSH_TURRET : Wenn Sie die Anforderungen erfüllen Sie können es wieder einschalten, um zu sehen, wie das Make-up-Produkt entfernt wurde und wie es aussehen wird. Ich denke, das ist die Lektion hier.
+DESC_MOSS_CHARGER : Es ist ein gefährliches Tier, das mit einer Invasion droht.
+NOTE_MOSSMAN_RUNNER : Es ist schwierig, sie an die Adresse zu bringen; Sie werden Sie bezahlen, bevor sie Sie erreichen. Vorsichtig sein.
+NAME_HOLLOW_SHADE : Ärgerlich
+NOTE_ZOM_SPINE : Die Wiedergabe von Aufnahmen ist sehr schwierig. Verwenden Sie keine Zahnpasta nach den Mahlzeiten.
+NOTE_VOID_IDOL_1 : "Kultur oder Zorn, die Hauptsünde, liegt im Dunkeln, wird nicht erzwungen oder angebetet." Der Film ist schlecht
+NAME_MAWLEK : Der Zaun funktioniert nicht.
+DESC_SIBLING : Kontinent
+DESC_MAWLEK_TURRET : Dies ist ein großes apathisches Tier. Als er vorbeiging, spuckte der Dämon.
+DESC_COL_ROLLER : Baldwin wird im Kolosseum der Narren platziert. Er ist grausamer als sein Vater.
+NAME_HEALTH_SCUTTLER : Medaille des Lebens
+NAME_MUSH_TURRET : Kakano
+NAME_ZOTE_BALLOON : Gewöhnliche Spiele
+NAME_MOSQUITO : ein
+DESC_GRIMM : Champion und heiße Packung.
+NAME_LESSER_MAWLEK : Boska Moligas
+NAME_MAGE_LORD : Künstler
+NAME_PRAYER_SLUG : Harnormóir
+NAME_FLAMEBEARER_SMALL : Frisches grünes Gold
+NAME_INFECTED_KNIGHT : relit
+NOTE_COL_MINER : Sie können diese Waffen senden und abwerfen, während Sie in der Luft schweben. Ideal, wenn Sie Ecken verwenden.
+NAME_PALE_LURKER : versteckte Tassen
+NAME_MENDERBUG : Widerspruch
+NAME_LOBSTER_LANCER : Verrückt werden
+DESC_MANTIS_LORD : Das Oberhaupt der Familie Bogomol ist der beste Held. Wenden Sie die erforderliche Kraft an und wenden Sie schnell an.
+DESC_SLASH_SPIDER : Unterstützer des besten Mannes. Schütze die Arche vor den Locken und schlage den Vogel mit einer harten Schlinge.
+NAME_ANGRY_BUZZER : Der Feind hat Angst
+NOTE_MUSH_BABY : Es erlosch und verdunkelte sich, bis eine Wolke auftauchte. Ziemlich lustig.
+KILL_COUNT_1 : beschuldige ihn
+NOTE_MOSS_CHARGER : Klein Die Blätter sind sehr stark und kräftig. Ich habe es dir gesagt ...
+NAME_HORNET : Davido
+NAME_ELEC_MAGE : Ich fühle mich müde
+NOTE_GRUB_MIMIC : Zerstöre das Schiff und gehe zum Feind. Sehr bequem! Leider sah ich sie diesen Busch essen.
+NOTE_GIANT_HOPPER : Ein wahrer Verteidiger ist erstaunlich und intelligent in der Größe. Setzen Sie sich hin oder versuchen Sie zwischen Ihren Beinen zu tanzen und massieren Sie Ihre Füße.
+NAME_BLOCKER : Rufen Sie an, um zu sagen
+DESC_HIVE_KNIGHT : Sponsor Reinakanalen denkt nach. Müde von Scham und Farbe.
+NOTE_PALACE_FLY : Sein Sultan, der die Welt und alles darin erschaffen hat, ist der Heiligste. Was muss ich wissen? Sind es Freunde, Spielzeug oder Kinder? Die Idee ist unbekannt.
+NAME_FUNG_CRAWLER : Symbol
+DESC_ZAP_BUG : Im Notfall wird gleichzeitig Strom erzeugt.
+DESC_MANTIS_FLYER_CHILD : Stolz schützt die Landschaft. Er stützte den Jungen mit einer scharfen Kante.
+DESC_FLUKE_MOTHER : Hirten sind glücklich. Er füllte die Straße mit Wasser. Es ist eine kleine Sequenz.
+DESC_GIANT_HOPPER : Halten Sie Essen unter Ihrem Körper und versuchen Sie, an den Rand der Erde zu springen.
+NAME_ORANGE_BALLOON : böse
+NAME_FLUKE_MOTHER : Falkma-Arm
+DESC_ZOM_ROYAL_2 : Er war ein ehemaliges Mitglied des Horonest. Seine innere Stärke machte ihn zu einem Gott, aber manchmal verdeckten ihn alte Gedanken und befreiten ihn von Schwierigkeiten.
+DESC_MAGEBLOB : In der Vergangenheit waren Bücher besser, als die Übel des Lebens zu zerstören.
+DESC_MUSH_ROLLER : Die Gruppe griff die Angreifer an, um ihre Jugend zu schützen.
+NOTE_COL_MOSQUITO : Kraftvoll und schnell! Wie sich herausstellte, waren sie bereit, hinauszugehen und zu springen!
+DESC_CRYS_FLYER : Fange einige sich bewegende Angriffskristalle.
+NOTE_MINI_SPIDER : Mysteriöse Felsen können schwierig sein, aber sie sind ideal für Jäger. Hüten Sie sich vor gefährdeten Tieren, die Sie fangen können. Lass es jetzt im Dunkeln.
+NAME_COL_MOSQUITO : Setzen Sie sich auf den Schild
+DESC_MANTIS : Dies ist Teil des Schutzes nationaler Interessen. Angesicht zu Angesicht
+NOTE_FUNG_CRAWLER : Warten Sie, bis Sie Ihre Augen öffnen und dieses süße Essen in Ihrem Magen behalten.
+NAME_COL_SHIELD : Lehrer
+NOTE_BIG_CENTIPEDE : Er war so stark, dass er anfangs hart gekämpft hat. Halte dich von Menschen fern, die dich verlassen haben.
+NAME_FLIP_HOPPER : Philipp
+NAME_SNAPPER_TRAP : Gewinnen Sie Ihr Herz
+NAME_MAGE : Dreh dich um und geh.
+NAME_ACID_FLYER : verdammt
+NOTE_GHOST_NOEYES : Sie kommen ... <br> Was hast du ... <br> Warte! <br> - Es gibt keine Hoffnung.
+NOTE_ZOM_HORNHEAD : Paris war glücklich und starb sogar. Du willst lange Haare! Ich möchte Ihnen sagen
+NAME_ZOM_MINER : Die Mine denkt
+NAME_NAILMASTERS : Goldener Lee Matthew Niles
+NOTE_MANTIS_FLYER_CHILD : Als er älter wurde, konnte er seine Karriere nicht mehr kontrollieren. Große Veränderungen passieren oft, aber im Laufe der Zeit werden wir sehen, was fehlt.
+NAME_BEE_HATCHLING : Zur Wundheilung
+NAME_ZOM_BURSTING : Erinnere dich an die Sünde
+NAME_CRYS_FLYER : Der Jäger Christi
+NAME_MUMMY : schwarz müde
+DESC_SPITTING_SPIDER : Erhöhe Wände und Decken, gieße Alkohol über alles.
+DESC_FAT_FLUKE : Große Knochen großer Insekten wurden in einer Ölpipeline in der Nähe der Hauptstadt gefunden.
+NOTE_ZOM_ROYAL_1 : Der größte Einfluss scheint unter den schwachen und gierigen Heiligen zu liegen. Dies ist das wahre Land, und es war schon immer verflucht.
+NAME_GHOST_GALIEN : Galen
+NAME_MANTIS : Grasshopper ist ein beliebter Krieger
+DESC_GODSEEKER_MASK : Die ständigen Erwartungen an eine atheistische Welt haben sich im Laufe der Zeit verringert. Das Design spiegelt den Geist des Benutzers wider, der es installiert.
+DESC_ABYSS_TENDRIL : Die Tonstücke haben die Form von Dornen und langen Beinen.
+NOTE_WHITE_DEFENDER : "Helden der Widrigkeiten, Karrierekämpfe ... Ich erinnere mich an alles. Wir werden gewinnen, bis wir uns wiedersehen ..." <br> - Five Hot Fighters
+DESC_ZOM_HORNHEAD : Die ausländischen Truppen nahmen unterwegs die Überlebenden gefangen. Er tötete die kranke Kreatur, die er auf dem Horn sah.
+NOTE_BLOCKER : Während sie wachsen, sind diese Tiere so schwer, dass sie sich nicht frei bewegen können. Was denken sie über sich selbst, wenn sie sich in der Welt verstecken? Es kann eine stressige Zeit sein
+NOTE_HOLLOW_KNIGHT : Hallo, King of the Ancient Planet ... Er will unbedingt die zerstörte Welt retten. Denn alle Opfer sind vergebens.
+NOTE_MAGE_KNIGHT : Wohin sie auch gehen, sie gehen. Sie wissen nicht nur, wie das geht, sie können auch all ihre Energie einsetzen, um sich schnell von einem Ort zum anderen zu bewegen. Arbeiten
+NAME_MOSS_CHARGER : Kinder Ecke
+DESC_BEE_HATCHLING : o Kleinste Population. Erledige einfache Aufgaben.
+NOTE_ZOM_GUARD : Sogar Tiere, die größer und mächtiger sind als ihre Artgenossen, müssen gegen die Überreste anderer Tiere zu den Waffen greifen. Sie bewegen sich nicht oder kommen aus dem Wald, sie warnen immer und greifen andere an.
+DESC_PALACE_FLY : Das Haus sollte weiß und tiefes Wasser aussehen.
+DESC_BIGBUZZER : Direkte Soldaten greifen gerne laut an, wenn eine Bedrohung besteht.
+NOTE_FLUKEFLY : Es kann sich an jedes Tier mit kleinen, scharfen Zähnen anheften. Sie wollten, dass sich die Brüder verbrennen, aber das spielte keine Rolle.
+NOTE_INFLATOR : Dies ist ein sehr interessantes Tier.
+NOTE_CRAWLER : Hunger und Traurigkeit töten nicht
+NOTE_LESSER_MAWLEK : Wenn Sie versuchen, nach draußen zu gehen, haben Sie Angst vor klebrigen Bällen und Ihr Magen wird brennen. Gehen Sie schnell, um das Spiel zu genießen.
+NOTE_MOSS_KNIGHT_FAT : Langsam, straff und leicht zu treffen. Nur für diejenigen, die vergessen haben, ihre Arbeit und ihr Gewicht zu missbrauchen.
+NAME_BIG_BEE : Alleine essen
+DESC_WHITE_ROYAL : Diener der Könige waren treu und umsichtig.
+NAME_MANTIS_FLYER_ADULT : Kudlanka Petra
+NAME_HIVE_KNIGHT : Fantastisch
+NOTE_FUNG_ZOMBIE : Infizierte Insekten sind sehr inaktiv und ihre Überlebenschancen steigen, wenn sie mit Toxinen in Kontakt kommen. Es sind wirklich lustige Tiere.
+NOTE_TRAITOR_LORD : Ich habe diesen Wunsch. Lust zu berühren. Vertraue, vertraue ... diese Gedanken kamen in meine Träume. Die Erwartungen sind gering, aber es wird Ihr Gehirn verbrennen.
+NAME_MOSS_KNIGHT : Überraschung! BEEINDRUCKEND
+NOTE_COL_WORM : Großartig, stark, wütend aufs Leben. Unterschätzen Sie diesen Mann nicht! Es rutscht schnell nach unten, aber es gibt viele. Er hat schöne Augen unter seinen Augenbrauen.
+DESC_MAGE_BALLOON : In der Vergangenheit war diskretes Geld eine völlige Beleidigung.
+NOTE_ZOTE : Einige seltsame Tiere sind sehr gefährlich, hilflos, hilflos und hasserfüllt und jagen nicht gerne.
+DESC_GHOST_NOEYES : Der lange Traum ist das Bild eines gebrochenen Helden. Die Krankheit ist vorbei.
+NAME_ABYSS_TENDRIL : Zelt und Video
+DESC_MINI_SPIDER : Baby Red Lerne, wie man im Dunkeln ein Haus baut.
+DESC_LOBSTER_LANCER : Erfahrene Soldaten im Colosseum of Fools. Er war gegen eine Kapitulation.
+NAME_CENTIPEDE_HATCHER : fragte der Zimmermann
+DESC_MINES_CRAWLER : Verwenden Sie die Blende, um Kristallstaub zu entfernen und sich vor Gefahren zu schützen.
+NOTE_MAGE_BALLOON : Ich habe gehört, dass dies die Unsterblichkeit der geheimen Suche nach Narren ist. Lebe länger ... Ich habe noch nie so viel Pornografie gehört!
+DESC_HORNET : Die andere Hälfte sind Berufsberater. Verwenden Sie eine Spritze, um das Volumen zu erhöhen.
+NOTE_VOID_IDOL_2 : "Töte oder täusche diese Bestie." Sie beten keine machtlosen Dämonen an, sondern essen in der Dunkelheit. -Limousine
+NAME_SPIDER_FLYER : Sohn
+DESC_HOPPER : Er sprang in den Wald und goss essentielles Wasser über sie.
+NOTE_SLASH_SPIDER : Tiere sind keine Waffen. Führen Sie Bewegungen aus und überwachen Sie den Brunnen.
+NOTE_PIGEON : Jeder sieht sie fallen, während der eine fliegt, der andere tut dasselbe. Möchten Sie wissen, wie Sie mit Ihrem Geldbeutel umgehen?
+NAME_WHITE_DEFENDER : Weißer Beschützer
+NAME_ZOM_SPITTING : Slabenderis Allingas
+DESC_CENTIPEDE_HATCHER : Wenn Luft mit einem Tier in Kontakt kommt, setzt sie Fremdstoffe in den Körper frei.
+DESC_COL_MOSQUITO : Kalmare werden für große Kämpfe gezüchtet. Sie sind stärker und heißer als ihre Vorgänger.
+DESC_SUPER_SPITTER : Wilder, der Vorfahre des ASP-Pferdes. Wenn er ans Verlieren denkt, wird er überall auf der Welt wieder auftauchen.
+NAME_SUPER_SPITTER : Schließen des Formulars
+NOTE_FLIP_HOPPER : Veränderung ist ein sehr wichtiger Schutz. Wenn Sie glauben, dass Sie das Problem lösen können, gehen Sie hier oder dort hin.
+NOTE_COL_HOPPER : Es ist schlecht, aber es ist schwer zu tun. Achte auf deine Tricks und hab so viel Spaß wie möglich. Bringen Sie einen Hund mit
+DESC_SENTRY_FLYING : Halloween-Vögel. Sehen Sie die Höhen der großen Denkmäler, die von der Stadt errichtet wurden.
+NAME_ZAP_BUG : Alle Kirschen
+NAME_BURSTING_BOUNCER : Großer Verdampfer
+NOTE_BLOBBLE : Machen Sie dazu eine kleine Abdeckung. Ist dieses Buch bezahlbar?
+NOTE_MANTIS_HEAVY : Kontaktieren Sie uns bzw. Ich verstehe nicht den Unterschied oder wie es funktioniert. Ich kenne meine Familie nicht.
+NAME_FUNGOON_BABY : Von der Seite
+NOTE_FLAMEBEARER_LARGE : "Diebe sterben, leben immer - Weinen" in so viel Dunkelheit - Burn Dreams <br> - "Crime Coalition"
+NAME_SIBLING : Strooka Kev
+DESC_ACID_FLYER : Dies ist ein gewöhnlicher Vogel, der durch einen scharfen Raum geschützt ist.
+DESC_MANTIS_HEAVY : Die Familie war in seinen Gedanken und jetzt ist er verrückt.
+DESC_MOSS_FLYER : Wenn Sie sich die Blätter ansehen, haben sie lange Haare. Jäger, die sich im Wald versteckten, näherten sich und flohen.
+DESC_PAINTMASTER : Sie ist eine gut ausgebildete und angesehene Nagelmeisterin. Er wollte immer etwas Neues lernen.
+NOTE_SENTRY_FLYING_JAVELIN : Dieser wilde Feind ist oft auf Distanz und versucht, mit seinen Händen zuzuschlagen. Beim Spielen hochspringen.
+NAME_MUSH_BABY : Ev:
+DESC_PALE_LURKER : Ein Beispiel für einen Ort, an dem das Kolosseum vergessen ist, ist seltsamer Wahnsinn.
+NAME_HATCHLING : Am Pana kochen
+NAME_BOUNCER : Weiter lesen
+DESC_ZOM_BARGER : Insektenpfade bewegen sich schneller. Es wurden keine Live-Angriffe gefunden.
+NAME_BIG_CENTIPEDE : Geschlecht
+NAME_SENTRY_FAT : Vorsicht
+NOTE_ZOM_RUNNER : Viele der sauberen Viren in diesem „Ausmaß“ sind lebensbedrohlich, und jetzt sind wir bereit, krank zu werden. Bring ihn zurück in seine Heimat!
+DESC_MANTIS_FLYER_ADULT : Es ist im Mutterleib eines Mannes.
+DESC_GRASS_HOPPER : Er lebt in einem Wald in der Nähe der königlichen Gärten. Dies ist in freier Wildbahn selten, aber das Verhalten von Wildtieren kann gefährlich sein.
+NAME_MEGA_JELLYFISH : Rutscht
+NAME_MANTIS_LORD : Sanin
+DESC_WORM : Sie fielen mit leichten Waffen zu Boden.
+NOTE_BLOB_FLYER : Kennst du den Glauben Welchen Wein? Wenn Sie etwas sehen, klicken Sie darauf.
+DESC_ZOM_SPINE : Er wurde mit einer scharfen Nadel in den Rücken geschossen.
+NOTE_HATCHLING : Diese Kinder werden natürlich geboren. Von klein auf knirschen sie mit den Zähnen, ohne nachzudenken. Übertreiben Sie es nicht.
+NOTE_MEGA_MOSS_CHARGER : Starke Zahlen. Allerdings sind diese Tiere relativ anfällig. Warten!
+NOTE_MOSS_KNIGHT : Sie verstecken sich wie Bäume und sehen gut aus, aber hüte dich vor diesen Kriegern! Erbittert im Kampf, hütet sorgfältig die Geheimnisse des Weges.
+NOTE_BIGBUZZER : Am Boden der Grube siehst du böse Kreaturen, die versuchen, alte Dinge zu zerbrechen. Es ist, als würde man in Tränen ausbrechen.
+NAME_MAGE_KNIGHT : Team-Tanken
+NOTE_NIGHTMARE_GRIMM : ಮತ Wähle den letzten Albtraum, die Realität, die jetzt zerstört werden muss, die Luft ist ruhig, die Angst vor dem Schlafen, das Herz der Nacht weint nicht. "- CR:
+DESC_VOID_IDOL_1 : Die Person, die das Foto macht, ist eine Person von Halloween. Nehmen Sie einen Tropfen Wasser aus dem Brunnen.
+NOTE_ZOM_SPIDER : In den Tieren dieser Welt sind viele Schätze verborgen, aber sie sind nicht so intelligent wie andere Körper. Ich bin sehr froh so ein Tier kennengelernt zu haben. Sie suchen zwei Tiere gleichzeitig.
+DESC_FUNGOON_BABY : Hallo, das ist erstaunlich. Gasstrom
+DESC_MUSH_TURRET : Eine Bombe ist explodiert.
+NAME_ZOM_ROYAL_2 : Leckere Mützen
+NOTE_HIVE_KNIGHT : Von Geburt an ist es wichtig, dass andere Tiere mehr in den christlichen Lebensstil eingebunden werden. Sie sind mächtig, aber sie sind auch Sklaven.
+NOTE_CEILING_DROPPER : Wütende Menschen denken nicht über das Leben nach. Schreckliche Kreaturen ... warum werden sie "glücklich" genannt?
+DESC_MAGE_KNIGHT : Lernen Sie, Unfruchtbarkeit mit einem Messer zu vermeiden. Erhöhen Sie Ihre Fähigkeit, Ihre Ernte zu beschädigen.
+NAME_BABY_CENTIPEDE : Abfallsammler
+NAME_BIG_FAT_FLYER : schicken
+NOTE_BEE : Die Soldaten kamen heraus und ergaben sich. Wenn Sie vorhaben, in ihr Haus einzubrechen, seien Sie bereit, bis zum Tod gegen sie zu kämpfen.
+NOTE_BABY_CENTIPEDE : Im Frühling atmen diese Jäger in den Wäldern die dunklen, zerklüfteten Höhlen, die das Wild umgeben. Schau mal!
+NOTE_LAZY_FLYER : Das Leben macht nicht jedem Spaß. Wenn jemand den Boden berührt ...
+DESC_JELLYFISH : Äußerer Schutz gegen raue und rissige Augenlider.
+DESC_BLACK_KNIGHT : Am Samstag zündete die Polizei eine Bombe und eine Anti-Moskito-Gruppe.
+DESC_PARASITE_BLOB : Es gibt eine Zelle in deinem Körper und sie funktioniert gut. Laufen ist eine einfache Idee.
+DESC_BIG_FAT_FLYER : Es ist ein großes und ruhiges Tier, das langsam mit seinem König geht.
+NOTE_PLANT_SHOOTER : Seine kleinen, trockenen Blätter. Kleine rote Daumen, aber viel Glück! Die Tabletten haben einen bitteren Geschmack. Wenn Sie glücklich sind, trinken Sie ein wenig und genießen Sie die Ergebnisse.
+NAME_GODSEEKER_MASK : Saisonabdeckung
+NOTE_COL_SHIELD : Das Kolosseum ist ein wunderbarer Ort für einen Besuch, manche Menschen kämpfen und sterben, manche Menschen sind allein. Ich verstehe die Probleme nicht. Wenn Sie es wagen, einzutreten, seien Sie vorsichtig.
+DESC_CRYS_LAZER_BUG : Dies stellt das Licht wieder her und führt beim Biegen unerwünschtes Licht ein.
+NOTE_SUPER_SPITTER : Diese bösen Feinde werden dich mit giftigem Feuer angreifen. Überraschenderweise sind alle schwach. Ich glaube, mein Sohn ist stärker als ich.
+NAME_WORM : Witwe
+NAME_MEGA_BEAM_MINER : Geschützte Kristalle
+NAME_PLANT_SHOOTER : kosten
+NAME_PAINTMASTER : Kabaha
+DESC_ORANGE_BALLOON : Einzellige Mittelohrentzündung. Diese Tipps sind einfach und Sie können mit Gas drinnen schwimmen.
+NOTE_ZOTE_BALLOON : Prinz Grey ist ein Reisender, aber er kann nicht entkommen. Also beschloss sie, für immer mit dem Prinzen zu leben. Warten auf die Serie <br> <br> "Prince Grey" Version 205
+NAME_CRYS_LAZER_BUG : Weihnachten
+NOTIFICATION_HALF : erste Geschichte
+NOTE_MUMMY : Bei dieser Krankheit wird starkes Licht verwendet, um Dunkelheit zu verhindern. Ich blickte einen Moment lang in das Licht und sah wieder etwas deutlich. Ც Gutes Zeug.
+KILL_COUNT_2 : Ihre Memoiren können ausführlicher übersetzt werden.
+DESC_SENTRY_1 : Tiere nicht töten. Sie werden immer an Dinge erinnert, die sie in der Vergangenheit getan haben.
+NOTE_FAT_FLUKE : Wenn Jäger davon profitieren, ist das Essen, das sie essen, köstlich. Diese Tiere sind jedoch aufgrund ihres Gewichts nicht sehr nützlich.
+DESC_JELLY_CRAWLER : Mindestens Gelee. Neutral und unberührt, aber mit einer alarmierenden Geschwindigkeit.
+NOTE_ELEC_MAGE : Kämpfen oder Denken hängt von der Lampelia-Diät ab. Der zweite ist der Feind
+NOTE_SNAPPER_TRAP : Sie müssen sich um die Pflanzen kümmern.
+DESC_MOSS_WALKER : Die Schwäche des Bettes scheint da zu sein. Es ist im Wald versteckt.
+NAME_MOSS_WALKER : Moskau
+NAME_FUNGOON : நிலேதி
+NAME_FALSEKNIGHT : Falsche Eingabe
+DESC_GHOST_GALIEN : Folgen Sie den Träumen des verlorenen Helden. Er diente im Dschungel des gesamten Imperiums und hoffte auf den Militärdienst.
+NAME_SENTRY_FLYING_JAVELIN : Fokus der Aufmerksamkeit
+DESC_SAGE_SLY : Sie ist eine berühmte Maniküre und war kürzlich eine erfolgreiche Nageldesignerin.
+DESC_ZOM_SPIDER : Sobald der Empfänger stirbt, übernimmt der Parasit den militärischen Körper.
+DESC_MAGE : Es ist falsch, vorsichtig zu sein und die Aufmerksamkeit auf sich zu ziehen.
+NOTE_SPIDER_FLYER : Du kannst jederzeit im Dunkeln rausgehen! Er schien in den Himmel zu fliegen und im Boden Seil zu springen.
+NOTE_COL_ROLLER : Diese Tiere sehen keine Erwachsenen. Ich schätze, sie durften nicht lange genug leben, um die besten Gewinner zu sein.
+NAME_ZOM_SPINE : Zuerst?
+NAME_ZOM_SPIDER : Base Cl-
+NAME_COL_ROLLER : Ein scharfer Kopf erschien
+NOTE_PRAYER_SLUG : Es ist wirklich fettig und diese Zutat wird kostenlos angeboten, wenn Sie mit köstlichen Speisen reisen. Es ist besser, auf offenem Feuer zu kochen. Wenn sie versuchen, den Preis zu zahlen, denken Sie daran. Es gibt nichts zu opfern.
+DESC_NIGHTMARE_GRIMM : Falscher Blick auf Rot.
+DESC_CEILING_DROPPER : Opfern Sie Ihr Leben für die dünnen Flügel, die den Bauch bedecken, um sie zu schützen.
+DESC_SNAPPER_TRAP : Es ist ein Jagdbaum, der alle Arten von Tieren anzieht.
+DESC_ZOTE_BALLOON : Erstellen Sie eine Motivation. Sie reagieren gut auf Stress und explodieren schnell.
+NOTE_CLIMBER : Er verbrachte Zeit in den Straßen und Höhlen am Fuße des Palastes. Wenn Sie warten, können Sie warten, bis sie Sie abholen.
+DESC_FLAMEBEARER_LARGE : Während des Festivals sammelten Mitglieder des Make-up-Teams rote Flammen von Laternen. Wenn Sie scheitern, schalten Sie die Taschenlampe ein.
+DESC_ABYSS_CRAWLER : Es tritt nur an dunklen, dunklen Orten auf. Glaubst du, sie essen etwas?
+NAME_BLOB_FLYER : Digitales Labor
+DESC_LESSER_MAWLEK : Er griff mit Säure an und schnitt acht Nägel.
+DESC_BLOBBLE : Sie ist im Kolosseum aufgewachsen. Trotz militärischer Übungen sind seine Aktionen und Angriffe immer noch weit verbreitet.
+NOTE_BIG_FAT_FLYER : Es braucht Zeit, um es zu entfernen. Dieser Fisch wird nicht zum langsamen Verstecken empfohlen, kann aber manchmal leicht helfen.
+DESC_ZOM_LEAPER : Kriegsverbrechen im Ausland. Ja, sie können für kranke Tiere gefährlich sein.
+NAME_ZOTE_FLYER : Top PV
+NOTE_ACID_FLYER : Es ist ihm egal, ob Leute ins Ausland gehen, weil er es für sicher hält. Zusammenbrechen und sagen, dass Sie nichts wissen.
+DESC_ANGRY_BUZZER : Die Rache einer Biene hat den Körper durch eine ansteckende Krankheit geschädigt. Und mehr
+NAME_FLAMEBEARER_MED : Sheila Grün
+DESC_FUNG_CRAWLER : Teungs negative Haut war mit einem starken Fingerfilm bedeckt.
+NAME_ZOM_GUARD : Erinnere dich an die Wache
+NAME_HATCHER : Spigot-Anzeigen
+DESC_HATCHER : Eier drin. Bei Bedarf kann sie die Kinder aufnehmen und versorgen.
+DESC_FALSEKNIGHT : Das Obst wird geerntet. Er lebte in einem bewaffneten Raubüberfall.
+NOTE_SIBLING : Drinnen ist der Boden, die Luft ist still und böse Gedanken. Wird das Leben besser? In diesem Fall bin ich kein Jäger.
+NAME_GHOST_MARMU : Schäm dich
+NAME_MUSH_BRAWLER : unendlich
+NAME_FLAMEBEARER_LARGE : Graemes Traum
+NAME_GHOST_NOEYES : Auge
+NAME_MINES_CRAWLER : منا شاردمیس
+NOTE_INFECTED_KNIGHT : Ich kenne dieses Tier nicht. Oft wie HellNest, aber anders. Woher kam diese große Freiheit?
+NAME_ZOM_ROYAL_FAT : Er will Geld
+DESC_GORGEOUS_HUSK : die Frucht schlucken. Seien Sie darauf vorbereitet, Standortdaten zu sammeln.
+DESC_VOID_IDOL_2 : Eine besondere Halloween-Tradition. Es gab viel Rauch.
+NOTE_GREAT_SHIELD_ZOMBIE : Zumindest schadet es heiligen Insekten. Finden Sie heraus, wie schnell Sie mit Waffen schießen können.
+NAME_ZOM_LEAPER : Es bleibt eine Erinnerung
+DESC_FLIP_HOPPER : Spezialisten, die Werkzeuge auf der anderen Seite des Körpers einsetzen, um sich an veränderte Regeln und Bedingungen anzupassen.
+DESC_PLANT_SHOOTER : Bei Gefahr kehrt das Tier sicher zurück. Wenn der Feind zu weit entfernt ist, explodiert die Kugel.
+DESC_MOSQUITO : Angriffe auf den Säulenwald.
+NAME_COL_FLYINGSENTRY : Poyk Olot
+NOTE_FLUKEMAN : Halloween ist ein erbitterter Feind, der plötzlich den Bahnhof in der Nähe der Hauptstadt umgibt. Sei vorsichtig, wenn du denkst, dass du verprügelt werden kannst.
+NOTE_FLUKE_MOTHER : Der Wunsch, das Herz eines Kindes zu reinigen ... scheint in jedem Herzen zu sein. Ich kenne den Namen des Autors.
+DESC_ZOTE_FLYER : Die Bedeutung von Emotionen. Fliege langsam zum Feind und rette deinen Meister vor dem Chaos des Krieges.
+DESC_INFECTED_KNIGHT : Schmutzige Leichen, Keime, steh auf.
+DESC_ACID_WALKER : Es ist eine einfache Kreatur mit einer rauen Schale drumherum. Es tritt normalerweise an seichten Stellen mit saurem Wasser auf.
+DESC_ZOM_RUNNER : Insektenreste werden mit vergleichbarer Kraft angezogen. Gehen Sie in die Straße, in der Sie wohnen
+NAME_HOPPER : Staubsauger
+DESC_SPIDER_FLYER : Die Site verbringt die meiste Zeit als Tröpfchen. Normalerweise freue ich mich auf das Ziel.
+DESC_ZOM_HIVE : Die Rinde des Feigenbaums, der Körper voller Knochen.
+NOTE_ZOM_BURSTING : In den frühen Stadien der Krankheit werden hormonelle Mängel beseitigt. Vom ersten Moment an wachte ich verwirrt und verwirrt auf ...
+NOTIFICATION_FULL : Jeden Monat aktualisiert
+NAME_GRUB_MIMIC : Mitarbeiter des Personals
+NOTE_MOSQUITO : Machen Sie sich keine Sorgen, wenn sie weglaufen. Wenn sie es tun, werden sie woanders kämpfen.
+NOTE_GHOST_HU : Vergiss deine Verluste nicht. Don <br> - Herzog
+NOTE_GHOST_GALIEN : Nicht nur die Intervention der Republik und ihres Volkes, sondern auch die Hoffnungen und Träume des Imperiums. <br>- Juliana
+NAME_COL_WORM : Scham
+NAME_GREY_PRINCE : Alles im Grauen Prinzen
+NOTE_GRASS_HOPPER : Die Kraft scheint grenzenlos! Hören Sie auf zu schlafen, zu essen oder zu denken?
+NOTE_MUSH_BRAWLER : Ist es ein großes Tier oder ein Zwerg? Ich schnitt es in zwei Hälften und schaute hinein, konnte aber keine Antwort finden.
+DESC_PURE_VESSEL : Artikel werden in der Regel ausgewählt, sortiert und identifiziert.
+DESC_CRAWLER : In der Höhle herrschte ein Aufruhr auf der Suche nach Nahrung.
+NAME_HUNTERMARK : Vorteile der Bildung
+DESC_BLOCKER : Mit einer dünnen Schicht abdecken. Er überlebte den Angriff.
+NOTE_GHOST_ALADAR : Aber traurig! <ahi> - Bonde
+NAME_MAGE_BALLOON : er ist
+NOTE_DUNG_DEFENDER : Der Kampf der Ehre oder des Glaubens ... der Kampf des Materialismus. Wenn du es töten willst, tu es selbst. Das ist die Essenz der Jagd.
+NAME_CLIMBER : Vorderseite
+DESC_COL_WORM : Erfolgreicher Kampf beim Colosseum of Fools. Heile den Feind.
+NAME_BUZZER : Forderung
+DESC_COL_MINER : Kämpfer im Kolosseum kämpfen um einen lokalen Ruf. Verwenden Sie die Mondplatte, um Ihre Feinde zu besiegen.
+DESC_MOSSMAN_RUNNER : Bakterienpflanzen sind ein enger Feind.
+NAME_SENTRY_1 : Alter des Thunfischs
+DESC_GREAT_SHIELD_ZOMBIE : Einer der besten orangefarbenen Uhrmacher der Stadt, damit Ihre Nägel und Werkzeuge richtig funktionieren. Ihre heftigen Angriffe richteten großen Schaden an.
+DESC_ZOTE_HOPPER : Unvollständiger Sicherheitscode.
+NOTE_PARASITE_BLOB : Im Laufe der Jahre ist frische Luft aus der Haut ausgetreten. Denn das Wasser im Himmel, das Wasser im Körper, das Wasser im Körper. Ich weiß nicht, was ich tun soll
+NAME_PARASITE_BLOB : Knorpel
+NOTE_GORGEOUS_HUSK : In vielerlei Hinsicht wunderbar. Der schillernde Wasserton, der Geschmack von frisch geschnittenem Essen, die weinende Mutter ... wusste nicht, dass sie Eisen und Stein brauchte.
+NOTE_FALSEKNIGHT : Schwache Tiere können zusätzliche Kraft stehlen. Sein Leben war kurz, gefährlich, er wollte Macht über sein Volk haben.
+NOTE_MEGA_JELLYFISH : Das Tal unter uns ist ein großes schwarzes Tal, wo es zu einer erstaunlichen Kraft wird ... wo der Jäger den Verstand verliert. Hören Sie sich die seltsamen und gefährlichen Dinge an, die dort versteckt sind.
+NOTE_ZOM_ROYAL_FAT : Wenn dieser Abfall einen Wert hat, wird er gesucht, nicht gegessen, und alles wird zu einem Dorf.
+DESC_BIG_CENTIPEDE : Große Blätter sind mit dicken Blättern bedeckt. Gehen Sie den tiefen Pfad ohne Unterbrechung
+DESC_ZOM_GUARD : Die Überreste des Heiligen Kreuzes sind erhalten geblieben. Die Gewerkschaft versuchte jedoch, das Gebäude im Basislager zu schützen.
+NAME_ZOM_SHIELD : Denken Sie an die Gefahr
+DESC_GHOST_MARKOTH : Der Traum vom Krieg ist verboten. Ich vergaß, dass ich Waffen für dieselbe Gemeinschaft kaufte.
+NOTE_ZOM_BARGER : Orangenschalen sind voller Staub. Es ist süß und saftig. Es tut mir leid, nachdem ich dieses Tier getötet habe, ich rate Ihnen, es nicht zu essen.
+NAME_HOLLOW_KNIGHT : Colin
+DESC_MOSS_KNIGHT_FAT : Schmutzige und schmutzige Autos. Etwas schütteln.
+DESC_HOLLOW_SHADE : Alter Lebensstil. Um ewige Kraft und Vollkommenheit zu erlangen.
+NOTE_SPITTER : Kluge Tiere werden versuchen, dich fernzuhalten. Installieren, einfach installieren und deinstallieren! Hier wird die Leiche nicht getäuscht.
+DESC_JAR_COLLECTOR : Ein trauriger Mann, der in einem Liebesturm gefangen ist. Achten Sie auf das Herz der Blume und lassen Sie den heiligsten Körper im Glasgefäß.
+NAME_SENTRY_FLYING : Chang ist ein sehr gutes Büro.
+NOTE_ZOTE_FLYER : Fragen Sie ihn gut aus, wenn er nicht mehr in die Verbindung vertieft ist. Die Richtlinien sind minimal und die erforderlichen Kosten sind gering. Ich verstehe den Grund für die Wahl. <br> - "Der Graue Prinz" Kapitel 136
+DESC_GRUB_MIMIC : Er jagt viele unschuldige Tiere.
+NOTE_GHOST_XERO : Das Leben ist bedingt durch Zufall und Erfolg. Der Tod ist voller Traurigkeit. Ein Gedanke voller Sünde und Erinnerungen. Ein Pferd ist besser als ein Pferd
+DESC_FUNGOON : Reife Hefeblase. Verbreiten Sie das Schlechte zusammen.
+NOTE_FUNGOON : Fast wahr! Ich glaube nicht, dass ich am besten bin. Die Wunder der Schöpfung sind auf dieser Etage verborgen. Ich verstehe alles!
+NAME_MAWLEK_TURRET : dein Schwanz
+DESC_GHOST_XERO : Razmiks langer Traum ist vorbei. Er lag falsch mit dem König.
+NOTE_ZOM_ROYAL_2 : Der Schrecken und die Tragödie dieses heiligen Verses werden auch nach dem Tod weitergehen! Er schämte sich, sie zu töten.
+NOTE_BLACK_KNIGHT : Während des Krieges verlor die Assistentin ihren Körper und floh in Panik. Ich fragte mich, was mit mir passieren würde, wenn ich sterbe. Warum sind meine Hoffnungen und Sorgen verschwunden?
+NOTE_BIGFLY : Überraschenderweise legt dieses Monster nicht einmal Eier, sondern legt sie in den Mutterleib. Dieses seltsame Verhalten scheint diese Kreatur faul und müde zu machen. Tun Sie Ihren Anteil!
+DESC_HUNTERMARK : waidmanns Heil
+DESC_MUSH_BABY : Tiere, er verbringt die meiste Zeit auf der Erde. Sie können sich jedoch aufregen und weglaufen, wenn sie sich bedroht fühlen.
+DESC_ZOM_BURSTING : Du hast die Leute satt. Sparen Sie Geld, ohne sich um Ihre Feinde zu sorgen.
+NAME_INFLATOR : In Ordnung
+NAME_MOSSMAN_SHAKER : fluchen
+NOTE_MAWLEK : Wer versteckt sich wann? Ich kann sagen, dass seine Stimme unglaublich ist.
+NOTE_PURE_VESSEL : "Schweigen im Heiligen Haus." Finde sie zum Beispiel alle! <br> - Doaa-Film
+NOTE_PAINTMASTER : Faul, Herr, ewiges Werk. <br> Unsere Köpfe und Herzen.
+NAME_FLUKEFLY : Gor
+NAME_ZOM_BARGER : Mehl
+NAME_GRASS_HOPPER : Abdeckung
+NOTE_MANTIS_LORD : Ich mag keine Heuschrecken und Halloween, die Gebete von Mentis stehen vor der Konkurrenz und leben kulturell.
+NAME_DUNG_DEFENDER : Und Verteidiger
+NOTE_SPITTING_SPIDER : Es ist schwer zu sagen, wann er eintreten und im Dunkeln bleiben wird. er sah seine klaren Augen
+DESC_MUMMY : Die Mutter lebt noch und die Krankheit ist schwach und schwach.
+DESC_ZOM_ROYAL_FAT : Holinstein ist ein ehemaliges Mitglied der Great Society. Als Körperwärmer verwenden.
+NAME_ZOM_HORNHEAD : erinnere dich an die Hörner
+NOTE_ACID_WALKER : Dies ist eine der wenigen sauren Kreaturen in der Welt um uns herum. Woher kommt das Wasser? Sie ist eine gesunde Erwachsene und treibt nicht gerne Sport.
+NAME_FLUKEMAN : Flukmann
+DESC_DUNG_DEFENDER : Ein erfahrener Soldat wohnt weit weg. Wirf die Knochen und greife die Angreifer an.
+DESC_GHOST_HU : Späte Patrioten haben alte Träume. Die Natur der Welt ist immer problematisch.
+NAME_SPITTING_SPIDER : Abyss Hunter Online-Spiel
+NOTE_MANTIS : Wenn Sie die Tiefen des Waldes betreten, wird dieser Soldat anhalten. Schützen Sie sich vor Veränderungen?
+NOTE_WORM : Ehrlich gesagt hat es einen kleinen Einfluss auf den Angriff, sodass Sie die Waffe mit einem Fell oder einer Peitsche schärfen können. Sie wissen es einfach nicht.

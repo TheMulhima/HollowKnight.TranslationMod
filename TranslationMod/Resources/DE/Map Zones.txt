@@ -1,0 +1,52 @@
+GODSEEKER_WASTE : Ramin Rommel
+GODS_GLORY : Gotteshaus
+BLUE_LAKE : Blaue Lagune
+MONOMON_ARCHIVE : Erinnere dich an den Lehrer
+LURIENS_TOWER : Von links nach rechts
+LOVE_TOWER : im Schloss der Liebe
+KINGS_PASS : Welche
+GLADE : Spirituelle Reinigung
+BONE_FOREST : Sventoji země
+KINGS_STATION : soziale Familie
+CLIFFS : گوری اللیرونیت
+CRYSTAL_MOUND : das ist klar
+ABYSS : Antigua gemessen
+CROSSROADS : Die vergessene Straße
+TRAM_LOWER : Trauma Nr
+DISTANT_VILLAGE : Das Dorf war weit weg.
+HIVE : Winkel
+TEST_AREA : eb-Pilot
+TOWN : Erst trinken
+WASTES : Ich-Pilzcrit
+CITY : Tränen der Stadt
+ROYAL_QUARTER : Die Welt der Regierung
+NOEYES_TEMPLE : Butt-Tempel
+PALACE_GROUNDS : Lage und Pazos
+RUINED_TRAMWAY : Der Zug brach zusammen.
+ISMAS_GROVE : Friede sei mit dir.
+QUEENS_STATION : meine Königin
+ACID_LAKE : Nach Angaben der Vereinten Nationen
+MANTIS_VILLAGE : Gamales schließen Kaffee
+SOUL_SOCIETY : Ein heiliger Ort für die Seele
+COLOSSEUM : Die Narren des Kolosseums
+WHITE_PALACE : und Esel ohne
+WATERWAYS : König des Wassers
+ROYAL_GARDENS : Chufa Ngum-Stufe
+BEASTS_DEN : Ocker
+PEAK : Urlaub
+SHAMAN_TEMPLE : Familie im Gefängnis
+DEEPNEST : Hi
+TRAM_UPPER : Ille onus grave portat
+MAGE_TOWER : spirituelle Tempel
+MINES : Kristallpunkt
+DREAM_WORLD : Lotus
+FINAL_BOSS : Niger:
+GREEN_PATH : grüner Tee
+OVERGROWN_MOUND : Große Dateien
+OUTSKIRTS : Geheim
+JONI_GRAVE : Janans „Distrikt“-Forum
+ABYSS_DEEP : Borke
+RESTING_GROUNDS : Wahrscheinlich
+WYRMSKIN : Die Bombe explodiert
+FOG_CANYON : وُون پو
+NONE : 

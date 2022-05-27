@@ -1,0 +1,94 @@
+PERMA_UNLOCK_UNLOCK : I love you every day.
+CREDITS_PORTING_LEAD : The power line is the answer
+CREDITS_PORTING_LEAD_NAME : On the cross at that time
+CREDITS_ENVIRONDRESSING : This is an addictive environment for clothing.
+MR_MUSH_CONTINUED : bearings
+PERMA_GAME_OVER : End of game
+CREDITS_INDIE_FUND : Aloha Indi
+CREDITS_THANKS_MUSIC : An important song.
+CREDITS_VOCALS_NAME : Emily Jones
+CREDITS_TESTERS_MAC_NAME : David Cain - Marcus Rick - Jonathan Penny - Wayne Sills
+CREDITS_ADDITIONAL_CODING_NAME : David Lancaster Michael Jenkins
+CREDITS_LOCAL_LEAD : Rios
+CREDITS_TRANSLATE_CHINESE_NAME : Y UN V <g> S UNLY <Example> X UNSU <Example> UK or EST <Example> Stevenson
+CREDITS_ADDIT_TRANSLATE_JAPANESE : Japanese translation added
+CREDITS_ENVIRONDRESSING_NAME : OD Tyler Bartley-Nathan Elmer
+CREDITS_TRANSLATE_CHINESE : translation - Chinese
+CREDITS_CONGRATS_BODY_PERMA : You play wisely and believe in circumstances. <br> Thank you for taking the time to discover the world we created. Seeing new people ...
+TUTORIAL_CREDIT_SCORE : Where did I say
+CREDITS_EXTRA_THANKS : Thank you for your collaboration
+CREDITS_TESTERS_NAME_COL_02 : Hibino Ayako-Ben Iindaba Roble Pirates Unborn_Fo3 Nix-Kyle Pulver-Greg Smith-Luke Squirrel Matthew White-Kinzantzken-Benjamin Zab <br> >>
+CREDITS_TESTERS_NAME_COL_01 : Harry Dimitri, Tyler Bartoli, Lily Carlisle, Joshua Clark, Andrew Cook, Shannon Cross <br> Hughes Richard
+PERMA_UNLOCK_TITLE : Requirements for steel pipes
+CREDITS_TESTERS_MAC : Q Game - Mac
+CREDITS_SCORE : Does not include noise and music
+CREDITS_ADDIT_TRANSLATE_RUSSIAN_NAME : Danila Iostif - Andriz Turbina - Alexandra "Alfina" Ulubieva
+CREDITS_ADDIT_TRANSLATE_RUSSIAN : Additional translation - Russian
+CREDITS_ADDITIONAL_ENEMYCODE : Others opposed the group
+PERMA_GAME_OVER_BODY : People express their worth by fighting for this victory. <br> Finally, leave the shadow.
+CREDITS_CHARVOICES : More font
+CREDITS_ADDIT_TRANSLATE_KOREAN : Other translations - sad Korean -
+CREDITS_GUITAR : cat
+GAME_COMPLETE_PERCENTAGE : Happiness
+CREDITS_TECH_DIRECT : Technician
+CREDITS_TRANSLATE_BPORTUGUESE : Translation - Brazilian Portuguese
+CREDITS_VIOLA : one
+CREDITS_ADDITIONAL_CODING : Add the app to enter the code.
+CREDITS_TRANSLATE_ITALIAN : Translated into Italian
+PERMA_GAME_OVER_CONTINUE : Press any key to continue.
+CREDITS_FIGSCULPTOR_NAME : David Diaz Leader.
+CREDITS_TRANSLATE_BPORTUGUESE_NAME : Lukas "Luska" Fernandes <br> Vinisius "Venue" Xose <br> Jones Breda "Boring!" <br> Luis Fernando CM Maya <br> William Antonio Kanani <br> Vincius de Mediros Maykl <br>
+CREDITS_PORTING : The shark likes the theater
+CREDITS_MARKET_JAPAN_NAME : In front of the bridge
+CREDITS_THANKS : Thank you so much
+CREDITS_ADDIT_TRANSLATE_KOREAN_NAME : June Wesley was a slave
+CREDITS_INDIE_FUND_NAME : Jeffrey Rosen <br> Ioannes Graham <br> Ben Newhouse <br> Kyle Sato <br> Ron Tess
+TUTORIAL_CREDIT_NAME_01 : and
+TUTORIAL_CREDIT_NAME_02 : Willem
+CREDITS_TESTERS : The actual test
+TUTORIAL_CREDIT_NAME_04 : Matthew Griffin
+TUTORIAL_CREDIT_NAME_05 : Matthew Yanet Ra San
+CREDITS_ADDITIONAL_ENEMYCODE_NAME : In the stomach
+CREDIT_PROGRAM : .Management equipment
+CREDITS_TRANSLATE_RUSSIAN_NAME : Sander Primaki
+CREDITS_PORTING_NAME : Matt LeGrace - Seumas Pierce - Tom Lee - Brad Wesson
+CREDITS_PROGRAM_ADDIT : extra programs
+TUTORIAL_CREDIT_GAME : Not in the game
+CREDITS_PORTING_TEST_NAME : James Earrings
+CREDITS_SCORE_NAME : Eucharistobal Larkin
+CREDITS_CHARVOICES_NAME : Taylor Harriet Saxib Matisse Griffin Anna Murdoch Hannah Murdoch Hannah Murdoch Bill Knock Zara Perim Bactrian Roberts Cassandra Frisk What is the birthday of this lady?
+GAME_COMPLETE_TITLE : The game is over
+CREDITS_GAME_BY_NAME : Silicone formation
+CREDITS_THANKS_NAME : Ludum Dare - Fan Varna - Rohan Fraser - Ben Gibson - Makoto Kochi - Trent Castors - Morgan Jept Rod Yago - Tim McBurney - John Millard - Jason Platnash <br> Sheerin Zara - Victoria Roberts - Lily Sim - Nicola Stark - Sherin Stone - Stephen Qorrax - Matt Truvian - Dan Treble - Peter Young - Jenny Wigwood <br> Chris Wright
+CREDITS_PORTING_TEST_LEAD : Curator - Mango Jump
+CREDITS_TRANSLATE_RUSSIAN : Translated into Russian.
+CREDITS_INTERNS_NAME : James Glam - James Ross McNab
+CREDITS_PROGRAM_ADDIT_NAME : Wine storage
+CREDITS_VIOLA_NAME : Tim Adler
+CREDITS_CONGRATS_BODY : Thank you for your patience and success. We hope you enjoy the nightlife. <br> Goodbye.
+CREDITS_VOCALS : Picciotti - City of tears
+CREDITS_EXTRA_THANKS_TEXT : 2158 Supporters and Supporters
+CREDITS_ADDIT_TRANSLATE_GERMAN : More translations - Crisis in German -
+CREDITS_ADDIT_TRANSLATE_GERMAN_NAME : Tobias Gut Alessandro Rafael Adam Daniel Mercedes journalist
+GAME_COMPLETE_TIME : Like
+CREDITS_MARKET_JAPAN : Thanks Japan
+CREDITS_TRANSLATE_FRENCH : Translation - French
+CREDITS_ADDIT_TRANSLATE_SPANISH : Other translations into Spanish
+TUTORIAL_CREDIT_NAME_03 : David Casey
+CREDITS_TRANSLATE_JAPAN_NAME : you eat
+CREDITS_INTERNS : Students
+CREDITS_SOUND_ASSIST : Special time
+CREDITS_LETH : Marketing and Public Relations
+CREDITS_SOUND_ASSIST_NAME : solid company
+CREDITS_GAME_BY : About this game
+CREDITS_CONGRATS : I am happy
+CREDITS_ADDIT_TRANSLATE_SPANISH_NAME : '' O Daniel Ruiz, "King of Light"
+CREDITS_THANKS_MUSIC_NAME : Jeff Van Dyk - Russell Larkin - Michelle Larkin - Fabian Malabella - Adriana Tran - Angela Valdeva
+CREDITS_TRANSLATE_FRENCH_NAME : No pool
+CREDITS_TRANSLATE_JAPAN : Japanese system
+CREDITS_ADDIT_TRANSLATE_JAPANESE_NAME : Follow it every day
+CREDITS_TRANSLATION : Sprogoversættelse
+CREDITS_TRANSLATE_ITALIAN_NAME : Federico Gata Marco Bertolucci Mint thiab
+PERMA_UNLOCK_BODY : There is nothing wrong with that. Death is an eternal death. last character
+CREDITS_FIGSCULPTOR : another
+CREDITS_TEST_LEAD : Tested

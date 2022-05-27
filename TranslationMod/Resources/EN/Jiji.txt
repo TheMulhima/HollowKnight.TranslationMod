@@ -1,0 +1,34 @@
+NO_EGGS_REPEAT : My favorite food ... soft, round, good in the mouth. Alton ... I'm sorry. In fact, it is the largest in the world.
+GREET : There you go again because you are, you are going to make me sad with your eyes
+MEET1 : okay, Go. I slept a lot here... something at that hour? tall man. Beric. You came to wake me up. I don't think this makes sense. Maybe I can help you
+RITUAL_BEGIN : Let's start with the word.
+WATERWAYS : True, you can see the damage done. A dark place surrounded by urine and running water. I can not back down, but ...
+SHADE_OFFER : If I give you good food, I will heal you.
+RITUAL_REPEAT : Hi, if I like food, I like it.
+SHAMAN_TEMPLE : Yes BT I am not. Persistent dark spots are a great place to shop.
+CLIFFS : I can see the pain he left me. It’s a dark place where the wind blows us away.
+MEET2 : Kangen Navi. If you are from my land, you need help. Tiximke. <page> Please wait until you start a child. Better support ...
+DREAM : The world is dark and sad now when I sleep. When I kill the wind, I sleep a lot, why is there darkness in my heart?
+ABYSS : True, I didn’t know BT was right for me. Weaknesses ... dark places in the southern hemisphere surrounded by darkness. Almost young ...
+CROSSROADS : Yes, I forgive you. Below us is a black spot that disappears between the ground and the landslide.
+SHADE_OFFER_INTRO : I can express my sympathy and welcome. You liked <page>, but I'm hungry. Maybe you want to exclude it from your menu? You want to eat before you go to bed.
+HIVE : Yes, sorry for the inconvenience. The outermost square is surrounded by dotted black gold.
+DECLINE : Is it the same? Well, if you do not want to add to your conversation, it will not help.
+RITUAL_COMPLETED : it doesn't look good now to see love. I thought the pain.
+WASTES : Yes, I feel the pain of being abandoned. There was a black spot between the fog and the cold pond.
+NOSHADE : Yes, we don't care about that story. Fortunately, services like mine are not needed.
+CITY : Yes, I have seen him suffer. This dark city is located in the heart of the country's capital. The rain can't stop.
+SHADE_CHARM : The manager was surprised ...
+QUEENS_STATION : Yeah Al that sounds pretty crap to me, Looks like BT aint for me either. In a dark place near the Queen's Pool.
+MINES : Yeah, that sounds pretty bad to me. BT doesn't seem to matter to me either. The black spots around him were almost covered in shiny crystals.
+KINGS_PASS : Yes, I'm sorry. There is a black dot at the entrance.
+COLOSSEUM : Yes, Al hurt me, Al hurt me, Al hurt me. Does BT seem like a problem to me? The dark area is surrounded by soldiers and aliens.
+NOSHADE_REPEAT : Certainly, he doesn't care. I don't need my services.
+NO_EGGS : Mom, you do not eat. Ria, I do not like it. I can't do it for free, so if you really like it ... okay, come back.
+LOST_SHADE : Her, I know you have a problem, there is a dark place hidden behind us.
+DEEPNEST : Yes, I see the suffering you are experiencing. Tombs can be found in the tombs of this empire.
+GREEN_PATH : Yes, I see your forgiveness. Pale green, shade.
+OUTSKIRTS : Yes, I understand your problem. The end of the world is, by far, a dark place.
+RESTING_GROUNDS : Yahoo listen to BT.
+FOG_CANYON : Yes I saw you go A dark place lost in the fog in a strange land.
+ROYAL_GARDENS : To ease the pain. Black spots spoil the beauty of the garden.

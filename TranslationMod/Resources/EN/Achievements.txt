@@ -1,0 +1,134 @@
+MAP_TITLE : Photographer
+COLLECTOR_TITLE : satisfied
+STEELSOUL_COMPLETION_TEXT : Download the game 100% and play in Steel Soul mode.
+COLOSSEUM_1_TEXT : Take the battle test
+MR_MUSHROOM_TITLE : hell
+MR_MUSHROOM_TEXT : Help me follow the mission
+WATCHER_TEXT : Phone Kenya Lurien
+AWAKENING_TITLE : Tecribe
+GRUBFRIEND_TEXT : This saves half of the errors found
+TRAITOR_LORD_TEXT : The Savior overcame them
+SOUL_MASTER_DEFEAT_TITLE : understand
+ENDING_A_TEXT : Get up in the evening and the bride.
+CHARMED_TITLE : farah ta
+VOID_TITLE : Maya
+HUNTER_1_TITLE : Weak places
+BEAST_TEXT : Your family is an animal
+ENDING_A_TITLE : Your words are sacred.
+DREAM_SOUL_MASTER_DEFEAT_TEXT : Good life
+MANTIS_LORDS_TITLE : with regard
+WHITE_DEFENDER2_TITLE : freundlich
+STEELSOUL_TEXT : Finish the game for Steel Soul.
+PANTHEON1_TEXT : The pantheon leaves the captain
+VOID_TEXT : Remember the arrow and put it in the hole.
+SOULFUL_TEXT : Sitting on three boats
+WORLDSOUL_TEXT : Remove all parts of the container.
+GREY_PRINCE_TITLE : Aloha Nui
+STAG_STATION_HALF_TEXT : Go to the Reindeer Center for Halloween.
+NIGHTMARE_GRIMM_TITLE : Make a quote
+HIDDEN_ACHIEVEMENT_TITLE : KÄIS
+PANTHEON2_TEXT : Fasting makes you a great artist.
+ACH_TITLE_TEST : This is the name of your test.
+COLOSSEUM_2_TEXT : The time of victory has passed
+PANTHEON4_TITLE : His wife is walking in the shadows
+METAMORPHOSIS_TEXT : Close all open positions.
+DREAM_SOUL_MASTER_DEFEAT_TITLE : late
+NEGLECT_TITLE : go out
+BANISHMENT_TITLE : You want peace
+MANTIS_LORDS_TEXT : employees are here
+STAG_STATION_ALL_TEXT : Open all the deer and you will see the deer
+DREAM_FK_TITLE : He writes
+NAILSMITH_SPARE_TEXT : Get a new address for the brackets
+DREAM_BROKEN_VESSEL_TITLE : lotus
+SOULFUL_TITLE : The moon
+WHITE_DEFENDER_TEXT : Defeat the white shield
+NIGHTMARE_GRIMM_TEXT : Conquer the king of dreams and end tradition
+ASCENSION_TITLE : Lake
+HIDDEN_ACHIEVEMENT : The idea is hidden.
+NAILSMITH_KILL_TITLE : Islands
+ATTUNEMENT_TEXT : 600 seats
+GRIMM_TITLE : The eyes are amazing
+WORLDSOUL_TITLE : The soul of the world
+WATCHER_TITLE : for two
+HORNET_1_TITLE : try the solution
+MOURNER_TITLE : Light
+BROKEN_VESSEL_TITLE : look to the left
+BLESSED_TEXT : Gather all the demons and bless Siloba.
+PROTECTED_TEXT : Buy 4 masks
+FK_DEFEAT_TEXT : Enter the wrong character
+PANTHEON3_TITLE : Call:
+SPEED_COMPLETION_TEXT : Complete the game 100% and finish the game in 20 hours
+HORNET_2_TITLE : Answer validation
+ZOTE_TEXT : Paul Anada Tochka
+HUNTER_2_TEXT : No way
+ENDING_C_TITLE : You can still dream.
+COMPLETION_TITLE : salvation
+ATTUNEMENT_TITLE : The world.
+DUNG_DEFENDER_TITLE : be sure
+PROTECTED_TITLE : Prep
+NAILSMITH_KILL_TEXT : Put on white nails
+COLOSSEUM_2_TITLE : Effect
+WHITE_DEFENDER_TITLE : Code
+ENDING_B_TEXT : All players are on the side of the bank
+STAG_STATION_HALF_TITLE : Contact person:
+MOURNER_TEXT : Gam was released from the charge
+ENDINGD_TITLE : Go there
+HUNTER_2_TITLE : A true hunter
+FK_DEFEAT_TITLE : Wrong way
+TEACHER_TEXT : Show
+HORNET_1_TEXT : Greenpeace Harnett Office
+ENCHANTED_TITLE : Stop it
+MASKED_TEXT : Take all parts of the mask with you.
+COMPLETIONGG_TEXT : Game 112 finished.
+SPEEDRUN_1_TITLE : Of the.
+PANTHEON2_TITLE : Motivation
+AWAKENING_TEXT : Collect 1800 gems and place your nails.
+COLOSSEUM_1_TITLE : I know
+BANISHMENT_TEXT : Remove makeup from Halon.
+SPEEDRUN_2_TEXT : Finish the game in 5 hours.
+COLLECTOR_TEXT : Meet the collectors
+PANTHEON3_TEXT : Tusi le pantheon of wisdom
+ASCENSION_TEXT : Enter 2400 Essence and listen for the next word.
+ENCHANTED_TEXT : Decorate with half the magic
+SOUL_MASTER_DEFEAT_TEXT : Mary, the Holy Spirit is God
+HUNTER_1_TEXT : Keep a diary of all the Halloween creatures in the hunter's diary.
+GRIMM_TEXT : The army commander defeats Graham
+QUIRREL_EPILOGUE_TITLE : SYN History
+SPEED_COMPLETION_TITLE : Quick access
+SPEEDRUN_1_TEXT : Finish the game in 10 hours
+BROKEN_VESSEL_TEXT : I'm in pain.
+ZOTE_TITLE : duel
+QUIRREL_EPILOGUE_TEXT : Boss or Raptor is not last minute.
+GREY_PRINCE2_TEXT : Finish with gray tip.
+MASKED_TITLE : To hide
+PANTHEON4_TEXT : The best knights of the Pantheon and.
+SPEEDRUN_2_TITLE : 2 fast amplifiers
+PANTHEON1_TITLE : To suck
+METAMORPHOSIS_TITLE : Days
+TEACHER_TITLE : Ko Mr.
+NEGLECT_TEXT : Stir in the nuts.
+DREAM_BROKEN_VESSEL_TEXT : The failure of a loved one is over
+DREAM_FK_TEXT : Defeat the humble hero.
+NAILSMITH_SPARE_TITLE : a successful marriage
+GRUBFRIEND_TITLE : Group of friends
+GREY_PRINCE_TEXT : Defeat all the Gray Kings.
+ENDINGD_TEXT : Rides and sits in the store during Halloween
+STAG_STATION_ALL_TITLE : everything
+GREY_PRINCE2_TITLE : Sandy, beautiful
+COMPLETION_TEXT : The game is 100% complete and the game is complete.
+ENDING_B_TITLE : red meeting
+BLESSED_TITLE : Private life
+COLOSSEUM_3_TEXT : Do not be deceived.
+BEAST_TITLE : ரிது
+ENDING_C_TEXT : Lights and lights on and off
+TRAITOR_LORD_TITLE : One year
+HORNET_2_TEXT : Sigra Harnett State Marine Corps
+ACH_TEXT_TEST : Here is a description of the experimental work.
+CHARMED_TEXT : Find your magic first
+WHITE_DEFENDER2_TEXT : In his dream, there is a white guard
+DUNG_DEFENDER_TEXT : LO Vryatite Sturtweskermer
+MAP_TEXT : Get a map of each area.
+COMPLETIONGG_TITLE : harbis franc
+STEELSOUL_TITLE : Iron Spirit
+COLOSSEUM_3_TITLE : from
+STEELSOUL_COMPLETION_TITLE : medium D

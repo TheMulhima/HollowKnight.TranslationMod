@@ -1,0 +1,24 @@
+STAG_CROSSROADS : I remember being in the van very early and in the crowd. this is what I did as a child. The passengers left and I was here too. Now you and I are the only ones who are unjust and want to get angry and go out together.
+STAG_ROYALGARDENS : Before I called, I forgot where this site was. It is rarely used against common insects and is a protection against other bee kingdoms. I'm sure the Queen knows.
+STAG_DEEPNEST : Boy... Where are we? I have never been to this site. This area is very dangerous. Take me to a safe place immediately.
+STAG_DREAM : I'm a little tired and my old leg hurts a lot. Nevertheless, the average person should be like that.
+STAG_FLOWER_WARNING : Flowers bring...beautiful but simple. I think it will happen when you come to me <page> if you want everything to go well. We recommend that you continue.
+STAG_TISO : I saw a man sitting on a chair. Something is wrong. But the car door is open for everyone. I was very impressed with my work.
+STAG_NEST : When I got home... I realized how difficult the time was. Wear it with pride and it will always be remembered by your family and friends wherever you go.
+STAG_TOWN : Oh, do you think it's over? This city and its <page> resort is packed with tourists. I can see it clearly now.
+STAG_TRAM : It's not just about security! Isn't this a terrible car or tram? I don't think it's a problem to put together these beautiful pictures. Crazy ... really crazy
+STAG_HOPE_1 : What is my son's old house? The deer came to tell the guests where to go. The last deer <page>, but we went back to the cage ... there was something in the air. Smell <page>> Are there any other deer on earth?
+STAG_REMEMBER_3 : Take it easy! Peacefully I was born and raised in the Tree, I can not come here. My job is travel and book. But if you want to see for yourself, I can take you here [page] No one allows it. But the cave is still open, we promise, we are here.
+STAG_REMEMBER_2 : Unfortunately, many deer have been found. I can go to many places in the country. Many roads and old roads have been forgotten. Sorry, I don't feel that way, but it's hard for me to remember right now. Yes i want that too
+STAG_HOPE_2 : yes, I'm sure the surviving nephew was out, but he didn't see him again. No it is not. However, the guests liked it. I can say you want something. I'll be your friend until you discover the old man's body.
+STAG_RUINS2 : Son, we're at the Royal Hotel! He was the leader of the temple and ordered the construction of roads and stations. So it hurt to see him.
+STAG_TRAVEL_1 : Guys, are you planning a trip?
+STAG_END_SPEAK : Do you want to go to a party? Climb into the field, catch him and come back soon.
+STAG_HIDDEN : To! Is this place hidden in the heat of the world? Wheat is different!
+STAG_MEET : Hey guys, I heard a train call a year ago. He hugged her and called. If you want to go deeper, say goodbye to the site. We deliver it everywhere.
+STAG_RESTINGGROUNDS : Sacrifices ... Tourists come here to give gifts to tourists. If not now, maybe the dead are making their own stories right now?
+STAG_REMEMBER_1 : Open with the Girl app, right? Thank you for the opportunity to return to Earth. <page> As I looked back, I felt my heart beat and my memories return. Keep the message open. And you trust me.
+STAG_EGG_INSPECT : I have no education at the moment.
+STAG_FUNGUS : Well, I’m glad. The Queen's office has returned. It is a beautiful tourist attraction that attracts tourists from all over the world. A real scientist who discovered this area.
+STAG_RUINS1 : I remember this message well. This journey is easy. Goods scattered everywhere. <page> But the other side gives a stick.
+STAG_GREENPATH : This place has changed a lot since I last saw it. Dense vegetables seem to be absorbed quickly.

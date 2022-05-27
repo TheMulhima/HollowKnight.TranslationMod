@@ -1,0 +1,150 @@
+WATERWAY_DOOR_KEY : Una forma sencilla de reír. ¿La clave es fácil de usar?
+GET_ACIDARMOUR_2 : No es difícil nadar en agua ácida.
+FOUNTAIN_PLAQUE_DESC : Mucho ruido en la tienda negra. Gracias por sacrificarte. Halloween es eterno.
+BATH_HOUSE_NOKEY : Atrévete con un simple toque.
+ABYSS_DOOR_NOBRAND : Este artículo ha sido eliminado.
+NOT_ENOUGH_GEO : los publico
+JIJI_OFFER : ¿La institución proporciona agua limpia?
+PROMPT_ATTACK : O
+SIT : refugio
+LEGEATER_SOMETHING : ¿Pagas por cosas buenas?
+CHALLENGE : cazy
+GET_SCREAM_2 : La brujería destruye el alma.
+PROMPT_FOCUS_EXPLAINER2 : Escucha al espíritu y sánalo.
+XUN_OFFER : ¿Aceptas el perdón?
+NAILMASTER_PAY : ¿Has terminado con el arte de las uñas?
+ACCEPT : akbar
+TRAM_DOOR_NOPASS : la puerta está abierta.
+GET_DREAMNAILUPGRADE_2 : Quitaesmalte para dormir. Además, el acceso puede ser seguro.
+GEO_RELIEVE : ¿La fuente Geo de persecución?
+FOUNTAIN_PLAQUE_TOP : memorizar
+GET_JOURNAL_1 : Abra el menú y vaya a la pestaña Redactar.
+GET_JOURNAL_2 : Derrota a los enemigos y haz que los jugadores más nuevos obtengan nuevos puntajes altos.
+GET_DSLASH_2 : Mantenga presionado el botón de caché para obtener una barra inclinada.
+ENTER : plátano
+TRADE : por favor
+EXIT : Borrar
+WATCH : Wiha
+GET_FIREBALL_2 : La brujería mata el alma. Quiere volver a derrotar a sus enemigos.
+RUINS_SHAMAN_1 : <br> <br>
+BUTTON_DESC_TAP : pero
+JINN_OFFER : ¿Le darás un huevo a tu vida?
+GET_FIREBALL_1 : Centrarse en el empoderamiento.
+GET_SUPERDASH_1 : Se puede instalar en el suelo o colgar en la pared para añadir energía.
+GET_SUPERDASH_2 : Camina hacia adelante y suelta el botón para volar por los aires.
+GET_DSLASH_1 : Para mostrar las uñas seleccionadas
+REST : Comodidad
+GET_WALLJUMP_1 : Me apoyé contra la pared para seguir saltando.
+GET_CYCLONE_2 : Haga clic en Siguiente o Siguiente para crear Slash Storm.
+GET_SHADOWDASH_1 : para sombra
+MAGE_DOOR_NOKEY : Está decorado con una puerta específica. Hay un lugar para las llaves.
+TRIAL_BOARD_BRONZE : Pruebas militares. Tow no es Geo y atractivo. ¿Ves cuando empieza la prueba?
+PROMPT_FOCUS_EXPLAINER1B : La gente colecciona mucho
+GET_ITEM_INTRO6 : Profesores
+GET_ITEM_INTRO7 : Acerca de
+GET_ITEM_INTRO4 : arcilla
+GET_ITEM_INTRO5 : Él
+GET_ITEM_INTRO2 : Linóleo
+GET_ITEM_INTRO3 : Mirze
+PROMPT_LOOK_DOWN : mira a tu tía
+GET_SHADOWDASH_2 : Usa el mapa para destruir al enemigo sin atacar.
+MENDER_DIARY : Querido periódico, la vida es mala. ¡Digo la señal correcta, el mensaje correcto, correcto! Entiendo bien todos estos eventos.<page>A veces parece que me gusta mezclar cebollas.<page>Edite sus libros de historia, <br> <br> ¡Próximamente! Esconder tesoros escondidos<page>¡Y Mander Barry I! Decidí responder.<page>Amo mi hogar y mi vida, pero ¿por qué no compartirlo con los demás?<page>Mi revista favorita, <br> ¡Uno fue y cambió mi logo favorito! ¡También ocupa la mayor parte del mercado!<page>Pero ya sabes, no estoy preocupado. ¡Gracias! Hay muchas formas emocionantes y desafiantes de hacer esto.Vi muchas cosas, así que no tuve miedo de estirarme demasiado.
+GET_ITEM_INTRO8 : pompón:
+CHARM_REMINDER : Lista de espera; Cuando esté en su silla, abra el menú CHARM.
+GET_QUAKE2_1 : La resistencia a la fatiga reduce el estrés.
+LOVE_DOOR_KEY : Cerrar una puerta simple: ¿usar una llave favorita?
+GET_KINGSBRAND_1 : Descubre el primer nuevo Halowest.
+TRAM_DOOR : ¿Está abierta la puerta del tranvía?
+BUTTON_DESC_RELEASE : puedo
+TRAM_CONSOLE : ¿Presionar el botón de luz?
+GET_QUAKE_1 : Presiona APROBADO y el rayo caerá al suelo.
+GET_QUAKE_2 : Las brujas destruyen la vida. Llena tu corazón de enemigos atacantes.
+BANKER_ACCOUNT : ¿Tengo que pagar para abrir una cuenta?
+PROMPT_SUPERDASH : persona:
+NAILSMITH_UPGRADE_1 : ¿Te lijaste las uñas con gel?
+NO : Neón
+NAILSMITH_UPGRADE_3 : ¿Puedes mezclar tus uñas con dos cachorros blancos?
+NAILSMITH_UPGRADE_2 : ¿Tienes archivos de geolocalizadores?
+NAILSMITH_UPGRADE_4 : ¿Recomendaría una tabla de madera o geotextil para fortalecer las uñas?
+GHOST_CHALLENGE : ¿No crees en el sueño de la guerra?
+BUTTON_DESC_HOLD_FOCUS : por favor, ayúdame
+JIJI_DOOR_KEY : ¿Está utilizando una llave de puerta de piedra simple con una llave simple?
+ASCEND : Itris
+ELDERBUG_FLOWER : ¿Ofrecer flores a la venta?
+TRAVEL : Гавлова
+CHARM_TUTE_SUB : Agregue el atractivo de un gran potencial
+GET_BLESSING_2 : Disfruta de la belleza y el amor.
+PROMPT_INTERACT : Galicia
+NAILMASTER_FREE : Sigue los consejos de manicura.
+CITY_GATE_NOKEY : Fotografías de novias atractivas. Ella tiene pechos.
+GET_BLESSING_1 : Es un regalo dado por una buena persona.
+GET_SCREAM_1 : Cuando el vapor se convierte en vapor.
+PROMPT_MAP_BLACKEGG : Se ha añadido el Templo de la Fruta Negra al mapa.
+TUK_RANCIDEGG : ¿Compras comida?
+GET_HUNTERMARK_2 : Este símbolo se encuentra en el libro de la esquina.
+TRIAL_BOARD_GOLD : Cómo volver a las luchas de la vida... Disfrútalo.
+BUTTON_DESC_WALLJUMP : Información
+PROMPT_DREAMNAIL : apne domi
+TOLLBOOTH_STAG : Nómina automática. ¿Quieres guardar fotos?
+BUTTON_DESC_HOLD : Nivel fuerte
+COLLECTOR_MAP : titular de la tarjeta
+LOVE_DOOR_NOKEY : Agarro la puerta y la almohada.
+GET_GSLASH_1 : Enfoca tu energía en tus uñas.
+GET_SCREAM2_2 : Derrota a tus enemigos.
+GET_SCREAM2_1 : me desperté llorando
+HUNTER_REWARD : ¿Estás listo para recibir el premio?
+NAME_BLESSING : Apoyo al parto
+TRIAL_UNLOCK_BRONZE : ¿Comencemos una prueba militar?
+PROMPT_DASH : Estructura
+GET_HUNTERMARK_1 : Un verdadero símbolo de la caza.
+GET_GSLASH_2 : Busque sin presionar el botón para crear una barra grande.
+TOLLBOOTH_LIFT : ¿Admite el dispositivo con Geo Register Charger?
+INSPECT : hola tonto
+GET_ITEM_INTRO1 : para recoger
+TRIAL_UNLOCK_GOLD : ¿Pasaste la prueba estúpida?
+BUTTON_DESC_PRESS : Hacer clic
+GET_MAP_1 : tipo de préstamo
+TRAM_CALL : Máquina de aguas abiertas <br> ¿Tienes coche?
+GET_MAP_3 : Vea los detalles de la tarjeta para Halloween en la sala de cartas.
+PROMPT_FOCUS_EXPLAINER1A : Reúne a tus enemigos.
+DESCEND : Abajo
+GET_COLLECTOR_MAP : Se sabe dónde se encuentran estas personas.
+BATH_HOUSE_KEY : Hay una cerradura simple en la puerta. ¿Qué clave pública estás usando?
+TOLLBOOTH_GATE : Vehículo especial con señalización lateral. ¿Admisión?
+CHARM_TUTE_TITLE : no tengo piscina
+GET_MAP_2 : Muestre un mapa que muestre su ubicación.
+BUTTON_DESC_NONE : 
+GET_DREAMNAIL_2 : Tanca la pantalla entre el son i la por.
+NO_MAP : No tienes mapas para este lugar.
+GET_KINGSBRAND_2 : La puerta del reino está abierta.
+WATERWAY_DOOR_NOKEY : La estructura básica es simple.
+SHOP : registro
+FOUNTAIN_PLAQUE_MAIN : Agujero de noche
+MAGE_DOOR_KEY : La puerta de acero inoxidable está hecha de acero inoxidable.
+GET_DREAMNAIL_1 : Relleno y pulido de uñas.
+LISTEN : New Jersey
+TRIAL_BOARD_SILVER : Master Trail Fight Live Lucha con un metal raro. <br> ¿Tiene alguna sugerencia para comenzar los experimentos?
+TRIAL_UNLOCK_SILVER : ¡Abrir con éxito las actualizaciones de texto!
+GET_ACIDARMOUR_1 : El ácido debe ser reemplazado.
+GET_QUAKE2_2 : Es un lugar aterrador. Diviértete más contra los enemigos.
+CITY_GATE_KEY : Fotos de los mejores corredores. Espectáculo de oficina. ¿Eres un perro de Pomerania?
+TOLLBOOTH_BENCH : Cosecha usando marcadores horizontales. geotexto?
+PROMPT_JUMP : Miedo
+PROMPT_FIREBALL : El espíritu de venganza
+GET_WALLJUMP_2 : Para ir al otro lado, tienes que empezar desde la pared.
+GET_DREAMGATE_1 : Mantenga presionado para crear una puerta de sueño usando la penalización de sueño.
+GET_CYCLONE_1 : Aplique presión a las uñas.
+GET_DREAMGATE_2 : Continúe usando el arco de sus sueños para llegar a la puerta de sus sueños.
+YES : Lex
+GET_DOUBLEJUMP_2 : Usa estas alas para derrotar a tus enemigos y encontrar nuevas rutas.
+PROMPT_FOCUS : estar atento a algo
+PROMPT_QUICKMAP : Vista rápida del mapa
+JIJI_DOOR_NOKEY : Puertas de piedra desmontables.
+  : Esta puerta está cerrada. <br> Increíble opción.
+TRAM_CALL_NOPASS : Un montón de radios.
+GET_DASH_2 : Deje su suéter en el piso o en el aire rápidamente.
+GET_DOUBLEJUMP_1 : frotar las hojas en el aire
+GET_FIREBALL2_1 : Dar libertad a los vientos fuertes.
+GET_FIREBALL2_2 : El espíritu de este hechizo es bueno y fuerte.
+GET_DREAMNAILUPGRADE_1 : Cortar la tapa con clavos.
+GET_DASH_1 : No

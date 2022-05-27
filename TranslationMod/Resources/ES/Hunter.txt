@@ -1,0 +1,10 @@
+COMPLETE_REPEAT : Eres un verdadero cazador, sabes cómo matar, así que me alegro de haberte dado un verdadero regalo...
+HUNTER_MEET : Circus r mini... en manos intrépidas. eres un pescador como yo<page>¿Complejidad interna, ingenio, atracción, comprensión?<page>Puedes ayudarme si me voy ahora. Esto es difícil de entender al principio. pero el Salvador entendió.Profundicemos en el suelo y matemos a tus enemigos. Asegúrate de ser un cazador maduro.
+HUNTER_ENTRIES_COMPLETED : De esta manera ves a todos los animales del planeta. ¡elegante! Sin embargo, aún queda mucho por hacer.Cazando a los animales hasta que sepas todas mis declaraciones! Solo entonces los veré y los recompensaré como un grupo de caza.
+HUNTER_CONVO_1 : ¡Precioso! Puedes convertirte en un puñado de animales, pero no has comenzado.¡Bienvenido al mundo y mata la vida que ves!
+HUNTER_CONVO_3 : ¡Ya veo! Amplíe su folleto. Solo quedan unos pocos animales raros.Descubre la base del mundo. Cierra tu blog. Acepta el premio que obtienes...
+GOT_MARK : Me has encontrado y te valoras. Salvador amigo, no tengo nada que ver contigo.
+HUNTER_CONVO_2 : Oh... Sé que es hermoso. Es una especie de caza. Esta famosa criatura cayó al costado del camino.Úsalo mañana, aprenderás mucho y verás lo detallado que es.
+HUNTER_COMPLETE : Tu revista... ¡Mírame!<page>¡Sí! ¡La revista Hunter está terminada!Si estás dispuesto a demostrar que eres un cazador y un asesino, estaré feliz por la recompensa que te mereces.
+GOT_REVISIT : Está involucrado en la caza. Dame una oportunidad Tengo un minuto para comenzar una nueva búsqueda.<page>Un verdadero cazador no tiene hogar ni reino, y no quiero construirlo.Hay obstáculos ahora, pero esto es solo el comienzo. Es tu parte, trabaja dentro de ti, te hace visible, sin rendirte.
+HUNTER_DREAM : ¿Me conoces mejor...? ¿Me cazarás? Espero que lo intentes.

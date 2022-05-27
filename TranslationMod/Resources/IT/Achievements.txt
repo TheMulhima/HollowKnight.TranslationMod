@@ -1,0 +1,134 @@
+MAP_TITLE : Artista
+COLLECTOR_TITLE : No mamma
+STEELSOUL_COMPLETION_TEXT : Completa il 100% del gioco e completa in modalità Iron Souls
+COLOSSEUM_1_TEXT : Il lavoro del marito sta per finire
+MR_MUSHROOM_TITLE : Per un po 'di tempo
+MR_MUSHROOM_TEXT : Il messaggio è di aiutarmi
+WATCHER_TEXT : continua lorian
+AWAKENING_TITLE : di
+GRUBFRIEND_TEXT : Salva metà della banda
+TRAITOR_LORD_TEXT : Incontra gli dei pericolosi
+SOUL_MASTER_DEFEAT_TITLE : Riferimenti:
+ENDING_A_TEXT : battere e tessere la notte
+CHARMED_TITLE : Processi
+VOID_TITLE : MBA
+HUNTER_1_TITLE : Profondo inverno
+BEAST_TEXT : Trucco per l'esportazione di animali
+ENDING_A_TITLE : Libero
+DREAM_SOUL_MASTER_DEFEAT_TEXT : Non sei crudele
+MANTIS_LORDS_TITLE : Giornata della Chiesa
+WHITE_DEFENDER2_TITLE : Altro
+STEELSOUL_TEXT : Fine del gioco come anima d'acciaio.
+PANTHEON1_TEXT : Campione per la squadra del Bikini Pantheon
+VOID_TEXT : Ricorda il passato e rimani connesso
+SOULFUL_TEXT : A Dio piacendo
+WORLDSOUL_TEXT : Compila un altro modulo.
+GREY_PRINCE_TITLE : L'amore ti dà fastidio
+STAG_STATION_HALF_TEXT : A metà strada dalla stazione del tesoro dei cervi.
+NIGHTMARE_GRIMM_TITLE : vermi
+HIDDEN_ACHIEVEMENT_TITLE : Per la maggior parte
+PANTHEON2_TEXT : dipinto nel tempio dell'artista
+ACH_TITLE_TEST : in questo problema
+COLOSSEUM_2_TEXT : Vinci la prova.
+PANTHEON4_TITLE : La tua anima è triste.
+METAMORPHOSIS_TEXT : Invia tutti i parassiti trovati
+DREAM_SOUL_MASTER_DEFEAT_TITLE : Morte di un'altra parte
+NEGLECT_TITLE : Plim
+BANISHMENT_TITLE : Titolo Ki bit
+MANTIS_LORDS_TEXT : Il principio della lebbra
+STAG_STATION_ALL_TEXT : Apri tutte le aree al movimento per l'Olocausto e trova un incontro speciale
+DREAM_FK_TITLE : coronata
+NAILSMITH_SPARE_TEXT : Trova un nuovo telefono
+DREAM_BROKEN_VESSEL_TITLE : daler
+SOULFUL_TITLE : cielo
+WHITE_DEFENDER_TEXT : Rimuovi la testa bianca.
+NIGHTMARE_GRIMM_TEXT : Colpisci il re della notte e completa l'ordine
+ASCENSION_TITLE : una parola
+HIDDEN_ACHIEVEMENT : Questo è un successo segreto.
+NAILSMITH_KILL_TITLE : piovere
+ATTUNEMENT_TEXT : Tempo numero 600.
+GRIMM_TITLE : grande spettacolo
+WORLDSOUL_TITLE : Lo spirito del mondo
+WATCHER_TITLE : Controllato
+HORNET_1_TITLE : Prova facoltativa
+MOURNER_TITLE : Congratulazioni
+BROKEN_VESSEL_TITLE : Gard
+BLESSED_TEXT : Accetta tutti i mantra e accetta le preghiere slovene
+PROTECTED_TEXT : Rete
+FK_DEFEAT_TEXT : Rompi i soldati intelligenti!
+PANTHEON3_TITLE : Minuti
+SPEED_COMPLETION_TEXT : Assicurati di completare il gioco al 100% ed entro 20 ore
+HORNET_2_TITLE : Tribunale.
+ZOTE_TEXT : Vedi il Colosseo delle Cascate
+HUNTER_2_TEXT : Ottieni un codice cacciatore
+ENDING_C_TITLE : Lascia cadere l'oro
+COMPLETION_TITLE : Vieni adesso
+ATTUNEMENT_TITLE : Solo
+DUNG_DEFENDER_TITLE : ACCOUNT
+PROTECTED_TITLE : Difesa
+NAILSMITH_KILL_TEXT : Pulisci il metallo con un chiodo pulito.
+COLOSSEUM_2_TITLE : Visa
+WHITE_DEFENDER_TITLE : Nessun problema
+ENDING_B_TEXT : Prendi il corno e conquista Paradise Nights.
+STAG_STATION_HALF_TITLE : Relazioni
+MOURNER_TEXT : Ha dato pace alla tomba
+ENDINGD_TITLE : Attenzione a non esagerare
+HUNTER_2_TITLE : A proposito di intermediari
+FK_DEFEAT_TITLE : dire
+TEACHER_TEXT : Il professor Manoman è morto.
+HORNET_1_TEXT : Uccidi il rinoceronte nel modo verde
+ENCHANTED_TITLE : tavolo
+MASKED_TEXT : Elimina tutti gli errori
+COMPLETIONGG_TEXT : Termina il gioco con una velocità del 112%.
+SPEEDRUN_1_TITLE : Equazione 1
+PANTHEON2_TITLE : .Ako
+AWAKENING_TEXT : Raccogli 1800 oggetti e chiodi utili per risvegliare il tuo sogno.
+COLOSSEUM_1_TITLE : ginseng
+BANISHMENT_TEXT : Grimmo Grimmo Halloween
+SPEEDRUN_2_TEXT : Il gioco è terminato entro 5 ore.
+COLLECTOR_TEXT : Con la vendemmia
+PANTHEON3_TEXT : Riempi i letti con imbottitura
+ASCENSION_TEXT : Raccogli 2400 contenuti e ascolta gli ultimi commenti
+ENCHANTED_TEXT : Trova la magia a metà
+SOUL_MASTER_DEFEAT_TEXT : battere il gallo
+HUNTER_1_TEXT : Scrivi tutte le sante creature nel diario di Cristo
+GRIMM_TEXT : Borace Tipu
+QUIRREL_EPILOGUE_TITLE : Su
+SPEED_COMPLETION_TITLE : troppo veloce
+SPEEDRUN_1_TEXT : Finisci il gioco in 10 ore
+BROKEN_VESSEL_TEXT : hai perso la tua barca
+ZOTE_TITLE : Competitivo
+QUIRREL_EPILOGUE_TEXT : L'ultima volta con Raptor
+GREY_PRINCE2_TEXT : Entrando nella casa del Presidente della Cina
+MASKED_TITLE : Maschera
+PANTHEON4_TEXT : I vecchi film del Pantheon di Chicago
+SPEEDRUN_2_TITLE : Due velocità di camminata
+PANTHEON1_TITLE : Nel giovane
+METAMORPHOSIS_TITLE : Per ruotare
+TEACHER_TITLE : Insegnante:
+NEGLECT_TEXT : Tutta l'attenzione è chiara
+DREAM_BROKEN_VESSEL_TEXT : Prendi la terra che vuoi
+DREAM_FK_TEXT : Ottieni il titolo
+NAILSMITH_SPARE_TITLE : Questo libro
+GRUBFRIEND_TITLE : amici e pranzo
+GREY_PRINCE_TEXT : Sconfiggi il piccolo principe peloso
+ENDINGD_TEXT : Vai al Pantheon Hoovest e alza la sedia.
+STAG_STATION_ALL_TITLE : C'è speranza
+GREY_PRINCE2_TITLE : La bellezza è egoismo.
+COMPLETION_TEXT : Gioco completo 100%
+ENDING_B_TITLE : I fratelli vengono digitati
+BLESSED_TITLE : anzi
+COLOSSEUM_3_TEXT : Sei sordo
+BEAST_TITLE : Vero
+ENDING_C_TEXT : Ottieni radiazioni e goditi la luce.
+TRAITOR_LORD_TITLE : Giochi
+HORNET_2_TEXT : Besiegt d'Hornets am Edge Kingdom
+ACH_TEXT_TEST : Di seguito i dettagli del test
+CHARMED_TEXT : inizia a lavorare con la tua magia
+WHITE_DEFENDER2_TEXT : Mettiti in un sogno bianco
+DUNG_DEFENDER_TEXT : Violazione delle regole di sicurezza
+MAP_TEXT : Trova le mappe di ogni posizione.
+COMPLETIONGG_TITLE : o completato
+STEELSOUL_TITLE : tacco in acciaio
+COLOSSEUM_3_TITLE : Kathy
+STEELSOUL_COMPLETION_TITLE : Ogni capitolo

@@ -1,0 +1,49 @@
+DREAM_CITY : Sveiki, hatred is not dirty.
+QUIRREL_GREENPATH_1 : Do not think that old and dirty roads lead to good and beautiful places! The temple is another form of worship, but the idols are long forgotten. Twice.
+QUIRREL_QUEENSTATION_02 : Can you think of another place? A group of insects crawling on the ground, pointing at a deer; The base is full of activity and life, now that this problem is growing, we feel that we are one. I think facilitation is important.
+QUIRREL_GREENPATH_3 : Your nails are fine, which is a sign of aging, but I hope the world is facing an immense problem.
+DREAM_EGGTEMPLE : How do you feel ... very close, necessary, but disgusting.
+QUIRREL_TEACHER_2 : Close your eyes Instead, he chose to adjust. He seems to do what he does, and we appreciate him.
+DREAM_QUEENSTATION : Great hearts worship the holy God. What are you sacrificing?
+QUIRREL_TEMPLE_2 : It works
+QUIRREL_TEMPLE_3 : Use zebrafish
+QUIRREL_TEMPLE_1 : I feel like I’ve been gone for a long time. There are many stories full of miracles and wickedness. I haven’t heard I will see it with my own eyes I want to make a decision! Living in a Lifeless World All is Well The Sad World Havana Candel Why?
+QUIRREL_MANTIS_01 : Get it! It’s like you’ve gathered your family in this wonderful city. Don't trust others ... Don't believe. It is said that meteopathy affects the brains of small animals. Although the murders are wise and just. Your nails can’t stand this famous family. There is a problem. If you are looking for an old box, it will be easier to keep it.
+QUIRREL_TEMPLE_5 : Have you been to that town? What a mysterious night. <page> I think so. Who can take advantage of this opportunity for the first time?
+QUIRREL_TEACHER_1A : Did you call I realized that we are not alone. Although the memory is mostly empty, I remember this part. In this room, the master hides his knowledge of the domain and sits in the last place.
+DREAM_SLUGSHRINE : This pool is sleeping ... inner love ... right? What do I think about this?
+QUIRREL_GREENPATH_2 : I am a stranger there. It is like a sack that encloses with a drawstring.
+DREAM_SPA : This person needs to find a place in the center of the nest. The idea of ​​seeing him on the freeway is unclear.
+DREAM_ARCHIVE_ENTRANCE : ... who brought you here?
+QUIRREL_MEET_TEMPLE : Hello, I am glad to meet another tourist in an unforgettable place. You are short and kind.
+QUIRREL_SPA : Hi, news! It’s nice to find a cave with such warm coziness. It's like a city of war. Its inhabitants never ruled over Halloween.
+QUIRREL_QUEENSTATION_01 : It's not true. As the fog lifted, I waited patiently for the deer. Only a few sacred centimeters seemed beautiful among the wooden giants. The environment is ideal for a short break.
+QUIRREL_NODREAMNAIL : Listen, my thoughts are still closed to you. Second, strong security remains the same. Even when I am not traveling, such things can be used to commit crimes. I heard that the king was asleep. You understand me
+QUIRREL_GREENPATH_REPEAT : Halloween is perfect for lovers. Very important and interesting. This is the time when you will rise from the dead.
+QUIRREL_TEACHER_1C : He asked me to remove that protection. All with your help.
+QUIRREL_TEACHER_1B : The criminal is taking to the rescue of Halloween, but is still fighting.
+QUIRREL_RUINS_4 : Isn't this a great place to relax? I like the sound of water in a glass.
+QUIRREL_TEMPLE_6 : idea-
+QUIRREL_RUINS_1 : There is a great city ahead of us, my friend. This is a great place to hide the answers to many mysteries. I like this page too. I always hesitated when he stood at the front. Is this my fear? Is it weird or something I don't like?
+QUIRREL_RUINS_2 : It was as if the city had become a huge cave with rain from the cracks above. There should be plenty of water. I think we can save the length of the cave roof. Before we get out of this situation, let's see where the water comes from. Very beautiful nature!
+QUIRREL_RUINS_3 : I go to the water and the policeman holds the gun. I'm with them, folks. Do not forget his teachings. This city represents great enemies.
+QUIRREL_FOGCANYON_B : I have to call ... Do you have the courage to come in?
+QUIRREL_FOGCANYON_A : Isn't this king full? Sour Lake Building <page> I can't see ... Can you confirm this? I have nothing more to say but there are things that have disappeared from my mind.
+QUIRREL_TEMPLE_4 : There are no old nails in this tower. But that's not a problem! Look here. Many come before us, many find that in the end it is bad, better than you and me. <page> I think they don't believe it. Yes, his friends helped him. Own property. This is correct. The dead should not be carried away.
+QUIRREL_MINES_4 : This...
+QUIRREL_MANTIS_REPEAT : The road took me to a big city. If you are looking for a manicure, we will soon see how it works.
+QUIRREL_MINES_1 : Hi, lots of pictures, huh? No wonder you are lost in this sacred sea. I think it will be more difficult if it is not done quickly.
+QUIRREL_MINES_2 : Is it hard to see the mines below? Am I wondering where my knowledge is?
+QUIRREL_MINES_3 : I see the light of this heavy city from this wonderful corner. I don't think his people understand the world around him better.
+DREAM_ARCHIVE_INTERIOR : Little animals, imagine the future of this kingdom!
+QUIRREL_TEACHER_3 : The soul dies, the seal is broken. Let him breathe. As soon as I lost the cabbage, I realized my age.
+QUIRREL_MEET_TEMPLE_C : A big stone hit the body of the former king, blind ... hot? This is definitely one of my favorites. Open <page>? All the papers are amazing.
+QUIRREL_MEET_TEMPLE_B : I want to know. I suffer in an unknown place. There are many good mysteries in this ancient land, among the most mysterious mysteries before us.
+DREAM_MANTIS_VILLAGE : What I said I don't remember but consider myself an artist ...
+QUIRREL_EPILOGUE_B : ... Hindrik ...
+DREAM_LAKE : I've lived my whole life too short to remember ... Maybe I should be grateful to you? All accidents are eliminated. I just saw a miracle ...
+DREAM_MINES : ... wind wonderful clothes. Some find firewood.
+QUIRREL_SPA_REPEAT : Why not save some time? This water is good for weak legs.
+QUIRREL_TEACHER_HESITATE : The question is why? Thank you very much, but I agree with you. a brave friend
+QUIRREL_QUEENSTATION_REPEAT : See you in a few hours?
+QUIRREL_EPILOGUE_A : Hello my little friend I am finally safe here. I was under the impression of being able to see this world for the second time and experience its beauty, and the service also gave me the first experience. Halloween is beautiful. Okay, but of all the great things, you have never seen anything more beautiful than this. There was silence behind my disk. I was very happy I was very happy

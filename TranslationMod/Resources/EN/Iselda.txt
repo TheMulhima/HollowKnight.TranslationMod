@@ -1,0 +1,10 @@
+ISELDA_MEET : Do you want to buy a ticket? You'll have to deal with my husband, but okay. And little. Every now and then he comes back to the shop to deliver new cards, but I expect to spend most of my time here. He doesn't like to sell. Let's see what we sell.
+ISELDA_REPEAT : Sometimes my husband likes prostitution, but sometimes it's scary.
+ISELDA_DREAM : I raised my gun and rejoiced at Connie's anger. Both legs are beautiful ... long ...
+ISELDA_NEW_MAP : ISELDA_NEV_MAP
+ISELDA_GREET1 : In the past, we have chosen this troubled city. I think the divorce is over and my husband is happy. The image looks correct. But who will buy it?
+ISELDA_CORNIFER_HOME : Carnifer is home, but look, she's tired. He continued with this and eventually he got stuck and burst. I thought he was wet, but I could not sleep when he was with me. Of course I also like bees and insects. Glad to see you like these maps. Carney invited me to his development program and I declined. Do you get paid later?
+ISELDA_NOSTOCK : After further treatment? Unfortunately, they have all been removed for sale. I like corn, but I wanted to know what Geo is used for.
+ISELDA_GHOSTPIN : Karen told me about government cemeteries and temples. I made a new needle to show them. It was very difficult and I tried to explain. It’s a good result, so I think it’s worth it.
+ISELDA_TRAMPIN : Does it look like a wheelchair for Halloween? I don’t think it’s helpful to read old books that Connie kept repeating. This is especially important if you want to elaborate on your structure in more detail.
+ISELDA_DREAMTREE : My husband talked about the special roots growing in the state and suggested making a variety. I do not mind. Who wants to buy first?

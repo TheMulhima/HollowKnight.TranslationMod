@@ -1,0 +1,134 @@
+MAP_TITLE : Emprendedores
+COLLECTOR_TITLE : idea de facción
+STEELSOUL_COMPLETION_TEXT : Termina el juego al 100% y ejecuta el juego en modo civil.
+COLOSSEUM_1_TEXT : juego guerrero terminado
+MR_MUSHROOM_TITLE : ha llegado el año
+MR_MUSHROOM_TEXT : Ayuda al Heraldo a continuar.
+WATCHER_TEXT : Guardia de seguridad sospechoso de Lorraine
+AWAKENING_TITLE : Dirección
+GRUBFRIEND_TEXT : la mitad de los presos
+TRAITOR_LORD_TEXT : creyente de la motivación
+SOUL_MASTER_DEFEAT_TITLE : Esto es una locura.
+ENDING_A_TEXT : Se quitó el sombrero.
+CHARMED_TITLE : no estás involucrado
+VOID_TITLE : un hipócrita
+HUNTER_1_TITLE : y cazadores
+BEAST_TEXT : Todos los animales fueron asesinados.
+ENDING_A_TITLE : Por la noche
+DREAM_SOUL_MASTER_DEFEAT_TEXT : piscina brutalmente exitosa.
+MANTIS_LORDS_TITLE : respeto
+WHITE_DEFENDER2_TITLE : amistad
+STEELSOUL_TEXT : Termina el juego con el modo Suck Souls
+PANTHEON1_TEXT : dominar el buen panteón
+VOID_TEXT : Recuerda los viejos tiempos cuando te acercabas a un pozo mágico
+SOULFUL_TEXT : y 3 letras
+WORLDSOUL_TEXT : Levantar todas las partes del barco.
+GREY_PRINCE_TITLE : nigra amo
+STAG_STATION_HALF_TEXT : Abierto en medio del cielo en Halloween
+NIGHTMARE_GRIMM_TITLE : evento
+HIDDEN_ACHIEVEMENT_TITLE : Bebé precioso
+PANTHEON2_TEXT : esta lleno de voces
+ACH_TITLE_TEST : jen la nomo de la testo
+COLOSSEUM_2_TEXT : Haz la prueba para ganar.
+PANTHEON4_TITLE : Rompecabezas Elima
+METAMORPHOSIS_TEXT : Defiende todos los huecos en cautiverio
+DREAM_SOUL_MASTER_DEFEAT_TITLE : Sequía:
+NEGLECT_TITLE : ignoralo
+BANISHMENT_TITLE : sacar
+MANTIS_LORDS_TEXT : Manti y los hombres sufren
+STAG_STATION_ALL_TEXT : Desbloquea todos los diamantes para Halloween y encuentra la cueva de los ciervos.
+DREAM_FK_TITLE : vitalidad
+NAILSMITH_SPARE_TEXT : Deje que Neuler descubra nuevos desafíos
+DREAM_BROKEN_VESSEL_TITLE : Valor
+SOULFUL_TITLE : animales
+WHITE_DEFENDER_TEXT : golpea la pared blanca
+NIGHTMARE_GRIMM_TEXT : Derrota al rey de los sueños y perfecciona tu tradición.
+ASCENSION_TITLE : ASL
+HIDDEN_ACHIEVEMENT : Este éxito está escondido
+NAILSMITH_KILL_TITLE : Llantos
+ATTUNEMENT_TEXT : Descargar 600 rompecabezas
+GRIMM_TITLE : Buen rendimiento
+WORLDSOUL_TITLE : El mundo es un alma.
+WATCHER_TITLE : Por autoridad:
+HORNET_1_TITLE : Darle una oportunidad
+MOURNER_TITLE : juez manus
+BROKEN_VESSEL_TITLE : Precio, precio, precio
+BLESSED_TEXT : Encuentra todos los recursos y oraciones en Sarobor.
+PROTECTED_TEXT : y 4°C
+FK_DEFEAT_TEXT : Derrota al caballero malvado.
+PANTHEON3_TITLE : Sabemos lo que estás pensando
+SPEED_COMPLETION_TEXT : Completa el juego al 100% y complétalo en 20 horas
+HORNET_2_TITLE : Mira el problema emocional
+ZOTE_TEXT : Zodek acusa a Kolosan de sudar
+HUNTER_2_TEXT : Encuentra el ícono del Cazador.
+ENDING_C_TITLE : Otro sueño
+COMPLETION_TITLE : Mundial
+ATTUNEMENT_TITLE : debilidad
+DUNG_DEFENDER_TITLE : Por favor
+PROTECTED_TITLE : Tu juego
+NAILSMITH_KILL_TEXT : Usa tus uñas para quitar la uña.
+COLOSSEUM_2_TITLE : bandera
+WHITE_DEFENDER_TITLE : Es un milagro.
+ENDING_B_TEXT : Maldito soldado con cuernos.
+STAG_STATION_HALF_TITLE : cuna
+MOURNER_TEXT : Trae paz y tristeza.
+ENDINGD_TITLE : cuídate
+HUNTER_2_TITLE : As camas
+FK_DEFEAT_TITLE : esto es una mentira
+TEACHER_TEXT : Va Versula Monmon
+HORNET_1_TEXT : Diggy verde - Bray Harnett
+ENCHANTED_TITLE : en casa.
+MASKED_TEXT : Encontre todas as partículas de verme.
+COMPLETIONGG_TEXT : 112% de descuento en el juego y dejar de jugar.
+SPEEDRUN_1_TITLE : Pero .1. Señoras
+PANTHEON2_TITLE : mongo
+AWAKENING_TEXT : Colecciona 1800 juegos de azar y haz tus propias garras.
+COLOSSEUM_1_TITLE : Ejército
+BANISHMENT_TEXT : Destruye las verduras de este saludable grupo.
+SPEEDRUN_2_TEXT : Termina el juego en 5 horas.
+COLLECTOR_TEXT : Coleccionistas orgullosos
+PANTHEON3_TEXT : Se completó el templo de Xi'an.
+ASCENSION_TEXT : Escribe 2400 frases y escucha el último mensaje de los alumnos
+ENCHANTED_TEXT : Consigue la mitad de la belleza de Halloween
+SOUL_MASTER_DEFEAT_TEXT : insectos cruzados
+HUNTER_1_TEXT : Mira los mejores animales en Hunting Magazine
+GRIMM_TEXT : Criticar a los líderes del poderoso ejército.
+QUIRREL_EPILOGUE_TITLE : لتحديد
+SPEED_COMPLETION_TITLE : Funciona bien
+SPEEDRUN_1_TEXT : Completa el juego en menos de 10 horas.
+BROKEN_VESSEL_TEXT : Dale una olla rota.
+ZOTE_TITLE : el te odia
+QUIRREL_EPILOGUE_TEXT : Recientemente usé a Quirrell. pasó tiempo con
+GREY_PRINCE2_TEXT : Sal de la Iglesia Grey
+MASKED_TITLE : dar
+PANTHEON4_TEXT : Jerónimo
+SPEEDRUN_2_TITLE : SL2
+PANTHEON1_TITLE : umma
+METAMORPHOSIS_TITLE : a los perezosos
+TEACHER_TITLE : Profesor
+NEGLECT_TEXT : Anandi también
+DREAM_BROKEN_VESSEL_TEXT : Deshazte de los familiares perdidos.
+DREAM_FK_TEXT : Conquista al guerrero derrotado
+NAILSMITH_SPARE_TITLE : buen chico
+GRUBFRIEND_TITLE : La línea
+GREY_PRINCE_TEXT : De la reina del oro al gris
+ENDINGD_TEXT : Halon subió al Panteón y se sentó
+STAG_STATION_ALL_TITLE : espere por favor
+GREY_PRINCE2_TITLE : tanto hermoso como feo
+COMPLETION_TEXT : 100% ingresa al juego y finaliza el juego.
+ENDING_B_TITLE : Holmel
+BLESSED_TITLE : Adala
+COLOSSEUM_3_TEXT : Toma un examen loco
+BEAST_TITLE : Monstruos
+ENDING_C_TEXT : Quita el resplandor y enciende las luces.
+TRAITOR_LORD_TITLE : Clic
+HORNET_2_TEXT : IHornet pasó por Rando de la Regno
+ACH_TEXT_TEST : Esta es la definición de una prueba virtual.
+CHARMED_TEXT : Haz tu primer shabkuner.
+WHITE_DEFENDER2_TEXT : En el sueño, apareció un hombre blanco.
+DUNG_DEFENDER_TEXT : ambos cortados
+MAP_TEXT : activar el mapa de cada región
+COMPLETIONGG_TITLE : Fin de la conexión
+STEELSOUL_TITLE : El alma
+COLOSSEUM_3_TITLE : Barba
+STEELSOUL_COMPLETION_TITLE : enviado al jurado

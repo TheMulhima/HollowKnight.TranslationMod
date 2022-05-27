@@ -1,0 +1,13 @@
+GAME_TITLE : as well as understanding
+PRE_MENU_QUOTE : Find a way to get to a place where everyone can feel comfortable.
+GAME_DISPLAY_TITLE : 
+SAVE_WARNING : The game stores data elsewhere. <br> If this icon appears, uninstall the software.
+CONTROL_PROMPT : It is recommended to use a control device.
+VERSION_NUMBER : ㅡㅡ
+PROLOGUE_EXCERPT_AUTHOR : By "Fiery Elegy" Man on the Moon
+PROLOGUE_EXCERPT_02 : Because no one knows what an empty life is.
+PROLOGUE_EXCERPT_03 : The nature of the Palestinian state has changed since my independence.
+PRE_MENU_QUOTE_AUTHOR : - Mo conifers
+PROLOGUE_EXCERPT_01 : In the forest behind you, your name resounds with reverence and sadness.
+SNEAK_PEEK : This short-lived power is not the ultimate energy, but comes from the imperfect Havoc series.
+PROLOGUE_EXCERPT_04 : Even insects.

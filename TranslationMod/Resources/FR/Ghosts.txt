@@ -1,0 +1,83 @@
+HU_INSPECT : Nous nous souvenons du passé.
+CHAGAX_TALK : J'aide les autres. Il est tombé malade et est mort avec moi... Qui s'en soucie ? sLa victoire sur la mort est de courte durée.
+HU_DEFEAT : Comprenez mes sentiments. Vous dormez encore.<page>Je me souviens que. Personne arrogante… Grand ? Je me souviens de ses yeux brillants. que puis-je faire pour vous?<page>Quand les gens se fâchent, ils perdent du temps. Oui, Il m'a viré.<page>C'est vrai.<page>aucun problème ...<page>Voulez-vous me tuer?... cette
+MOLTEN_TALK : Ne vous inquiétez pas si vous faites une erreur. Au fur et à mesure que mon corps ralentit et qu'il change, mes nerfs aussi.
+KCIN_REPEAT : Au final, la recherche du bien est futile. Le mieux est de trouver quelqu'un d'autre.
+HEX_REPEAT : Dites aux gens que vous n'êtes pas ce à quoi je m'attendais.
+XERO_REPEAT : Voulez-vous toujours être tranquille? Avez-vous couru pour que tout le monde ne soit pas tué ou avez-vous pris les armes ?
+GROHAC_TALK : Nous nous souvenons toujours de nos erreurs. Vous ne pouvez pas vous tromper, mais montrez-moi où vous allez.
+GALIEN_REPEAT : Alors ... prenez-le? Explorons notre potentiel d'intérêts.
+KARINA_TALK : Aimez-vous ce que j'aime? Vous voyez, je suis toujours debout, même si je n'ai jamais vu quelqu'un comme moi.
+THISTLEWIND_TALK : à cause de son amour<page>J'ai travaillé dur et je suis allé loin, mais je pense que vous ferez mieux que moi.<page>Il avait récemment cessé de regarder le chêne. Et maintenant je me sens bien. Même si vous pensez que vous réussirez.Et tout le meilleur! c'est un monde merveilleux
+WAYNER_TALK : Écoute, c'est génial ! Allez-vous sur terre ? Je me suis inscrit, mais je ne m'en souviens plus depuis longtemps.
+ALADAR_INSPECT : La fierté et l'honneur sont là.
+MUMCAT_TALK : Princesse! La reine arrive. Je pense que ça va exploser, alors dépêchez-vous !<page>Je garde ce jardin sacré intact. Je l'ai rencontré cette fois et la princesse sera bientôt de retour, dis-moi de voler.C'est bizarre maintenant. On promet.
+PERPETOS_TALK : Vous aimez nos vacances ? Pendant que vous y êtes, je vous suggère de très bien communiquer avec notre planète et nos maladies.
+GARRO_REPEAT : Il a un héros fort.
+GRASSHOPPER_TALK : L'endroit n'est-il pas magnifique ? Plus de recherche est nécessaire à ce sujet. Même quand on est d'accord sur où on va, on y va.Regardez notre histoire La lutte contre ces problèmes doit cesser.
+100NAIL_TALK : Aimez-vous mon nail art que j'ai ramené moins de trois d'un conte de fées?Chasse! C'était clair pour tout le monde, pour le dire brièvement.
+MILLY_REPEAT : Vendez les gâteaux ! J'achète tout et je rentre chez moi.
+MAGNUS_TALK : Tous les problèmes de poney dans le monde peuvent être résolus avec de l'énergie. Je comprends des mots simples.Si cela ne vous dérange pas, je veux que vous partiez.
+ATRA_REPEAT : Mon visage ne te soulève pas. J'aime être ici
+GALIEN_DEFEAT : Je n'y crois plus... J'étais perdu. Succès avec ce...<page>Pourquoi suis-je encore fort ? Tu n'as pas dit mon héros quand tu as vu notre roi.<page>Oui, il vous a envoyé ici pour me voir, n'est-ce pas ? Je sais que le courage ne s'oublie jamais.<page>Vous êtes maintenant prêt à vous joindre. Nous tous, nous partons d'ici... un ...
+GALIEN_INSPECT : Le corps du soldat a été découpé.
+NOEYES_REPEAT : Des amis, des monstres viennent à nous dans le noir... Peux-tu chanter pour moi ?
+HU_REPEAT : Rêve de gloire, mon garçon. Reviens, ne reviens pas.
+PERPETOS_REPEAT : Peu d'amour. Héros de l'album, mais je n'ai pas le courage d'agir contre toi.
+GRAVEDIGGER_REPEAT : Vous êtes un peu confus. Allez vers votre objectif.Je n'ai pas à me plaindre. Votre travail consiste à faire des affaires avec des gens comme moi.
+MARKOTH_TALK : Tu es mort depuis longtemps depuis la fin du monde.<page>J'ai aussi mille histoires dans ta bouche. Votre fierté, votre luxure, votre désespoir ... laissez-moi vous voir plus tard.Corail avec ses mains.
+MARISSA_REPEAT : Je suis heureux d'avoir conquis le cœur du public. Moi aussi
+NOEYES_INSPECT : Coupe haute.
+HIVEQUEEN_TALK : Un petit appartement reconnaît votre marque.<page>Si vous voulez changer votre vie passée, sachez que je ne suis pas la reine que vous recherchez.<page>Les animaux de couleur sont un problème dans la nature.Ce nid fait partie d'Halloween, mais nous n'avons pas à nous en soucier.
+XERO_DEFEAT : Naona prit les armes et condamna les rebelles contre le roi.<page>Ne me traite pas de rebelle. Il m'a traité de fouJe sais que tu ne peux pas courir, je sais où tu vas.
+MUMCAT_DEFEAT : S'il vous plaît invité ... vous êtes meilleur que moi ...<page>Étonnamment, j'ai attendu longtemps et j'ai eu beaucoup de querelles avec des étrangers.<page>Fatigué fatigué! La fille est arrivée tôt et je veux dormir.<page>Levez-vous lorsque les bookmakers vous rencontrent. Peut-être qu'ils ont tous les deux appris à la reine à voler, incroyable !C'est amusant?
+BOSS_TALK : Je pars. Je varierai un peu, mais votre don est le même.
+MAGNUS_REPEAT : N'oubliez pas de faire de petites erreurs pour surmonter la peur. Résolvez vos problèmes; Détruisez vos ennemis.
+REVEK_TALK : J'ai un ver dans la main sur cette plante. Soyez poli, ne bougez pas et ne vous brossez pas les ongles et discutez avec moi.
+ATRA_TALK : Tant que vous êtes béni, n'ayez pas peur. Mais ici la saison tranquille se termine.
+MUMCAT_REPEAT : Vous n'êtes pas connu pour être ensemble? nous pouvons jouer ensemble
+XERO_TALK : S'il vous plaît, faites-moi savoir. Maudits sont ceux qui veulent fuir le pays. Il vaut mieux faire une pause avant d'aller se coucher.<page>DIEU ET QUI. Je pense que seul l'état peut me le donner. J'ai coupé des arbres et je les ai apportés au roi.<page>Je vois ça quand je vais à l'église. Réception ici.Vous voulez toujours le faire. Nous avez-vous torturés à mort ?
+WYATT_TALK : Risque!Elle dit que je ne veux pas embrasser. J'étais choqué de rencontrer des gens, mais c'était aussi une protection.
+HIVEQUEEN_EXTRA : Inscrivez-vous ... Je suis enfin libre.
+MAGE_LORD : Dans le rêve, j'ai vu la sécurité intérieure, les secours en cas de catastrophe ... La réponse est dans l'âme de notre corps.<page>Mais le roi... Pourquoi ? Il s'est opposé aux efforts.<page>Allez-y ... fou ው prenez-lui la soupe!Maintenant, le roi et son royaume sont morts... et nous vivrons éternellement.
+MARKOTH_INSPECT : Le corps du soldat était décoré de boucliers et de clous.
+HIVEQUEEN_REPEAT : L'invasion de la nature est une folie. Ils doivent tous venir.
+REVEK_TALK_DEFEAT_REPEAT : Sécurité? Est-ce mon travail? Qui va te protéger ? Toi et moi sommes seuls.
+MARISSA_TALK : Mon âme! Dans cette situation difficile, je ne peux pas faire confiance à la célèbre chanteuse Marissa.<page>Un jour, quelqu'un s'est approché de ma chanson et tout a changé. Le public arrive. Je soupirai, mais ma voix se tut.C'est la première fois que tu chantes mon hymne.
+GRASSHOPPER_REPEAT : Gauche ou droite? La meilleure façon est de simplifier, mais nous y sommes toujours confrontés.
+XERO_INSPECT : Ceux qui obéissaient à l'ordre du roi étaient maudits.
+WALDIE_REPEAT : Mais ça m'est venu.
+GROHAC_REPEAT : Ai-je une balle dans le cou ? Ce sont mes meilleurs amis, ils sont avec moi pour en parler plus que quiconque en privé.
+MOLTEN_REPEAT : Mon corps coule et mes nerfs changent, mais ils sont tous pareils.
+CHAGAX_REPEAT : Chaque victoire sur la mort est temporaire… douloureuse.
+MARKOTH_REPEAT : Réveille-toi, imbécile !
+NOEYES_TALK : Fils ... tu sais autre chose? S'il vous plaît ne me jugez pas<page>Je ne peux pas dormir ... ouvre les yeux pour ton amour. Il ne peut pas respirer et ne peut pas dormir, papa.<page>Cher ... tu parles mal pendant ton sommeil ... mais tu frappes à la porte ...Aimons-nous le monstre dans le noir... peux-tu chanter pour moi ?
+JONI_TALK : Oh, je me sens heureux. Je ne m'en souviens pas, mais je ne m'en suis pas souvenu pendant longtemps.
+ALADAR_DEFEAT : Frère ... Allez!<page>Ce passage à tabac... tais-toi ! cuit jusqu'à ce qu'il soit bien cuitmm...
+GRAVEDIGGER_TALK : Ça m'est égal. Laisser beaucoup de morts dans la rue ?Si vous ne vous souciez pas des morts, pensez à ce que je peux faire ici.
+MILLY_TALK : J'achète des cookies ! C'est pas mal.
+NOEYES_DEFEAT : Tout le monde... J'ai finalement fermé les yeux. Je pense que c'est chaud pour nous.<page>J'ai peur de toi. Si vous ne me voyez pas, vous attirerez toujours mon attention.Restez là, c'est un rêve devenu réalité...
+100NAIL_REPEAT : Est-ce que mes ongles vont bien ? Les feuilles sont visibles, pointues et mortes.
+THISTLEWIND_REPEAT : Pensez-vous que les auteurs de ce crime ont des armes ? Nous ne nous sommes pas contentés d'acheter des armes à feu, et ils ne pouvaient pas.<page>D'autres vivent dans un monde courageux, espérant trouver une vérité oubliée.Et après?
+MUMCAT_INSPECT : Votre critique, mon cher.
+KARINA_REPEAT : Même si vous avez les ressources, vous n'obtenez rien.Dis-moi qui tu es : es-tu une grande créature ou une petite créature ?
+CASPIAN_TALK : Faites attention à votre petit coeur. La méditation rend les choses plus sombres et pires que toute autre chose.Je pensais que c'était fini, mais quand j'ai trouvé l'argent, j'ai arrêté.
+WAYNER_REPEAT : Je suis jaloux et je n'ai pas peur de quitter ce monde. Je peux apprendre de vos conseils.
+GALIEN_TALK : Monsieur, êtes-vous ici ? C'était comme s'il sortait en courant d'une grotte oubliée.<page>Album de la guerre de l'influence sacrée ! Je suis venu dans cet endroit incroyable pour me tester. Voulez-vous vraiment tester votre force ?<page>Oui, toi et moi ne sommes pas mauvais. J'ai peur que ce monde ne soit pas bon pour les faibles.Alors... est-ce qu'on se dispute ? Tentons notre chance !
+POGGY_REPEAT : J'ai attendu longtemps. Suis-je sûr qu'il est temps de manger ?
+REVEK_TALK_DEFEAT : J'aime la prière. Tu es libre, mais je suis petit...? Je demande ici, mais quoi? C'est difficile à oublier .. pourquoi est-ce important? Comment oublier ?
+POGGY_TALK : je vais agir ! Se sent faible. Mince. Abby Nago.Regarde-moi La table était belle, juteuse et lisse. Pas étonnant que je sois très populaire ici.
+ALADAR_TALK : Mais mon pantalon.<page>L'arc est dans les chaussures.<page>Grosse poitrine. Avec une arme à feu !Se lever! Se lever! Mettez-vous à genoux.
+REVEK_REPEAT : Je vous promets que vos ongles sont intelligents. Je ne sais pas.
+ALADAR_REPEAT : Anal! Anal! Je suis vraiment désolé!
+JONI_REPEAT : Es-tu seul ici ? bien enveloppé.
+HEX_TALK : "Tony," dit-il lentement. Où pensez-vous qu'il va?
+HU_TALK : Attends chéri! Pourquoi vous sentez-vous comme une grosse erreur ici?<page>Beaucoup sont purifiés, mais tôt ou tard les gens qui vivent ici meurent.<page>Même les insectes sauvages vivent à nos pieds. Ils étaient comme des gens arrogants, maintenant ce ne sont que des loups.Découvrez mes grands rêves, mon âme. Il va et vient.
+GARRO_TALK : Étiez-vous en sécurité dans votre enfance ? C'était un vrai guerrier qui a fait face à l'adversité.
+MARKOTH_DEFEAT : Je ne sais pas si j'ai perdu la guerre.<page>Quand je suis arrivé, je dormais encore. Quand suis-je ici dans la neige ?<page>Je ne le ferais pas sans toi<page>Guerrier, brave, vêtements, de temps en temps... vous n'avez pas le choix. seulement toi.Tu es noir... tu es en feu.
+KCIN_TALK : Il y a eu des moments où j'avais peur du pouvoir et quand je l'ai perdu, j'ai obtenu ce que je voulais.Il est insensé de poursuivre l'injustice !
+FALSE_KNIGHT : Même si ça te plait...<page>Quand j'ai vu un cheval endormi...<page>Je ne suis pas fou... j'adore...Mais à la fin? Si cela ne vous fait pas trop économiser, que pouvez-vous faire... ?
+WALDIE_TALK : Ne me jugez pas sur mon apparence à un si jeune âge, mais regardez-moi, je dois me battre.
+WYATT_REPEAT : Bientôt. Je ne veux pas vous déranger.
+CASPIAN_REPEAT : Pensez-vous que le cœur d'une femme est sombre? C'est dur de dire que je cache un visage que tu n'aimes pas.
+BOSS_REPEAT : Êtes-vous un autre soldat ? Je vois tes ongles, mais ton crâne n'a pas encore poussé. Dans la situation actuelle, voyager à travers le pays est dangereux et inutile.

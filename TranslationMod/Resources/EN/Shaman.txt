@@ -1,0 +1,19 @@
+SHAMAN_QUAKE : It's right! I feel a new energy in you destroying your battery. Suitable for those who want to learn more. My third brother has this ability. Shame on you again! Oh sometimes! It's an unsatisfactory combination.
+SHAMAN_OPEN_GATE : And look! The door opens between us. uuuu! <page> I hope you like it. Believe and believe! He gives you everything you need ...! uuuu!
+SHAMAN_OPENED_GATE : I'm lazy to meet you. aue
+SHAMAN_SUMMONED_1 : No wonder I agreed with that! Now this is your fool. married!
+SHAMAN_MEET : Ouch! Who comes out of the darkness? You are so dark! Beautiful face, helpless face and ugly gun! That's why they were bad. You are not telling a friend. I give you a magic gift. Perfect for a child like you! why are you married to me
+SHAMAN_DREAM : Write other people's dreams ... you like them more than you! E-ho-ho!
+SHAMAN_RETURN : Yes! Who's coming back here, Shadow? You're missing a page. Do not worry about me. I do not need you anymore. Yes!
+SHAMAN_KILLED_BLOCKER_2 : Congratulations, my love! Welcome to come! You see it when you sleep. I probably couldn’t be worse off than missing out! You are amazing! <page> I would definitely like to order some services. Do you see the big beast hiding in front of us in this temple? Now a new miracle! Until I tell you the big animals have to be killed! You are right! You are amazing!
+SHAMAN_KILLED_BLOCKER_1 : An article! But kill the animals! <page> Bad story! I'm afraid it's very quiet, but as I leave the cave I'm covered in old rage. But you did well! Thanks! Of course we know you can not live without this magic ... WOW!
+SHAMAN_FUNG_DREAM : ... is an ...
+SHAMAN_QUAKE2 : My friend My friend has a plan. Isn't this the fourth mother? There are many more. If I can't connect, I'll find myself.
+SHAMAN_SCREAM2 : voice? Oh trick ... this extraordinary talent has no talent.
+SHAMAN_CRYSTAL_DREAM : ... to relax ...
+SHAMAN_SUMMONED_2 : come back! Don't like my gift form? Calm down, you can be stronger than you think! Go ahead and find out who you deserve!
+SHAMAN_FIREBALL2 : what's this? Surrounded by the gifts of revenge. I know my friend. He is a good man. Your writing project is "pop". You must know the potential of your unique and unique egg.
+SHAMAN_FUNG : Add the corpses
+SHAMAN_TRAPPED_1 : But? Finally wake up! Sorry, I warned you about witchcraft. I follow you in dreams. But I highly recommend! I don't like it! Not for my gift, because we are friends now, it's disrespectful! I'm glad he came to kill me. Congratulations on this great service! I don't like it!
+SHAMAN_TRAPPED_2 : What this means? You mean, like, saltines and their ilk, eh? Amazing! Interestingly, these doors did not open until they were sacrificed in the middle of the temple. I am confident that the spirit of your ancestors will save you.
+SHAMAN_SCREAM : Should my cousin be silent? You are beautiful and I don't expect her words to be harsh!

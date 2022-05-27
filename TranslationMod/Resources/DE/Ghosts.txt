@@ -1,0 +1,83 @@
+HU_INSPECT : ich habe euch vermisst Leute
+CHAGAX_TALK : Er hilft anderen Ich bin krank und sterbe ... Was ist der Unterschied? ichDen Tod zu besiegen ist vorübergehend.
+HU_DEFEAT : Mach deinen Kopf frei ... Schlafen wir Baby?<page>Oh ... Fühle den stolzen Großmeister ... Ich bin der Teufel! Seine Augen erinnerten sich jetzt ... hell. Warum hatte ich anfangs Angst?<page>Wenn es dumme Leute in der Stadt gäbe, würde ich sie akzeptieren. Sie haben das Recht, mich zu verbrennen.<page>wenn sie angreifen, ist es wahr<page>Du hast die Macht zu töten ...<page>finde mich...... und.
+MOLTEN_TALK : fürchte dich nicht vor meiner Lüge. Mein Körper ist weg, aber das Fundament ist noch da.
+KCIN_REPEAT : Der einzige Zweck besteht darin, die Leistung zu erhöhen. Es ist besser, woanders zu suchen.
+HEX_REPEAT : Einer muss verwendet werden. Du bist nicht derjenige, den ich suche.
+XERO_REPEAT : Das denkst du immer, oder? Sind sie zusammen weggelaufen oder haben sie zu den Waffen gegriffen und sich selbst bestraft?
+GROHAC_TALK : Es erinnert uns immer an unsere Fehler. Täusche dich nicht, sei ein Lichtträger.
+GALIEN_REPEAT : Streiten wir uns? Lassen Sie uns unsere Stärke in diesem lustigen Spiel versuchen.
+KARINA_TALK : Ich respektiere jede Verantwortung. Wenn nicht, ist dies Ihr persönliches neues Produkt!
+THISTLEWIND_TALK : Silberne Farbe<page>Ich war an vielen Orten und habe viele Dinge getan, aber ich bezweifle, dass Sie das besser können als ich.<page>Es ist eine Weile her seit Halloween Cave, und ich denke, sie waren gefährlicher als die aktuelle Fahrt, und ich bin sicher, dass es Ihnen trotz des Windes gut gehen wird.Sich entwickeln! Es ist eine große Welt.
+WAYNER_TALK : Hör auf deine Freunde! Du wurdest für mich geboren und ich verlor mein Gedächtnis.
+ALADAR_INSPECT : Es ist blutig. Er ist eine große Seele.
+MUMCAT_TALK : Oh! Ehefrau! Dame, Buh! Ich stand lange! Ich habe das Gefühl, es ist kaputt!<page>Sie können diesen heiligen Garten sehen! Meine Tochter wird nach langer Zeit wiederkommen und mir das Tanzen beibringen!Fremde, worauf warten wir? Gemeinsam besuchen
+PERPETOS_TALK : Gefällt Ihnen unser Polizeiumfeld? Selbst wenn Sie hierher eingeladen werden, können Sie die Kontrolle über unsere Welt und ihre Gefahren übernehmen.
+GARRO_REPEAT : Sinka Gamba Dicky
+GRASSHOPPER_TALK : Ist das nicht ein wunderschöner Ort? Viele Neuigkeiten warten. Der Weg ist noch nicht entschieden, aber er wird vorbereitet.Wir haben gestritten. Wir müssen aufhören, für solche Dinge zu kämpfen.
+100NAIL_TALK : Sie liebt meine kleinen Nägel. Ich habe nur drei Gedanken.im Wald! Jeder ist weise, ich will dich vernichten.
+MILLY_REPEAT : Kauf mir einen Keks! Ich kann alles verkaufen und nach Hause gehen.
+MAGNUS_TALK : Alle Probleme im Leben können durch schwache Kräfte gelöst werden. Dies ist ein sehr einfaches Mantra, und das tue ich immer.Wenn Sie nicht sehr vorsichtig sind, empfehle ich Ihnen, meinem Beispiel zu folgen.
+ATRA_REPEAT : Mache dir darüber keine Sorgen. Hier ist es sehr ruhig
+GALIEN_DEFEAT : Chei ist endlich weg! Dann fand ich es gut.<page>Ich lebe noch, um dich zu sehen und dir meine Stärke zu sagen ...?<page>Hast du es nicht zur Prüfung eingereicht? Ich weiß, dass ich das tapfere Huhn nie vergessen werde.<page>Ich bin bereit, mit Ihnen zu arbeiten ... rufen Sie mich und mich an. Herkommen١
+GALIEN_INSPECT : Leiche eines toten Soldaten
+NOEYES_REPEAT : Herr, der durch die Dunkelheit der Tiere zu uns kam. Willst du für mich singen?
+HU_REPEAT : Mein Sohn, denk an einen einfachen Traum. komm zurück, komm zurück
+PERPETOS_REPEAT : Sie beschäftigen sich mit diesen Informationen. Bin ich Soldat geworden oder hatte ich nicht den Mut?
+GRAVEDIGGER_REPEAT : Seine Arbeit war töricht. Folgen Sie dem Verfahren.Ich beschwere mich nicht über Ihre Fähigkeit, Leute wie mich in der Branche zu halten.
+MARKOTH_TALK : Du bist bald hier gestorben.<page>Tong sprach wieder. Ich habe Tausende von Idioten wie Sie gehört. Wenn ich meine Hand zu dir hebe, werde ich stolz sein, ich werde mich erinnern, ich werde traurig sein.Also zuerst die Hand schütteln und sterben.
+MARISSA_REPEAT : Es macht Spaß, alleine zu sitzen.
+NOEYES_INSPECT : Sein Gesicht ist aus Stein.
+HIVEQUEEN_TALK : Es ist eine kleine Sache. Ich kenne deine Klasse.<page>Wenn Sie sich entscheiden, es morgen zu nehmen, wissen Sie, dass ich nicht die Königin bin, nach der Sie suchen.<page>Weiße sind für Ihre Handlungen verantwortlich.Als es um Holonest ging, haben wir nicht versucht, es fortzusetzen.
+XERO_DEFEAT : Jetzt weiß ich, dass diejenigen, die zum König zurückkehrten, immer noch tot waren.<page>Er galt nicht als Betrüger. Ich bin ein NarrIch weiß, dass du das nicht willst. Wir unterstützen Sie, wohin Sie auch gehen.
+MUMCAT_DEFEAT : Hallo ... Leber. Stärker als ich<page>Entspannen Sie sich, Sir, ich werde mit diesen Kreaturen kämpfen.<page>Ich hasse es, Königin noch, morgens gehe ich ins Bett.<page>Ich wachte auf, als der Prinz ankam. Die Königin kann Gästen das Aufwachen beibringen!Ist das nicht lustig ...?
+BOSS_TALK : Ich bin weit gekommen. Der Garten sieht vielleicht komisch aus, aber wie du bin ich darunter.
+MAGNUS_REPEAT : Erinnere dich an kleine Fehler. Unterdrücke deine Ängste. Das Problem lösen; Zerstöre den Feind.
+REVEK_TALK : Ich habe Radieschen im Schlamm. Du kannst respektvoll und ruhig sein. Versuch es.
+ATRA_TALK : Es geht nicht um Kleintiere. Ich war eine Weile verwirrt, aber die lokale Luft machte mir immer noch zu schaffen.
+MUMCAT_REPEAT : Hören wir auf zu suchen, okay? Zusammen spielen
+XERO_TALK : Verlassen! Diejenigen, die versuchten, die Provinz zu verlassen, wurden verurteilt. Hier muss man sich entspannen, wenn man alleine schläft.<page>Hoffnung und Freiheit in meinem Geist, nur Energie wird mir diese Dinge geben. In einem Traum habe ich den König als Waffe gefoltert.<page>Als ich aus diesem Tempel aufwachte, begann ich zu verstehen. Wer hofft, wird geprüftWas erwarten Touristen? Läufst du schnell oder willst du eine Armee gegen uns aufstellen?
+WYATT_TALK : Lumka!Ich bin sauer und ich mag nicht rauchen. Das andere, was ich aufgeben möchte, ist der Schutz.
+HIVEQUEEN_EXTRA : Mein Held, du bist endlich frei.
+MAGE_LORD : Ich habe ihn in einem Traum gesehen. Und die Behandlung von Reue<page>Aber warum der König? Ich habe ein Problem mit meinem Job.<page>Seine Veränderung ... sein Wahnsinn ... hat mich verändert und mich aus meinem ewigen Zustand geholt.Jetzt, da der König und sein Königreich tot sind, werde ich für immer leben.
+MARKOTH_INSPECT : Soldaten mit Waffen und Speeren.
+HIVEQUEEN_REPEAT : Unwissenheit gibt der Natur die Schuld. Du musst alles stoppen.
+REVEK_TALK_DEFEAT_REPEAT : Ich brauche Schutz! Ist das meine Aufgabe? Aber wie schützt man sich und sich selbst?
+MARISSA_TALK : Willkommen in meinem Forum, mein Name ist Marisa, die berühmte Lampe. Aber wenn wir in diesem fremden Land schlechte Dinge sehen<page>Das änderte sich, als sich Leute versammelten, um meine Musik zu hören. Eines Tages waren die Leute so geschockt, dass sie gingen. Ich singe weiter, aber meine Stimme klingt immer noch in meinen OhrenWenn du mein Lied hören willst, bist du der Erste, der es in diesem Jahrhundert hört.
+GRASSHOPPER_REPEAT : Süden oder über die Straße? Was ist der beste Weg? Das ist Fakt. Aber wir haben immer gekämpft
+XERO_INSPECT : Wehe denen, die dem König ungehorsam sind!
+WALDIE_REPEAT : Es fällt mir noch ein.
+GROHAC_REPEAT : Oder Halsschmerzen? Meine Freunde sind stolz. Denken Sie immer an mich und sagen Sie, dieser Ort ist besser als andere Kräuter.
+MOLTEN_REPEAT : Ob es meinen Körper bewegt oder auf einmal verändert.
+CHAGAX_REPEAT : Alles ist so tot ... Mein Herz schmerzt sehr.
+MARKOTH_REPEAT : Wie zuvor erschoss sich Krap.
+NOEYES_TALK : Mein Sohn ... siehst du? Versuchen Sie, es nicht zu tragen.<page>Ich kann nicht schlafen ... Ich öffne meine Augen Jungs. Denken Sie nicht, ob Frauen atmen.<page>Mein Vater ... ich sprach zuversichtlich, als es regnete ... er hielt meine Hand ...Glückliche Kinder, verfolgt uns im Dunkeln ... Singst du für mich?
+JONI_TALK : Oh, ich sehe, dass du gesegnet bist. Ich weiß nicht mehr, wie man zählt, aber ich verlor bald mein Gedächtnis.
+ALADAR_DEFEAT : Und ... ich bin ein Meister!<page>Großes Herz ... Schmerz! Los Comics! Los Comics!Ich bin
+GRAVEDIGGER_TALK : Ähm ... eine andere Waffe. Ich glaube, die meisten sind tot.Wenn Sie nicht gegen die Toten sind, denken Sie wenigstens darüber nach, was Sie für die Menschen an meiner Stelle tun können.
+MILLY_TALK : Kekse kaufen! Es macht immer Spaß.
+NOEYES_DEFEAT : Endlich schlossen sie ihre Augen. Wir spüren, dass uns Wärme und Geborgenheit überwältigen.<page>Ich vergebe deinen Schmerz. Du kannst es nicht sehen, aber es wird uns nicht immer beschützen.Wir haben ihn dorthin gebracht. Wo Feuer uns nicht brechen kann, wo es keinen Traum gibt... Bitte...
+100NAIL_REPEAT : Warum sind meine Nägel falsch? Das Licht ist sehr hell und aus.
+THISTLEWIND_REPEAT : Bist du überrascht, Drachen und Waffen zu sehen? Wir sind tolerante Wesen, obwohl wir nicht die einzigen sind, die Waffen benutzen.<page>Er hat das Ende der Welt erreicht und hofft, Licht in eine weitere vergessene Tatsache zu bringen.Hat der Botschafter die Reise angetreten?
+MUMCAT_INSPECT : Wir respektieren Ihre Herkunft, geschützt von Ihrem Chef.
+KARINA_REPEAT : Keine leichten Symptome, aber keine Symptome.Wer bist du? Sag mir, ist er ein Held?
+CASPIAN_TALK : Kontrolliere dein kleines Gehirn. Der Geist Gottes ist böse gegen uns.Ich dachte, es wäre mein Schicksal, aber ich fand Frieden in diesem Tal.
+WAYNER_REPEAT : Ich beneide dich, hab keine Angst vor der Welt. Ich lerne aus Ihrer Perspektive.
+GALIEN_TALK : Was ist hier der Partnerschaftskrieg? Ich denke, dass ich die einzige mutige und starke Person bin, die in einem vergessenen und schmutzigen Abgrund leben kann.<page>Ich bin Galian, ein mächtiger Halloween-Held! Ich bin an diesen schönen Ort gekommen, um meine Gesundheit zu überprüfen. Du willst auf jeden Fall deine Kräfte testen, oder?<page>Du hast gehört, was du sagst, bt. Ich fürchte, diese Welt wird nicht gut für die Schwachen sein.Also... sollen wir kämpfen? Testen Sie Ihre Stärke in diesem Kampf der Freude!
+POGGY_REPEAT : Ich warte schon lange. Wirst du bald essen
+REVEK_TALK_DEFEAT : Das Haus wurde leise gereinigt. Sehr entspannt, aber ich fühle mich wie... ein Versager? Ich arbeite daran, aber was ist das? ...schwer zu merken. Ist es wirklich so wichtig? Wie konnte ich das vergessen
+POGGY_TALK : jedermann! Nein, werde ich nicht. Ich meine nichts.Schau mich an! Große Flaschen, lustig, lustig, albern ... Eine gute Flasche, es ist keine Seltenheit, beliebt zu sein.
+ALADAR_TALK : Ich bin auch ein Gorilla!<page>Die letzte Person! Rainbow Gorb ist vorbei!<page>Großartige Idee! Schlafen!Komm nicht! Komm nicht! Bewegen Sie die Tür auf und ab!
+REVEK_REPEAT : Ich bin sicher, du bist verloren, ich habe gute Nägel, ich werde nicht fallen.
+ALADAR_REPEAT : Strahlung! Gut! Hoppla!
+JONI_REPEAT : Ist hier Frieden? Dies ist ein wunderbarer Ort zum Entspannen.
+HEX_TALK : Ein paar Tage später sagte er dasselbe. Ich fragte mich, wo er hingegangen war.
+HU_TALK : Wir erwarten ein Baby! Warum bist du hier, um diese Wüste zu füllen?<page>Viele wurden verhaftet, aber hier wurden sie hingerichtet.<page>Ja, Kuhwürmer verstecken sich auch unter der Theke. Zuerst waren sie stolz, aber jetzt sind sie nur noch Tiere.Sohn, träum davon. Komm zurück, komm zurück
+GARRO_TALK : Bist du ein guter Vater? Ein wahrer Held kann einem Sturm standhalten.
+MARKOTH_DEFEAT : Ich habe nie ... nie einen Krieg verloren.<page>Ich bin da, ich schlafe noch. Wie lange habe ich mich hier versteckt?<page>Nichts anderes ist hier am Ende der Welt zu sehen.<page>Soldaten, Sowjets, Könige, sogar das Wetter ... ich kann es nicht kontrollieren. ikaw ra.Schau ... beeil dich und iss mich.
+KCIN_TALK : Obwohl ich traurig und besorgt war, sehnte ich mich nach Kraft.Schrecklicher Wahnsinn.
+FALSE_KNIGHT : Ich brauche sie ... die Macht, andere zu beschützen ...<page>Wenn ich den Tempel sehe ... Wenn ich schlafe, fühle ich mich glücklich auf dem großen Futon ...<page>mir geht es gut ... mir ...Aber am Ende? Und wenn Sie keine Energie sparen können ...
+WALDIE_TALK : Als ich jung war, schwarz, wollte ich kämpfen, beurteilt mich nicht nach meinem Aussehen.
+WYATT_REPEAT : Nein, ich liege nicht falsch.
+CASPIAN_REPEAT : Haben Sie das Gefühl, dass Ihre Gedanken schlecht sind? Angst ist schwer, wenn sie nicht kontrolliert wird.
+BOSS_REPEAT : Du bist ein Held, ich sehe deine Nägel, aber deine Kleider sind nicht schön. In deiner jetzigen Situation ist es sehr schlimm, in einem so hässlichen Land zu sein.

@@ -1,0 +1,18 @@
+BANKER_CANCEL : Hai cambiato idea? Torna tra un'ora.
+BANKER_FAREWELL : prego.
+BANKER_DREAM_SPA : ... no ... vieni ...
+BANKER_DEPOSIT : La pace! Voglio la sicurezza locale.
+BANKER_BALANCE_ZERO : Non ho niente... Io, vuoi andare adesso?Sì sto bene
+BANKER_GREET : Voi! Sei pronto per le operazioni bancarie?
+BANKER_REMEET : Vuoi sbloccare il tuo account? È lo stesso paese.Liberami dall'oppressione del mondo.
+BANKER_ACCT_OPEN : Sei più intelligente, alcuni animali si approfittano di te e vogliono imparare la geografia dalla mia biblioteca... tu.E ora usiamo la banca.
+BANKER_SPA_GREET : Sette? Dai. Ho cantato durante il tour e alla fine ho pensato ... b ... ti sei fermato.Tu... ah... geografia. Lo sapevi che mi rende molto triste? Era difficile alzarsi dal mio posto per praticare uno sport professionistico.
+BANKER_ACCT_DECLINE_AGAIN : Non sono interessato? Le persone pigre prendono decisioni difficili e seguono i loro progressi.
+BANKER_MEET : il mio cuore. Il negozio era chiuso ed ero pronto a correre fino al mio arrivo. I bunker sono consigliati per coloro che sono interessati.<page>Perdere lo stato è incredibile e può succedere.<page>La mia salvezza è assicurata. Non l'ho mai provato mentre lavoravo in banca!Stai pensando di aprire un conto?
+BANKER_SPA_MEET : Ah... ah, buon pomeriggio. Pensa qui.<page>È questa la vita che vuoi? Hai visto? Fa caldo, ma... no. Tutto è stato usato prima.<page>L'attività bancaria è costosa, quindi è necessario ricostituire i conti bancari.<page>Wisconsin Fa parte di tutte le banche... e, ah, ah... ah.Ma... beh, se mantieni il segreto, ho ancora paura. Allora puoi andare al parco.
+BANKER_BALANCE_ZERO_REPEAT : ... Stavo pensando al riposo. ok penso sia meglio
+BANKER_ACCT_DECLINE : Vedo. Le divisioni sono difficili quando Khya ha vinto così tanto. Se cambi idea, io sono qui.
+BANKER_ACCT_NOTENOUGH : Ciao fan! Spiacenti, non hai spazio sufficiente per acquistare un account. 100 Torna indietro dopo aver aggiunto Geo. Apri il tuo conto.
+BANKER_WITHDRAW : Grazie per il vostro interesse. Non perdere tempo!
+BANKER_SPA_REPEAT : ... non è una debolezza?
+BANKER_DREAM : ... La prossima volta che vai in bagno? L'acqua riduce lo stress durante la raccolta...

@@ -1,0 +1,18 @@
+BANKER_CANCEL : As-tu changé d'avis? D'accord, revenez quand vous voulez.
+BANKER_FAREWELL : Eh bien, merci Sepgan
+BANKER_DREAM_SPA : ... Non ... Lasu Min Samo ...
+BANKER_DEPOSIT : Tu es en sécurité! Je maintiendrai votre position.
+BANKER_BALANCE_ZERO : Il n'a pas pu être localisé. Et je pensais savoir ?Je pense que c'est Beatty.
+BANKER_GREET : album ! O ! Vous souhaitez travailler dans une banque ?
+BANKER_REMEET : Avez-vous déjà pensé à ouvrir un compte épargne ? La perte d'espace dans l'environnement est dangereuse.En sécurité dans un monde dangereux quand je sais que c'est sans danger pour moi.
+BANKER_ACCT_OPEN : Tu es vraiment talentueux. Je suis donc heureux de savoir que mon pays est protégé de tout mal. †Aller à la banque.
+BANKER_SPA_GREET : Numéro? Serez-vous de retour? Je te verrai plus tard.Oui, c'est votre histoire. Comme vous le savez, j'ai beaucoup de problèmes. En fait, je suis allé à cette banque.
+BANKER_ACCT_DECLINE_AGAIN : Ça ne vous dérange pas ? Très chaud. Prenez les bonnes décisions, suivez-les. Voici quelques conseils pour vous aider à démarrer:
+BANKER_MEET : Bonjour Pie, je vous emmènerai au magasin où je fournis des services bancaires en cas de besoin.<page>Perdre son siège est une tragédie et il faut l'accepter.<page>Ma boîte aux lettres est très sécurisée. Je n'ai jamais perdu mon emploi à la banque !Avez-vous déjà pensé à ouvrir un compte ?
+BANKER_SPA_MEET : Ah...ah, c'est ça. Il vous trouvera ici.<page>Est-ce votre expérience? Écoute, triste, mais... c'est fini. Tout est fait.<page>La gestion bancaire est plus chère, donc je dois payer moins sur votre compte.<page>C'est certainement très abordable. Ça fait partie de toute l'activité bancaire... ah hahaha... hahahaMais... hé, merci beaucoup pour la rencontre, pas maintenant. Si vous laissez un peu d'espace, je le ferai. Ensuite, vous pouvez nager.
+BANKER_BALANCE_ZERO_REPEAT : ... j-j-je pense que je suis libre ici. Je pense que c'est bien
+BANKER_ACCT_DECLINE : À mon avis. Il est difficile d'éviter les zones géographiques très fréquentées. je changerai
+BANKER_ACCT_NOTENOUGH : Oh, bien sûr. Malheureusement, il y a très peu de géographie pour l'achat d'un compte bancaire. Une fois que vous avez déposé 100 emplacements, revenez et nous ouvrirons votre portefeuille.
+BANKER_WITHDRAW : Merci d'avoir supprimé. N'oubliez pas !
+BANKER_SPA_REPEAT : Même si je ne sais pas ?
+BANKER_DREAM : Lorsque vous reviendrez vers cette belle source... l'eau vous calmera...

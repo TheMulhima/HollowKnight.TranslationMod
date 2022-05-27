@@ -1,0 +1,18 @@
+BANKER_CANCEL : Hast du deine Meinung geändert? نیندوت! Brunnen.
+BANKER_FAREWELL : Hallo Hallo Achten Sie auf die Sicherheit.
+BANKER_DREAM_SPA : Oh nein, lass mich in Ruhe, es ist komisch ...
+BANKER_DEPOSIT : Ja, Schatz. Ich liebe Géo.
+BANKER_BALANCE_ZERO : Ich habe nichts ... Na ja, vielleicht gehst du jetzt?Immerhin finde ich es toll, im Gegensatz zu mir.
+BANKER_GREET : es nützt nichts, es bringt nichts. Willst du in einer Bank arbeiten?
+BANKER_REMEET : Denken Sie daran, ein Konto zu eröffnen? Wissen zu verlieren ist schlecht.Sie finden mehr Sicherheit in einer gefährlichen Welt. Ich weiß, es ist sicher
+BANKER_ACCT_OPEN : Schöne Tiere werden in Zukunft alles machen. Ich würde gerne wissen, wo Sie leben, Ihr Land, wo ich lebe.Jetzt bekommen wir einen Kredit von einer Bank.
+BANKER_SPA_GREET : Verzeihung? Ah ... du ... bist zurückgekommen. Ich denke, das ist meine letzte Reise, wenn du gehst ... ahh ... meine letzte Reise.Sie sind die einzige ... äh ... Antwort auf Ihre Frage. Sie sollten wissen, dass ich sehr enttäuscht bin. Ich kam aus der Bank, weil ich nervös war.
+BANKER_ACCT_DECLINE_AGAIN : Noch kein Interesse? Sie sind es leid, mutige Entscheidungen zu treffen und ihnen zu folgen. Dies ist eine großartige Möglichkeit, Ihr Boot zu testen.
+BANKER_MEET : Oder. Ich möchte diesen Laden schließen, bis ich aufwache. Auf Anfrage können wir Bankdienstleistungen erbringen.<page>Der Verlust eines geliebten Menschen kann sehr gefährlich und tödlich sein.<page>Mein Shop ist vertrauenswürdig. Ich habe die Gionee Bank nicht vermisst.Haben Sie darüber nachgedacht, ein Konto zu eröffnen?
+BANKER_SPA_MEET : Oh ... oh, hallo nochmal. Fans werden Sie hier sehen.<page>Ist das eine Direkttour? Wir sehen uns, hallo! Es tut weh ... aber es ist vorbei. Beide wurden verwendet.<page>Die Gründung einer Bank ist teuer und Sie müssen viel Geld für ihre Dienste bezahlen.<page>Natürlich ist es ein Rechtsanspruch. Das ist Teil eines universitären Gesamtprojekts ... ach ja ... ja.Aber ... oh ... danke, dass Sie mich kennengelernt haben. Das Geheimnis ist, dass ich bald zurück sein werde. Sie können also sponsern.
+BANKER_BALANCE_ZERO_REPEAT : ... Ich denke, ich sollte mich hier ausruhen. Ja, aber BT ist auch nichts für mich.
+BANKER_ACCT_DECLINE : Ich verstehe, dass es schwierig ist, den Erfolg von Geo vorherzusagen. Wenn ich meine Meinung ändere, bleibe ich hier.
+BANKER_ACCT_NOTENOUGH : Leider reicht ein geografisches Konto nicht aus. Ich würde 100 Geo sparen und ein Konto eröffnen und dann wiederkommen.
+BANKER_WITHDRAW : Danke für den Besuch. Verwenden Sie sie nicht alle auf einmal!
+BANKER_SPA_REPEAT : …… es ist nicht schlecht, oder?
+BANKER_DREAM : Wann werde ich zu diesem Vergnügen zurückkehren? ... Wasser reduziert den Hautdruck ...

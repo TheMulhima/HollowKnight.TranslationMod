@@ -1,0 +1,94 @@
+PERMA_UNLOCK_UNLOCK : 锁打开
+CREDITS_PORTING_LEAD : Carrie Lid - 莉莉漫画
+CREDITS_PORTING_LEAD_NAME : 马修·拉克罗帕
+CREDITS_ENVIRONDRESSING : 一些环保服装
+MR_MUSH_CONTINUED : 你可以继续
+PERMA_GAME_OVER : 一整天
+CREDITS_INDIE_FUND : 印度智慧
+CREDITS_THANKS_MUSIC : 一首特别的感恩节歌曲
+CREDITS_VOCALS_NAME : 阿米莉亚琼斯
+CREDITS_TESTERS_MAC_NAME : 大卫·基恩 <br> 马库斯·赫里克 <br> 乔纳森·彭尼 <br> 韦恩·塞拉
+CREDITS_ADDITIONAL_CODING_NAME : 大卫兰开斯特迈克尔詹金斯
+CREDITS_LOCAL_LEAD : 提高连续性。
+CREDITS_TRANSLATE_CHINESE_NAME : Tanto<wi>瑞源<wi>HUanSU<wi>Muqaddas<wi>Wesley King <wi> Stephen Sun
+CREDITS_ADDIT_TRANSLATE_JAPANESE : 其他版本 - 日语
+CREDITS_ENVIRONDRESSING_NAME : 泰勒·巴特利 <br> 内森·埃尔默
+CREDITS_TRANSLATE_CHINESE : 中文翻译：
+CREDITS_CONGRATS_BODY_PERMA : 你打得很专业，你认为你的水平很高。感谢您花时间探索和征服我们创造的世界。
+TUTORIAL_CREDIT_SCORE : 声音和音乐
+CREDITS_EXTRA_THANKS : 特别感谢
+CREDITS_TESTERS_NAME_COL_02 : Ayako Hibino - Pirate Rob - Phone Pho 3 Nixes - Kyle Fo3 Nixis - Lucas Souris - Mateus Albus - Ken Zantzukin - Benjamin Zarib <br>
+CREDITS_TESTERS_NAME_COL_01 : 演员 - 泰勒巴特利 - 莉莉卡莱尔 - 约书亚克拉克 - 安德鲁库克 - 锡安的十字架 - 信仰“在石头上”理查德 - 逃离拿骚 - 逃离拿骚
+PERMA_UNLOCK_TITLE : 这是一种金属风。
+CREDITS_TESTERS_MAC : 游戏机-Mac
+CREDITS_SCORE : 然后在田野里唱歌
+CREDITS_ADDIT_TRANSLATE_RUSSIAN_NAME : Daniela Usteb - 安德烈头巾 - 亚历山德拉 Alpina Golbo
+CREDITS_ADDIT_TRANSLATE_RUSSIAN : 翻译成其他语言 - 俄语
+CREDITS_ADDITIONAL_ENEMYCODE : 政府必须继续
+PERMA_GAME_OVER_BODY : 当您尝试这样做时，您会表现出对他人的信心。
+CREDITS_CHARVOICES : 更多的
+CREDITS_ADDIT_TRANSLATE_KOREAN : 附加韩语翻译
+CREDITS_GUITAR : 我写
+GAME_COMPLETE_PERCENTAGE : 还保存
+CREDITS_TECH_DIRECT : 技术管理
+CREDITS_TRANSLATE_BPORTUGUESE : 翻译者-Fortigel, 巴西
+CREDITS_VIOLA : 比奥拉
+CREDITS_ADDITIONAL_CODING : 附加治疗设备
+CREDITS_TRANSLATE_ITALIAN : 这个翻译比意大利语好。
+PERMA_GAME_OVER_CONTINUE : 单击继续。
+CREDITS_FIGSCULPTOR_NAME : 大卫迪亚兹，众议院议长
+CREDITS_TRANSLATE_BPORTUGUESE_NAME : Lucas "Lusca" Fernandes <br> Vinicius "Vinieu" José <br> Luiz Fernando S. M. Maia <br> Guilherme Antonio Canani <br> Vinicius de Medeiros Michael <br>
+CREDITS_PORTING : 库巴德鲨鱼
+CREDITS_MARKET_JAPAN_NAME : 潘诺尼亚桥
+CREDITS_THANKS : 非常感谢你
+CREDITS_ADDIT_TRANSLATE_KOREAN_NAME : 作品六月 Rihanayı
+CREDITS_INDIE_FUND_NAME : Jeffrey Rosen-John Graham-Ben Novadomas-Serbukkail-Ronxley
+TUTORIAL_CREDIT_NAME_01 : 格塔是一个政治发源地。
+TUTORIAL_CREDIT_NAME_02 : 威廉·保林
+CREDITS_TESTERS : 什么是瓦利德？
+TUTORIAL_CREDIT_NAME_04 : 马修·格里芬
+TUTORIAL_CREDIT_NAME_05 : 马修格里芬是免费的。
+CREDITS_ADDITIONAL_ENEMYCODE_NAME : 腹痛
+CREDIT_PROGRAM : 我是电脑程序编制员
+CREDITS_TRANSLATE_RUSSIAN_NAME : 亚历杭德罗·皮里米亚·麦克
+CREDITS_PORTING_NAME : 马特李卡普 - 詹姆斯皮尔斯 - 汤姆李 - 布拉德文森；
+CREDITS_PROGRAM_ADDIT : 改进程序
+TUTORIAL_CREDIT_GAME : 游戏
+CREDITS_PORTING_TEST_NAME : 我想要贾科莫
+CREDITS_SCORE_NAME : 克里斯托弗·拉金
+CREDITS_CHARVOICES_NAME : Um Makoto Cozzie & Tailer Bartley & Harry Dimitri & Matthew Griffin & Xanna Murdoch & Bill Northcott & Heat Pele & Victoria Roberts & Cassandra "Frisk" Reyna & Shalulu Bish
+GAME_COMPLETE_TITLE : 因为最后一场比赛
+CREDITS_GAME_BY_NAME : 果冻
+CREDITS_THANKS_NAME : Ludum Daredevil – Warren Fenn – Rohan Friseal – Ben Gibson – Makoto Kosi – Trent Gusters – Morgan Joffit – Rod Jaco – Tim McBerney – John Millard & Dan Treble – Peter Zhang & Jenny Wicket <br> Chris Wright:
+CREDITS_PORTING_TEST_LEAD : 职业经理人——就是这样
+CREDITS_TRANSLATE_RUSSIAN : 翻译 - 俄语
+CREDITS_INTERNS_NAME : 詹姆斯·吉勒姆 <br> 詹姆斯·罗斯·麦克纳布
+CREDITS_PROGRAM_ADDIT_NAME : 等等
+CREDITS_VIOLA_NAME : 蒂姆寒意
+CREDITS_CONGRATS_BODY : 所以你有一个很大的胜利。你总是赢。享受空心夜世界！你可以通过耳朵看到它
+CREDITS_VOCALS : 声音 - 声音在哪里
+CREDITS_EXTRA_THANKS_TEXT : 2158 <br> 你要糖果吗？
+CREDITS_ADDIT_TRANSLATE_GERMAN : 其他翻译 - 德语
+CREDITS_ADDIT_TRANSLATE_GERMAN_NAME : 托拜厄斯·古斯、亚历山德拉·拉斐尔·亚当、丹尼尔·斯派克曼、玛蒂塔
+GAME_COMPLETE_TIME : 丽缇
+CREDITS_MARKET_JAPAN : 支持日本出版物
+CREDITS_TRANSLATE_FRENCH : 翻译成法语。
+CREDITS_ADDIT_TRANSLATE_SPANISH : 翻译成其他西班牙语
+TUTORIAL_CREDIT_NAME_03 : 大卫法官
+CREDITS_TRANSLATE_JAPAN_NAME : 病菌
+CREDITS_INTERNS : 邻居学生
+CREDITS_SOUND_ASSIST : 引入空气
+CREDITS_LETH : 及时销售
+CREDITS_SOUND_ASSIST_NAME : 来自团队
+CREDITS_GAME_BY : 作者：
+CREDITS_CONGRATS : .尼夫谢克
+CREDITS_ADDIT_TRANSLATE_SPANISH_NAME : 丹尼尔·鲁伊斯“光之王”
+CREDITS_THANKS_MUSIC_NAME : Russell Larkin Mitchell Larkin Jeff van Dick Angelo Baldiva Fabian Marabello Andreana Troy
+CREDITS_TRANSLATE_FRENCH_NAME : SHA lulu
+CREDITS_TRANSLATE_JAPAN : 日本的稳定
+CREDITS_ADDIT_TRANSLATE_JAPANESE_NAME : 日常
+CREDITS_TRANSLATION : 意义;
+CREDITS_TRANSLATE_ITALIAN_NAME : Federica Gata 和 Marco Bortolucci Abadan
+PERMA_UNLOCK_BODY : 没有阴影。可怕的死亡随之而来。 <br> 最后一次通话。
+CREDITS_FIGSCULPTOR : 你
+CREDITS_TEST_LEAD : 没有证据

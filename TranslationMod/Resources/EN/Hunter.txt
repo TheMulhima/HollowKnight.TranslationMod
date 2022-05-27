@@ -1,0 +1,10 @@
+COMPLETE_REPEAT : Proof that you are a real hunter and a killer, so I will gladly give you the reward you deserve ...
+HUNTER_MEET : Little Squip ... Fearless Walk. Are you a believer like me? Want to find, kill, you know? My actions will help, at first it is difficult to understand the text. But the wise man will understand his words. You need to be prepared to identify the hunter.
+HUNTER_ENTRIES_COMPLETED : Then find all the animals on the site. Spread! Some are a little sick. Only then can they recognize you as a hunter and demand your reward.
+HUNTER_CONVO_1 : Do something you may have lost some animals, but you are just getting started.
+HUNTER_CONVO_3 : Hi, there are some special animals that will help you measure your diary. Find the corners of the empire, fill out the form and get good rewards ...
+GOT_MARK : You are my color, you are one of my special groups. Hunter, I have nothing else.
+HUNTER_CONVO_2 : Yeah ... I know I did everything right. This is the nature of animal hunters. The saints shall protect thee. Continuation of hunting, fishing, hunting and killing.
+HUNTER_COMPLETE : Your blog ... look! <page> Sorry ... sorry! Salvator Magazine is ready!
+GOT_REVISIT : You'll be back! You also guarantee to continue playing. These cats will respect you and those who want to go hunting will be lucky ... they are not.
+HUNTER_DREAM : She's stronger than me ... you know what? Why is she afraid to obey me ...? I'd like to try it on.

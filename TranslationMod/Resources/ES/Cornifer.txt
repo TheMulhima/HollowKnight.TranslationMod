@@ -1,0 +1,38 @@
+FUNGAL_WASTES_GREET : Cariño, diviértete. Aterricé en esta espantosa cueva.<page>Tipos de zonas donde hay demanda de residencia en esta zona. Recomendamos evitar esto si es posible.<page>Tengo miedo de las peculiaridades y la necesidad de ser creativo. Funcionan como un grupo intelectual.Los conocí en su memoria cuando era un niño, pero me preocupaba no poder vencerlos si eran groseros.
+GREENPATH_GREET : ¿Es diferente de la cruz? Vivimos lejos de los bienes raíces. Los caminos a la calle son muy bonitos.Reconozco que hay gente que admira este lugar porque me esforcé mucho en pintarlo.
+CROSSROADS_BOUGHT : ¿Cómo saber tu tarjeta? Hice mi mejor esfuerzo pero borré todos los libros.Si desea obtener parte del mapa, puede comprar muebles para la habitación de su marido en Dirtmouth. Hemos construido una pequeña tienda para ayudarte.
+MINES_GREET : ¿Escalando una montaña? Allí me enteré de su detención. Todavía no soy alto.
+CORNIFER_AGAIN_DP : ¿Quieres comprar un boleto más tarde?
+CROSSROADS_GREET : ¡Gracias de nuevo! ¿Estas en el camino correcto? Encuentra una manera de relajarte. ¡La vida está llena de autos y problemas! quiero saberEntonces, pensé en preguntar... ¿le gustaría comprar una copia de esta tarjeta...?
+FUNGAL_WASTES_BOUGHT : La cueva olía mal y pensé que era malo. Mi razón es simple. No tienes cuerpo.¿No lo disfrutarás?
+CLIFFS_GREET : ¿No tienes miedo de respirar? Cuando llegó Halloween, estaba rodeado por un valle pacífico.<page>Fue agradable caminar por la montaña hasta la cueva, pero aun así lo disfruté.Caí al suelo. Es fácil de encontrar y simple. Este grupo puede confundirse sin saber lo grande que es.
+FOG_CANYON_GREET : ¡Sí! A pesar del hábito del Holocausto, la cueva está en un nuevo nivel.<page>¿Lo has visto en la oscuridad? La vida entre personas es realmente aburrida. trato de no perderAfortunadamente, encontré otra manera. Pero después de que se agrió, mi música se hizo más grande.
+MINES_BOUGHT : Fui a la ventana. Son muy rápidos y van a todas partes. Cuando eres feliz, te amas a ti mismo.
+WATERWAYS_BOUGHT : Sabemos que en el pasado estas tuberías y equipos se usaban para recolectar los desechos de la comunidad. Oler. Afortunadamente, el baño regular los mantiene limpios.
+DREAM : ... Crear el mundo. Afortunadamente... cuando Isild expresa sus sentimientos...
+ABYSS_GREET : El segundo aquí. ¿Sientes el peso del gobierno? El buen peso es el peso.No creo que haya muchos que estén tan inmersos. Pronto seremos sus clientes.
+CORNIFER_ISELDA : Puede usar el mapa, pero no verá la ubicación actual. Si no conoce el camino correcto, felicito a mi esposa, Compendio Isilda.<page>Abrimos una nueva papelería en Darkham. Vende todas las cosas que necesitas para ayudarte a viajar. También vendemos papel usado.Puedes ver la imagen completa. Ella siempre está feliz de verme.
+DEEPNEST_GREET : Las calles de los demonios brillaban en la oscuridad por todas partes.Si no está listo, le recomendamos que pruebe. Pero si quieres irte, ¿puedes comprarme tu contraseña?
+DEEPNEST_BOUGHT : V-V-Warren es un animal muy aterrador. Me costó mucho sacarme de ese agujero negro. Pensé que me escondería aquí por un tiempo.
+FOG_CANYON_BOUGHT : Es un hermoso edificio en medio del lago.<page>Traté de entrar, pero este era un zoológico brillante.Ellos ... están agrietados y pueden dañarse gravemente.
+CORNIFER_INTRO_1 : En otras palabras, ¿todavía vale la pena considerarlo? bueno, debería agradecerte A nuestro cerebro le lleva mucho tiempo olvidarse de la belleza de la historia.
+CORNIFER_NOT_ENOUGH_DP : H- ¿Extrañas la geografía?
+CORNIFER_REFUSE_DP : No te preocupes por el mapa N.
+OUTSKIRTS_GREET : ¿No es un buen agujero? Creo que es hora de relajarse y dar un paseo por el desierto.Esta parte de la ciudad parece tranquila, pero la gente sigue triste.
+CITY_BOUGHT : Todos tenemos un largo camino por recorrer para llegar a la hermosa ciudad. En cuanto a la casa, tengo que tener en cuenta que Aceldo es un niño.
+CORNIFER_REFUSE : no eres feliz Sí, ahora puedes llamar al Señor de los Anillos. Encuentra tu camino a través de cuevas desconocidas y desconocidas... con suficiente comida para todas las almas.Es posible que desee volver a verlos en su viaje.
+CORNIFER_INTRO_2 : Mi nombre es Carnaval. Me encanta aprender el mundo. De hecho, cuando nací, ¡nací con mis hermanos y mi madre!<page>Mi esposa y yo nos mudamos a Dartmouth. La oportunidad de ver la puerta de entrada es infinita. ¿Quién cuidará de ella?Pero al menos eso me está explicado. nos vemos a tiempo
+CORNIFER_MEET_DP : Huh-uh. Son un dulce árbol que vive. Me equivoqué aquí, pero traté de demostrar que son más peligrosos que los insectos como yo.<page>Los animales malos deambulan por las calles, las calles están oscuras, no hay luz. Aunque el dolor de cabeza es grande, no es suficienteYo digo que si no estás listo para ir, pero si quieres bajar, ¿obtienes una pequeña tarjeta M?
+CARD : ¡Te extraño! Si crees que te estás perdiendo algo, ¿por qué no vas a la tienda de Dartmouth y compras un mapa de la zona? ¡Ahora disponible al precio más razonable! <br> - Depredador
+ROYAL_GARDENS_GREET : ¿Has oído hablar de la Reina de Halloween? El campo parece estar floreciendo.<page>Estos tipos de plagas son comunes y las plantas son bien toleradas.No soy un amigo, pero estoy feliz de estar aquí. ¿Quieres ver mis trabajos?
+CORNIFER_PROMPT : tienes experiencia de
+CLIFFS_BOUGHT : Puedo ver líneas extrañas en estas rocas. Tu casa no está lejos.Era un hombre cruel que había sido clavado en una cruz. En mi opinión, muchas cosas son normales en sí mismas.
+ROYAL_GARDENS_BOUGHT : Hay una tienda de comestibles en el medio del parque. Si aún no lo has hecho, detente aquí.
+GREENPATH_BOUGHT : Cuando llegué, vi a otro hombre en la calle. Quise llorar cuando ella pasó pero no me vio. Por supuesto, tener una tarjeta es tan importante como tú y yo.
+CORNIFER_MEET : ¿Tararear? Hola, ¿quieres bajar y ver esta hermosa ruina antigua? no me opongo<page>Es una sensación aterradora encontrarte a ti mismo, encontrar un camino. tu y yo somos felicessoy mecanico de autos En el mapa ¿Te gustaría obtener una copia de mi trabajo ahora?
+WATERWAYS_GREET : Jaja, ¿este canal es divertido? Zonas con tuberías y túneles<page>Nunca he oído hablar de un lugar mejor para utilizar mis conocimientos. Todo está bien y no hay ningún agujero abierto.Desafortunadamente, fue muy tarde. Producción de hongos para ganadería Creo que este mapa se acabó.
+CORNIFER_AGAIN : ¿Hijo de hombre? ¿Está considerando un boleto?
+ABYSS_BOUGHT : me gustaría estar cerca de la tiendaSin embargo, ¡no se demore! No importa si me gusta Algel o no.
+CITY_GREET : ¿Cambiará esto las condiciones de las cuevas afectadas? La lluvia es triste. Pero la arquitectura es genial.<page>Aunque hago ejercicio regularmente, estas diferencias son difíciles de resolver.¿Quieres comprar una copia de mi última película?
+OUTSKIRTS_BOUGHT : Debido a este desafío, los habitantes de la ciudad no quieren ir a estas cuevas. ¿Por qué crees que está equivocado?
+CORNIFER_NOT_ENOUGH : ¿Eres geográficamente adecuado? Afortunadamente también. Te daré un boleto, pero creo que mi esposa estará feliz si me lo das. Toda nuestra comida pertenece a Geoc.

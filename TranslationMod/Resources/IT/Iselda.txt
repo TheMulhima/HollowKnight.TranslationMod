@@ -1,0 +1,10 @@
+ISELDA_MEET : Sei venuto per comprare una carta, beh, hai tradito mio marito. Ma è buono! È atterrato<page>Ogni volta tornava al negozio per comprare un nuovo biglietto. Ma spero che trascorra la maggior parte del suo tempo qui. Io sono interessato al lavoro.Ora vediamo cosa vendo qui.
+ISELDA_REPEAT : puoi vedere la chiesa qui sotto? Halloween probabilmente è buono per me; A volte sembra un posto spettrale, spettrale.
+ISELDA_DREAM : Sono contento di aver trovato la mia pistola. Connie e a me piace stare zitti. Sono contento di aver allungato di nuovo le gambe... prossimamente...
+ISELDA_NEW_MAP : ISELDA_NUOVA_MAPPA
+ISELDA_GREET1 : Scegli questa città deserta ovunque tu vada. Ero un po' tranquillo, ma dopo aver lasciato mio marito, sono tornato su tutte le furie.Ora è il momento di trascorrere del tempo qui. Dici che la carta è buona, ma chi l'ha comprata?
+ISELDA_CORNIFER_HOME : Caifa uscì di casa esausto. È ancora arrabbiato.<page>Ero a casa con lui, ma una volta pensavo che avrebbe dormito anche se non avessi nessuno.<page>Ma amo peccare e peccare. Il suo amore per le carte lo ha ispirato.Connie voleva seguirmi, ma io ho rifiutato. Posso essere d'accordo un giorno?
+ISELDA_NOSTOCK : Sebbene? Comprare di più. Sfortunatamente, questo non si applica a ciascuno di noi.Carnifer lo adorerà. Ma non so come usare tutti i geon.
+ISELDA_GHOSTPIN : Kearney mi ha insegnato a costruire un paese e un luogo di culto. Ho fatto una nuova penna.È difficile e doloroso da fare. È un buon prodotto, quindi penso che ne valga la pena.
+ISELDA_TRAMPIN : L'Holstein dovrebbe avere una bella macchina? Mi sono reso conto che non dovevo guardare il vecchio Hawkley, qualcosa che Kearney diceva sempre.<page>Ma ho fatto un ago per rappresentare una fermata del tram. Questo è utile quando si esegue il backup delle foto.Non è difficile, quindi non devi pagare.
+ISELDA_DREAMTREE : Mio marito mi parlò delle strane radici che crescevano nella terra e mi suggerì di fare un ago per vederlo.Stone pensa che la mia immagine sia migliore della tristezza e della stupidità, ma non penso che sia male. Chi rimuove l'ago dalla base del coltello?

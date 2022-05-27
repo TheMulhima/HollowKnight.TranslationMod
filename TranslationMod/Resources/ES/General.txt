@@ -1,0 +1,13 @@
+GAME_TITLE : fue una noche solitaria
+PRE_MENU_QUOTE : Encontrar el lugar adecuado es otra alegría cuando creces.
+GAME_DISPLAY_TITLE : 
+SAVE_WARNING : Este juego guarda datos en alguna parte. <br> No elimine el programa hasta que salga de este elemento.
+CONTROL_PROMPT : Se recomienda encarecidamente utilizar controladores
+VERSION_NUMBER : ー ー
+PROLOGUE_EXCERPT_AUTHOR : - Van Monomon Gurú "Mors pro Halloween".
+PROLOGUE_EXCERPT_02 : Porque no hay nada que añadir a nuestra crueldad pero tú tienes un problema.
+PROLOGUE_EXCERPT_03 : Dime primero. Se producen genes transgénicos.
+PRE_MENU_QUOTE_AUTHOR : - Sugerencias
+PROLOGUE_EXCERPT_01 : En el bosque, tu nombre habla con alegría y tristeza.
+SNEAK_PEEK : Una casa vacía fue robada anoche.
+PROLOGUE_EXCERPT_04 : Un mundo inesperado de insectos y animales es como tu sueño.

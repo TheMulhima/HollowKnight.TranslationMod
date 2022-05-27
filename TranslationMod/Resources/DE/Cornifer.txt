@@ -1,0 +1,38 @@
+FUNGAL_WASTES_GREET : Mein Freund, du warst sehr nett zu mir. Ich habe diese schöne Höhle gemalt.<page>Viele Einheimische bauen ihre angestammten Häuser. Wenn möglich, rate ich Ihnen, dies zu vermeiden.<page>Ich habe Angst vor schwachen Tieren. Es ist wie eine weise Familie.Als ich älter wurde, kratzte ich an den Rissen, aber ich hatte Angst, dass sie brechen und auf meinen alten Körper fallen würden.
+GREENPATH_GREET : Zum Kreuz? Dies ist ein historischer und moderner Ort. Die Straße ist wunderschön.Ich habe meine Arbeit bereits erledigt, aber ich muss zugeben, dass es für einige Leute sehr frustrierend war.
+CROSSROADS_BOUGHT : Wie sind Sie an meine Karte gekommen? Ich habe versucht, es so viel wie möglich zu füllen, aber ich habe jede Schüssel ausprobiert.Wenn Sie ein Formular ausfüllen möchten, können Sie bei meiner Frau in Dirmuti einen Satz Karten kaufen. Wir eröffneten einen kleinen Lebensmittelladen, um die Familie zu unterstützen.
+MINES_GREET : Bist du gekommen, um den Berg zu vermessen? Dort hörte ich die Geschichte von Gott. Allerdings mache ich viele Dinge, eigentlich bin ich kein Aristokrat.
+CORNIFER_AGAIN_DP : Möchten Sie ein Stück Papier kaufen?
+CROSSROADS_GREET : Glückwunsch nochmals! Sie befinden sich immer noch auf dieser schönen Straße. Stellen Sie sich vor, wie die Welt aussehen würde. Nah und lebendig. Ich freue mich, Sie kennen zu lernen.Oh, ich muss ehrlich sein... Willst du eine Kopie meiner Karte?
+FUNGAL_WASTES_BOUGHT : Diese Höhlen stinken, ich glaube, es ist sauer. Mein Rauchen ist schlecht, aber nein.ii dodu
+CLIFFS_GREET : Sie mögen frische Luft. Wir sind sehr nah an Halloween mit Staub überall.<page>Auch wenn die Straße durch die enge Höhle führt, ich werde hierher gehen, solange ich dich liebe.Ich habe eine kleine Karte der Umgebung erstellt. Ein einfacher, vollständiger Plan. Die Größe des Raums nicht zu kennen, kann ein Problem sein.
+FOG_CANYON_GREET : Also jetzt! Nun, soweit ich weiß, gibt es großartige Informationen zu diesem Artikel.<page>sagte ich, und als ich zur Tür schaute, kam ein schwarzer Mann auf mich zu. Ich habe versucht, es zu vermeiden.Danke Gott. Im Sommer habe ich ein paar Lieder gesungen. Finde einen anderen Weg
+MINES_BOUGHT : Ich habe den Spiegel auf der Rückseite angebracht. Sie sind überall sehr schnell. Siehe alle oben.
+WATERWAYS_BOUGHT : Ich denke, diese Rohre und Toiletten infizieren große Städte. Der Geruch von Assad. Zum Glück hat es wieder geregnet.
+DREAM : ... OMG. Wenn Esther ihre Freude teilt...
+ABYSS_GREET : Alte Messungen Glauben Sie, dass die Regierung stark ist? Gute Fortschritte.Ich glaube nicht, dass viele Menschen nach Hause zurückkehren werden. Sie sind der jüngste Unternehmer der Zeitgeschichte.
+CORNIFER_ISELDA : Die Karte ist wichtig, nicht nur, wo Sie sich befinden. Wenn Sie nicht fahren, empfehle ich, ein Auto von Izeldas Frau zu kaufen.<page>Wir haben kürzlich unseren neuen Kartenladen in Dirtmouth eröffnet, wo er vielen Liebhabern viele Basics verkauft. Manchmal verkaufe ich alte Gemälde.Ich kam nach dem Malen zurück. Schön, dich kennenzulernen.
+DEEPNEST_GREET : Dieser Punkt p verwirrt mich. Böse Kreaturen explodieren überall und verwandeln die Straße in ein dunkles Labyrinth.Wenn du nicht bereit bist, kannst du stark sein, auch wenn du nicht bereit bist. Möchten Sie mein Ticket kaufen?
+DEEPNEST_BOUGHT : WW - Ein tödlicher Kampf zwischen Soldaten bis zum Tod. Es ist schwer, aus diesem August herauszukommen. Ich glaube, ich verstecke mich hier.
+FOG_CANYON_BOUGHT : In der Mitte des Sees gibt es viele Hochhäuser und schöne Plätze.<page>Er versuchte zu punkten, aber der Vogel lief gut.Ja. Es ist schwer ... es ist schwer.
+CORNIFER_INTRO_1 : Also sehe ich nicht so aus? Ja, ich muss mich entschuldigen. Wenn Sie alleine sind, haben Sie vergessen, wie einfach es ist, sich geistig zu verständigen.
+CORNIFER_NOT_ENOUGH_DP : Mindida Geo-Gani?
+CORNIFER_REFUSE_DP : Was misst du noch?
+OUTSKIRTS_GREET : Ist diese Höhle eine Lüge? Ich ging durch die Wüste, um mich auszuruhen.Dieser Teil der Stadt ist sicher, weil die Menschen immer bedroht sind.
+CITY_BOUGHT : Wir alle kamen an diesen schönen Ort. Achten Sie darauf, ein oder zwei Aslday-Einheiten für Gebäude zu nehmen.
+CORNIFER_REFUSE : Nicht so, als würde man ohne Karte in eine unbekannte Höhle gehen ... die ganze Seele ist Nahrung.Unterwegs treffen wir uns wieder.
+CORNIFER_INTRO_2 : Mein Name ist Carnifery und ich liebe es, die Welt zu bereisen. Jetzt, wo ich zum ersten Mal aufwachte, hörte ich auf, mit meiner armen Mutter und Cousine zu reden.<page>Also fuhren mein Mann und ich direkt nach Dartmouth. Vor unseren Toren findest du große und ewige Königreiche. Wer protestiert?Aber ich werde auf deine Reise zurückkommen. Glücklicherweise werden wir es nach Ihnen herausfinden. Bis bald, nachdem Sie mir glauben.
+CORNIFER_MEET_DP : Oh-nur. Cornifer, ich bin der kreative Kartograph meiner Firma. Ich habe versucht, die Unterlegscheibe unter dem BB zu entfernen, aber die Bakterien haben mir wirklich wehgetan.<page>Der Drache wurde von den Federn gebrochen, so dass die Straße dunkel war. Obwohl mein Kopf schön ist, ist er sehr schönWenn Sie nicht bereit sind, lade ich Sie ein, möchten aber meine Fotokarte kaufen, wenn Sie sich anmelden?
+CARD : Entschuldigung, ich vermisse dich! Wenn Sie sich verlaufen haben, warum gehen Sie nicht nach Dartmouth und besorgen sich eine Karte der Gegend? Jetzt günstig! <br> - Übereinstimmung
+ROYAL_GARDENS_GREET : Haben Sie schon von Halloween gehört? Natürlich ist dieser Park ein altes Haus.<page>Jetzt gibt es überall Tiere. Der Baum breitet sich aus.Es ist nicht einfach, aber ich lebe gerne hier. Willst du mein Potenzial sehen?
+CORNIFER_PROMPT : Möchten Sie eine Karte Ihrer Umgebung kaufen?
+CLIFFS_BOUGHT : Ich sah dieses seltsame Tal im Felsen. Sein Haus ist nicht weit von hier.Es ist wunderschön, und das Bild der Toten ist natürlich blau. Ich denke, ihr zwei könnt wie ich sein.
+ROYAL_GARDENS_BOUGHT : Inmitten dieser Felder liegt das Lager der Mutter. Als niemand die Tür schließen konnte, atmete ich tief durch.
+GREENPATH_BOUGHT : Du siehst es jetzt. Als er vorbeiging, versuchte ich ihn anzurufen, aber er sah mich nicht. Machen Sie ehrlich gesagt keine Komplimente für Ihre Tickets.
+CORNIFER_MEET : Nicht wahr? Sat Suriakal, bist du hinuntergegangen und hast diesen wunderschönen Baum gesehen? Es gibt keinen Vertrag.<page>Knox ist glücklich zu verlieren und einen Weg zu finden. Sie und ich sind sehr glücklich.Ich bin Kaufmann und produziere derzeit in diesem Bereich. Möchten Sie eine Kopie meiner bisherigen Arbeit kaufen?
+WATERWAYS_GREET : Ist der Fluss hier nicht interessant? Es gibt Rohre und Tunnel.<page>Ich wollte nicht das Beste aus meinem Talent machen. Alles ist falsch. Alles ist normal. Es ist in Ordnung, durch diese Höhle zu gehen.Ja, aber leider sagte das Auto, der Nebel sei fast weg und der Regen würde aufhören. Ich glaube, ich bin bereit, dieses Spiel zu spielen.
+CORNIFER_AGAIN : Haben Sie schon einmal darüber nachgedacht, eine Karte zu kaufen?
+ABYSS_BOUGHT : Geh dort in den Laden. Meine Beine ruhen eine Weile.das endgültige! Aselda machte mir keine Angst.
+CITY_GREET : Macht das keinen Unterschied in Ihrem Umfeld? Es regnete, aber das Wetter war schön.<page>Aber es ist schwierig, einen solchen Ort zu finden.Vielleicht plane ich, eine Kopie des Codes zu bekommen?
+OUTSKIRTS_BOUGHT : Es sieht aus wie ein Sack, der von einem Kordelzug umgeben ist. Was denkst du, hat er getan?
+CORNIFER_NOT_ENOUGH : Frag mich, du willst mir ein Stück Papier geben. Aber ich hatte nicht erwartet, dass mein Mann damit zufrieden sein würde. „Unser ganzes Essen bestand aus Gas“, sagte er.

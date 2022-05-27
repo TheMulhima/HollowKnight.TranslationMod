@@ -1,0 +1,28 @@
+NAILSMITH_MEET_1 : Can you give me another nail? If you are still breathing, inhale again.
+NAILSMITH_DECLINE : but he was not satisfied
+ART_DREAM : ... I worked alone for many years ... well ...
+MODELLING : We did the whole house at King Knight. I tried many times and Xiao remembered it very well. <page> It's fun. Making nails is a very difficult task. I love the content.
+NAILSMITH_OFFER : If you want, I can fix your nails. It will ruin the project.
+NAILSMITH_COMPLETE_3 : We have arrived. Repair done. I changed the rotation needle. It's hard work. I feel stronger than before. Now go to <page>. before crossing the road.
+NAILSMITH_GREET : Is it worth it? Hello, I'm sorry, You are a blanket.
+NAILSMITH_COMPLETE_1 : The war is over. I cut the edge of your nails. You see, she is stronger than ever. Come here and test your strength against your enemy.
+PAINTED_REPEAT : Who would have thought I saw an old ghost in the dark on Halloween.
+NAILSMITH_COMPLETE_4 : Get a tattoo. Your hunger is stronger than ever! Only the government can do that. I finally saw the white thunder. It's too early to think ... <page>> Want to know ...
+NAILSMITH_COMPLETE_2 : It's here. The renaissance is over. Now you have attached some of your nails. It must be cut carefully. You will be strong. Go there and look at your enemy cards.
+NAILSMITH_REGREET : If you're still here, you don't have to.
+NAILSMITH_ACCEPT : I'm fine
+NAILSMITH_KILL_REPEAT : Please do not teach. Hit me! I love to enjoy the tops of the leaves.
+ART_MEET : The night is over. It's good to be together in this big world. At first I was upset, but I didn't have time to think about it and I didn't know how fair your offer was. I searched quickly and found a way to get here. I think I'm very happy here.
+NAILSMITH_SIGN : unused
+MODELLING_REPEAT : I never thought my legs would become so dry.
+NAILSMITH_NEED_ORE1 : If you carry white metal, you can open it and secure it with screws.
+NAILSMITH_NEED_ORE3 : When you find three types of yellow minerals, wash them and press with your fingers.
+NAILSMITH_NEED_ORE2 : Earn 2 mines to pierce nails and increase strength.
+NAILSMITH_KILL : I cut my nails all the time. I just want to see how painful my nails are! u skuka. For the last time in my life, I wanted to enjoy the beauty of my face.
+NAILSMITH_NOT_ENOUGH_GEO : Dude, aren't these tools for you? Come to me if you want
+NAILSMITH_MEET_3 : No effort, yes, but I will not say, but manicure is good. I am not one of them. But with perfect effort, knowledge and even a broken blade, anything is possible.
+NAILSMITH_OFFER_ORE : These include light, precious metals and precious metals. necessary. If you try me and Geo it will fix and strengthen my nails.
+PAINTED : I guess I can’t say much. You don’t want to be frustrated if you can’t get the tone right, so invest in a good boss. Sounds good but kind.
+NAILSMITH_DREAM_CLIFF : My life is over ... what's left ...?
+NAILSMITH_MEET_2 : Hm? Hi, I thought you were a guest.
+NAILSMITH_DREAM_INTERIOR : Creating beautiful nails ...

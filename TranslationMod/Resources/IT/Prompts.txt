@@ -1,0 +1,150 @@
+WATERWAY_DOOR_KEY : Semplice meccanismo di chiusura: perché la serratura è facile da usare?
+GET_ACIDARMOUR_2 : Nuoto sicuro in acqua acida
+FOUNTAIN_PLAQUE_DESC : Sul Black Rock Hallowest vive eternamente con la sua preda.
+BATH_HOUSE_NOKEY : spegnilo
+ABYSS_DOOR_NOBRAND : Questo messaggio è stato cancellato.
+NOT_ENOUGH_GEO : Mancanza di Geo.
+JIJI_OFFER : Mangi le palline calde di Gigi?
+PROMPT_ATTACK : attacco
+SIT : leggero
+LEGEATER_SOMETHING : Stai pagando per un bel viso?
+CHALLENGE : Competenze ambientali
+GET_SCREAM_2 : Le parole feriscono la coscienza. Sconfiggi i tuoi nemici e riempi la tua mente.
+PROMPT_FOCUS_EXPLAINER2 : Concentrati sulla guarigione spirituale.
+XUN_OFFER : Riceverai un regalo
+NAILMASTER_PAY : Paghi per il corso di nail art?
+ACCEPT : Tabella delle chiamate
+TRAM_DOOR_NOPASS : Questo è l'inizio.
+GET_DREAMNAILUPGRADE_2 : Ottima ricostruzione dell'unghia Puoi anche avere un pensiero sicuro.
+GEO_RELIEVE : Vuoi mantenere tutta la tua geografia in buone condizioni?
+FOUNTAIN_PLAQUE_TOP : dritta
+GET_JOURNAL_1 : Apri il menu e vai alla scheda "Avvio".
+GET_JOURNAL_2 : Aggiungi nuovi nemici alla tua pagina e molesta i tuoi nemici trovando più informazioni sui predatori.
+GET_DSLASH_2 : Per tracciare una linea, premi il pulsante mentre ti muovi.
+ENTER : Lui vede
+TRADE : Industria:
+EXIT : lenzuolo
+WATCH : Ricerca
+GET_FIREBALL_2 : La magia della vita: critica la mente sconfiggendo il nemico.
+RUINS_SHAMAN_1 : Una scheda è collegata al dispositivo. <br> Davvero?
+BUTTON_DESC_TAP : Una meraviglia
+JINN_OFFER : Mi dai un uovo rotto?
+GET_FIREBALL_1 : Salva la tua vita
+GET_SUPERDASH_1 : Premere direttamente sul pavimento o sul soffitto.
+GET_SUPERDASH_2 : Rilascia il pulsante per saltare con l'età.
+GET_DSLASH_1 : Stringi le unghie.
+REST : kul
+GET_WALLJUMP_1 : Poi è saltato giù dal muro.
+GET_CYCLONE_2 : Accendili o spegnili per evitare incidenti.
+GET_SHADOWDASH_1 : Continua a nasconderti nell'ombra
+MAGE_DOOR_NOKEY : Le ante decorative sono realizzate in acciaio lucido. C'è spazio per nuove chiavi.
+TRIAL_BOARD_BRONZE : Questa è una domanda grassa. Combatti e disegna per Geo. Vuoi provare registrandoti?
+PROMPT_FOCUS_EXPLAINER1B : Non dimenticare l'uso della religione.
+GET_ITEM_INTRO6 : Statua d'oro
+GET_ITEM_INTRO7 : In piedi
+GET_ITEM_INTRO4 : Stai attento
+GET_ITEM_INTRO5 : scegli te stesso
+GET_ITEM_INTRO2 : Così triste
+GET_ITEM_INTRO3 : certificato
+PROMPT_LOOK_DOWN : Sei fregato
+GET_SHADOWDASH_2 : Disegna per proteggere i tuoi nemici dagli attacchi.
+MENDER_DIARY : Ehi, la vita non è bella. Cambia il colore, avvicinati a quel colore, prendilo e dì! Sono un ottimo meccanico.<page>A volte mi chiedo se Holo abbia una bella borsa per me.<page>Ehi, ricorda che non è troppo tardi <br> <br> per il prossimo istruttore di carne! Naturalmente, quando lavoriamo insieme, siamo un gruppo aggressivo.<page>Il mandato Perry mi ha fatto sorridere! Forse è il momento di abbattere e andare avanti.<page>Amo la mia casa e la mia vita, ma dico agli altri perché è così importante!<page>Ciao giornale, <br> Tutte le mie qualifiche amorose sono rotte! A proposito di scultura. Che è successo!<page>Ma sai che non ne vado matto. ti devo ringraziare! Molte opzioni di design hanno loghi belli e forti.Ho un'attrezzatura regolabile, quindi non devo preoccuparmi di lesioni temporanee.
+GET_ITEM_INTRO8 : accettare
+CHARM_REMINDER : Per rilassarti, siediti sul divano e apri il menu CHARM.
+GET_QUAKE2_1 : Altrimenti, potresti perderti e perderti sulla strada giusta.
+LOVE_DOOR_KEY : Stai usando il colore del tasto funzione del tasto volontà?
+GET_KINGSBRAND_1 : Hellost ha trovato un nuovo manager.
+TRAM_DOOR : Apri la porta. Come si costruisce una ferrovia?
+BUTTON_DESC_RELEASE : Catrame
+TRAM_CONSOLE : Hai premuto il pulsante della luce?
+GET_QUAKE_1 : Colpisci il terreno con un coltello affilato e una lancia.
+GET_QUAKE_2 : Diffusione della stregoneria <br> <br> Raccogli gli attacchi aerei nemici.
+BANKER_ACCOUNT : Posso aprire un conto?
+PROMPT_SUPERDASH : È molto potente.
+NAILSMITH_UPGRADE_1 : Sulla neve
+NO : Di
+NAILSMITH_UPGRADE_3 : Usa due mani di geoser per proteggere le tue unghie.
+NAILSMITH_UPGRADE_2 : Puoi acquistare Tala Or e Geo per aggiustare le tue unghie?
+NAILSMITH_UPGRADE_4 : Ottenere minerali geografici chiari che rafforzeranno i nostri sforzi.
+GHOST_CHALLENGE : La domanda dell'eroe addormentato?
+BUTTON_DESC_HOLD_FOCUS : a lungo
+JIJI_DOOR_KEY : Era una semplice porta di pietra chiusa a chiave. Usi chiavi semplici?
+ASCEND : Vincita
+ELDERBUG_FLOWER : Dammi un fiore semplice.
+TRAVEL : viaggiare
+CHARM_TUTE_SUB : Hanno bisogno di una festa per raccogliere energia.
+GET_BLESSING_2 : Poi arriva il dono della bellezza e dell'amore.
+PROMPT_INTERACT : scambio ufficiale
+NAILMASTER_FREE : Hai mai studiato nail art?
+CITY_GATE_NOKEY : L'eroe coraggioso ha le sue radici in una scatola.
+GET_BLESSING_1 : Diario di G. Shalbara Charme.
+GET_SCREAM_1 : Satana è catturato.
+PROMPT_MAP_BLACKEGG : Soldi sulla carta Tempo.
+TUK_RANCIDEGG : compra cibo?
+GET_HUNTERMARK_2 : L'articolo è stato pubblicato sulla rivista Hunter.
+TRIAL_BOARD_GOLD : La tentazione del diavolo è una lotta per tutta la vita... e il privilegio di un uomo. Hai lasciato il percorso e hai avviato il processo?
+BUTTON_DESC_WALLJUMP : Clic
+PROMPT_DREAMNAIL : Tamburo
+TOLLBOOTH_STAG : Auto con tracce di furto. Inserisci la tua geografia?
+BUTTON_DESC_HOLD : Tutti
+COLLECTOR_MAP : certificato di istruzione
+LOVE_DOOR_NOKEY : Chiudere.
+GET_GSLASH_1 : Questo aumenta la forza delle unghie.
+GET_SCREAM2_2 : Difenditi attaccando i nemici che ti indeboliscono.
+GET_SCREAM2_1 : Premi sempre il pulsante Su per eliminare l'urlo.
+HUNTER_REWARD : Sei pronto a chiedere un regalo?
+NAME_BLESSING : Ospedali
+TRIAL_UNLOCK_BRONZE : Tasse d'esame?
+PROMPT_DASH : sostanza vischiosa
+GET_HUNTERMARK_1 : Mostra genuino rispetto per i cacciatori.
+GET_GSLASH_2 : Invece di premere il tasto su o giù, premere il tasto di cancellazione.
+TOLLBOOTH_LIFT : Pagamento del prestito pubblicitario. Hai iniziato con la geografia?
+INSPECT : Ottimizzazione del motore di ricerca
+GET_ITEM_INTRO1 : Etichette
+TRIAL_UNLOCK_GOLD : Tornando alla sentenza di stupidità
+BUTTON_DESC_PRESS : Clicca qui
+GET_MAP_1 : che schifezza
+TRAM_CALL : Esistono diversi tipi di licenze. Hai un biglietto del treno?
+GET_MAP_3 : Vedi Mappa di Hollownest sulla mappa stock.
+PROMPT_FOCUS_EXPLAINER1A : Sconfiggi i tuoi nemici e raduna il tuo esercito.
+DESCEND : Entra
+GET_COLLECTOR_MAP : Puoi vedere i raccolti qui.
+BATH_HOUSE_KEY : La porta è chiusa a chiave. Usi le stesse chiavi?
+TOLLBOOTH_GATE : I telefoni sono pubblici. Ricerca pag. Teologia?
+CHARM_TUTE_TITLE : Smimio Saim
+GET_MAP_2 : Vedi una mappa attuale della zona
+BUTTON_DESC_NONE : 
+GET_DREAMNAIL_2 : Taglia il tappeto tra il tuo sogno e la realtà.
+NO_MAP : Questa pagina non contiene una cartella.
+GET_KINGSBRAND_2 : Le porte del regno sono aperte.
+WATERWAY_DOOR_NOKEY : Semplificazione del dispositivo di chiusura.
+SHOP : lehakoe
+FOUNTAIN_PLAQUE_MAIN : Ciao Gabby
+MAGE_DOOR_KEY : La porta è decorata con metallo lucido. Quale chiave è meglio usare?
+GET_DREAMNAIL_1 : Entrambi-parco
+LISTEN : Colonna 5
+TRIAL_BOARD_SILVER : Pensavi di aver vinto. Aggiungere geografia e tracce quando è iniziata la straordinaria guerra del metal?
+TRIAL_UNLOCK_SILVER : Risarcimento per l'introduzione della pena di morte?
+GET_ACIDARMOUR_1 : Rilascio acido.
+GET_QUAKE2_2 : Distrugge la vita. Riempi la tua vita con i tuoi nemici.
+CITY_GATE_KEY : Knight è un attore meraviglioso. Con le radici nel cuore, il sostegno della comunità?
+TOLLBOOTH_BENCH : Ampio parcheggio ի. Vuoi scrivere una descrizione del luogo?
+PROMPT_JUMP : Provinciale
+PROMPT_FIREBALL : vendetta
+GET_WALLJUMP_2 : Sposta il coperchio sul muro.
+GET_DREAMGATE_1 : Assicurati di creare un Dreamgate usando Dream Nail.
+GET_CYCLONE_1 : Presta attenzione alla forza delle unghie.
+GET_DREAMGATE_2 : Usa il Nilo per andare in camera da letto.
+YES : Uole
+GET_DOUBLEJUMP_2 : Usa queste inutili ali per sconfiggere i nemici e prendere nuove strade.
+PROMPT_FOCUS : Ascolta attentamente.
+PROMPT_QUICKMAP : Dai un'occhiata alla mappa
+JIJI_DOOR_NOKEY : Porta in pietra e serratura semplice
+  : La porta è chiusa o stai usando una chiave diversa?
+TRAM_CALL_NOPASS : Come installare un tipo specifico di tubo.
+GET_DASH_2 : Usa una bilancia o una bilancia dritta.
+GET_DOUBLEJUMP_1 : Tieni le ali in aria
+GET_FIREBALL2_1 : Lascia che soffi un forte vento
+GET_FIREBALL2_2 : Questa tossina consuma calorie vitali.
+GET_DREAMNAILUPGRADE_1 : Riempite e unghie tagliate.
+GET_DASH_1 : Prosilier.

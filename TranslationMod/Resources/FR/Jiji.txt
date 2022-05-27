@@ -1,0 +1,34 @@
+NO_EGGS_REPEAT : Nourriture préférée... moelleuse, ronde et savoureuse. L'arôme parfumé est rafraîchissant. C'est la plus belle chose au monde.
+GREET : Encore une fois, comment l'utilisez-vous? Si ça me fait mal, fais attention...
+MEET1 : Bonjour London Little, je suis disponible ici... attendez !oui. oui. oui. Oui, je suis réveillé. Sans doute si je ne me trompe pas. Peut-être que je vais vous aider aussi.
+RITUAL_BEGIN : Oh... j'aime beaucoup cette nourriture. Ensuite, comme convenu, nous commençons le processus.
+WATERWAYS : Oui, Al, c'est comme ça pour moi. Je pense que BT n'est pas pour moi.
+SHADE_OFFER : Me donner des bonbons soulage ma douleur.
+RITUAL_REPEAT : Ils sont montés. Si je veux manger, je pense pour toi.
+SHAMAN_TEMPLE : Oui, je vois ton chagrin. Les points noirs de grand-père ... Dôme.
+CLIFFS : Oui, je vois votre critique. Il y avait des zones sombres au-dessus de nous avec des orages.
+MEET2 : Je m'appelle Jiggy, si tu trouves le chemin de ma chambre, tu as besoin de mon aide.<page>Vous voyez, parfois nos problèmes dans le monde sont comme des points noirs.<page>Si nous n'agissons pas selon cette miséricorde, nous serons sans espoir.Désolé bébé? montre-moi ...
+DREAM : Dormir est très sombre et très triste.Même dans les airs. Pourquoi l'obscurité me dérange-t-elle pendant que je dors ?
+ABYSS : Eh bien, pour moi, ce n'est pas comme BT. Étonnamment, tout est sombre. l'eau ...
+CROSSROADS : Oui, je sais à quel point tu es bouleversé. Les points noirs sur vos pieds disparaissent entre la route et la nationale.
+SHADE_OFFER_INTRO : Merci de prendre soin de ma mère. Que voulez-vous que ce soit?Ah, mais j'ai faim. Peut-être êtes-vous prêt à partager un repas ? Dormir Quand je fais ça, tu me suffis.
+HIVE : Oui je suis désolé. Au loin, il est entouré d'un lustre en or.
+DECLINE : Pourquoi oui, je suis désolé, si vous ne voulez pas être en bonne santé, je ne peux pas vous aider.
+RITUAL_COMPLETED : Dans le passé, j'avais du repos et du calme quotidiens, la capacité de parler et de parler. Ravi de vous rencontrer. Merci de suivre mes conseils maintenant.
+WASTES : Je ne sais pas si BT me convient. Il y a un espace sombre entre les champignons étranges et le bain moussant.
+NOSHADE : malheureusement, il semble que vous ne vous sentiez pas toujours coupable. Au revoir. Vous n'avez pas besoin de leur travail comme moi.
+CITY : Oui, je connais ta colère. Point noir au centre de la capitale royale. Il n'y avait aucun espoir de pluie.
+SHADE_CHARM : Les enseignants des salons de discussion publics aiment ça...<page>Rarement, la douleur peut disparaître complètement, mais cela semble fonctionner.Avez-vous ce problème?
+QUEENS_STATION : Oui, je connais le chagrin que vous avez laissé derrière vous. Il vivait dans les ténèbres royales.
+MINES : Cherchez un point noir autour de la zone de confort.
+KINGS_PASS : Ouais Al, ça me semble plutôt nul, on dirait que NAM n'est pas pour moi non plus. La ville était sombre à l'entrée.
+COLOSSEUM : Oui, je vois ta boîte noire entourée de soldats et d'idiots.
+NOSHADE_REPEAT : Vous n'êtes pas converti, vous n'avez besoin d'aucun service comme moi. je te verrai plus tard
+NO_EGGS : Euh, mais tu ne manges pas. Mais je n'aime rien. Je ne peux pas faire ça l'estomac vide, donc si vous trouvez quelque chose de mieux... revenez en forme et en bonne santé.
+LOST_SHADE : Non, je vois la douleur que tu laisses. Il cache l'obscurité sous les points.
+DEEPNEST : Oui, je vois à quel point tu es bouleversé. Un endroit sombre sans souvenirs profonds du pays.
+GREEN_PATH : Oui, je vois la douleur que je t'ai laissée. Un peu de vert foncé, vert argile.
+OUTSKIRTS : Oui, ta douleur est partie. Il y a un point noir au bout du monde.
+RESTING_GROUNDS : Oui, j'ai vu votre plainte dans le noir au camp de réfugiés.
+FOG_CANYON : Je ne pensais pas que BT était pour moi.
+ROYAL_GARDENS : Oui, je vois le reste du chagrin. Les plates-bandes noires peuvent gâcher la beauté du jardin.
